@@ -22,4 +22,6 @@ jobs:
         go-version: 1.19
 
     - name: Run
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: go run cmd/main.go
