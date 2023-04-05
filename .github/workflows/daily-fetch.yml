@@ -1,0 +1,17 @@
+name: Daily Fetch
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run Go script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: go run cmd/main.go
