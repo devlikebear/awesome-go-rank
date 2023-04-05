@@ -25,3 +25,20 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: go run cmd/main.go
+
+    - name: Stage changes
+      run: git add .
+      
+    - name: Commit changes
+      run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git commit -m "Add result of go run cmd/main.go
+
+        Executed by: $GITHUB_ACTOR
+        SHA: $GITHUB_SHA"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}    
