@@ -15,8 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-      with:
-          ref: ${{ github.head_ref }}
+      
 
     - name: Run
       env:
@@ -30,12 +29,12 @@ jobs:
       
     - name: Commit changes
       run: |
-        git config --global user.email "devlikebear@gmail.com"
-        git config --global user.name "devlikebear"
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-        git commit -m "Automated generate
-
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git commit -m "Add updated docs
         Executed by: $GITHUB_ACTOR
         SHA: $GITHUB_SHA"
-        git push
-
+    - name: Push changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}    
