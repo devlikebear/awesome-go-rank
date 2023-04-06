@@ -24,14 +24,20 @@ jobs:
         chmod u+x ./bin/linux/amd64/awesome-go-rank
         ./bin/linux/amd64/awesome-go-rank -s JSON
 
-    - name: Stage changes
-      run: git add .
-      
-    - name: Commit changes
-      run: |
-        git config --global user.email "devlikebear@gmail.com"
-        git config --global user.name "devlikebear"
-        git remote add origin https://devlikebear:${{ secrets.GITHUB_TOKEN }}@github.com/devlikebear/awesome-go-rank
-        git commit -m "Add updated docs. Executed by: $GITHUB_ACTOR. SHA: $GITHUB_SHA"
-        git push
+    # - name: Stage changes
+    #   run: git add .
+
+    - name: Commit and push changes
+      uses: devops-infra/action-commit-push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        commit_message: Add updated docs
+
+    # - name: Commit changes
+    #   run: |
+    #     git config --global user.email "devlikebear@gmail.com"
+    #     git config --global user.name "devlikebear"
+    #     git remote add origin https://devlikebear:${{ secrets.GITHUB_TOKEN }}@github.com/devlikebear/awesome-go-rank
+    #     git commit -m "Add updated docs. Executed by: $GITHUB_ACTOR. SHA: $GITHUB_SHA"
+    #     git push
    
