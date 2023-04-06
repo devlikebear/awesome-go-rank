@@ -29,13 +29,8 @@ jobs:
       
     - name: Commit changes
       run: |
-        git config --global user.email "github-actions@github.com"
-        git config --global user.name "GitHub Actions"
-        git commit -m "Add updated docs
-        Executed by: $GITHUB_ACTOR
-        SHA: $GITHUB_SHA"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        git config --global user.email "devlikebear@gmail.com"
+        git config --global user.name "devlikebear"
+        git commit -m "Add updated docs. Executed by: $GITHUB_ACTOR. SHA: $GITHUB_SHA"
+        git push
+   
