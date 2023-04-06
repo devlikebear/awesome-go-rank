@@ -28,11 +28,12 @@ jobs:
     #   run: git add .
 
     - name: Commit and push changes
-      uses: devops-infra/action-commit-push@master
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        commit_message: Add updated docs
-
+        commit_message: Update ranking
+        commit_options: '--no-verify'
+        commit_user_name: GitHub Actions
+        commit_user_email: actions@github.com
     # - name: Commit changes
     #   run: |
     #     git config --global user.email "devlikebear@gmail.com"
