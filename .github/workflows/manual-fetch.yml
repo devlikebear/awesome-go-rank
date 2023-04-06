@@ -24,7 +24,7 @@ jobs:
     - name: Run
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: go run cmd/main.go
+      run: go run cmd/main.go -s JSON
 
     - name: Stage changes
       run: git add .

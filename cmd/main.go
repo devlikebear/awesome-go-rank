@@ -97,7 +97,19 @@ func main() {
 			outputFile.WriteString("# Awesome Go Ranking\n\n")
 			outputFile.WriteString(`This is a ranking of GitHub repositories from
  [awesome-go](https://github.com/avelino/awesome-go)
- by Stars, Forks and Last Updated.`)
+ by Stars, Forks and Last Updated.
+ 
+## How to use
+
+1. Clone this repository
+1. Create a GitHub personal access token with ` + "`public_repo`" + ` scope
+1. Set the token to the ` + "`GITHUB_TOKEN`" + ` environment variable
+1. Install Go
+1. Install dependencies with ` + "`go mod tidy`" + `
+1. Run ` + "`go run cmd/main.go`" + `
+1. Check the results in README.md 
+ `)
+
 			outputFile.WriteString("\n\n")
 			outputFile.WriteString("## Table of Contents\n\n")
 
@@ -107,7 +119,7 @@ func main() {
 				}
 
 				// Table of Contents
-				outputFile.WriteString(fmt.Sprintf("* [%s](%s.md)\n", section, convertToFilename(section)))
+				outputFile.WriteString(fmt.Sprintf("* [%s](docs/%s.md)\n", section, convertToFilename(section)))
 
 				// Skip section if specificSection is set and the section is not contain the specificSection
 				if specificSection != "" && !strings.Contains(specificSection, section) {
@@ -138,7 +150,13 @@ func convertToFilename(name string) string {
 }
 
 func printSectionRank(section string, repo []awesomego.Repository) {
-	filename := convertToFilename(section) + ".md"
+	filename := "docs/" + convertToFilename(section) + ".md"
+
+	// If the directory does not exist, create it
+	if _, err := os.Stat("docs"); os.IsNotExist(err) {
+		os.Mkdir("docs", 0755)
+	}
+
 	outputFile, err := os.Create(filename)
 	if err != nil {
 		fmt.Printf("Error creating %s: %v\n", filename, err)
