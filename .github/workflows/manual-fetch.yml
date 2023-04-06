@@ -15,6 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+      with:
+          ref: ${{ github.head_ref }}
 
     - name: Run
       env:
@@ -28,14 +30,12 @@ jobs:
       
     - name: Commit changes
       run: |
-        git config --global user.email "github-actions@github.com"
-        git config --global user.name "GitHub Actions"
-        git commit -m "Add result of go run cmd/main.go
+        git config --global user.email "devlikebear@gmail.com"
+        git config --global user.name "devlikebear"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        git commit -m "Automated generate
 
         Executed by: $GITHUB_ACTOR
         SHA: $GITHUB_SHA"
+        git push
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}    
