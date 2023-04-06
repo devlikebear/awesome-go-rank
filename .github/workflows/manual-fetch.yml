@@ -15,7 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-      
 
     - name: Run
       env:
@@ -24,9 +23,6 @@ jobs:
         chmod u+x ./bin/linux/amd64/awesome-go-rank
         ./bin/linux/amd64/awesome-go-rank -s JSON
 
-    # - name: Stage changes
-    #   run: git add .
-
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
@@ -34,11 +30,4 @@ jobs:
         commit_options: '--no-verify'
         commit_user_name: GitHub Actions
         commit_user_email: actions@github.com
-    # - name: Commit changes
-    #   run: |
-    #     git config --global user.email "devlikebear@gmail.com"
-    #     git config --global user.name "devlikebear"
-    #     git remote add origin https://devlikebear:${{ secrets.GITHUB_TOKEN }}@github.com/devlikebear/awesome-go-rank
-    #     git commit -m "Add updated docs. Executed by: $GITHUB_ACTOR. SHA: $GITHUB_SHA"
-    #     git push
    

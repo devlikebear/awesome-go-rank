@@ -11,27 +11,17 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Set up Go
-      uses: actions/setup-go@v3
-      with:
-        go-version: 1.19
-
     - name: Run
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: go run cmd/main.go
-
-    - name: Stage changes
-      run: git add .
-      
-    - name: Commit changes
       run: |
-        git config --global user.email "github-actions@github.com"
-        git config --global user.name "GitHub Actions"
-        git commit -m "Add result of go run cmd/main.go
-        Executed by: $GITHUB_ACTOR
-        SHA: $GITHUB_SHA"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+        chmod u+x ./bin/linux/amd64/awesome-go-rank
+        ./bin/linux/amd64/awesome-go-rank
+
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}    
+        commit_message: Update ranking
+        commit_options: '--no-verify'
+        commit_user_name: GitHub Actions
+        commit_user_email: actions@github.com
