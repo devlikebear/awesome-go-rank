@@ -7,6 +7,8 @@ import (
 	"net/http"
 	"regexp"
 	"strings"
+	"sync"
+	"sync/atomic"
 	"time"
 
 	"github.com/cheggaaa/pb/v3"
@@ -124,9 +126,12 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 	// Initialize progress bar
 	progressBar := pb.StartNew(reposCount)
 
-	// Fetch repository info
-	// Until we reach the limit or run out of repositories
-	cnt := 0
+	// Parallelize fetching repository info
+	var wg sync.WaitGroup
+	var cnt int32 = 0
+	var progressBarMutex sync.Mutex
+	var reposMutex sync.Mutex
+
 	for section, repos := range ag.repos {
 		// Skip section if specificSection is set and the section is not contain the specificSection
 		if specificSection != "" && !strings.Contains(specificSection, section) {
@@ -135,23 +140,34 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 
 		for i := range repos {
 			// Stop if we reach the limit
-			if limit > 0 && cnt >= limit {
+			if limit > 0 && atomic.LoadInt32(&cnt) >= int32(limit) {
 				break
 			}
-			cnt++
+			atomic.AddInt32(&cnt, 1)
 
-			owner, name := extractRepoURLs(repos[i].URL)
-			if owner != "" && name != "" {
-				repoInfo, err := ag.fetchRepoInfo(owner, name)
-				if err == nil {
-					repos[i].Stars = repoInfo.Stars
-					repos[i].Forks = repoInfo.Forks
-					repos[i].LastUpdated = repoInfo.LastUpdated
+			wg.Add(1)
+			go func(i int, repos []Repository) {
+				defer wg.Done()
+
+				owner, name := extractRepoURLs(repos[i].URL)
+				if owner != "" && name != "" {
+					repoInfo, err := ag.fetchRepoInfo(owner, name)
+					if err == nil {
+						reposMutex.Lock()
+						repos[i].Stars = repoInfo.Stars
+						repos[i].Forks = repoInfo.Forks
+						repos[i].LastUpdated = repoInfo.LastUpdated
+						reposMutex.Unlock()
+					}
 				}
-			}
-			progressBar.Increment() // Update progress bar
+				progressBarMutex.Lock()
+				progressBar.Increment() // Update progress bar
+				progressBarMutex.Unlock()
+			}(i, repos)
 		}
 	}
+
+	wg.Wait()
 
 	progressBar.Finish() // Complete progress bar
 
