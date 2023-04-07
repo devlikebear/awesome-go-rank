@@ -2,61 +2,36 @@ package main
 
 import (
 	"fmt"
-	"math"
 	"os"
 	"sort"
-	"strconv"
 	"strings"
 
 	"github.com/devlikebear/awesome-go-rank/pkg/awesomego"
+	"github.com/devlikebear/awesome-go-rank/pkg/stringutil"
 	"github.com/spf13/cobra"
 )
-
-func formatNumber(number int) string {
-	numberStr := strconv.Itoa(number)
-	result := ""
-
-	for i, j := len(numberStr)-1, 0; i >= 0; i, j = i-1, j+1 {
-		if j%3 == 0 && j != 0 {
-			result = "," + result
-		}
-		result = string(numberStr[i]) + result
-	}
-
-	return result
-}
-
-func formatMetricNumber(number int) string {
-	if number < 1000 {
-		return strconv.Itoa(number)
-	}
-	suffixes := []string{"k", "m", "b", "t"}
-	num := float64(number)
-	var suffix string
-	for i := len(suffixes) - 1; i >= 0; i-- {
-		divisor := math.Pow(10, float64((i+1)*3))
-		if num >= divisor {
-			suffix = suffixes[i]
-			num /= divisor
-			break
-		}
-	}
-	return fmt.Sprintf("%.1f%s", num, suffix)
-}
 
 func printRepositories(title string, repositories []awesomego.Repository) {
 	fmt.Println(title)
 	for _, repo := range repositories {
-		fmt.Printf("%s (Stars: %s, Forks: %s, Last updated: %v)\n", repo.Name, formatMetricNumber(repo.Stars), formatMetricNumber(repo.Forks), repo.LastUpdated.Format("2006-01-02T15:04:05Z"))
+		fmt.Printf("%s (Stars: %s, Forks: %s, Last updated: %v)\n", repo.Name,
+			stringutil.FormatMetricNumber(repo.Stars),
+			stringutil.FormatMetricNumber(repo.Forks),
+			repo.LastUpdated.Format("2006-01-02T15:04:05Z"))
 	}
 }
 
-func writeRepositoriesToFile(title string, repositories []awesomego.Repository, file *os.File) {
+func writeRepositoriesToFile(title string, repositories []awesomego.Repository,
+	file *os.File) {
 	file.WriteString("### " + title + "\n\n")
 	file.WriteString("| Repository | Stars | Forks | Last Updated |\n")
 	file.WriteString("|------------|-------|-------|--------------|\n")
 	for _, repo := range repositories {
-		file.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s | %v |\n", repo.Name, repo.URL, formatMetricNumber(repo.Stars), formatMetricNumber(repo.Forks), repo.LastUpdated.Format("2006-01-02T15:04:05Z")))
+		file.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s | %v |\n", repo.Name,
+			repo.URL,
+			stringutil.FormatMetricNumber(repo.Stars),
+			stringutil.FormatMetricNumber(repo.Forks),
+			repo.LastUpdated.Format("2006-01-02T15:04:05Z")))
 	}
 	file.WriteString("\n")
 }
@@ -77,7 +52,8 @@ func main() {
 				os.Exit(1)
 			}
 
-			ag := awesomego.NewAwesomeGo(githubToken)
+			client := awesomego.NewGithubClient(githubToken)
+			ag := awesomego.NewAwesomeGo(githubToken, client)
 			err := ag.FetchAndRankRepositories(specificSection, limit)
 			if err != nil {
 				fmt.Printf("Error: %v\n", err)
@@ -130,10 +106,13 @@ func main() {
 				}
 
 				// Table of Contents
-				outputFile.WriteString(fmt.Sprintf("* [%s](docs/%s.md)\n", section, convertToFilename(section)))
+				outputFile.WriteString(fmt.Sprintf("* [%s](docs/%s.md)\n",
+					section, convertToFilename(section)))
 
-				// Skip section if specificSection is set and the section is not contain the specificSection
-				if specificSection != "" && !strings.Contains(specificSection, section) {
+				// Skip section if specificSection is set and the section is not
+				// contain the specificSection
+				if specificSection != "" && !strings.Contains(specificSection,
+					section) {
 					continue
 				}
 

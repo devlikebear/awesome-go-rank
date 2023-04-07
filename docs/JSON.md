@@ -4,9 +4,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12.0k | 772 | 2023-04-07T04:33:46Z |
-| [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 2.6k | 205 | 2023-04-04T09:45:11Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 1.8k | 113 | 2023-04-07T06:16:33Z |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 772 | 2023-04-07T04:33:46Z |
+| [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-04T09:45:11Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-07T06:16:33Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 582 | 46 | 2023-04-02T14:47:57Z |
 | [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 280 | 7 | 2023-04-04T09:09:41Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 52 | 2023-03-24T14:56:14Z |
@@ -43,9 +43,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12.0k | 772 | 2023-04-07T04:33:46Z |
-| [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 2.6k | 205 | 2023-04-04T09:45:11Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 1.8k | 113 | 2023-04-07T06:16:33Z |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 772 | 2023-04-07T04:33:46Z |
+| [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-04T09:45:11Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-07T06:16:33Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 52 | 2023-03-24T14:56:14Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 582 | 46 | 2023-04-02T14:47:57Z |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 236 | 26 | 2023-04-06T13:11:35Z |
@@ -82,13 +82,13 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 1.8k | 113 | 2023-04-07T06:16:33Z |
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12.0k | 772 | 2023-04-07T04:33:46Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-07T06:16:33Z |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 772 | 2023-04-07T04:33:46Z |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 236 | 26 | 2023-04-06T13:11:35Z |
 | [wI2L/jettison](https://github.com/wI2L/jettison) | 146 | 10 | 2023-04-05T08:02:23Z |
 | [skanehira/gjo](https://github.com/skanehira/gjo) | 119 | 14 | 2023-04-04T15:04:13Z |
 | [olvrng/ujson](https://github.com/olvrng/ujson) | 64 | 8 | 2023-04-04T11:40:47Z |
-| [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 2.6k | 205 | 2023-04-04T09:45:11Z |
+| [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-04T09:45:11Z |
 | [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 280 | 7 | 2023-04-04T09:09:41Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 582 | 46 | 2023-04-02T14:47:57Z |
 | [romshark/jscan](https://github.com/romshark/jscan) | 26 | 2 | 2023-04-01T23:48:17Z |

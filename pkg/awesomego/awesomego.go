@@ -2,9 +2,6 @@ package awesomego
 
 import (
 	"context"
-	"fmt"
-	"io/ioutil"
-	"net/http"
 	"regexp"
 	"strings"
 	"sync"
@@ -12,8 +9,6 @@ import (
 	"time"
 
 	"github.com/cheggaaa/pb/v3"
-	"github.com/google/go-github/v39/github"
-	"golang.org/x/oauth2"
 )
 
 // Repository is a struct that represents a repository.
@@ -27,33 +22,13 @@ type Repository struct {
 
 // AwesomeGo is the main struct for the awesome-go-ranking package.
 type AwesomeGo struct {
-	client *github.Client
+	client IGithubClient
 	repos  map[string][]Repository
 }
 
 // NewAwesomeGo creates a new AwesomeGo instance.
-func NewAwesomeGo(token string) *AwesomeGo {
-	ctx := context.Background()
-	ts := oauth2.StaticTokenSource(
-		&oauth2.Token{AccessToken: token},
-	)
-	tc := oauth2.NewClient(ctx, ts)
-	client := github.NewClient(tc)
-
+func NewAwesomeGo(token string, client IGithubClient) *AwesomeGo {
 	return &AwesomeGo{client: client, repos: make(map[string][]Repository)}
-}
-
-// fetchReadmeMarkdown fetches the awesome-go README.md file.
-func (ag *AwesomeGo) fetchReadmeMarkdown(owner, repo string) (string, error) {
-	readmeURL := fmt.Sprintf("https://raw.githubusercontent.com/%s/%s/main/README.md", owner, repo)
-	resp, err := http.Get(readmeURL)
-	if err != nil {
-		return "", err
-	}
-	defer resp.Body.Close()
-
-	readmeMarkdown, _ := ioutil.ReadAll(resp.Body)
-	return string(readmeMarkdown), nil
 }
 
 // parseMarkdown parses the awesome-go README.md file and returns a map of
@@ -89,23 +64,13 @@ func parseMarkdown(input string, sections map[string][]Repository) {
 // fetchRepoInfo fetches the repository info from GitHub.
 func (ag *AwesomeGo) fetchRepoInfo(owner, repo string) (*Repository, error) {
 	ctx := context.Background()
-	repoInfo, _, err := ag.client.Repositories.Get(ctx, owner, repo)
-	if err != nil {
-		return nil, err
-	}
-
-	return &Repository{
-		Name:        repoInfo.GetFullName(),
-		Stars:       repoInfo.GetStargazersCount(),
-		Forks:       repoInfo.GetForksCount(),
-		LastUpdated: repoInfo.GetUpdatedAt().Time,
-	}, nil
+	return ag.client.FetchRepository(ctx, owner, repo)
 }
 
 // FetchAndRankRepositories fetches the repositories in the Awesome Go list
 func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int) error {
 	owner, repo := "avelino", "awesome-go"
-	readmeMarkdown, err := ag.fetchReadmeMarkdown(owner, repo)
+	readmeMarkdown, err := ag.client.FetchReadmeMarkdown(context.Background(), owner, repo)
 	if err != nil {
 		return err
 	}
