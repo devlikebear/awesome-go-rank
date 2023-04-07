@@ -113,7 +113,18 @@ func main() {
 			outputFile.WriteString("\n\n")
 			outputFile.WriteString("## Table of Contents\n\n")
 
-			for section, repo := range repositories {
+			// Extract keys into a slice
+			sections := make([]string, 0, len(repositories))
+			for section := range repositories {
+				sections = append(sections, section)
+			}
+
+			// Sort sections in ascending order
+			sort.Strings(sections)
+
+			// Iterate over sorted sections
+			for _, section := range sections {
+				repo := repositories[section]
 				if len(repo) == 0 {
 					continue
 				}
