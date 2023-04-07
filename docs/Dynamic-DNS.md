@@ -4,20 +4,20 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [timothyye/godns](https://github.com/timothyye/godns) | 1.3k | 200 | 2023-04-05T06:22:35Z |
-| [skibish/ddns](https://github.com/skibish/ddns) | 234 | 23 | 2023-03-11T07:47:49Z |
+| [skibish/ddns](https://github.com/skibish/ddns) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [timothyye/godns](https://github.com/timothyye/godns) | 0 | 0 | 0001-01-01T00:00:00Z |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [timothyye/godns](https://github.com/timothyye/godns) | 1.3k | 200 | 2023-04-05T06:22:35Z |
-| [skibish/ddns](https://github.com/skibish/ddns) | 234 | 23 | 2023-03-11T07:47:49Z |
+| [skibish/ddns](https://github.com/skibish/ddns) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [timothyye/godns](https://github.com/timothyye/godns) | 0 | 0 | 0001-01-01T00:00:00Z |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [timothyye/godns](https://github.com/timothyye/godns) | 1.3k | 200 | 2023-04-05T06:22:35Z |
-| [skibish/ddns](https://github.com/skibish/ddns) | 234 | 23 | 2023-03-11T07:47:49Z |
+| [skibish/ddns](https://github.com/skibish/ddns) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [timothyye/godns](https://github.com/timothyye/godns) | 0 | 0 | 0001-01-01T00:00:00Z |
 
