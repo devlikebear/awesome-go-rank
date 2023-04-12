@@ -123,12 +123,19 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 						repos[i].Forks = repoInfo.Forks
 						repos[i].LastUpdated = repoInfo.LastUpdated
 						reposMutex.Unlock()
+					} else {
+						panic(err)
 					}
+					// Sleep to avoid rate limit
+					time.Sleep(100 * time.Microsecond)
 				}
 				progressBarMutex.Lock()
 				progressBar.Increment() // Update progress bar
 				progressBarMutex.Unlock()
 			}(i, repos)
+								// Sleep to avoid rate limit
+			time.Sleep(1000 * time.Microsecond)
+
 		}
 	}
 

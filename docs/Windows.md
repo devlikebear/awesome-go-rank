@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-ole/go-ole](https://github.com/go-ole/go-ole) | 960 | 169 | 2023-04-09T23:01:24Z |
+| [go-ole/go-ole](https://github.com/go-ole/go-ole) | 961 | 169 | 2023-04-12T06:18:52Z |
 | [gonutz/d3d9](https://github.com/gonutz/d3d9) | 139 | 13 | 2023-04-10T00:30:39Z |
 | [MonaxGT/gosddl](https://github.com/MonaxGT/gosddl) | 9 | 2 | 2022-09-27T10:09:05Z |
 
@@ -12,7 +12,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-ole/go-ole](https://github.com/go-ole/go-ole) | 960 | 169 | 2023-04-09T23:01:24Z |
+| [go-ole/go-ole](https://github.com/go-ole/go-ole) | 961 | 169 | 2023-04-12T06:18:52Z |
 | [gonutz/d3d9](https://github.com/gonutz/d3d9) | 139 | 13 | 2023-04-10T00:30:39Z |
 | [MonaxGT/gosddl](https://github.com/MonaxGT/gosddl) | 9 | 2 | 2022-09-27T10:09:05Z |
 
@@ -20,7 +20,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [go-ole/go-ole](https://github.com/go-ole/go-ole) | 961 | 169 | 2023-04-12T06:18:52Z |
 | [gonutz/d3d9](https://github.com/gonutz/d3d9) | 139 | 13 | 2023-04-10T00:30:39Z |
-| [go-ole/go-ole](https://github.com/go-ole/go-ole) | 960 | 169 | 2023-04-09T23:01:24Z |
 | [MonaxGT/gosddl](https://github.com/MonaxGT/gosddl) | 9 | 2 | 2022-09-27T10:09:05Z |
 

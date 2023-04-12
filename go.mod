@@ -5,6 +5,7 @@ go 1.19
 require (
 	github.com/cheggaaa/pb/v3 v3.1.2
 	github.com/google/go-github/v39 v39.2.0
+	github.com/joho/godotenv v1.5.1
 	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.8.2
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
@@ -17,7 +18,6 @@ require (
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/mattn/go-runewidth v0.0.12 // indirect
