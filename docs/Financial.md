@@ -4,14 +4,14 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 533 | 2023-04-12T11:15:31Z |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 250 | 2023-04-12T10:18:43Z |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 534 | 2023-04-14T04:18:47Z |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 249 | 2023-04-13T02:44:28Z |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 120 | 2023-04-11T01:54:17Z |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 828 | 216 | 2023-04-11T07:57:35Z |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 832 | 216 | 2023-04-14T06:35:34Z |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 804 | 65 | 2023-04-10T02:52:14Z |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 715 | 121 | 2023-04-11T15:09:32Z |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 716 | 121 | 2023-04-14T10:07:25Z |
 | [bojanz/currency](https://github.com/bojanz/currency) | 378 | 29 | 2023-04-01T15:57:25Z |
-| [moov-io/ach](https://github.com/moov-io/ach) | 369 | 126 | 2023-04-12T05:07:22Z |
+| [moov-io/ach](https://github.com/moov-io/ach) | 369 | 126 | 2023-04-12T16:31:40Z |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 331 | 117 | 2023-04-09T04:53:25Z |
 | [alpeb/go-finance](https://github.com/alpeb/go-finance) | 148 | 22 | 2023-03-07T19:45:33Z |
 | [claygod/transaction](https://github.com/claygod/transaction) | 122 | 17 | 2023-04-04T03:23:03Z |
@@ -29,11 +29,11 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 533 | 2023-04-12T11:15:31Z |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 250 | 2023-04-12T10:18:43Z |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 828 | 216 | 2023-04-11T07:57:35Z |
-| [moov-io/ach](https://github.com/moov-io/ach) | 369 | 126 | 2023-04-12T05:07:22Z |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 715 | 121 | 2023-04-11T15:09:32Z |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 534 | 2023-04-14T04:18:47Z |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 249 | 2023-04-13T02:44:28Z |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 832 | 216 | 2023-04-14T06:35:34Z |
+| [moov-io/ach](https://github.com/moov-io/ach) | 369 | 126 | 2023-04-12T16:31:40Z |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 716 | 121 | 2023-04-14T10:07:25Z |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 120 | 2023-04-11T01:54:17Z |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 331 | 117 | 2023-04-09T04:53:25Z |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 804 | 65 | 2023-04-10T02:52:14Z |
@@ -54,11 +54,11 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 533 | 2023-04-12T11:15:31Z |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 250 | 2023-04-12T10:18:43Z |
-| [moov-io/ach](https://github.com/moov-io/ach) | 369 | 126 | 2023-04-12T05:07:22Z |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 715 | 121 | 2023-04-11T15:09:32Z |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 828 | 216 | 2023-04-11T07:57:35Z |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 716 | 121 | 2023-04-14T10:07:25Z |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 832 | 216 | 2023-04-14T06:35:34Z |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 534 | 2023-04-14T04:18:47Z |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 249 | 2023-04-13T02:44:28Z |
+| [moov-io/ach](https://github.com/moov-io/ach) | 369 | 126 | 2023-04-12T16:31:40Z |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 120 | 2023-04-11T01:54:17Z |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 804 | 65 | 2023-04-10T02:52:14Z |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 331 | 117 | 2023-04-09T04:53:25Z |

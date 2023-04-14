@@ -2,6 +2,7 @@ package awesomego
 
 import (
 	"context"
+	"fmt"
 	"regexp"
 	"strings"
 	"sync"
@@ -124,7 +125,7 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 						repos[i].LastUpdated = repoInfo.LastUpdated
 						reposMutex.Unlock()
 					} else {
-						panic(err)
+						fmt.Println(err)
 					}
 					// Sleep to avoid rate limit
 					time.Sleep(100 * time.Microsecond)

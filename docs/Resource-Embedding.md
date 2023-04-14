@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [rakyll/statik](https://github.com/rakyll/statik) | 4k | 225 | 2023-04-12T07:57:15Z |
+| [rakyll/statik](https://github.com/rakyll/statik) | 4k | 225 | 2023-04-13T03:27:14Z |
 | [gobuffalo/packr](https://github.com/gobuffalo/packr) | 3k | 196 | 2023-04-12T11:22:48Z |
 | [GeertJohan/go.rice](https://github.com/GeertJohan/go.rice) | 2k | 182 | 2023-04-12T06:43:16Z |
 | [shurcooL/vfsgen](https://github.com/shurcooL/vfsgen) | 967 | 85 | 2023-04-08T18:35:14Z |
@@ -21,7 +21,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [rakyll/statik](https://github.com/rakyll/statik) | 4k | 225 | 2023-04-12T07:57:15Z |
+| [rakyll/statik](https://github.com/rakyll/statik) | 4k | 225 | 2023-04-13T03:27:14Z |
 | [gobuffalo/packr](https://github.com/gobuffalo/packr) | 3k | 196 | 2023-04-12T11:22:48Z |
 | [GeertJohan/go.rice](https://github.com/GeertJohan/go.rice) | 2k | 182 | 2023-04-12T06:43:16Z |
 | [shurcooL/vfsgen](https://github.com/shurcooL/vfsgen) | 967 | 85 | 2023-04-08T18:35:14Z |
@@ -38,8 +38,8 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [rakyll/statik](https://github.com/rakyll/statik) | 4k | 225 | 2023-04-13T03:27:14Z |
 | [gobuffalo/packr](https://github.com/gobuffalo/packr) | 3k | 196 | 2023-04-12T11:22:48Z |
-| [rakyll/statik](https://github.com/rakyll/statik) | 4k | 225 | 2023-04-12T07:57:15Z |
 | [GeertJohan/go.rice](https://github.com/GeertJohan/go.rice) | 2k | 182 | 2023-04-12T06:43:16Z |
 | [shurcooL/vfsgen](https://github.com/shurcooL/vfsgen) | 967 | 85 | 2023-04-08T18:35:14Z |
 | [leaanthony/debme](https://github.com/leaanthony/debme) | 23 | 5 | 2023-04-06T17:24:00Z |

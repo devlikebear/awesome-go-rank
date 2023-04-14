@@ -4,9 +4,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 769 | 2023-04-12T11:57:57Z |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 770 | 2023-04-14T08:28:29Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-12T07:02:22Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-12T11:15:39Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-14T04:43:14Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 584 | 46 | 2023-04-12T01:19:53Z |
 | [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 280 | 7 | 2023-04-04T09:09:41Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 52 | 2023-03-24T14:56:14Z |
@@ -24,7 +24,7 @@
 | [sanbornm/mp](https://github.com/sanbornm/mp) | 46 | 8 | 2022-09-26T23:21:10Z |
 | [miladibra10/vjson](https://github.com/miladibra10/vjson) | 33 | 2 | 2022-11-24T22:39:38Z |
 | [neilotoole/jsoncolor](https://github.com/neilotoole/jsoncolor) | 28 | 5 | 2023-03-03T14:53:10Z |
-| [romshark/jscan](https://github.com/romshark/jscan) | 26 | 2 | 2023-04-01T23:48:17Z |
+| [romshark/jscan](https://github.com/romshark/jscan) | 28 | 2 | 2023-04-14T08:33:26Z |
 | [simonnilsson/ask](https://github.com/simonnilsson/ask) | 25 | 2 | 2023-04-07T13:32:33Z |
 | [mickep76/mapslice-json](https://github.com/mickep76/mapslice-json) | 15 | 7 | 2022-11-30T11:36:56Z |
 | [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) | 14 | 6 | 2022-11-24T21:17:27Z |
@@ -43,9 +43,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 769 | 2023-04-12T11:57:57Z |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 770 | 2023-04-14T08:28:29Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-12T07:02:22Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-12T11:15:39Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-14T04:43:14Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 52 | 2023-03-24T14:56:14Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 584 | 46 | 2023-04-12T01:19:53Z |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 236 | 26 | 2023-04-06T13:11:35Z |
@@ -69,7 +69,7 @@
 | [AmuzaTkts/jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 13 | 3 | 2022-09-26T23:20:44Z |
 | [ddymko/go-jsonerror](https://github.com/ddymko/go-jsonerror) | 13 | 2 | 2022-09-26T23:20:04Z |
 | [simonnilsson/ask](https://github.com/simonnilsson/ask) | 25 | 2 | 2023-04-07T13:32:33Z |
-| [romshark/jscan](https://github.com/romshark/jscan) | 26 | 2 | 2023-04-01T23:48:17Z |
+| [romshark/jscan](https://github.com/romshark/jscan) | 28 | 2 | 2023-04-14T08:33:26Z |
 | [miladibra10/vjson](https://github.com/miladibra10/vjson) | 33 | 2 | 2022-11-24T22:39:38Z |
 | [zerosnake0/jzon](https://github.com/zerosnake0/jzon) | 11 | 2 | 2022-09-26T23:21:01Z |
 | [lucassscaravelli/ej](https://github.com/lucassscaravelli/ej) | 9 | 2 | 2023-02-22T12:02:42Z |
@@ -82,8 +82,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 769 | 2023-04-12T11:57:57Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-12T11:15:39Z |
+| [romshark/jscan](https://github.com/romshark/jscan) | 28 | 2 | 2023-04-14T08:33:26Z |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 770 | 2023-04-14T08:28:29Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-14T04:43:14Z |
 | [elgs/gojq](https://github.com/elgs/gojq) | 186 | 23 | 2023-04-12T07:08:35Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-12T07:02:22Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 584 | 46 | 2023-04-12T01:19:53Z |
@@ -94,7 +95,6 @@
 | [wI2L/jettison](https://github.com/wI2L/jettison) | 146 | 10 | 2023-04-05T08:02:23Z |
 | [olvrng/ujson](https://github.com/olvrng/ujson) | 64 | 8 | 2023-04-04T11:40:47Z |
 | [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 280 | 7 | 2023-04-04T09:09:41Z |
-| [romshark/jscan](https://github.com/romshark/jscan) | 26 | 2 | 2023-04-01T23:48:17Z |
 | [spyzhov/ajson](https://github.com/spyzhov/ajson) | 160 | 19 | 2023-03-30T07:42:33Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 52 | 2023-03-24T14:56:14Z |
 | [abusomani/jsonhandlers](https://github.com/abusomani/jsonhandlers) | 1 | 0 | 2023-03-11T16:51:01Z |
