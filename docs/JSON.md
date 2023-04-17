@@ -4,11 +4,11 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 770 | 2023-04-14T08:28:29Z |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 772 | 2023-04-17T06:56:37Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-12T07:02:22Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-14T04:43:14Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-17T06:24:12Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 584 | 46 | 2023-04-12T01:19:53Z |
-| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 280 | 7 | 2023-04-04T09:09:41Z |
+| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 281 | 7 | 2023-04-14T21:38:51Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 52 | 2023-03-24T14:56:14Z |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 236 | 26 | 2023-04-06T13:11:35Z |
 | [elgs/gojq](https://github.com/elgs/gojq) | 186 | 23 | 2023-04-12T07:08:35Z |
@@ -43,9 +43,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 770 | 2023-04-14T08:28:29Z |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 772 | 2023-04-17T06:56:37Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-12T07:02:22Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-14T04:43:14Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-17T06:24:12Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 52 | 2023-03-24T14:56:14Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 584 | 46 | 2023-04-12T01:19:53Z |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 236 | 26 | 2023-04-06T13:11:35Z |
@@ -60,7 +60,7 @@
 | [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 95 | 9 | 2023-02-20T15:59:47Z |
 | [olvrng/ujson](https://github.com/olvrng/ujson) | 64 | 8 | 2023-04-04T11:40:47Z |
 | [sanbornm/mp](https://github.com/sanbornm/mp) | 46 | 8 | 2022-09-26T23:21:10Z |
-| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 280 | 7 | 2023-04-04T09:09:41Z |
+| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 281 | 7 | 2023-04-14T21:38:51Z |
 | [mickep76/mapslice-json](https://github.com/mickep76/mapslice-json) | 15 | 7 | 2022-11-30T11:36:56Z |
 | [RichardKnop/jsonhal](https://github.com/RichardKnop/jsonhal) | 13 | 6 | 2023-01-20T17:40:23Z |
 | [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) | 14 | 6 | 2022-11-24T21:17:27Z |
@@ -82,9 +82,10 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 772 | 2023-04-17T06:56:37Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-17T06:24:12Z |
+| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 281 | 7 | 2023-04-14T21:38:51Z |
 | [romshark/jscan](https://github.com/romshark/jscan) | 28 | 2 | 2023-04-14T08:33:26Z |
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 770 | 2023-04-14T08:28:29Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 112 | 2023-04-14T04:43:14Z |
 | [elgs/gojq](https://github.com/elgs/gojq) | 186 | 23 | 2023-04-12T07:08:35Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-12T07:02:22Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 584 | 46 | 2023-04-12T01:19:53Z |
@@ -94,7 +95,6 @@
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 236 | 26 | 2023-04-06T13:11:35Z |
 | [wI2L/jettison](https://github.com/wI2L/jettison) | 146 | 10 | 2023-04-05T08:02:23Z |
 | [olvrng/ujson](https://github.com/olvrng/ujson) | 64 | 8 | 2023-04-04T11:40:47Z |
-| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 280 | 7 | 2023-04-04T09:09:41Z |
 | [spyzhov/ajson](https://github.com/spyzhov/ajson) | 160 | 19 | 2023-03-30T07:42:33Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 52 | 2023-03-24T14:56:14Z |
 | [abusomani/jsonhandlers](https://github.com/abusomani/jsonhandlers) | 1 | 0 | 2023-03-11T16:51:01Z |
