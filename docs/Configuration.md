@@ -4,19 +4,19 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-14T10:04:57Z |
-| [joho/godotenv](https://github.com/joho/godotenv) | 6k | 339 | 2023-04-14T00:56:29Z |
-| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 4k | 363 | 2023-04-13T12:28:38Z |
-| [caarlos0/env](https://github.com/caarlos0/env) | 3k | 205 | 2023-04-14T06:05:21Z |
-| [go-ini/ini](https://github.com/go-ini/ini) | 3k | 364 | 2023-04-14T09:34:38Z |
-| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 117 | 2023-04-14T06:32:25Z |
-| [alecthomas/kong](https://github.com/alecthomas/kong) | 1k | 112 | 2023-04-13T20:55:43Z |
-| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 963 | 85 | 2023-04-13T23:40:37Z |
+| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-17T16:20:33Z |
+| [joho/godotenv](https://github.com/joho/godotenv) | 6k | 339 | 2023-04-17T23:47:57Z |
+| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 4k | 363 | 2023-04-17T14:16:44Z |
+| [caarlos0/env](https://github.com/caarlos0/env) | 3k | 206 | 2023-04-17T14:37:18Z |
+| [go-ini/ini](https://github.com/go-ini/ini) | 3k | 364 | 2023-04-17T21:22:06Z |
+| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 117 | 2023-04-17T15:28:57Z |
+| [alecthomas/kong](https://github.com/alecthomas/kong) | 1k | 113 | 2023-04-17T08:46:46Z |
+| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 966 | 85 | 2023-04-17T03:54:47Z |
 | [lalamove/konfig](https://github.com/lalamove/konfig) | 634 | 52 | 2023-04-14T06:50:27Z |
-| [heetch/confita](https://github.com/heetch/confita) | 461 | 51 | 2023-04-11T13:44:48Z |
-| [gookit/config](https://github.com/gookit/config) | 453 | 49 | 2023-04-11T19:34:13Z |
-| [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 432 | 28 | 2023-04-13T04:39:18Z |
-| [adrg/xdg](https://github.com/adrg/xdg) | 360 | 26 | 2023-04-13T14:52:02Z |
+| [heetch/confita](https://github.com/heetch/confita) | 461 | 50 | 2023-04-11T13:44:48Z |
+| [gookit/config](https://github.com/gookit/config) | 454 | 49 | 2023-04-16T20:28:18Z |
+| [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 433 | 28 | 2023-04-14T12:58:05Z |
+| [adrg/xdg](https://github.com/adrg/xdg) | 364 | 26 | 2023-04-17T16:11:02Z |
 | [JeremyLoy/config](https://github.com/JeremyLoy/config) | 325 | 16 | 2023-04-14T09:11:50Z |
 | [golobby/config](https://github.com/golobby/config) | 320 | 29 | 2023-03-19T18:40:37Z |
 | [hjson/hjson-go](https://github.com/hjson/hjson-go) | 298 | 41 | 2023-04-13T01:57:00Z |
@@ -36,7 +36,7 @@
 | [ian-kent/gofigure](https://github.com/ian-kent/gofigure) | 65 | 9 | 2022-09-26T09:21:06Z |
 | [omeid/uconfig](https://github.com/omeid/uconfig) | 59 | 9 | 2023-03-29T15:43:39Z |
 | [paked/configure](https://github.com/paked/configure) | 57 | 10 | 2022-09-26T09:20:18Z |
-| [gurkankaymak/hocon](https://github.com/gurkankaymak/hocon) | 57 | 14 | 2023-03-23T16:50:44Z |
+| [gurkankaymak/hocon](https://github.com/gurkankaymak/hocon) | 56 | 14 | 2023-04-14T20:47:49Z |
 | [PaddleHQ/go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) | 54 | 12 | 2023-04-14T09:10:07Z |
 | [ufoscout/go-up](https://github.com/ufoscout/go-up) | 39 | 7 | 2023-03-02T19:29:39Z |
 | [junk1tm/env](https://github.com/junk1tm/env) | 39 | 2 | 2023-03-02T12:04:47Z |
@@ -46,7 +46,7 @@
 | [num30/config](https://github.com/num30/config) | 31 | 2 | 2023-04-12T16:12:29Z |
 | [the4thamigo-uk/conflate](https://github.com/the4thamigo-uk/conflate) | 27 | 4 | 2023-01-30T04:31:11Z |
 | [ianlopshire/go-ssm-config](https://github.com/ianlopshire/go-ssm-config) | 17 | 13 | 2022-10-03T03:46:37Z |
-| [wlevene/ini](https://github.com/wlevene/ini) | 11 | 3 | 2022-12-03T14:37:59Z |
+| [wlevene/ini](https://github.com/wlevene/ini) | 12 | 3 | 2023-04-14T10:44:12Z |
 | [ian-kent/envconf](https://github.com/ian-kent/envconf) | 11 | 5 | 2022-09-26T09:20:34Z |
 | [nasermirzaei89/env](https://github.com/nasermirzaei89/env) | 10 | 3 | 2023-02-13T13:48:45Z |
 | [subpop/go-ini](https://github.com/subpop/go-ini) | 9 | 4 | 2022-12-03T14:37:03Z |
@@ -63,29 +63,29 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-14T10:04:57Z |
-| [go-ini/ini](https://github.com/go-ini/ini) | 3k | 364 | 2023-04-14T09:34:38Z |
-| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 4k | 363 | 2023-04-13T12:28:38Z |
-| [joho/godotenv](https://github.com/joho/godotenv) | 6k | 339 | 2023-04-14T00:56:29Z |
-| [caarlos0/env](https://github.com/caarlos0/env) | 3k | 205 | 2023-04-14T06:05:21Z |
-| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 117 | 2023-04-14T06:32:25Z |
-| [alecthomas/kong](https://github.com/alecthomas/kong) | 1k | 112 | 2023-04-13T20:55:43Z |
-| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 963 | 85 | 2023-04-13T23:40:37Z |
+| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-17T16:20:33Z |
+| [go-ini/ini](https://github.com/go-ini/ini) | 3k | 364 | 2023-04-17T21:22:06Z |
+| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 4k | 363 | 2023-04-17T14:16:44Z |
+| [joho/godotenv](https://github.com/joho/godotenv) | 6k | 339 | 2023-04-17T23:47:57Z |
+| [caarlos0/env](https://github.com/caarlos0/env) | 3k | 206 | 2023-04-17T14:37:18Z |
+| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 117 | 2023-04-17T15:28:57Z |
+| [alecthomas/kong](https://github.com/alecthomas/kong) | 1k | 113 | 2023-04-17T08:46:46Z |
+| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 966 | 85 | 2023-04-17T03:54:47Z |
 | [go-gcfg/gcfg](https://github.com/go-gcfg/gcfg) | 162 | 61 | 2023-02-09T08:03:33Z |
 | [lalamove/konfig](https://github.com/lalamove/konfig) | 634 | 52 | 2023-04-14T06:50:27Z |
-| [heetch/confita](https://github.com/heetch/confita) | 461 | 51 | 2023-04-11T13:44:48Z |
-| [gookit/config](https://github.com/gookit/config) | 453 | 49 | 2023-04-11T19:34:13Z |
+| [heetch/confita](https://github.com/heetch/confita) | 461 | 50 | 2023-04-11T13:44:48Z |
+| [gookit/config](https://github.com/gookit/config) | 454 | 49 | 2023-04-16T20:28:18Z |
 | [olebedev/config](https://github.com/olebedev/config) | 261 | 45 | 2023-03-24T22:50:44Z |
 | [hjson/hjson-go](https://github.com/hjson/hjson-go) | 298 | 41 | 2023-04-13T01:57:00Z |
 | [vrischmann/envconfig](https://github.com/vrischmann/envconfig) | 234 | 30 | 2023-03-25T00:33:58Z |
 | [kkyr/fig](https://github.com/kkyr/fig) | 266 | 29 | 2023-04-13T17:16:32Z |
 | [golobby/config](https://github.com/golobby/config) | 320 | 29 | 2023-03-19T18:40:37Z |
-| [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 432 | 28 | 2023-04-13T04:39:18Z |
+| [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 433 | 28 | 2023-04-14T12:58:05Z |
 | [beatlabs/harvester](https://github.com/beatlabs/harvester) | 127 | 27 | 2023-02-28T14:40:14Z |
-| [adrg/xdg](https://github.com/adrg/xdg) | 360 | 26 | 2023-04-13T14:52:02Z |
+| [adrg/xdg](https://github.com/adrg/xdg) | 364 | 26 | 2023-04-17T16:11:02Z |
 | [tucnak/store](https://github.com/tucnak/store) | 267 | 20 | 2023-04-07T12:27:34Z |
 | [JeremyLoy/config](https://github.com/JeremyLoy/config) | 325 | 16 | 2023-04-14T09:11:50Z |
-| [gurkankaymak/hocon](https://github.com/gurkankaymak/hocon) | 57 | 14 | 2023-03-23T16:50:44Z |
+| [gurkankaymak/hocon](https://github.com/gurkankaymak/hocon) | 56 | 14 | 2023-04-14T20:47:49Z |
 | [joshbetz/config](https://github.com/joshbetz/config) | 214 | 14 | 2023-04-09T14:41:52Z |
 | [goraz/onion](https://github.com/goraz/onion) | 113 | 13 | 2023-03-23T01:51:37Z |
 | [ianlopshire/go-ssm-config](https://github.com/ianlopshire/go-ssm-config) | 17 | 13 | 2022-10-03T03:46:37Z |
@@ -106,7 +106,7 @@
 | [subpop/go-ini](https://github.com/subpop/go-ini) | 9 | 4 | 2022-12-03T14:37:03Z |
 | [nasermirzaei89/env](https://github.com/nasermirzaei89/env) | 10 | 3 | 2023-02-13T13:48:45Z |
 | [oblq/swap](https://github.com/oblq/swap) | 8 | 3 | 2023-03-03T09:54:25Z |
-| [wlevene/ini](https://github.com/wlevene/ini) | 11 | 3 | 2022-12-03T14:37:59Z |
+| [wlevene/ini](https://github.com/wlevene/ini) | 12 | 3 | 2023-04-14T10:44:12Z |
 | [antham/envh](https://github.com/antham/envh) | 96 | 2 | 2022-09-26T09:20:39Z |
 | [junk1tm/env](https://github.com/junk1tm/env) | 39 | 2 | 2023-03-02T12:04:47Z |
 | [num30/config](https://github.com/num30/config) | 31 | 2 | 2023-04-12T16:12:29Z |
@@ -122,25 +122,27 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-14T10:04:57Z |
-| [go-ini/ini](https://github.com/go-ini/ini) | 3k | 364 | 2023-04-14T09:34:38Z |
+| [joho/godotenv](https://github.com/joho/godotenv) | 6k | 339 | 2023-04-17T23:47:57Z |
+| [go-ini/ini](https://github.com/go-ini/ini) | 3k | 364 | 2023-04-17T21:22:06Z |
+| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-17T16:20:33Z |
+| [adrg/xdg](https://github.com/adrg/xdg) | 364 | 26 | 2023-04-17T16:11:02Z |
+| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 117 | 2023-04-17T15:28:57Z |
+| [caarlos0/env](https://github.com/caarlos0/env) | 3k | 206 | 2023-04-17T14:37:18Z |
+| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 4k | 363 | 2023-04-17T14:16:44Z |
+| [alecthomas/kong](https://github.com/alecthomas/kong) | 1k | 113 | 2023-04-17T08:46:46Z |
+| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 966 | 85 | 2023-04-17T03:54:47Z |
+| [gookit/config](https://github.com/gookit/config) | 454 | 49 | 2023-04-16T20:28:18Z |
+| [gurkankaymak/hocon](https://github.com/gurkankaymak/hocon) | 56 | 14 | 2023-04-14T20:47:49Z |
+| [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 433 | 28 | 2023-04-14T12:58:05Z |
+| [wlevene/ini](https://github.com/wlevene/ini) | 12 | 3 | 2023-04-14T10:44:12Z |
 | [JeremyLoy/config](https://github.com/JeremyLoy/config) | 325 | 16 | 2023-04-14T09:11:50Z |
 | [PaddleHQ/go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) | 54 | 12 | 2023-04-14T09:10:07Z |
 | [lalamove/konfig](https://github.com/lalamove/konfig) | 634 | 52 | 2023-04-14T06:50:27Z |
-| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 117 | 2023-04-14T06:32:25Z |
-| [caarlos0/env](https://github.com/caarlos0/env) | 3k | 205 | 2023-04-14T06:05:21Z |
-| [joho/godotenv](https://github.com/joho/godotenv) | 6k | 339 | 2023-04-14T00:56:29Z |
-| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 963 | 85 | 2023-04-13T23:40:37Z |
-| [alecthomas/kong](https://github.com/alecthomas/kong) | 1k | 112 | 2023-04-13T20:55:43Z |
 | [kkyr/fig](https://github.com/kkyr/fig) | 266 | 29 | 2023-04-13T17:16:32Z |
-| [adrg/xdg](https://github.com/adrg/xdg) | 360 | 26 | 2023-04-13T14:52:02Z |
-| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 4k | 363 | 2023-04-13T12:28:38Z |
-| [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 432 | 28 | 2023-04-13T04:39:18Z |
 | [hjson/hjson-go](https://github.com/hjson/hjson-go) | 298 | 41 | 2023-04-13T01:57:00Z |
 | [sherifabdlnaby/configuro](https://github.com/sherifabdlnaby/configuro) | 87 | 11 | 2023-04-12T16:21:26Z |
 | [num30/config](https://github.com/num30/config) | 31 | 2 | 2023-04-12T16:12:29Z |
-| [gookit/config](https://github.com/gookit/config) | 453 | 49 | 2023-04-11T19:34:13Z |
-| [heetch/confita](https://github.com/heetch/confita) | 461 | 51 | 2023-04-11T13:44:48Z |
+| [heetch/confita](https://github.com/heetch/confita) | 461 | 50 | 2023-04-11T13:44:48Z |
 | [joshbetz/config](https://github.com/joshbetz/config) | 214 | 14 | 2023-04-09T14:41:52Z |
 | [tucnak/store](https://github.com/tucnak/store) | 267 | 20 | 2023-04-07T12:27:34Z |
 | [omeid/uconfig](https://github.com/omeid/uconfig) | 59 | 9 | 2023-03-29T15:43:39Z |
@@ -149,7 +151,6 @@
 | [vrischmann/envconfig](https://github.com/vrischmann/envconfig) | 234 | 30 | 2023-03-25T00:33:58Z |
 | [olebedev/config](https://github.com/olebedev/config) | 261 | 45 | 2023-03-24T22:50:44Z |
 | [OpenPeeDeeP/xdg](https://github.com/OpenPeeDeeP/xdg) | 73 | 7 | 2023-03-24T18:14:48Z |
-| [gurkankaymak/hocon](https://github.com/gurkankaymak/hocon) | 57 | 14 | 2023-03-23T16:50:44Z |
 | [goraz/onion](https://github.com/goraz/onion) | 113 | 13 | 2023-03-23T01:51:37Z |
 | [sakirsensoy/genv](https://github.com/sakirsensoy/genv) | 32 | 4 | 2023-03-23T01:51:21Z |
 | [golobby/config](https://github.com/golobby/config) | 320 | 29 | 2023-03-19T18:40:37Z |
@@ -165,7 +166,6 @@
 | [the4thamigo-uk/conflate](https://github.com/the4thamigo-uk/conflate) | 27 | 4 | 2023-01-30T04:31:11Z |
 | [diegomarangoni/typenv](https://github.com/diegomarangoni/typenv) | 9 | 1 | 2023-01-16T14:33:44Z |
 | [sasbury/mini](https://github.com/sasbury/mini) | 34 | 8 | 2023-01-07T20:42:18Z |
-| [wlevene/ini](https://github.com/wlevene/ini) | 11 | 3 | 2022-12-03T14:37:59Z |
 | [subpop/go-ini](https://github.com/subpop/go-ini) | 9 | 4 | 2022-12-03T14:37:03Z |
 | [milad-abbasi/gonfig](https://github.com/milad-abbasi/gonfig) | 6 | 1 | 2022-11-23T16:58:46Z |
 | [ianlopshire/go-ssm-config](https://github.com/ianlopshire/go-ssm-config) | 17 | 13 | 2022-10-03T03:46:37Z |
