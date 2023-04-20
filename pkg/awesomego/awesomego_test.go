@@ -1,7 +1,6 @@
 package awesomego_test
 
 import (
-	"os"
 	"testing"
 
 	"github.com/devlikebear/awesome-go-rank/pkg/awesomego"
@@ -28,10 +27,9 @@ func (s *AwesomeGoTestSuite) SetupSuite() {
 	// Get the Github token from the environment
 	err := godotenv.Load()
 	s.NoError(err)
-	token := os.Getenv("GITHUB_TOKEN")
 
 	// Create a new AwesomeGo instance
-	s.ag = awesomego.NewAwesomeGo(token, mockClient)
+	s.ag = awesomego.NewAwesomeGo(mockClient)
 }
 
 // TestAwesomeGo_FetchAndRankRepositories_ValidSpecificSectionAndLimit tests the FetchAndRankRepositories method with a valid specific section and a limit

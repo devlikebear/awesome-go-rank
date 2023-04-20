@@ -28,7 +28,7 @@ type AwesomeGo struct {
 }
 
 // NewAwesomeGo creates a new AwesomeGo instance.
-func NewAwesomeGo(token string, client IGithubClient) *AwesomeGo {
+func NewAwesomeGo(client IGithubClient) *AwesomeGo {
 	return &AwesomeGo{client: client, repos: make(map[string][]Repository)}
 }
 
