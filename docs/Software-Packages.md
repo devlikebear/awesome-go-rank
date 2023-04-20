@@ -4,6 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [dnnrly/wait-for](https://github.com/dnnrly/wait-for) | 12 | 4 | 2023-03-09T21:26:09Z |
 | [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [smira/aptly](https://github.com/smira/aptly) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [xuri/aurora](https://github.com/xuri/aurora) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -72,7 +73,6 @@
 | [xitonix/trubka](https://github.com/xitonix/trubka) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [ovh/utask](https://github.com/ovh/utask) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [tsenart/vegeta](https://github.com/tsenart/vegeta) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [dnnrly/wait-for](https://github.com/dnnrly/wait-for) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [adnanh/webhook](https://github.com/adnanh/webhook) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [masterzen/winrm-cli](https://github.com/masterzen/winrm-cli) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -137,6 +137,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [dnnrly/wait-for](https://github.com/dnnrly/wait-for) | 12 | 4 | 2023-03-09T21:26:09Z |
 | [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [smira/aptly](https://github.com/smira/aptly) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [xuri/aurora](https://github.com/xuri/aurora) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -205,7 +206,6 @@
 | [xitonix/trubka](https://github.com/xitonix/trubka) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [ovh/utask](https://github.com/ovh/utask) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [tsenart/vegeta](https://github.com/tsenart/vegeta) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [dnnrly/wait-for](https://github.com/dnnrly/wait-for) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [adnanh/webhook](https://github.com/adnanh/webhook) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [masterzen/winrm-cli](https://github.com/masterzen/winrm-cli) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -270,6 +270,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [dnnrly/wait-for](https://github.com/dnnrly/wait-for) | 12 | 4 | 2023-03-09T21:26:09Z |
 | [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [smira/aptly](https://github.com/smira/aptly) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [xuri/aurora](https://github.com/xuri/aurora) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -338,7 +339,6 @@
 | [xitonix/trubka](https://github.com/xitonix/trubka) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [ovh/utask](https://github.com/ovh/utask) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [tsenart/vegeta](https://github.com/tsenart/vegeta) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [dnnrly/wait-for](https://github.com/dnnrly/wait-for) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [adnanh/webhook](https://github.com/adnanh/webhook) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [masterzen/winrm-cli](https://github.com/masterzen/winrm-cli) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 0 | 0 | 0001-01-01T00:00:00Z |

@@ -4,9 +4,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [detectlanguage/detectlanguage-go](https://github.com/detectlanguage/detectlanguage-go) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [rylans/getlang](https://github.com/rylans/getlang) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [endeveit/guesslanguage](https://github.com/endeveit/guesslanguage) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [endeveit/guesslanguage](https://github.com/endeveit/guesslanguage) | 56 | 5 | 2023-04-10T10:50:56Z |
+| [gosimple/slug](https://github.com/gosimple/slug) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [fiam/gounidecode](https://github.com/fiam/gounidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [agonopol/go-stem](https://github.com/agonopol/go-stem) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [danieldk/go2vec](https://github.com/danieldk/go2vec) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -21,15 +21,15 @@
 | [rookii/paicehusk](https://github.com/rookii/paicehusk) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [a2800276/porter](https://github.com/a2800276/porter) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [zhenjl/porter2](https://github.com/zhenjl/porter2) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [afjoseph/RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [avelino/slugify](https://github.com/avelino/slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [goodsign/snowball](https://github.com/goodsign/snowball) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [jorelosorio/spellingcorrector](https://github.com/jorelosorio/spellingcorrector) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [mozillazg/go-slugify](https://github.com/mozillazg/go-slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [gosimple/slug](https://github.com/gosimple/slug) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [avelino/slugify](https://github.com/avelino/slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [detectlanguage/detectlanguage-go](https://github.com/detectlanguage/detectlanguage-go) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [xujiajun/gotokenizer](https://github.com/xujiajun/gotokenizer) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [rylans/getlang](https://github.com/rylans/getlang) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [afjoseph/RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [go-ego/gse](https://github.com/go-ego/gse) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [awsong/MMSEGO](https://github.com/awsong/MMSEGO) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [jdkato/prose](https://github.com/jdkato/prose) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -49,16 +49,16 @@
 | [/](https://github.com/youthlin/t/blob/main/cmd/xtemplate) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [endeveit/enca](https://github.com/endeveit/enca) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [fiam/gounidecode](https://github.com/fiam/gounidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 0 | 0 | 0001-01-01T00:00:00Z |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [detectlanguage/detectlanguage-go](https://github.com/detectlanguage/detectlanguage-go) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [rylans/getlang](https://github.com/rylans/getlang) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [endeveit/guesslanguage](https://github.com/endeveit/guesslanguage) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [endeveit/guesslanguage](https://github.com/endeveit/guesslanguage) | 56 | 5 | 2023-04-10T10:50:56Z |
+| [gosimple/slug](https://github.com/gosimple/slug) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [fiam/gounidecode](https://github.com/fiam/gounidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [agonopol/go-stem](https://github.com/agonopol/go-stem) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [danieldk/go2vec](https://github.com/danieldk/go2vec) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -73,15 +73,15 @@
 | [rookii/paicehusk](https://github.com/rookii/paicehusk) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [a2800276/porter](https://github.com/a2800276/porter) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [zhenjl/porter2](https://github.com/zhenjl/porter2) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [afjoseph/RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [avelino/slugify](https://github.com/avelino/slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [goodsign/snowball](https://github.com/goodsign/snowball) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [jorelosorio/spellingcorrector](https://github.com/jorelosorio/spellingcorrector) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [mozillazg/go-slugify](https://github.com/mozillazg/go-slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [gosimple/slug](https://github.com/gosimple/slug) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [avelino/slugify](https://github.com/avelino/slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [detectlanguage/detectlanguage-go](https://github.com/detectlanguage/detectlanguage-go) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [xujiajun/gotokenizer](https://github.com/xujiajun/gotokenizer) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [rylans/getlang](https://github.com/rylans/getlang) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [afjoseph/RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [go-ego/gse](https://github.com/go-ego/gse) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [awsong/MMSEGO](https://github.com/awsong/MMSEGO) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [jdkato/prose](https://github.com/jdkato/prose) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -101,16 +101,16 @@
 | [/](https://github.com/youthlin/t/blob/main/cmd/xtemplate) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [endeveit/enca](https://github.com/endeveit/enca) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [fiam/gounidecode](https://github.com/fiam/gounidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 0 | 0 | 0001-01-01T00:00:00Z |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [detectlanguage/detectlanguage-go](https://github.com/detectlanguage/detectlanguage-go) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [rylans/getlang](https://github.com/rylans/getlang) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [endeveit/guesslanguage](https://github.com/endeveit/guesslanguage) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [endeveit/guesslanguage](https://github.com/endeveit/guesslanguage) | 56 | 5 | 2023-04-10T10:50:56Z |
+| [gosimple/slug](https://github.com/gosimple/slug) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [fiam/gounidecode](https://github.com/fiam/gounidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [agonopol/go-stem](https://github.com/agonopol/go-stem) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [danieldk/go2vec](https://github.com/danieldk/go2vec) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -125,15 +125,15 @@
 | [rookii/paicehusk](https://github.com/rookii/paicehusk) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [a2800276/porter](https://github.com/a2800276/porter) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [zhenjl/porter2](https://github.com/zhenjl/porter2) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [afjoseph/RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [avelino/slugify](https://github.com/avelino/slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [goodsign/snowball](https://github.com/goodsign/snowball) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [jorelosorio/spellingcorrector](https://github.com/jorelosorio/spellingcorrector) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [mozillazg/go-slugify](https://github.com/mozillazg/go-slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [gosimple/slug](https://github.com/gosimple/slug) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [avelino/slugify](https://github.com/avelino/slugify) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [detectlanguage/detectlanguage-go](https://github.com/detectlanguage/detectlanguage-go) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [xujiajun/gotokenizer](https://github.com/xujiajun/gotokenizer) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [rylans/getlang](https://github.com/rylans/getlang) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [afjoseph/RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [go-ego/gse](https://github.com/go-ego/gse) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [awsong/MMSEGO](https://github.com/awsong/MMSEGO) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [jdkato/prose](https://github.com/jdkato/prose) | 0 | 0 | 0001-01-01T00:00:00Z |
@@ -153,6 +153,6 @@
 | [/](https://github.com/youthlin/t/blob/main/cmd/xtemplate) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [endeveit/enca](https://github.com/endeveit/enca) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
-| [fiam/gounidecode](https://github.com/fiam/gounidecode) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 0 | 0 | 0001-01-01T00:00:00Z |
 | [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 0 | 0 | 0001-01-01T00:00:00Z |
 
