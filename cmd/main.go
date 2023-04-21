@@ -46,13 +46,13 @@ func main() {
 		Use:   "awesome-go",
 		Short: "A CLI tool to rank GitHub repositories from awesome-go's README.md",
 		Run: func(cmd *cobra.Command, args []string) {
-			// githubToken := os.Getenv("GITHUB_TOKEN")
-			// if githubToken == "" {
-			// 	fmt.Println("Error: GITHUB_TOKEN environment variable is not set.")
-			// 	os.Exit(1)
-			// }
+			githubToken := os.Getenv("GITHUB_TOKEN")
+			if githubToken == "" {
+				fmt.Println("Error: GITHUB_TOKEN environment variable is not set.")
+				os.Exit(1)
+			}
 
-			client := awesomego.NewGithubHtmlParserClient()
+			client := awesomego.NewGithubClient(githubToken)
 			ag := awesomego.NewAwesomeGo(client)
 			err := ag.FetchAndRankRepositories(specificSection, limit)
 			if err != nil {

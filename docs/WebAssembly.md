@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 13k | 727 | 2023-04-19T20:19:22Z |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 13k | 728 | 2023-04-20T20:08:14Z |
 | [dennwc/dom](https://github.com/dennwc/dom) | 475 | 58 | 2023-03-30T18:01:04Z |
 | [markfarnan/go-canvas](https://github.com/markfarnan/go-canvas) | 202 | 14 | 2023-04-17T14:02:19Z |
 | [agnivade/wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 144 | 23 | 2023-04-17T11:42:46Z |
@@ -15,7 +15,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 13k | 727 | 2023-04-19T20:19:22Z |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 13k | 728 | 2023-04-20T20:08:14Z |
 | [dennwc/dom](https://github.com/dennwc/dom) | 475 | 58 | 2023-03-30T18:01:04Z |
 | [agnivade/wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 144 | 23 | 2023-04-17T11:42:46Z |
 | [markfarnan/go-canvas](https://github.com/markfarnan/go-canvas) | 202 | 14 | 2023-04-17T14:02:19Z |
@@ -26,7 +26,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 13k | 727 | 2023-04-19T20:19:22Z |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 13k | 728 | 2023-04-20T20:08:14Z |
 | [markfarnan/go-canvas](https://github.com/markfarnan/go-canvas) | 202 | 14 | 2023-04-17T14:02:19Z |
 | [gowebapi/webapi](https://github.com/gowebapi/webapi) | 138 | 13 | 2023-04-17T11:49:30Z |
 | [agnivade/wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 144 | 23 | 2023-04-17T11:42:46Z |

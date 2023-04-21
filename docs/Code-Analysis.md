@@ -6,9 +6,9 @@
 |------------|-------|-------|--------------|
 | [golang/lint](https://github.com/golang/lint) | 4k | 531 | 2023-04-18T07:28:19Z |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2023-04-19T14:15:25Z |
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 110 | 2023-04-19T10:30:21Z |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-19T09:45:56Z |
-| [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 70 | 2023-04-19T06:32:21Z |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-20T19:11:18Z |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-21T04:41:27Z |
+| [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 69 | 2023-04-19T06:32:21Z |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 912 | 64 | 2023-04-12T09:18:22Z |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 716 | 42 | 2023-04-18T20:50:04Z |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 697 | 67 | 2023-04-05T03:54:51Z |
@@ -37,10 +37,10 @@
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
 | [golang/lint](https://github.com/golang/lint) | 4k | 531 | 2023-04-18T07:28:19Z |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-19T09:45:56Z |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-21T04:41:27Z |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2023-04-19T14:15:25Z |
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 110 | 2023-04-19T10:30:21Z |
-| [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 70 | 2023-04-19T06:32:21Z |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-20T19:11:18Z |
+| [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 69 | 2023-04-19T06:32:21Z |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 697 | 67 | 2023-04-05T03:54:51Z |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 912 | 64 | 2023-04-12T09:18:22Z |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 716 | 42 | 2023-04-18T20:50:04Z |
@@ -68,11 +68,11 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-21T04:41:27Z |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-20T19:11:18Z |
 | [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) | 394 | 41 | 2023-04-19T16:11:23Z |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2023-04-19T14:15:25Z |
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 110 | 2023-04-19T10:30:21Z |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-19T09:45:56Z |
-| [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 70 | 2023-04-19T06:32:21Z |
+| [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 69 | 2023-04-19T06:32:21Z |
 | [mibk/dupl](https://github.com/mibk/dupl) | 307 | 22 | 2023-04-19T06:13:29Z |
 | [asty-org/asty](https://github.com/asty-org/asty) | 44 | 0 | 2023-04-19T03:59:06Z |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 716 | 42 | 2023-04-18T20:50:04Z |
