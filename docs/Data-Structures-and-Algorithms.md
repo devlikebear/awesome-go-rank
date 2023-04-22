@@ -4,21 +4,21 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 14k | 2k | 2023-04-21T03:52:27Z |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 9k | 657 | 2023-04-20T08:06:12Z |
-| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 7k | 813 | 2023-04-20T04:04:17Z |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 14k | 2k | 2023-04-21T20:08:11Z |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 9k | 657 | 2023-04-21T12:57:32Z |
+| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 7k | 814 | 2023-04-21T08:29:24Z |
 | [deckarep/golang-set](https://github.com/deckarep/golang-set) | 3k | 252 | 2023-04-21T03:51:28Z |
-| [kniren/gota](https://github.com/kniren/gota) | 3k | 252 | 2023-04-20T13:53:32Z |
+| [kniren/gota](https://github.com/kniren/gota) | 3k | 252 | 2023-04-21T15:40:29Z |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 2k | 199 | 2023-04-21T03:52:16Z |
 | [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 2k | 221 | 2023-04-21T03:51:26Z |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 111 | 2023-04-20T01:59:39Z |
-| [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 159 | 2023-04-21T04:40:05Z |
-| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 983 | 95 | 2023-04-17T06:16:10Z |
-| [liyue201/gostl](https://github.com/liyue201/gostl) | 845 | 109 | 2023-04-21T02:48:31Z |
+| [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 159 | 2023-04-22T03:55:11Z |
+| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 984 | 95 | 2023-04-22T03:24:49Z |
+| [liyue201/gostl](https://github.com/liyue201/gostl) | 847 | 109 | 2023-04-22T02:41:09Z |
 | [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 841 | 62 | 2023-04-13T01:57:00Z |
 | [shady831213/algorithms](https://github.com/shady831213/algorithms) | 712 | 116 | 2023-04-20T13:51:23Z |
 | [derekparker/trie](https://github.com/derekparker/trie) | 643 | 109 | 2023-04-18T11:26:47Z |
-| [gammazero/deque](https://github.com/gammazero/deque) | 443 | 50 | 2023-04-21T03:28:50Z |
+| [gammazero/deque](https://github.com/gammazero/deque) | 444 | 50 | 2023-04-21T18:24:40Z |
 | [hbollon/go-edlib](https://github.com/hbollon/go-edlib) | 382 | 22 | 2023-03-30T21:12:49Z |
 | [hailocab/go-geoindex](https://github.com/hailocab/go-geoindex) | 347 | 45 | 2023-03-26T16:16:13Z |
 | [plar/go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) | 281 | 42 | 2023-04-09T15:48:01Z |
@@ -28,7 +28,7 @@
 | [linvon/cuckoo-filter](https://github.com/linvon/cuckoo-filter) | 251 | 25 | 2023-04-14T05:58:12Z |
 | [MauriceGit/skiplist](https://github.com/MauriceGit/skiplist) | 248 | 38 | 2023-04-09T16:06:17Z |
 | [zhuangsirui/binpacker](https://github.com/zhuangsirui/binpacker) | 204 | 35 | 2023-04-20T02:02:21Z |
-| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 197 | 16 | 2023-04-19T01:09:56Z |
+| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 198 | 17 | 2023-04-21T16:48:34Z |
 | [disksing/iter](https://github.com/disksing/iter) | 179 | 13 | 2023-03-21T16:12:51Z |
 | [yourbasic/bit](https://github.com/yourbasic/bit) | 149 | 25 | 2023-04-20T02:16:07Z |
 | [zhenjl/bloom](https://github.com/zhenjl/bloom) | 147 | 19 | 2022-10-31T14:33:38Z |
@@ -42,7 +42,7 @@
 | [gansidui/skiplist](https://github.com/gansidui/skiplist) | 82 | 23 | 2023-04-01T15:45:00Z |
 | [yourbasic/bloom](https://github.com/yourbasic/bloom) | 78 | 10 | 2023-04-07T19:09:05Z |
 | [agext/levenshtein](https://github.com/agext/levenshtein) | 75 | 7 | 2023-03-14T18:39:32Z |
-| [kak-tus/nan](https://github.com/kak-tus/nan) | 67 | 8 | 2023-04-05T11:06:55Z |
+| [kak-tus/nan](https://github.com/kak-tus/nan) | 68 | 9 | 2023-04-22T00:05:44Z |
 | [esimov/gogu](https://github.com/esimov/gogu) | 66 | 3 | 2023-04-20T06:27:10Z |
 | [seiflotfy/count-min-log](https://github.com/seiflotfy/count-min-log) | 60 | 5 | 2023-04-12T13:14:33Z |
 | [emvi/hide](https://github.com/emvi/hide) | 53 | 6 | 2023-02-13T02:51:16Z |
@@ -52,7 +52,7 @@
 | [hyfather/pipeline](https://github.com/hyfather/pipeline) | 47 | 8 | 2023-04-20T06:26:04Z |
 | [barweiss/go-tuple](https://github.com/barweiss/go-tuple) | 46 | 2 | 2023-04-13T09:47:30Z |
 | [nwillc/genfuncs](https://github.com/nwillc/genfuncs) | 44 | 6 | 2023-02-26T13:05:45Z |
-| [cocoonspace/fsm](https://github.com/cocoonspace/fsm) | 41 | 3 | 2023-04-20T12:01:47Z |
+| [cocoonspace/fsm](https://github.com/cocoonspace/fsm) | 42 | 3 | 2023-04-21T10:55:07Z |
 | [srfrog/dict](https://github.com/srfrog/dict) | 39 | 5 | 2023-04-07T12:28:48Z |
 | [gurukami/typ](https://github.com/gurukami/typ) | 33 | 3 | 2022-09-26T09:31:13Z |
 | [emvi/null](https://github.com/emvi/null) | 31 | 4 | 2023-04-05T16:34:55Z |
@@ -82,21 +82,21 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 14k | 2k | 2023-04-21T03:52:27Z |
-| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 7k | 813 | 2023-04-20T04:04:17Z |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 9k | 657 | 2023-04-20T08:06:12Z |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 14k | 2k | 2023-04-21T20:08:11Z |
+| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 7k | 814 | 2023-04-21T08:29:24Z |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 9k | 657 | 2023-04-21T12:57:32Z |
 | [deckarep/golang-set](https://github.com/deckarep/golang-set) | 3k | 252 | 2023-04-21T03:51:28Z |
-| [kniren/gota](https://github.com/kniren/gota) | 3k | 252 | 2023-04-20T13:53:32Z |
+| [kniren/gota](https://github.com/kniren/gota) | 3k | 252 | 2023-04-21T15:40:29Z |
 | [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 2k | 221 | 2023-04-21T03:51:26Z |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 2k | 199 | 2023-04-21T03:52:16Z |
-| [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 159 | 2023-04-21T04:40:05Z |
+| [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 159 | 2023-04-22T03:55:11Z |
 | [shady831213/algorithms](https://github.com/shady831213/algorithms) | 712 | 116 | 2023-04-20T13:51:23Z |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 111 | 2023-04-20T01:59:39Z |
-| [liyue201/gostl](https://github.com/liyue201/gostl) | 845 | 109 | 2023-04-21T02:48:31Z |
+| [liyue201/gostl](https://github.com/liyue201/gostl) | 847 | 109 | 2023-04-22T02:41:09Z |
 | [derekparker/trie](https://github.com/derekparker/trie) | 643 | 109 | 2023-04-18T11:26:47Z |
-| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 983 | 95 | 2023-04-17T06:16:10Z |
+| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 984 | 95 | 2023-04-22T03:24:49Z |
 | [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 841 | 62 | 2023-04-13T01:57:00Z |
-| [gammazero/deque](https://github.com/gammazero/deque) | 443 | 50 | 2023-04-21T03:28:50Z |
+| [gammazero/deque](https://github.com/gammazero/deque) | 444 | 50 | 2023-04-21T18:24:40Z |
 | [hailocab/go-geoindex](https://github.com/hailocab/go-geoindex) | 347 | 45 | 2023-03-26T16:16:13Z |
 | [plar/go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) | 281 | 42 | 2023-04-09T15:48:01Z |
 | [google/hilbert](https://github.com/google/hilbert) | 261 | 39 | 2023-03-29T17:06:47Z |
@@ -109,17 +109,17 @@
 | [gansidui/skiplist](https://github.com/gansidui/skiplist) | 82 | 23 | 2023-04-01T15:45:00Z |
 | [hbollon/go-edlib](https://github.com/hbollon/go-edlib) | 382 | 22 | 2023-03-30T21:12:49Z |
 | [zhenjl/bloom](https://github.com/zhenjl/bloom) | 147 | 19 | 2022-10-31T14:33:38Z |
+| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 198 | 17 | 2023-04-21T16:48:34Z |
 | [TheTannerRyan/ring](https://github.com/TheTannerRyan/ring) | 130 | 17 | 2022-11-20T22:50:17Z |
 | [zoumo/goset](https://github.com/zoumo/goset) | 51 | 16 | 2023-03-16T00:15:19Z |
 | [InVisionApp/conjungo](https://github.com/InVisionApp/conjungo) | 113 | 16 | 2023-04-20T06:26:39Z |
-| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 197 | 16 | 2023-04-19T01:09:56Z |
 | [disksing/iter](https://github.com/disksing/iter) | 179 | 13 | 2023-03-21T16:12:51Z |
 | [StudioSol/set](https://github.com/StudioSol/set) | 22 | 11 | 2022-09-26T09:31:32Z |
 | [yourbasic/bloom](https://github.com/yourbasic/bloom) | 78 | 10 | 2023-04-07T19:09:05Z |
 | [viant/ptrie](https://github.com/viant/ptrie) | 31 | 9 | 2022-11-03T17:25:42Z |
+| [kak-tus/nan](https://github.com/kak-tus/nan) | 68 | 9 | 2023-04-22T00:05:44Z |
 | [free/concurrent-writer](https://github.com/free/concurrent-writer) | 49 | 8 | 2023-04-20T06:25:20Z |
 | [superwhiskers/crunch](https://github.com/superwhiskers/crunch) | 84 | 8 | 2023-03-23T01:52:03Z |
-| [kak-tus/nan](https://github.com/kak-tus/nan) | 67 | 8 | 2023-04-05T11:06:55Z |
 | [hyfather/pipeline](https://github.com/hyfather/pipeline) | 47 | 8 | 2023-04-20T06:26:04Z |
 | [agext/levenshtein](https://github.com/agext/levenshtein) | 75 | 7 | 2023-03-14T18:39:32Z |
 | [perdata/treap](https://github.com/perdata/treap) | 21 | 6 | 2023-02-20T07:51:58Z |
@@ -142,7 +142,7 @@
 | [daichi-m/go18ds](https://github.com/daichi-m/go18ds) | 31 | 3 | 2023-01-02T15:11:10Z |
 | [gurukami/typ](https://github.com/gurukami/typ) | 33 | 3 | 2022-09-26T09:31:13Z |
 | [esimov/gogu](https://github.com/esimov/gogu) | 66 | 3 | 2023-04-20T06:27:10Z |
-| [cocoonspace/fsm](https://github.com/cocoonspace/fsm) | 41 | 3 | 2023-04-20T12:01:47Z |
+| [cocoonspace/fsm](https://github.com/cocoonspace/fsm) | 42 | 3 | 2023-04-21T10:55:07Z |
 | [embano1/memlog](https://github.com/embano1/memlog) | 83 | 3 | 2023-04-20T05:49:15Z |
 | [bobg/go-generics](https://github.com/bobg/go-generics) | 20 | 2 | 2023-04-14T13:28:07Z |
 | [barweiss/go-tuple](https://github.com/barweiss/go-tuple) | 46 | 2 | 2023-04-13T09:47:30Z |
@@ -160,35 +160,36 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 159 | 2023-04-22T03:55:11Z |
+| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 984 | 95 | 2023-04-22T03:24:49Z |
+| [liyue201/gostl](https://github.com/liyue201/gostl) | 847 | 109 | 2023-04-22T02:41:09Z |
+| [kak-tus/nan](https://github.com/kak-tus/nan) | 68 | 9 | 2023-04-22T00:05:44Z |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 14k | 2k | 2023-04-21T20:08:11Z |
+| [gammazero/deque](https://github.com/gammazero/deque) | 444 | 50 | 2023-04-21T18:24:40Z |
+| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 198 | 17 | 2023-04-21T16:48:34Z |
+| [kniren/gota](https://github.com/kniren/gota) | 3k | 252 | 2023-04-21T15:40:29Z |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 9k | 657 | 2023-04-21T12:57:32Z |
+| [cocoonspace/fsm](https://github.com/cocoonspace/fsm) | 42 | 3 | 2023-04-21T10:55:07Z |
+| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 7k | 814 | 2023-04-21T08:29:24Z |
 | [enriquebris/goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) | 263 | 27 | 2023-04-21T05:40:32Z |
-| [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 159 | 2023-04-21T04:40:05Z |
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 14k | 2k | 2023-04-21T03:52:27Z |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 2k | 199 | 2023-04-21T03:52:16Z |
 | [deckarep/golang-set](https://github.com/deckarep/golang-set) | 3k | 252 | 2023-04-21T03:51:28Z |
 | [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 2k | 221 | 2023-04-21T03:51:26Z |
-| [gammazero/deque](https://github.com/gammazero/deque) | 443 | 50 | 2023-04-21T03:28:50Z |
-| [liyue201/gostl](https://github.com/liyue201/gostl) | 845 | 109 | 2023-04-21T02:48:31Z |
 | [agnivade/levenshtein](https://github.com/agnivade/levenshtein) | 277 | 24 | 2023-04-20T16:13:18Z |
-| [kniren/gota](https://github.com/kniren/gota) | 3k | 252 | 2023-04-20T13:53:32Z |
 | [shady831213/algorithms](https://github.com/shady831213/algorithms) | 712 | 116 | 2023-04-20T13:51:23Z |
-| [cocoonspace/fsm](https://github.com/cocoonspace/fsm) | 41 | 3 | 2023-04-20T12:01:47Z |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 9k | 657 | 2023-04-20T08:06:12Z |
 | [esimov/gogu](https://github.com/esimov/gogu) | 66 | 3 | 2023-04-20T06:27:10Z |
 | [InVisionApp/conjungo](https://github.com/InVisionApp/conjungo) | 113 | 16 | 2023-04-20T06:26:39Z |
 | [hyfather/pipeline](https://github.com/hyfather/pipeline) | 47 | 8 | 2023-04-20T06:26:04Z |
 | [free/concurrent-writer](https://github.com/free/concurrent-writer) | 49 | 8 | 2023-04-20T06:25:20Z |
 | [embano1/memlog](https://github.com/embano1/memlog) | 83 | 3 | 2023-04-20T05:49:15Z |
-| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 7k | 813 | 2023-04-20T04:04:17Z |
 | [yourbasic/bit](https://github.com/yourbasic/bit) | 149 | 25 | 2023-04-20T02:16:07Z |
 | [zhuangsirui/binpacker](https://github.com/zhuangsirui/binpacker) | 204 | 35 | 2023-04-20T02:02:21Z |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 111 | 2023-04-20T01:59:39Z |
 | [francesconi/go-rampart](https://github.com/francesconi/go-rampart) | 89 | 3 | 2023-04-19T10:46:04Z |
-| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 197 | 16 | 2023-04-19T01:09:56Z |
 | [derekparker/trie](https://github.com/derekparker/trie) | 643 | 109 | 2023-04-18T11:26:47Z |
 | [lrita/cmap](https://github.com/lrita/cmap) | 53 | 5 | 2023-04-18T09:10:23Z |
 | [srfrog/slices](https://github.com/srfrog/slices) | 13 | 2 | 2023-04-17T17:43:18Z |
 | [edwingeng/deque](https://github.com/edwingeng/deque) | 122 | 6 | 2023-04-17T08:19:09Z |
-| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 983 | 95 | 2023-04-17T06:16:10Z |
 | [bobg/go-generics](https://github.com/bobg/go-generics) | 20 | 2 | 2023-04-14T13:28:07Z |
 | [linvon/cuckoo-filter](https://github.com/linvon/cuckoo-filter) | 251 | 25 | 2023-04-14T05:58:12Z |
 | [barweiss/go-tuple](https://github.com/barweiss/go-tuple) | 46 | 2 | 2023-04-13T09:47:30Z |
@@ -203,7 +204,6 @@
 | [srfrog/dict](https://github.com/srfrog/dict) | 39 | 5 | 2023-04-07T12:28:48Z |
 | [igrmk/treemap](https://github.com/igrmk/treemap) | 29 | 5 | 2023-04-06T17:43:58Z |
 | [emvi/null](https://github.com/emvi/null) | 31 | 4 | 2023-04-05T16:34:55Z |
-| [kak-tus/nan](https://github.com/kak-tus/nan) | 67 | 8 | 2023-04-05T11:06:55Z |
 | [gansidui/skiplist](https://github.com/gansidui/skiplist) | 82 | 23 | 2023-04-01T15:45:00Z |
 | [hbollon/go-edlib](https://github.com/hbollon/go-edlib) | 382 | 22 | 2023-03-30T21:12:49Z |
 | [google/hilbert](https://github.com/google/hilbert) | 261 | 39 | 2023-03-29T17:06:47Z |

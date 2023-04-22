@@ -4,12 +4,12 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-21T04:00:47Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-22T02:09:22Z |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 951 | 2023-04-20T08:36:57Z |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 157 | 2023-04-19T23:09:28Z |
-| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-20T13:06:40Z |
+| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-22T03:01:31Z |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-21T05:41:15Z |
-| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-20T22:38:29Z |
+| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-21T09:44:27Z |
 | [gosimple/slug](https://github.com/gosimple/slug) | 943 | 92 | 2023-04-19T14:46:38Z |
 | [ikawaha/kagome](https://github.com/ikawaha/kagome) | 714 | 46 | 2023-04-18T21:41:59Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 584 | 61 | 2023-04-20T06:50:40Z |
@@ -56,13 +56,13 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-21T04:00:47Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-22T02:09:22Z |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 951 | 2023-04-20T08:36:57Z |
-| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-20T13:06:40Z |
+| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-22T03:01:31Z |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-21T05:41:15Z |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 157 | 2023-04-19T23:09:28Z |
 | [gosimple/slug](https://github.com/gosimple/slug) | 943 | 92 | 2023-04-19T14:46:38Z |
-| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-20T22:38:29Z |
+| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-21T09:44:27Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 584 | 61 | 2023-04-20T06:50:40Z |
 | [leonelquinteros/gotext](https://github.com/leonelquinteros/gotext) | 377 | 47 | 2023-04-13T09:29:59Z |
 | [ikawaha/kagome](https://github.com/ikawaha/kagome) | 714 | 46 | 2023-04-18T21:41:59Z |
@@ -108,10 +108,10 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-22T03:01:31Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-22T02:09:22Z |
+| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-21T09:44:27Z |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-21T05:41:15Z |
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-21T04:00:47Z |
-| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-20T22:38:29Z |
-| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-20T13:06:40Z |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 951 | 2023-04-20T08:36:57Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 584 | 61 | 2023-04-20T06:50:40Z |
 | [Shixzie/nlp](https://github.com/Shixzie/nlp) | 380 | 35 | 2023-04-20T06:23:19Z |

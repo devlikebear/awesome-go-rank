@@ -5,7 +5,7 @@
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 286 | 2023-04-18T20:21:22Z |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 596 | 2023-04-20T22:42:16Z |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 598 | 2023-04-21T15:42:47Z |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 288 | 2023-04-19T06:28:10Z |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 362 | 32 | 2023-04-15T19:32:57Z |
 | [goiot/devices](https://github.com/goiot/devices) | 259 | 30 | 2023-03-14T23:04:16Z |
@@ -19,7 +19,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 596 | 2023-04-20T22:42:16Z |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 598 | 2023-04-21T15:42:47Z |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 288 | 2023-04-19T06:28:10Z |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 286 | 2023-04-18T20:21:22Z |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 219 | 42 | 2023-03-04T01:06:28Z |
@@ -34,7 +34,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 596 | 2023-04-20T22:42:16Z |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 598 | 2023-04-21T15:42:47Z |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 288 | 2023-04-19T06:28:10Z |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 60 | 16 | 2023-04-18T22:52:28Z |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 286 | 2023-04-18T20:21:22Z |

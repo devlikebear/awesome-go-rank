@@ -4,16 +4,16 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 13k | 412 | 2023-04-21T02:45:26Z |
-| [go-acme/lego](https://github.com/go-acme/lego) | 6k | 823 | 2023-04-20T17:43:18Z |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 4k | 256 | 2023-04-20T23:58:22Z |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 13k | 412 | 2023-04-21T16:41:19Z |
+| [go-acme/lego](https://github.com/go-acme/lego) | 6k | 824 | 2023-04-22T03:43:19Z |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 4k | 257 | 2023-04-21T16:41:16Z |
 | [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 3k | 460 | 2023-04-20T09:16:07Z |
 | [awnumar/memguard](https://github.com/awnumar/memguard) | 2k | 110 | 2023-04-20T22:20:44Z |
 | [unrolled/secure](https://github.com/unrolled/secure) | 2k | 128 | 2023-04-19T03:48:04Z |
 | [hlandau/acme](https://github.com/hlandau/acme) | 2k | 130 | 2023-04-19T11:32:26Z |
 | [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 137 | 2023-04-20T02:44:23Z |
 | [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 117 | 2023-04-21T03:55:52Z |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 1k | 124 | 2023-04-20T06:54:29Z |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 1k | 124 | 2023-04-22T00:49:45Z |
 | [golang-module/dongle](https://github.com/golang-module/dongle) | 695 | 57 | 2023-04-18T01:39:05Z |
 | [kevinburke/nacl](https://github.com/kevinburke/nacl) | 537 | 31 | 2023-04-14T13:19:24Z |
 | [lane-c-wagner/go-password-validator](https://github.com/lane-c-wagner/go-password-validator) | 399 | 34 | 2023-04-12T07:02:22Z |
@@ -41,14 +41,14 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-acme/lego](https://github.com/go-acme/lego) | 6k | 823 | 2023-04-20T17:43:18Z |
+| [go-acme/lego](https://github.com/go-acme/lego) | 6k | 824 | 2023-04-22T03:43:19Z |
 | [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 3k | 460 | 2023-04-20T09:16:07Z |
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 13k | 412 | 2023-04-21T02:45:26Z |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 4k | 256 | 2023-04-20T23:58:22Z |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 13k | 412 | 2023-04-21T16:41:19Z |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 4k | 257 | 2023-04-21T16:41:16Z |
 | [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 137 | 2023-04-20T02:44:23Z |
 | [hlandau/acme](https://github.com/hlandau/acme) | 2k | 130 | 2023-04-19T11:32:26Z |
 | [unrolled/secure](https://github.com/unrolled/secure) | 2k | 128 | 2023-04-19T03:48:04Z |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 1k | 124 | 2023-04-20T06:54:29Z |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 1k | 124 | 2023-04-22T00:49:45Z |
 | [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 117 | 2023-04-21T03:55:52Z |
 | [awnumar/memguard](https://github.com/awnumar/memguard) | 2k | 110 | 2023-04-20T22:20:44Z |
 | [golang-module/dongle](https://github.com/golang-module/dongle) | 695 | 57 | 2023-04-18T01:39:05Z |
@@ -78,15 +78,15 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [go-acme/lego](https://github.com/go-acme/lego) | 6k | 824 | 2023-04-22T03:43:19Z |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 1k | 124 | 2023-04-22T00:49:45Z |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 13k | 412 | 2023-04-21T16:41:19Z |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 4k | 257 | 2023-04-21T16:41:16Z |
 | [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 117 | 2023-04-21T03:55:52Z |
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 13k | 412 | 2023-04-21T02:45:26Z |
 | [kitabisa/teler-waf](https://github.com/kitabisa/teler-waf) | 130 | 9 | 2023-04-21T02:06:07Z |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 4k | 256 | 2023-04-20T23:58:22Z |
 | [awnumar/memguard](https://github.com/awnumar/memguard) | 2k | 110 | 2023-04-20T22:20:44Z |
-| [go-acme/lego](https://github.com/go-acme/lego) | 6k | 823 | 2023-04-20T17:43:18Z |
 | [anatol/booster](https://github.com/anatol/booster) | 339 | 27 | 2023-04-20T13:20:25Z |
 | [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 3k | 460 | 2023-04-20T09:16:07Z |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 1k | 124 | 2023-04-20T06:54:29Z |
 | [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 137 | 2023-04-20T02:44:23Z |
 | [hlandau/acme](https://github.com/hlandau/acme) | 2k | 130 | 2023-04-19T11:32:26Z |
 | [mvmaasakkers/certificates](https://github.com/mvmaasakkers/certificates) | 37 | 8 | 2023-04-19T04:22:45Z |

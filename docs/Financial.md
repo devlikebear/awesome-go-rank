@@ -4,74 +4,74 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 536 | 2023-04-21T02:44:17Z |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 251 | 2023-04-20T19:37:42Z |
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 121 | 2023-04-21T03:14:19Z |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 839 | 216 | 2023-04-20T07:34:05Z |
-| [leekchan/accounting](https://github.com/leekchan/accounting) | 805 | 65 | 2023-04-17T19:16:36Z |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 718 | 121 | 2023-04-18T18:56:47Z |
-| [bojanz/currency](https://github.com/bojanz/currency) | 379 | 29 | 2023-04-18T04:46:35Z |
-| [moov-io/ach](https://github.com/moov-io/ach) | 371 | 126 | 2023-04-16T21:36:00Z |
-| [i25959341/orderbook](https://github.com/i25959341/orderbook) | 332 | 117 | 2023-04-14T10:34:57Z |
-| [alpeb/go-finance](https://github.com/alpeb/go-finance) | 148 | 22 | 2023-03-07T19:45:33Z |
-| [claygod/transaction](https://github.com/claygod/transaction) | 122 | 17 | 2023-04-04T03:23:03Z |
-| [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 116 | 26 | 2023-04-17T08:22:44Z |
-| [BoltApp/sleet](https://github.com/BoltApp/sleet) | 110 | 18 | 2023-03-22T21:25:56Z |
-| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 101 | 15 | 2023-01-22T13:02:24Z |
-| [m1/go-finnhub](https://github.com/m1/go-finnhub) | 76 | 16 | 2023-01-28T12:13:43Z |
-| [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 52 | 8 | 2022-11-02T13:34:08Z |
-| [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 19 | 0 | 2023-03-18T07:58:36Z |
-| [jovandeginste/payme](https://github.com/jovandeginste/payme) | 18 | 1 | 2023-03-05T07:15:21Z |
-| [nikolaydubina/fpmoney](https://github.com/nikolaydubina/fpmoney) | 15 | 0 | 2023-03-18T07:59:12Z |
-| [pieterclaerhout/go-finance](https://github.com/pieterclaerhout/go-finance) | 10 | 5 | 2022-10-16T13:06:17Z |
+| [leekchan/accounting](https://github.com/leekchan/accounting) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [moov-io/ach](https://github.com/moov-io/ach) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [bojanz/currency](https://github.com/bojanz/currency) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [nikolaydubina/fpmoney](https://github.com/nikolaydubina/fpmoney) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [alpeb/go-finance](https://github.com/alpeb/go-finance) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [pieterclaerhout/go-finance](https://github.com/pieterclaerhout/go-finance) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [m1/go-finnhub](https://github.com/m1/go-finnhub) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [i25959341/orderbook](https://github.com/i25959341/orderbook) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [jovandeginste/payme](https://github.com/jovandeginste/payme) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [BoltApp/sleet](https://github.com/BoltApp/sleet) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [claygod/transaction](https://github.com/claygod/transaction) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 0 | 0 | 0001-01-01T00:00:00Z |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 536 | 2023-04-21T02:44:17Z |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 251 | 2023-04-20T19:37:42Z |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 839 | 216 | 2023-04-20T07:34:05Z |
-| [moov-io/ach](https://github.com/moov-io/ach) | 371 | 126 | 2023-04-16T21:36:00Z |
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 121 | 2023-04-21T03:14:19Z |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 718 | 121 | 2023-04-18T18:56:47Z |
-| [i25959341/orderbook](https://github.com/i25959341/orderbook) | 332 | 117 | 2023-04-14T10:34:57Z |
-| [leekchan/accounting](https://github.com/leekchan/accounting) | 805 | 65 | 2023-04-17T19:16:36Z |
-| [bojanz/currency](https://github.com/bojanz/currency) | 379 | 29 | 2023-04-18T04:46:35Z |
-| [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 116 | 26 | 2023-04-17T08:22:44Z |
-| [alpeb/go-finance](https://github.com/alpeb/go-finance) | 148 | 22 | 2023-03-07T19:45:33Z |
-| [BoltApp/sleet](https://github.com/BoltApp/sleet) | 110 | 18 | 2023-03-22T21:25:56Z |
-| [claygod/transaction](https://github.com/claygod/transaction) | 122 | 17 | 2023-04-04T03:23:03Z |
-| [m1/go-finnhub](https://github.com/m1/go-finnhub) | 76 | 16 | 2023-01-28T12:13:43Z |
-| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 101 | 15 | 2023-01-22T13:02:24Z |
-| [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 52 | 8 | 2022-11-02T13:34:08Z |
-| [pieterclaerhout/go-finance](https://github.com/pieterclaerhout/go-finance) | 10 | 5 | 2022-10-16T13:06:17Z |
-| [jovandeginste/payme](https://github.com/jovandeginste/payme) | 18 | 1 | 2023-03-05T07:15:21Z |
-| [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 19 | 0 | 2023-03-18T07:58:36Z |
-| [nikolaydubina/fpmoney](https://github.com/nikolaydubina/fpmoney) | 15 | 0 | 2023-03-18T07:59:12Z |
+| [leekchan/accounting](https://github.com/leekchan/accounting) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [moov-io/ach](https://github.com/moov-io/ach) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [bojanz/currency](https://github.com/bojanz/currency) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [nikolaydubina/fpmoney](https://github.com/nikolaydubina/fpmoney) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [alpeb/go-finance](https://github.com/alpeb/go-finance) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [pieterclaerhout/go-finance](https://github.com/pieterclaerhout/go-finance) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [m1/go-finnhub](https://github.com/m1/go-finnhub) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [i25959341/orderbook](https://github.com/i25959341/orderbook) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [jovandeginste/payme](https://github.com/jovandeginste/payme) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [BoltApp/sleet](https://github.com/BoltApp/sleet) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [claygod/transaction](https://github.com/claygod/transaction) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 0 | 0 | 0001-01-01T00:00:00Z |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 121 | 2023-04-21T03:14:19Z |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 536 | 2023-04-21T02:44:17Z |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 251 | 2023-04-20T19:37:42Z |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 839 | 216 | 2023-04-20T07:34:05Z |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 718 | 121 | 2023-04-18T18:56:47Z |
-| [bojanz/currency](https://github.com/bojanz/currency) | 379 | 29 | 2023-04-18T04:46:35Z |
-| [leekchan/accounting](https://github.com/leekchan/accounting) | 805 | 65 | 2023-04-17T19:16:36Z |
-| [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 116 | 26 | 2023-04-17T08:22:44Z |
-| [moov-io/ach](https://github.com/moov-io/ach) | 371 | 126 | 2023-04-16T21:36:00Z |
-| [i25959341/orderbook](https://github.com/i25959341/orderbook) | 332 | 117 | 2023-04-14T10:34:57Z |
-| [claygod/transaction](https://github.com/claygod/transaction) | 122 | 17 | 2023-04-04T03:23:03Z |
-| [BoltApp/sleet](https://github.com/BoltApp/sleet) | 110 | 18 | 2023-03-22T21:25:56Z |
-| [nikolaydubina/fpmoney](https://github.com/nikolaydubina/fpmoney) | 15 | 0 | 2023-03-18T07:59:12Z |
-| [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 19 | 0 | 2023-03-18T07:58:36Z |
-| [alpeb/go-finance](https://github.com/alpeb/go-finance) | 148 | 22 | 2023-03-07T19:45:33Z |
-| [jovandeginste/payme](https://github.com/jovandeginste/payme) | 18 | 1 | 2023-03-05T07:15:21Z |
-| [m1/go-finnhub](https://github.com/m1/go-finnhub) | 76 | 16 | 2023-01-28T12:13:43Z |
-| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 101 | 15 | 2023-01-22T13:02:24Z |
-| [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 52 | 8 | 2022-11-02T13:34:08Z |
-| [pieterclaerhout/go-finance](https://github.com/pieterclaerhout/go-finance) | 10 | 5 | 2022-10-16T13:06:17Z |
+| [leekchan/accounting](https://github.com/leekchan/accounting) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [moov-io/ach](https://github.com/moov-io/ach) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [bojanz/currency](https://github.com/bojanz/currency) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [nikolaydubina/fpmoney](https://github.com/nikolaydubina/fpmoney) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [alpeb/go-finance](https://github.com/alpeb/go-finance) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [pieterclaerhout/go-finance](https://github.com/pieterclaerhout/go-finance) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [m1/go-finnhub](https://github.com/m1/go-finnhub) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [i25959341/orderbook](https://github.com/i25959341/orderbook) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [jovandeginste/payme](https://github.com/jovandeginste/payme) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [BoltApp/sleet](https://github.com/BoltApp/sleet) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [claygod/transaction](https://github.com/claygod/transaction) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 0 | 0 | 0001-01-01T00:00:00Z |
 

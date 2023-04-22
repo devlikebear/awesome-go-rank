@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 171 | 2023-04-19T09:49:45Z |
+| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 171 | 2023-04-21T15:46:55Z |
 | [go-gl/gl](https://github.com/go-gl/gl) | 961 | 68 | 2023-04-18T13:34:06Z |
 | [go-gl/mathgl](https://github.com/go-gl/mathgl) | 484 | 63 | 2023-04-09T05:45:21Z |
 | [goxjs/gl](https://github.com/goxjs/gl) | 163 | 23 | 2023-03-27T20:41:44Z |
@@ -15,7 +15,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 171 | 2023-04-19T09:49:45Z |
+| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 171 | 2023-04-21T15:46:55Z |
 | [go-gl/gl](https://github.com/go-gl/gl) | 961 | 68 | 2023-04-18T13:34:06Z |
 | [go-gl/mathgl](https://github.com/go-gl/mathgl) | 484 | 63 | 2023-04-09T05:45:21Z |
 | [goxjs/glfw](https://github.com/goxjs/glfw) | 76 | 24 | 2023-02-13T20:40:26Z |
@@ -26,7 +26,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 171 | 2023-04-19T09:49:45Z |
+| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 171 | 2023-04-21T15:46:55Z |
 | [go-gl/gl](https://github.com/go-gl/gl) | 961 | 68 | 2023-04-18T13:34:06Z |
 | [go-gl/mathgl](https://github.com/go-gl/mathgl) | 484 | 63 | 2023-04-09T05:45:21Z |
 | [goxjs/gl](https://github.com/goxjs/gl) | 163 | 23 | 2023-03-27T20:41:44Z |
