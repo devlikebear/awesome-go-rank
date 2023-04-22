@@ -18,7 +18,7 @@ jobs:
 
     - name: Run
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
       run: |
         chmod u+x ./bin/linux/amd64/awesome-go-rank
         ./bin/linux/amd64/awesome-go-rank
