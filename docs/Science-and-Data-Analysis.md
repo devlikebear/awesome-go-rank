@@ -4,12 +4,12 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-20T18:36:04Z |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-22T04:07:45Z |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-04-17T01:43:59Z |
-| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-22T01:49:56Z |
+| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-22T04:07:03Z |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 150 | 2023-04-20T23:46:43Z |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 111 | 2023-04-19T09:32:08Z |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 975 | 87 | 2023-04-11T15:37:02Z |
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 976 | 87 | 2023-04-22T05:11:19Z |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 813 | 88 | 2023-04-12T06:38:14Z |
 | [vdobler/chart](https://github.com/vdobler/chart) | 753 | 106 | 2023-04-09T03:03:53Z |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 713 | 80 | 2023-04-07T06:08:14Z |
@@ -43,14 +43,14 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-20T18:36:04Z |
-| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-22T01:49:56Z |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-22T04:07:45Z |
+| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-22T04:07:03Z |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-04-17T01:43:59Z |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 150 | 2023-04-20T23:46:43Z |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 111 | 2023-04-19T09:32:08Z |
 | [vdobler/chart](https://github.com/vdobler/chart) | 753 | 106 | 2023-04-09T03:03:53Z |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 813 | 88 | 2023-04-12T06:38:14Z |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 975 | 87 | 2023-04-11T15:37:02Z |
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 976 | 87 | 2023-04-22T05:11:19Z |
 | [paulmach/orb](https://github.com/paulmach/orb) | 650 | 85 | 2023-04-21T07:56:04Z |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 713 | 80 | 2023-04-07T06:08:14Z |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 637 | 58 | 2023-04-21T03:22:52Z |
@@ -82,12 +82,13 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-22T01:49:56Z |
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 976 | 87 | 2023-04-22T05:11:19Z |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-22T04:07:45Z |
+| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-22T04:07:03Z |
 | [paulmach/orb](https://github.com/paulmach/orb) | 650 | 85 | 2023-04-21T07:56:04Z |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 22 | 2 | 2023-04-21T03:30:04Z |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 637 | 58 | 2023-04-21T03:22:52Z |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 150 | 2023-04-20T23:46:43Z |
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-20T18:36:04Z |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 111 | 2023-04-19T09:32:08Z |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 407 | 34 | 2023-04-18T22:19:56Z |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 140 | 23 | 2023-04-18T01:23:06Z |
@@ -96,7 +97,6 @@
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 371 | 16 | 2023-04-16T16:02:17Z |
 | [VividCortex/gohistogram](https://github.com/VividCortex/gohistogram) | 171 | 32 | 2023-04-13T09:03:41Z |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 813 | 88 | 2023-04-12T06:38:14Z |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 975 | 87 | 2023-04-11T15:37:02Z |
 | [vdobler/chart](https://github.com/vdobler/chart) | 753 | 106 | 2023-04-09T03:03:53Z |
 | [ThePaw/go-gt](https://github.com/ThePaw/go-gt) | 10 | 2 | 2023-04-07T11:01:36Z |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 713 | 80 | 2023-04-07T06:08:14Z |

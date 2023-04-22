@@ -4,14 +4,14 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-22T02:17:27Z |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-22T05:08:17Z |
 | [coreos/etcd](https://github.com/coreos/etcd) | 43k | 9k | 2023-04-22T02:57:44Z |
-| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-22T02:57:35Z |
+| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-22T05:55:33Z |
 | [spiral/roadrunner](https://github.com/spiral/roadrunner) | 7k | 391 | 2023-04-21T17:23:15Z |
 | [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 6k | 532 | 2023-04-22T01:36:48Z |
 | [megaease/easegress](https://github.com/megaease/easegress) | 5k | 440 | 2023-04-22T02:26:54Z |
 | [cortesi/devd](https://github.com/cortesi/devd) | 3k | 146 | 2023-04-12T07:45:01Z |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-21T20:07:47Z |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-22T04:22:10Z |
 | [getfider/fider](https://github.com/getfider/fider) | 2k | 575 | 2023-04-21T07:28:54Z |
 | [xyproto/algernon](https://github.com/xyproto/algernon) | 2k | 115 | 2023-04-21T16:41:16Z |
 | [checkr/flagr](https://github.com/checkr/flagr) | 2k | 167 | 2023-04-21T03:56:55Z |
@@ -38,8 +38,8 @@
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
 | [coreos/etcd](https://github.com/coreos/etcd) | 43k | 9k | 2023-04-22T02:57:44Z |
-| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-22T02:57:35Z |
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-22T02:17:27Z |
+| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-22T05:55:33Z |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-22T05:08:17Z |
 | [getfider/fider](https://github.com/getfider/fider) | 2k | 575 | 2023-04-21T07:28:54Z |
 | [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 6k | 532 | 2023-04-22T01:36:48Z |
 | [megaease/easegress](https://github.com/megaease/easegress) | 5k | 440 | 2023-04-22T02:26:54Z |
@@ -49,7 +49,7 @@
 | [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 166 | 2023-04-21T16:43:48Z |
 | [cortesi/devd](https://github.com/cortesi/devd) | 3k | 146 | 2023-04-12T07:45:01Z |
 | [ortuman/jackal](https://github.com/ortuman/jackal) | 1k | 132 | 2023-04-21T16:41:31Z |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-21T20:07:47Z |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-22T04:22:10Z |
 | [xyproto/algernon](https://github.com/xyproto/algernon) | 2k | 115 | 2023-04-21T16:41:16Z |
 | [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 684 | 49 | 2023-04-21T17:56:18Z |
 | [charmbracelet/wish](https://github.com/charmbracelet/wish) | 2k | 43 | 2023-04-21T16:18:54Z |
@@ -70,12 +70,12 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-22T05:55:33Z |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-22T05:08:17Z |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-22T04:22:10Z |
 | [coreos/etcd](https://github.com/coreos/etcd) | 43k | 9k | 2023-04-22T02:57:44Z |
-| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-22T02:57:35Z |
 | [megaease/easegress](https://github.com/megaease/easegress) | 5k | 440 | 2023-04-22T02:26:54Z |
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-22T02:17:27Z |
 | [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 6k | 532 | 2023-04-22T01:36:48Z |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-21T20:07:47Z |
 | [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 684 | 49 | 2023-04-21T17:56:18Z |
 | [spiral/roadrunner](https://github.com/spiral/roadrunner) | 7k | 391 | 2023-04-21T17:23:15Z |
 | [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 166 | 2023-04-21T16:43:48Z |
