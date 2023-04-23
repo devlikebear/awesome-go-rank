@@ -4,9 +4,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-21T13:57:47Z |
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-20T08:30:07Z |
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T03:36:37Z |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-22T14:29:58Z |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-22T17:41:16Z |
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T11:36:59Z |
 | [KyleBanks/depth](https://github.com/KyleBanks/depth) | 825 | 62 | 2023-04-18T04:10:11Z |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 789 | 21 | 2023-04-16T12:56:56Z |
 | [galeone/rts](https://github.com/galeone/rts) | 242 | 11 | 2023-04-17T13:50:21Z |
@@ -27,9 +27,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-21T13:57:47Z |
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T03:36:37Z |
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-20T08:30:07Z |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-22T14:29:58Z |
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T11:36:59Z |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-22T17:41:16Z |
 | [KyleBanks/depth](https://github.com/KyleBanks/depth) | 825 | 62 | 2023-04-18T04:10:11Z |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 789 | 21 | 2023-04-16T12:56:56Z |
 | [songgao/colorgo](https://github.com/songgao/colorgo) | 112 | 15 | 2022-12-18T11:15:36Z |
@@ -50,10 +50,10 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T03:36:37Z |
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-21T13:57:47Z |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-22T17:41:16Z |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-22T14:29:58Z |
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T11:36:59Z |
 | [tylerwince/godbg](https://github.com/tylerwince/godbg) | 194 | 10 | 2023-04-20T16:54:10Z |
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-20T08:30:07Z |
 | [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 35 | 3 | 2023-04-18T18:55:25Z |
 | [KyleBanks/depth](https://github.com/KyleBanks/depth) | 825 | 62 | 2023-04-18T04:10:11Z |
 | [galeone/rts](https://github.com/galeone/rts) | 242 | 11 | 2023-04-17T13:50:21Z |

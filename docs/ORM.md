@@ -4,17 +4,17 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-22T06:00:01Z |
-| [facebook/ent](https://github.com/facebook/ent) | 13k | 787 | 2023-04-22T04:23:32Z |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 487 | 2023-04-21T20:48:40Z |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T00:32:19Z |
+| [facebook/ent](https://github.com/facebook/ent) | 13k | 789 | 2023-04-22T12:14:38Z |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 487 | 2023-04-22T18:30:18Z |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 377 | 2023-04-17T03:27:15Z |
 | [upper/db](https://github.com/upper/db) | 3k | 226 | 2023-04-21T02:39:28Z |
 | [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 336 | 2023-04-21T15:51:22Z |
-| [uptrace/bun](https://github.com/uptrace/bun) | 2k | 153 | 2023-04-21T08:59:38Z |
-| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 1k | 79 | 2023-04-22T02:13:29Z |
+| [uptrace/bun](https://github.com/uptrace/bun) | 2k | 153 | 2023-04-22T16:12:57Z |
+| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 1k | 79 | 2023-04-22T18:38:27Z |
 | [go-reform/reform](https://github.com/go-reform/reform) | 1k | 71 | 2023-04-19T09:53:41Z |
 | [gobuffalo/pop](https://github.com/gobuffalo/pop) | 1k | 235 | 2023-04-19T18:52:07Z |
-| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 978 | 92 | 2023-04-20T21:34:23Z |
+| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 980 | 92 | 2023-04-22T12:42:37Z |
 | [go-rel/rel](https://github.com/go-rel/rel) | 633 | 54 | 2023-04-18T22:51:20Z |
 | [albrow/zoom](https://github.com/albrow/zoom) | 299 | 27 | 2023-03-15T19:24:42Z |
 | [rushteam/gosql](https://github.com/rushteam/gosql) | 173 | 19 | 2023-04-19T01:41:10Z |
@@ -30,16 +30,16 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-22T06:00:01Z |
-| [facebook/ent](https://github.com/facebook/ent) | 13k | 787 | 2023-04-22T04:23:32Z |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 487 | 2023-04-21T20:48:40Z |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T00:32:19Z |
+| [facebook/ent](https://github.com/facebook/ent) | 13k | 789 | 2023-04-22T12:14:38Z |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 487 | 2023-04-22T18:30:18Z |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 377 | 2023-04-17T03:27:15Z |
 | [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 336 | 2023-04-21T15:51:22Z |
 | [gobuffalo/pop](https://github.com/gobuffalo/pop) | 1k | 235 | 2023-04-19T18:52:07Z |
 | [upper/db](https://github.com/upper/db) | 3k | 226 | 2023-04-21T02:39:28Z |
-| [uptrace/bun](https://github.com/uptrace/bun) | 2k | 153 | 2023-04-21T08:59:38Z |
-| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 978 | 92 | 2023-04-20T21:34:23Z |
-| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 1k | 79 | 2023-04-22T02:13:29Z |
+| [uptrace/bun](https://github.com/uptrace/bun) | 2k | 153 | 2023-04-22T16:12:57Z |
+| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 980 | 92 | 2023-04-22T12:42:37Z |
+| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 1k | 79 | 2023-04-22T18:38:27Z |
 | [go-reform/reform](https://github.com/go-reform/reform) | 1k | 71 | 2023-04-19T09:53:41Z |
 | [go-rel/rel](https://github.com/go-rel/rel) | 633 | 54 | 2023-04-18T22:51:20Z |
 | [albrow/zoom](https://github.com/albrow/zoom) | 299 | 27 | 2023-03-15T19:24:42Z |
@@ -56,14 +56,14 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-22T06:00:01Z |
-| [facebook/ent](https://github.com/facebook/ent) | 13k | 787 | 2023-04-22T04:23:32Z |
-| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 1k | 79 | 2023-04-22T02:13:29Z |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 487 | 2023-04-21T20:48:40Z |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T00:32:19Z |
+| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 1k | 79 | 2023-04-22T18:38:27Z |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 487 | 2023-04-22T18:30:18Z |
+| [uptrace/bun](https://github.com/uptrace/bun) | 2k | 153 | 2023-04-22T16:12:57Z |
+| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 980 | 92 | 2023-04-22T12:42:37Z |
+| [facebook/ent](https://github.com/facebook/ent) | 13k | 789 | 2023-04-22T12:14:38Z |
 | [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 336 | 2023-04-21T15:51:22Z |
-| [uptrace/bun](https://github.com/uptrace/bun) | 2k | 153 | 2023-04-21T08:59:38Z |
 | [upper/db](https://github.com/upper/db) | 3k | 226 | 2023-04-21T02:39:28Z |
-| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 978 | 92 | 2023-04-20T21:34:23Z |
 | [gobuffalo/pop](https://github.com/gobuffalo/pop) | 1k | 235 | 2023-04-19T18:52:07Z |
 | [go-reform/reform](https://github.com/go-reform/reform) | 1k | 71 | 2023-04-19T09:53:41Z |
 | [rushteam/gosql](https://github.com/rushteam/gosql) | 173 | 19 | 2023-04-19T01:41:10Z |

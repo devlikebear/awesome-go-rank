@@ -5,8 +5,8 @@
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 230 | 2023-04-21T19:22:50Z |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 180 | 2023-04-21T08:35:12Z |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 143 | 2023-04-20T21:57:13Z |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 180 | 2023-04-22T17:02:26Z |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 143 | 2023-04-22T16:37:19Z |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 752 | 54 | 2023-04-15T17:54:03Z |
 | [hako/durafmt](https://github.com/hako/durafmt) | 456 | 49 | 2023-04-19T01:08:04Z |
 | [leekchan/timeutil](https://github.com/leekchan/timeutil) | 191 | 15 | 2023-02-03T01:15:35Z |
@@ -31,8 +31,8 @@
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 230 | 2023-04-21T19:22:50Z |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 180 | 2023-04-21T08:35:12Z |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 143 | 2023-04-20T21:57:13Z |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 180 | 2023-04-22T17:02:26Z |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 143 | 2023-04-22T16:37:19Z |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 752 | 54 | 2023-04-15T17:54:03Z |
 | [hako/durafmt](https://github.com/hako/durafmt) | 456 | 49 | 2023-04-19T01:08:04Z |
 | [rickb777/date](https://github.com/rickb777/date) | 108 | 22 | 2023-04-02T02:03:48Z |
@@ -56,10 +56,10 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 180 | 2023-04-22T17:02:26Z |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 143 | 2023-04-22T16:37:19Z |
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 230 | 2023-04-21T19:22:50Z |
 | [bykof/gostradamus](https://github.com/bykof/gostradamus) | 178 | 5 | 2023-04-21T12:51:16Z |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 180 | 2023-04-21T08:35:12Z |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 143 | 2023-04-20T21:57:13Z |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 67 | 12 | 2023-04-20T01:54:34Z |
 | [hako/durafmt](https://github.com/hako/durafmt) | 456 | 49 | 2023-04-19T01:08:04Z |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 752 | 54 | 2023-04-15T17:54:03Z |

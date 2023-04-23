@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-04-22T01:26:29Z |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-04-22T16:53:38Z |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-04-21T17:29:10Z |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 314 | 2023-04-16T22:28:55Z |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 662 | 2023-04-21T10:59:16Z |
@@ -23,7 +23,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-04-22T01:26:29Z |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-04-22T16:53:38Z |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-04-21T17:29:10Z |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 662 | 2023-04-21T10:59:16Z |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 314 | 2023-04-16T22:28:55Z |
@@ -42,7 +42,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-04-22T01:26:29Z |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-04-22T16:53:38Z |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-04-21T17:29:10Z |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 662 | 2023-04-21T10:59:16Z |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 209 | 2023-04-21T05:19:48Z |

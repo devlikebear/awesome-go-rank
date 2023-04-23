@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 233 | 2023-04-19T02:10:26Z |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 232 | 2023-04-19T02:10:26Z |
 | [dave/jennifer](https://github.com/dave/jennifer) | 3k | 145 | 2023-04-21T05:18:34Z |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 40 | 2023-04-20T09:15:54Z |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 741 | 73 | 2023-04-21T07:12:58Z |
@@ -20,7 +20,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 233 | 2023-04-19T02:10:26Z |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 232 | 2023-04-19T02:10:26Z |
 | [dave/jennifer](https://github.com/dave/jennifer) | 3k | 145 | 2023-04-21T05:18:34Z |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 741 | 73 | 2023-04-21T07:12:58Z |
 | [abice/go-enum](https://github.com/abice/go-enum) | 472 | 47 | 2023-04-19T04:16:10Z |
@@ -40,7 +40,7 @@
 | [dave/jennifer](https://github.com/dave/jennifer) | 3k | 145 | 2023-04-21T05:18:34Z |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 40 | 2023-04-20T09:15:54Z |
 | [abice/go-enum](https://github.com/abice/go-enum) | 472 | 47 | 2023-04-19T04:16:10Z |
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 233 | 2023-04-19T02:10:26Z |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 232 | 2023-04-19T02:10:26Z |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 377 | 29 | 2023-04-18T17:07:26Z |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 224 | 21 | 2023-04-18T13:00:13Z |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 253 | 12 | 2023-04-17T09:02:55Z |

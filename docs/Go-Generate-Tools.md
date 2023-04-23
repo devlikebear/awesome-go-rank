@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 321 | 2023-04-21T06:57:18Z |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 322 | 2023-04-21T06:57:18Z |
 | [cheekybits/genny](https://github.com/cheekybits/genny) | 2k | 131 | 2023-04-19T10:49:59Z |
 | [xuri/xgen](https://github.com/xuri/xgen) | 232 | 60 | 2023-04-21T19:23:17Z |
 | [opennota/re2dfa](https://github.com/opennota/re2dfa) | 192 | 16 | 2023-04-16T13:41:32Z |
@@ -20,7 +20,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 321 | 2023-04-21T06:57:18Z |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 322 | 2023-04-21T06:57:18Z |
 | [cheekybits/genny](https://github.com/cheekybits/genny) | 2k | 131 | 2023-04-19T10:49:59Z |
 | [xuri/xgen](https://github.com/xuri/xgen) | 232 | 60 | 2023-04-21T19:23:17Z |
 | [opennota/re2dfa](https://github.com/opennota/re2dfa) | 192 | 16 | 2023-04-16T13:41:32Z |
@@ -37,7 +37,7 @@
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
 | [xuri/xgen](https://github.com/xuri/xgen) | 232 | 60 | 2023-04-21T19:23:17Z |
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 321 | 2023-04-21T06:57:18Z |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 322 | 2023-04-21T06:57:18Z |
 | [cheekybits/genny](https://github.com/cheekybits/genny) | 2k | 131 | 2023-04-19T10:49:59Z |
 | [opennota/re2dfa](https://github.com/opennota/re2dfa) | 192 | 16 | 2023-04-16T13:41:32Z |
 | [hexdigest/gounit](https://github.com/hexdigest/gounit) | 69 | 10 | 2023-04-04T19:31:02Z |
