@@ -4,7 +4,6 @@ import (
 	"testing"
 
 	"github.com/devlikebear/awesome-go-rank/pkg/awesomego"
-	"github.com/joho/godotenv"
 	"github.com/stretchr/testify/suite"
 )
 
@@ -24,12 +23,8 @@ func (s *AwesomeGoTestSuite) SetupSuite() {
 		Forks: 0,
 	}, cReadme)
 
-	// Get the Github token from the environment
-	err := godotenv.Load()
-	s.NoError(err)
-
 	// Create a new AwesomeGo instance
-	s.ag = awesomego.NewAwesomeGo(mockClient)
+	s.ag = awesomego.NewAwesomeGo("", mockClient)
 }
 
 // TestAwesomeGo_FetchAndRankRepositories_ValidSpecificSectionAndLimit tests the FetchAndRankRepositories method with a valid specific section and a limit
@@ -41,6 +36,12 @@ func (s *AwesomeGoTestSuite) TestAwesomeGo_FetchAndRankRepositories_ValidSpecifi
 	s.Equal(2, len(repos)) // Contents and Audio and Music
 	s.Equal(len(repos["Audio and Music"]), 9)
 	s.Equal("mewkiz/flac", repos["Audio and Music"][0].Name)
+	s.Equal("- Native Go FLAC encoder/decoder with support for FLAC streams.", repos["Audio and Music"][0].Description)
+	
+	sections := s.ag.Sections()
+	s.Equal(1, len(sections))
+	s.Equal("Audio and Music", sections["Audio and Music"].Name)
+	s.Equal("Libraries for manipulating audio.", sections["Audio and Music"].Description)
 }
 
 // TestAwesomeGoTestSuite runs the test suite
