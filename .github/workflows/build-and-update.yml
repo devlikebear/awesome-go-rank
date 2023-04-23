@@ -23,6 +23,7 @@ jobs:
 
     - name: Build
       run: |
+        go mod tidy
         chmod u+x ./build.sh
         ./build.sh
 
