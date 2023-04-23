@@ -15,18 +15,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+      
+    - name: Set up Go
+      uses: actions/setup-go@v3
+      with:
+        go-version: 1.20
 
-    - name: Run
-      env:
-        GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+    - name: Build
       run: |
-        chmod u+x ./bin/linux/amd64/awesome-go-rank
-        ./bin/linux/amd64/awesome-go-rank
+        chmod u+x ./build.sh
+        ./build.sh
+
+    # - name: Run
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+    #   run: |
+    #     chmod u+x ./bin/linux/amd64/awesome-go-rank
+    #     ./bin/linux/amd64/awesome-go-rank
 
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Update ranking
+        commit_message: Build & Update ranking
         commit_options: '--no-verify'
         commit_user_name: GitHub Actions
         commit_user_email: actions@github.com
