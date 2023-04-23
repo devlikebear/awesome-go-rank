@@ -6,7 +6,7 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T07:45:12Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T09:31:49Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
 | [facebook/ent](https://github.com/facebook/ent) | 13k | 790 | 2023-04-23T05:33:46Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
 | [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 487 | 2023-04-22T18:30:18Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 377 | 2023-04-17T03:27:15Z |  Go Relational Persistence, ORM-ish library for Go. |
@@ -32,7 +32,7 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T07:45:12Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T09:31:49Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
 | [facebook/ent](https://github.com/facebook/ent) | 13k | 790 | 2023-04-23T05:33:46Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
 | [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 487 | 2023-04-22T18:30:18Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 377 | 2023-04-17T03:27:15Z |  Go Relational Persistence, ORM-ish library for Go. |
@@ -58,8 +58,8 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T09:31:49Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
 | [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 336 | 2023-04-23T08:03:00Z |  Mysql database to golang gorm struct. |
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 32k | 4k | 2023-04-23T07:45:12Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
 | [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 1k | 79 | 2023-04-23T06:08:59Z |  Prisma Client Go, Typesafe database access for Go. |
 | [facebook/ent](https://github.com/facebook/ent) | 13k | 790 | 2023-04-23T05:33:46Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
 | [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 982 | 92 | 2023-04-23T04:56:55Z |  A flexible and powerful SQL string builder library plus a zero-config ORM. |
