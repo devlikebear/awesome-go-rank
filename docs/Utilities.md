@@ -6,14 +6,14 @@ General utilities and tools to make your life easier.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T07:32:06Z |  Command-line fuzzy finder written in Go. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T10:41:07Z |  Command-line fuzzy finder written in Go. |
 | [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-23T07:25:37Z |  wrap git commands with additional functionality to interact with github from the terminal. |
 | [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-23T06:20:48Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
-| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-22T20:01:23Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
-| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-22T21:13:25Z |  Deliver Go binaries as fast and easily as possible. |
-| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T07:04:02Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-23T10:21:14Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
+| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-23T09:30:04Z |  Deliver Go binaries as fast and easily as possible. |
+| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T09:12:32Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
 | [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 10k | 430 | 2023-04-23T00:14:48Z |  Interactive cli tool for HTTP inspection. |
-| [knq/usql](https://github.com/knq/usql) | 8k | 320 | 2023-04-23T07:53:02Z |  usql is a universal command-line interface for SQL databases. |
+| [knq/usql](https://github.com/knq/usql) | 8k | 320 | 2023-04-23T09:05:42Z |  usql is a universal command-line interface for SQL databases. |
 | [peco/peco](https://github.com/peco/peco) | 7k | 240 | 2023-04-21T16:50:09Z |  Simplistic interactive filtering tool. |
 | [thoas/go-funk](https://github.com/thoas/go-funk) | 4k | 251 | 2023-04-21T19:17:08Z |  Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...). |
 | [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 444 | 2023-04-21T12:44:42Z |  Common libraries for writing Go services/applications from Dropbox. |
@@ -179,16 +179,16 @@ General utilities and tools to make your life easier.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-23T07:25:37Z |  wrap git commands with additional functionality to interact with github from the terminal. |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T07:32:06Z |  Command-line fuzzy finder written in Go. |
-| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-22T20:01:23Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
-| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-22T21:13:25Z |  Deliver Go binaries as fast and easily as possible. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T10:41:07Z |  Command-line fuzzy finder written in Go. |
+| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-23T10:21:14Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
+| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-23T09:30:04Z |  Deliver Go binaries as fast and easily as possible. |
 | [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-23T06:20:48Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
-| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T07:04:02Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T09:12:32Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
 | [minio/mc](https://github.com/minio/mc) | 2k | 465 | 2023-04-22T05:16:14Z |  Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems. |
 | [afex/hystrix-go](https://github.com/afex/hystrix-go) | 4k | 461 | 2023-04-21T15:52:04Z |  Implements Hystrix patterns of programmer-defined fallbacks aka circuit breaker. |
 | [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 444 | 2023-04-21T12:44:42Z |  Common libraries for writing Go services/applications from Dropbox. |
 | [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 10k | 430 | 2023-04-23T00:14:48Z |  Interactive cli tool for HTTP inspection. |
-| [knq/usql](https://github.com/knq/usql) | 8k | 320 | 2023-04-23T07:53:02Z |  usql is a universal command-line interface for SQL databases. |
+| [knq/usql](https://github.com/knq/usql) | 8k | 320 | 2023-04-23T09:05:42Z |  usql is a universal command-line interface for SQL databases. |
 | [wgliang/goreporter](https://github.com/wgliang/goreporter) | 3k | 273 | 2023-04-21T15:53:18Z |  Golang tool that does static analysis, unit testing, code review and generate code quality report. |
 | [duke-git/lancet](https://github.com/duke-git/lancet) | 2k | 255 | 2023-04-23T03:15:55Z |  A comprehensive, efficient, and reusable util function library of go. |
 | [imdario/mergo](https://github.com/imdario/mergo) | 2k | 252 | 2023-04-23T00:53:08Z |  Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements. |
@@ -350,11 +350,13 @@ General utilities and tools to make your life easier.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [knq/usql](https://github.com/knq/usql) | 8k | 320 | 2023-04-23T07:53:02Z |  usql is a universal command-line interface for SQL databases. |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T07:32:06Z |  Command-line fuzzy finder written in Go. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T10:41:07Z |  Command-line fuzzy finder written in Go. |
+| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-23T10:21:14Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
+| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-23T09:30:04Z |  Deliver Go binaries as fast and easily as possible. |
+| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T09:12:32Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [knq/usql](https://github.com/knq/usql) | 8k | 320 | 2023-04-23T09:05:42Z |  usql is a universal command-line interface for SQL databases. |
 | [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-23T07:25:37Z |  wrap git commands with additional functionality to interact with github from the terminal. |
 | [ungerik/go-dry](https://github.com/ungerik/go-dry) | 485 | 36 | 2023-04-23T07:21:39Z |  DRY (don't repeat yourself) package for Go. |
-| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T07:04:02Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
 | [avast/retry-go](https://github.com/avast/retry-go) | 2k | 124 | 2023-04-23T06:53:57Z |  Simple library for retry mechanism. |
 | [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-23T06:20:48Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
 | [duke-git/lancet](https://github.com/duke-git/lancet) | 2k | 255 | 2023-04-23T03:15:55Z |  A comprehensive, efficient, and reusable util function library of go. |
@@ -364,9 +366,7 @@ General utilities and tools to make your life easier.
 | [tmrts/boilr](https://github.com/tmrts/boilr) | 2k | 125 | 2023-04-22T23:43:27Z |  Blazingly fast CLI tool for creating projects from boilerplate templates. |
 | [golang-design/clipboard](https://github.com/golang-design/clipboard) | 382 | 42 | 2023-04-22T22:40:05Z |  📋 cross-platform clipboard package in Go. |
 | [jonboulle/clockwork](https://github.com/jonboulle/clockwork) | 451 | 56 | 2023-04-22T22:31:57Z |  A simple fake clock for golang. |
-| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-22T21:13:25Z |  Deliver Go binaries as fast and easily as possible. |
 | [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) | 563 | 58 | 2023-04-22T21:09:00Z |  The management of multiple local services running over different ports made easy. |
-| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-22T20:01:23Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
 | [gookit/filter](https://github.com/gookit/filter) | 131 | 11 | 2023-04-22T17:16:47Z |  provide filtering, sanitizing, and conversion of Go data. |
 | [mennanov/limiters](https://github.com/mennanov/limiters) | 149 | 25 | 2023-04-22T17:04:13Z |  Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks. |
 | [maruel/panicparse](https://github.com/maruel/panicparse) | 3k | 101 | 2023-04-22T16:36:25Z |  Groups similar goroutines and colorizes stack dump. |
