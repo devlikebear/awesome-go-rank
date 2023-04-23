@@ -4,13 +4,13 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-22T14:04:56Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-23T05:36:27Z |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 951 | 2023-04-20T08:36:57Z |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 157 | 2023-04-22T13:51:57Z |
 | [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-22T03:01:31Z |
-| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-21T05:41:15Z |
+| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-23T03:12:51Z |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-21T09:44:27Z |
-| [gosimple/slug](https://github.com/gosimple/slug) | 943 | 92 | 2023-04-19T14:46:38Z |
+| [gosimple/slug](https://github.com/gosimple/slug) | 944 | 92 | 2023-04-23T05:41:54Z |
 | [ikawaha/kagome](https://github.com/ikawaha/kagome) | 714 | 47 | 2023-04-18T21:41:59Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 584 | 61 | 2023-04-20T06:50:40Z |
 | [james-bowman/nlp](https://github.com/james-bowman/nlp) | 403 | 45 | 2023-04-18T23:51:37Z |
@@ -56,12 +56,12 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-22T14:04:56Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-23T05:36:27Z |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 951 | 2023-04-20T08:36:57Z |
 | [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-22T03:01:31Z |
-| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-21T05:41:15Z |
+| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-23T03:12:51Z |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 157 | 2023-04-22T13:51:57Z |
-| [gosimple/slug](https://github.com/gosimple/slug) | 943 | 92 | 2023-04-19T14:46:38Z |
+| [gosimple/slug](https://github.com/gosimple/slug) | 944 | 92 | 2023-04-23T05:41:54Z |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-21T09:44:27Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 584 | 61 | 2023-04-20T06:50:40Z |
 | [leonelquinteros/gotext](https://github.com/leonelquinteros/gotext) | 377 | 47 | 2023-04-13T09:29:59Z |
@@ -108,15 +108,15 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-22T14:04:56Z |
+| [gosimple/slug](https://github.com/gosimple/slug) | 944 | 92 | 2023-04-23T05:41:54Z |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 30k | 7k | 2023-04-23T05:36:27Z |
+| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-23T03:12:51Z |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 157 | 2023-04-22T13:51:57Z |
 | [go-ego/gse](https://github.com/go-ego/gse) | 2k | 199 | 2023-04-22T03:01:31Z |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 1k | 75 | 2023-04-21T09:44:27Z |
-| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 1k | 185 | 2023-04-21T05:41:15Z |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 951 | 2023-04-20T08:36:57Z |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 584 | 61 | 2023-04-20T06:50:40Z |
 | [Shixzie/nlp](https://github.com/Shixzie/nlp) | 380 | 35 | 2023-04-20T06:23:19Z |
-| [gosimple/slug](https://github.com/gosimple/slug) | 943 | 92 | 2023-04-19T14:46:38Z |
 | [neurosnap/sentences](https://github.com/neurosnap/sentences) | 360 | 36 | 2023-04-19T08:57:12Z |
 | [james-bowman/nlp](https://github.com/james-bowman/nlp) | 403 | 45 | 2023-04-18T23:51:37Z |
 | [ikawaha/kagome](https://github.com/ikawaha/kagome) | 714 | 47 | 2023-04-18T21:41:59Z |

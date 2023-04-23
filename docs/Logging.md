@@ -4,15 +4,15 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
-| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-04-23T00:29:45Z |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
+| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-04-23T03:58:53Z |
 | [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 937 | 2023-04-22T03:19:28Z |
 | [rs/zerolog](https://github.com/rs/zerolog) | 8k | 469 | 2023-04-22T18:53:31Z |
 | [rs/zerolog](https://github.com/rs/zerolog) | 8k | 469 | 2023-04-22T18:53:31Z |
 | [davecgh/go-spew](https://github.com/davecgh/go-spew) | 6k | 356 | 2023-04-21T07:51:56Z |
-| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 506 | 2023-04-22T13:19:37Z |
+| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 506 | 2023-04-23T03:29:33Z |
 | [golang/glog](https://github.com/golang/glog) | 3k | 892 | 2023-04-21T12:08:42Z |
 | [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 495 | 2023-04-21T17:48:57Z |
 | [cihub/seelog](https://github.com/cihub/seelog) | 2k | 247 | 2023-04-19T10:43:26Z |
@@ -37,8 +37,8 @@
 | [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) | 54 | 8 | 2022-12-29T13:20:30Z |
 | [alexcesaro/log](https://github.com/alexcesaro/log) | 47 | 4 | 2023-03-01T08:43:21Z |
 | [gyozatech/noodlog](https://github.com/gyozatech/noodlog) | 44 | 10 | 2023-01-18T15:04:13Z |
-| [sadlil/gologger](https://github.com/sadlil/gologger) | 41 | 10 | 2023-01-28T19:21:14Z |
 | [ian-kent/go-log](https://github.com/ian-kent/go-log) | 41 | 18 | 2023-04-19T14:23:37Z |
+| [sadlil/gologger](https://github.com/sadlil/gologger) | 41 | 10 | 2023-01-28T19:21:14Z |
 | [chzyer/logex](https://github.com/chzyer/logex) | 40 | 12 | 2022-11-27T08:56:16Z |
 | [ssgreg/journald](https://github.com/ssgreg/journald) | 34 | 2 | 2022-12-23T22:49:54Z |
 | [siddontang/go-log](https://github.com/siddontang/go-log) | 33 | 18 | 2022-12-29T07:34:47Z |
@@ -50,29 +50,30 @@
 | [borderstech/logmatic](https://github.com/borderstech/logmatic) | 16 | 4 | 2023-01-12T17:01:00Z |
 | [lajosbencz/glo](https://github.com/lajosbencz/glo) | 15 | 1 | 2022-09-26T23:22:25Z |
 | [heartwilltell/log](https://github.com/heartwilltell/log) | 14 | 0 | 2023-02-19T16:13:20Z |
-| [subchen/go-log](https://github.com/subchen/go-log) | 13 | 7 | 2022-09-26T23:22:34Z |
 | [xybor-x/xylog](https://github.com/xybor-x/xylog) | 13 | 2 | 2023-01-16T06:50:59Z |
+| [subchen/go-log](https://github.com/subchen/go-log) | 13 | 7 | 2022-09-26T23:22:34Z |
 | [mbndr/logo](https://github.com/mbndr/logo) | 11 | 2 | 2022-09-26T23:23:24Z |
 | [ewwwwwqm/logdump](https://github.com/ewwwwwqm/logdump) | 11 | 3 | 2023-03-05T02:03:20Z |
-| [pieterclaerhout/go-log](https://github.com/pieterclaerhout/go-log) | 10 | 5 | 2023-03-07T11:39:07Z |
 | [aerogo/log](https://github.com/aerogo/log) | 10 | 1 | 2022-09-26T23:22:57Z |
+| [pieterclaerhout/go-log](https://github.com/pieterclaerhout/go-log) | 10 | 5 | 2023-03-07T11:39:07Z |
 | [xfxdev/xlog](https://github.com/xfxdev/xlog) | 8 | 4 | 2022-09-26T23:24:18Z |
 | [structy/log](https://github.com/structy/log) | 5 | 1 | 2022-09-26T23:24:13Z |
 | [echocat/slf4g](https://github.com/echocat/slf4g) | 3 | 1 | 2023-04-11T15:31:55Z |
 | [jfcg/yell](https://github.com/jfcg/yell) | 1 | 0 | 2022-09-26T23:24:24Z |
 | [/](https://github.com/One-com/gone/tree/master/log) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [no-src/log](https://github.com/no-src/log) | 0 | 0 | 2022-11-18T14:22:28Z |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
-| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-04-23T00:29:45Z |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
+| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-04-23T03:58:53Z |
 | [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 937 | 2023-04-22T03:19:28Z |
 | [golang/glog](https://github.com/golang/glog) | 3k | 892 | 2023-04-21T12:08:42Z |
-| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 506 | 2023-04-22T13:19:37Z |
+| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 506 | 2023-04-23T03:29:33Z |
 | [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 495 | 2023-04-21T17:48:57Z |
 | [rs/zerolog](https://github.com/rs/zerolog) | 8k | 469 | 2023-04-22T18:53:31Z |
 | [rs/zerolog](https://github.com/rs/zerolog) | 8k | 469 | 2023-04-22T18:53:31Z |
@@ -96,46 +97,47 @@
 | [kpango/glg](https://github.com/kpango/glg) | 180 | 15 | 2023-03-31T20:23:48Z |
 | [rs/xlog](https://github.com/rs/xlog) | 137 | 13 | 2022-09-26T23:24:20Z |
 | [gookit/slog](https://github.com/gookit/slog) | 208 | 13 | 2023-04-21T05:57:42Z |
+| [henvic/httpretty](https://github.com/henvic/httpretty) | 296 | 12 | 2023-04-19T20:44:09Z |
 | [firstrow/logvoyage](https://github.com/firstrow/logvoyage) | 94 | 12 | 2023-03-30T03:26:37Z |
 | [chzyer/logex](https://github.com/chzyer/logex) | 40 | 12 | 2022-11-27T08:56:16Z |
-| [henvic/httpretty](https://github.com/henvic/httpretty) | 296 | 12 | 2023-04-19T20:44:09Z |
 | [simukti/sqldb-logger](https://github.com/simukti/sqldb-logger) | 295 | 11 | 2023-04-17T15:54:43Z |
-| [gyozatech/noodlog](https://github.com/gyozatech/noodlog) | 44 | 10 | 2023-01-18T15:04:13Z |
 | [sadlil/gologger](https://github.com/sadlil/gologger) | 41 | 10 | 2023-01-28T19:21:14Z |
-| [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) | 54 | 8 | 2022-12-29T13:20:30Z |
+| [gyozatech/noodlog](https://github.com/gyozatech/noodlog) | 44 | 10 | 2023-01-18T15:04:13Z |
 | [amoghe/distillog](https://github.com/amoghe/distillog) | 31 | 8 | 2022-12-14T10:58:47Z |
+| [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) | 54 | 8 | 2022-12-29T13:20:30Z |
 | [subchen/go-log](https://github.com/subchen/go-log) | 13 | 7 | 2022-09-26T23:22:34Z |
 | [pieterclaerhout/go-log](https://github.com/pieterclaerhout/go-log) | 10 | 5 | 2023-03-07T11:39:07Z |
-| [borderstech/logmatic](https://github.com/borderstech/logmatic) | 16 | 4 | 2023-01-12T17:01:00Z |
-| [xfxdev/xlog](https://github.com/xfxdev/xlog) | 8 | 4 | 2022-09-26T23:24:18Z |
 | [alexcesaro/log](https://github.com/alexcesaro/log) | 47 | 4 | 2023-03-01T08:43:21Z |
-| [ewwwwwqm/logdump](https://github.com/ewwwwwqm/logdump) | 11 | 3 | 2023-03-05T02:03:20Z |
+| [xfxdev/xlog](https://github.com/xfxdev/xlog) | 8 | 4 | 2022-09-26T23:24:18Z |
+| [borderstech/logmatic](https://github.com/borderstech/logmatic) | 16 | 4 | 2023-01-12T17:01:00Z |
 | [teris-io/log](https://github.com/teris-io/log) | 26 | 3 | 2022-09-26T23:23:04Z |
-| [edoger/zkits-logger](https://github.com/edoger/zkits-logger) | 24 | 2 | 2023-04-13T03:30:08Z |
+| [ewwwwwqm/logdump](https://github.com/ewwwwwqm/logdump) | 11 | 3 | 2023-03-05T02:03:20Z |
 | [ssgreg/journald](https://github.com/ssgreg/journald) | 34 | 2 | 2022-12-23T22:49:54Z |
 | [xybor-x/xylog](https://github.com/xybor-x/xylog) | 13 | 2 | 2023-01-16T06:50:59Z |
 | [mbndr/logo](https://github.com/mbndr/logo) | 11 | 2 | 2022-09-26T23:23:24Z |
-| [structy/log](https://github.com/structy/log) | 5 | 1 | 2022-09-26T23:24:13Z |
-| [aerogo/log](https://github.com/aerogo/log) | 10 | 1 | 2022-09-26T23:22:57Z |
+| [edoger/zkits-logger](https://github.com/edoger/zkits-logger) | 24 | 2 | 2023-04-13T03:30:08Z |
 | [lajosbencz/glo](https://github.com/lajosbencz/glo) | 15 | 1 | 2022-09-26T23:22:25Z |
+| [aerogo/log](https://github.com/aerogo/log) | 10 | 1 | 2022-09-26T23:22:57Z |
 | [aphistic/gomol](https://github.com/aphistic/gomol) | 19 | 1 | 2023-02-21T18:23:08Z |
+| [structy/log](https://github.com/structy/log) | 5 | 1 | 2022-09-26T23:24:13Z |
 | [echocat/slf4g](https://github.com/echocat/slf4g) | 3 | 1 | 2023-04-11T15:31:55Z |
 | [heartwilltell/log](https://github.com/heartwilltell/log) | 14 | 0 | 2023-02-19T16:13:20Z |
 | [jfcg/yell](https://github.com/jfcg/yell) | 1 | 0 | 2022-09-26T23:24:24Z |
 | [/](https://github.com/One-com/gone/tree/master/log) | 0 | 0 | 0001-01-01T00:00:00Z |
+| [no-src/log](https://github.com/no-src/log) | 0 | 0 | 2022-11-18T14:22:28Z |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-04-23T00:29:45Z |
+| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-04-23T03:58:53Z |
+| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 506 | 2023-04-23T03:29:33Z |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-04-23T01:50:51Z |
 | [rs/zerolog](https://github.com/rs/zerolog) | 8k | 469 | 2023-04-22T18:53:31Z |
 | [rs/zerolog](https://github.com/rs/zerolog) | 8k | 469 | 2023-04-22T18:53:31Z |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-04-22T17:31:02Z |
 | [k0kubun/pp](https://github.com/k0kubun/pp) | 2k | 89 | 2023-04-22T16:37:27Z |
-| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 506 | 2023-04-22T13:19:37Z |
 | [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 937 | 2023-04-22T03:19:28Z |
 | [phuslu/log](https://github.com/phuslu/log) | 478 | 37 | 2023-04-21T20:22:58Z |
 | [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 495 | 2023-04-21T17:48:57Z |
@@ -175,6 +177,7 @@
 | [amoghe/distillog](https://github.com/amoghe/distillog) | 31 | 8 | 2022-12-14T10:58:47Z |
 | [chzyer/logex](https://github.com/chzyer/logex) | 40 | 12 | 2022-11-27T08:56:16Z |
 | [mgutz/logxi](https://github.com/mgutz/logxi) | 349 | 42 | 2022-11-27T01:47:29Z |
+| [no-src/log](https://github.com/no-src/log) | 0 | 0 | 2022-11-18T14:22:28Z |
 | [jfcg/yell](https://github.com/jfcg/yell) | 1 | 0 | 2022-09-26T23:24:24Z |
 | [rs/xlog](https://github.com/rs/xlog) | 137 | 13 | 2022-09-26T23:24:20Z |
 | [xfxdev/xlog](https://github.com/xfxdev/xlog) | 8 | 4 | 2022-09-26T23:24:18Z |

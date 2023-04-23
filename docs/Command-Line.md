@@ -4,21 +4,21 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [spf13/cobra](https://github.com/spf13/cobra) | 32k | 3k | 2023-04-22T19:39:15Z |
+| [spf13/cobra](https://github.com/spf13/cobra) | 32k | 3k | 2023-04-23T04:21:53Z |
 | [urfave/cli](https://github.com/urfave/cli) | 20k | 2k | 2023-04-22T12:11:55Z |
-| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 18k | 572 | 2023-04-22T22:23:14Z |
+| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 18k | 573 | 2023-04-23T03:12:34Z |
 | [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | 15k | 895 | 2023-04-22T08:32:15Z |
-| [gizak/termui](https://github.com/gizak/termui) | 12k | 767 | 2023-04-21T16:50:04Z |
+| [gizak/termui](https://github.com/gizak/termui) | 12k | 767 | 2023-04-23T03:01:21Z |
 | [jroimartin/gocui](https://github.com/jroimartin/gocui) | 9k | 579 | 2023-04-22T03:06:39Z |
-| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 8k | 676 | 2023-04-22T19:08:28Z |
+| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 8k | 676 | 2023-04-23T06:01:00Z |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 6k | 150 | 2023-04-22T22:16:05Z |
 | [elves/elvish](https://github.com/elves/elvish) | 5k | 288 | 2023-04-21T16:50:10Z |
-| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 380 | 2023-04-20T13:04:12Z |
+| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 380 | 2023-04-23T03:01:24Z |
 | [andOTP/andOTP](https://github.com/andOTP/andOTP) | 4k | 352 | 2023-04-17T13:06:09Z |
 | [go-survey/survey](https://github.com/go-survey/survey) | 4k | 309 | 2023-04-22T13:21:06Z |
 | [pterm/pterm](https://github.com/pterm/pterm) | 4k | 138 | 2023-04-22T04:18:45Z |
 | [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 267 | 2023-04-21T22:49:45Z |
-| [schollz/progressbar](https://github.com/schollz/progressbar) | 3k | 188 | 2023-04-22T17:37:25Z |
+| [schollz/progressbar](https://github.com/schollz/progressbar) | 3k | 188 | 2023-04-23T04:31:39Z |
 | [dnote/dnote](https://github.com/dnote/dnote) | 2k | 107 | 2023-04-20T12:28:30Z |
 | [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 2k | 288 | 2023-04-20T17:03:39Z |
 | [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 2k | 87 | 2023-04-21T00:56:57Z |
@@ -27,7 +27,7 @@
 | [vbauerster/mpb](https://github.com/vbauerster/mpb) | 2k | 120 | 2023-04-22T16:37:09Z |
 | [gosuri/uiprogress](https://github.com/gosuri/uiprogress) | 2k | 122 | 2023-04-18T14:13:07Z |
 | [mitchellh/cli](https://github.com/mitchellh/cli) | 2k | 119 | 2023-04-22T17:25:58Z |
-| [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 85 | 2023-04-20T19:01:29Z |
+| [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 85 | 2023-04-23T00:58:22Z |
 | [gosuri/uilive](https://github.com/gosuri/uilive) | 2k | 81 | 2023-04-19T10:27:43Z |
 | [muesli/termenv](https://github.com/muesli/termenv) | 1k | 53 | 2023-04-19T09:39:43Z |
 | [logrusorgru/aurora](https://github.com/logrusorgru/aurora) | 1k | 58 | 2023-04-19T09:30:47Z |
@@ -49,11 +49,11 @@
 | [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 326 | 16 | 2023-04-20T21:16:37Z |
 | [daviddengcn/go-colortext](https://github.com/daviddengcn/go-colortext) | 214 | 22 | 2023-02-12T11:55:11Z |
 | [tucnak/climax](https://github.com/tucnak/climax) | 207 | 16 | 2023-03-09T15:18:01Z |
-| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 201 | 16 | 2023-04-21T10:58:13Z |
+| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 202 | 16 | 2023-04-23T04:41:37Z |
 | [dixonwille/wmenu](https://github.com/dixonwille/wmenu) | 187 | 22 | 2023-04-05T10:45:01Z |
 | [jaffee/commandeer](https://github.com/jaffee/commandeer) | 165 | 15 | 2023-03-07T15:09:44Z |
 | [leaanthony/clir](https://github.com/leaanthony/clir) | 153 | 14 | 2023-04-06T17:19:57Z |
-| [octago/sflags](https://github.com/octago/sflags) | 147 | 32 | 2023-03-14T15:58:29Z |
+| [octago/sflags](https://github.com/octago/sflags) | 147 | 33 | 2023-03-14T15:58:29Z |
 | [liujianping/job](https://github.com/liujianping/job) | 124 | 11 | 2023-02-15T20:55:08Z |
 | [cosiner/flag](https://github.com/cosiner/flag) | 123 | 7 | 2022-09-26T09:17:38Z |
 | [ukautz/clif](https://github.com/ukautz/clif) | 122 | 14 | 2023-04-04T06:04:22Z |
@@ -94,21 +94,21 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [spf13/cobra](https://github.com/spf13/cobra) | 32k | 3k | 2023-04-22T19:39:15Z |
+| [spf13/cobra](https://github.com/spf13/cobra) | 32k | 3k | 2023-04-23T04:21:53Z |
 | [urfave/cli](https://github.com/urfave/cli) | 20k | 2k | 2023-04-22T12:11:55Z |
 | [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | 15k | 895 | 2023-04-22T08:32:15Z |
-| [gizak/termui](https://github.com/gizak/termui) | 12k | 767 | 2023-04-21T16:50:04Z |
-| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 8k | 676 | 2023-04-22T19:08:28Z |
+| [gizak/termui](https://github.com/gizak/termui) | 12k | 767 | 2023-04-23T03:01:21Z |
+| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 8k | 676 | 2023-04-23T06:01:00Z |
 | [jroimartin/gocui](https://github.com/jroimartin/gocui) | 9k | 579 | 2023-04-22T03:06:39Z |
-| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 18k | 572 | 2023-04-22T22:23:14Z |
-| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 380 | 2023-04-20T13:04:12Z |
+| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 18k | 573 | 2023-04-23T03:12:34Z |
+| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 380 | 2023-04-23T03:01:24Z |
 | [andOTP/andOTP](https://github.com/andOTP/andOTP) | 4k | 352 | 2023-04-17T13:06:09Z |
 | [spf13/pflag](https://github.com/spf13/pflag) | 2k | 325 | 2023-04-21T21:31:43Z |
 | [go-survey/survey](https://github.com/go-survey/survey) | 4k | 309 | 2023-04-22T13:21:06Z |
 | [elves/elvish](https://github.com/elves/elvish) | 5k | 288 | 2023-04-21T16:50:10Z |
 | [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 2k | 288 | 2023-04-20T17:03:39Z |
 | [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 267 | 2023-04-21T22:49:45Z |
-| [schollz/progressbar](https://github.com/schollz/progressbar) | 3k | 188 | 2023-04-22T17:37:25Z |
+| [schollz/progressbar](https://github.com/schollz/progressbar) | 3k | 188 | 2023-04-23T04:31:39Z |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 6k | 150 | 2023-04-22T22:16:05Z |
 | [pterm/pterm](https://github.com/pterm/pterm) | 4k | 138 | 2023-04-22T04:18:45Z |
 | [peterh/liner](https://github.com/peterh/liner) | 961 | 131 | 2023-04-16T03:42:00Z |
@@ -121,7 +121,7 @@
 | [mattn/go-isatty](https://github.com/mattn/go-isatty) | 695 | 100 | 2023-04-21T03:48:53Z |
 | [mattn/go-colorable](https://github.com/mattn/go-colorable) | 683 | 93 | 2023-04-22T22:08:48Z |
 | [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 2k | 87 | 2023-04-21T00:56:57Z |
-| [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 85 | 2023-04-20T19:01:29Z |
+| [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 85 | 2023-04-23T00:58:22Z |
 | [gookit/color](https://github.com/gookit/color) | 1k | 83 | 2023-04-22T03:03:10Z |
 | [gosuri/uilive](https://github.com/gosuri/uilive) | 2k | 81 | 2023-04-19T10:27:43Z |
 | [posener/complete](https://github.com/posener/complete) | 881 | 68 | 2023-04-05T20:48:06Z |
@@ -130,16 +130,16 @@
 | [akamensky/argparse](https://github.com/akamensky/argparse) | 515 | 53 | 2023-04-22T08:18:26Z |
 | [muesli/termenv](https://github.com/muesli/termenv) | 1k | 53 | 2023-04-19T09:39:43Z |
 | [mkideal/cli](https://github.com/mkideal/cli) | 683 | 45 | 2023-04-22T22:10:26Z |
+| [octago/sflags](https://github.com/octago/sflags) | 147 | 33 | 2023-03-14T15:58:29Z |
 | [integrii/flaggy](https://github.com/integrii/flaggy) | 829 | 32 | 2023-04-21T16:08:35Z |
 | [gosuri/uitable](https://github.com/gosuri/uitable) | 703 | 32 | 2023-04-08T05:47:15Z |
-| [octago/sflags](https://github.com/octago/sflags) | 147 | 32 | 2023-03-14T15:58:29Z |
 | [alexeyco/simpletable](https://github.com/alexeyco/simpletable) | 442 | 29 | 2023-04-19T14:55:46Z |
 | [daviddengcn/go-colortext](https://github.com/daviddengcn/go-colortext) | 214 | 22 | 2023-02-12T11:55:11Z |
 | [dixonwille/wmenu](https://github.com/dixonwille/wmenu) | 187 | 22 | 2023-04-05T10:45:01Z |
 | [ttacon/chalk](https://github.com/ttacon/chalk) | 425 | 19 | 2023-04-11T07:15:50Z |
 | [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) | 345 | 16 | 2023-04-20T03:46:04Z |
 | [tucnak/climax](https://github.com/tucnak/climax) | 207 | 16 | 2023-03-09T15:18:01Z |
-| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 201 | 16 | 2023-04-21T10:58:13Z |
+| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 202 | 16 | 2023-04-23T04:41:37Z |
 | [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 326 | 16 | 2023-04-20T21:16:37Z |
 | [jaffee/commandeer](https://github.com/jaffee/commandeer) | 165 | 15 | 2023-03-07T15:09:44Z |
 | [ukautz/clif](https://github.com/ukautz/clif) | 122 | 14 | 2023-04-04T06:04:22Z |
@@ -184,14 +184,18 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 18k | 572 | 2023-04-22T22:23:14Z |
+| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 8k | 676 | 2023-04-23T06:01:00Z |
+| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 202 | 16 | 2023-04-23T04:41:37Z |
+| [schollz/progressbar](https://github.com/schollz/progressbar) | 3k | 188 | 2023-04-23T04:31:39Z |
+| [spf13/cobra](https://github.com/spf13/cobra) | 32k | 3k | 2023-04-23T04:21:53Z |
+| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 18k | 573 | 2023-04-23T03:12:34Z |
+| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 380 | 2023-04-23T03:01:24Z |
+| [gizak/termui](https://github.com/gizak/termui) | 12k | 767 | 2023-04-23T03:01:21Z |
+| [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 85 | 2023-04-23T00:58:22Z |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 6k | 150 | 2023-04-22T22:16:05Z |
 | [mkideal/cli](https://github.com/mkideal/cli) | 683 | 45 | 2023-04-22T22:10:26Z |
 | [mattn/go-colorable](https://github.com/mattn/go-colorable) | 683 | 93 | 2023-04-22T22:08:48Z |
-| [spf13/cobra](https://github.com/spf13/cobra) | 32k | 3k | 2023-04-22T19:39:15Z |
 | [cristalhq/acmd](https://github.com/cristalhq/acmd) | 81 | 3 | 2023-04-22T19:39:11Z |
-| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 8k | 676 | 2023-04-22T19:08:28Z |
-| [schollz/progressbar](https://github.com/schollz/progressbar) | 3k | 188 | 2023-04-22T17:37:25Z |
 | [mitchellh/cli](https://github.com/mitchellh/cli) | 2k | 119 | 2023-04-22T17:25:58Z |
 | [vbauerster/mpb](https://github.com/vbauerster/mpb) | 2k | 120 | 2023-04-22T16:37:09Z |
 | [nanovms/ops](https://github.com/nanovms/ops) | 1k | 114 | 2023-04-22T14:41:52Z |
@@ -206,17 +210,13 @@
 | [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 267 | 2023-04-21T22:49:45Z |
 | [spf13/pflag](https://github.com/spf13/pflag) | 2k | 325 | 2023-04-21T21:31:43Z |
 | [elves/elvish](https://github.com/elves/elvish) | 5k | 288 | 2023-04-21T16:50:10Z |
-| [gizak/termui](https://github.com/gizak/termui) | 12k | 767 | 2023-04-21T16:50:04Z |
 | [integrii/flaggy](https://github.com/integrii/flaggy) | 829 | 32 | 2023-04-21T16:08:35Z |
-| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 201 | 16 | 2023-04-21T10:58:13Z |
 | [rsteube/carapace](https://github.com/rsteube/carapace) | 94 | 4 | 2023-04-21T10:57:38Z |
 | [mattn/go-isatty](https://github.com/mattn/go-isatty) | 695 | 100 | 2023-04-21T03:48:53Z |
 | [briandowns/spinner](https://github.com/briandowns/spinner) | 2k | 130 | 2023-04-21T01:50:45Z |
 | [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 2k | 87 | 2023-04-21T00:56:57Z |
 | [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 326 | 16 | 2023-04-20T21:16:37Z |
-| [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 85 | 2023-04-20T19:01:29Z |
 | [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 2k | 288 | 2023-04-20T17:03:39Z |
-| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 380 | 2023-04-20T13:04:12Z |
 | [dnote/dnote](https://github.com/dnote/dnote) | 2k | 107 | 2023-04-20T12:28:30Z |
 | [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) | 345 | 16 | 2023-04-20T03:46:04Z |
 | [alexeyco/simpletable](https://github.com/alexeyco/simpletable) | 442 | 29 | 2023-04-19T14:55:46Z |
@@ -246,7 +246,7 @@
 | [abusomani/go-palette](https://github.com/abusomani/go-palette) | 8 | 1 | 2023-03-17T17:10:49Z |
 | [workanator/go-ataman](https://github.com/workanator/go-ataman) | 14 | 3 | 2023-03-16T23:05:51Z |
 | [liujianping/ts](https://github.com/liujianping/ts) | 17 | 3 | 2023-03-14T23:53:32Z |
-| [octago/sflags](https://github.com/octago/sflags) | 147 | 32 | 2023-03-14T15:58:29Z |
+| [octago/sflags](https://github.com/octago/sflags) | 147 | 33 | 2023-03-14T15:58:29Z |
 | [i582/cfmt](https://github.com/i582/cfmt) | 56 | 3 | 2023-03-10T15:09:57Z |
 | [tucnak/climax](https://github.com/tucnak/climax) | 207 | 16 | 2023-03-09T15:18:01Z |
 | [jaffee/commandeer](https://github.com/jaffee/commandeer) | 165 | 15 | 2023-03-07T15:09:44Z |

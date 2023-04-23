@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 9k | 815 | 2023-04-22T18:27:18Z |
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 9k | 815 | 2023-04-23T02:28:48Z |
 | [99designs/gqlgen](https://github.com/99designs/gqlgen) | 9k | 1k | 2023-04-22T18:16:34Z |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 4k | 496 | 2023-04-22T07:28:39Z |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 4k | 97 | 2023-04-22T22:56:53Z |
@@ -25,7 +25,7 @@
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
 | [99designs/gqlgen](https://github.com/99designs/gqlgen) | 9k | 1k | 2023-04-22T18:16:34Z |
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 9k | 815 | 2023-04-22T18:27:18Z |
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 9k | 815 | 2023-04-23T02:28:48Z |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 4k | 496 | 2023-04-22T07:28:39Z |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 138 | 2023-04-21T10:18:45Z |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 4k | 97 | 2023-04-22T22:56:53Z |
@@ -44,9 +44,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 9k | 815 | 2023-04-23T02:28:48Z |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 4k | 97 | 2023-04-22T22:56:53Z |
 | [a8m/rql](https://github.com/a8m/rql) | 286 | 41 | 2023-04-22T19:13:24Z |
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 9k | 815 | 2023-04-22T18:27:18Z |
 | [99designs/gqlgen](https://github.com/99designs/gqlgen) | 9k | 1k | 2023-04-22T18:16:34Z |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 4k | 496 | 2023-04-22T07:28:39Z |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 138 | 2023-04-21T10:18:45Z |

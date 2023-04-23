@@ -4,18 +4,18 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 68k | 7k | 2023-04-22T20:45:04Z |
-| [beego/beego](https://github.com/beego/beego) | 30k | 6k | 2023-04-22T10:38:13Z |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | 26k | 1k | 2023-04-23T00:35:05Z |
-| [labstack/echo](https://github.com/labstack/echo) | 25k | 2k | 2023-04-23T00:28:33Z |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 68k | 7k | 2023-04-23T06:08:03Z |
+| [beego/beego](https://github.com/beego/beego) | 30k | 6k | 2023-04-23T03:25:43Z |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | 26k | 1k | 2023-04-23T02:35:55Z |
+| [labstack/echo](https://github.com/labstack/echo) | 25k | 2k | 2023-04-23T05:36:29Z |
 | [gorilla/mux](https://github.com/gorilla/mux) | 18k | 2k | 2023-04-23T00:14:57Z |
 | [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 15k | 1k | 2023-04-22T23:50:12Z |
-| [go-chi/chi](https://github.com/go-chi/chi) | 14k | 880 | 2023-04-23T00:12:50Z |
+| [go-chi/chi](https://github.com/go-chi/chi) | 14k | 880 | 2023-04-23T02:19:55Z |
 | [revel/revel](https://github.com/revel/revel) | 13k | 1k | 2023-04-21T09:50:58Z |
 | [urfave/negroni](https://github.com/urfave/negroni) | 7k | 585 | 2023-04-22T19:24:20Z |
 | [goadesign/goa](https://github.com/goadesign/goa) | 5k | 511 | 2023-04-21T15:38:09Z |
 | [NYTimes/gizmo](https://github.com/NYTimes/gizmo) | 4k | 235 | 2023-04-20T11:49:22Z |
-| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 4k | 278 | 2023-04-22T17:16:41Z |
+| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 4k | 278 | 2023-04-23T01:32:53Z |
 | [ant0ine/go-json-rest](https://github.com/ant0ine/go-json-rest) | 4k | 388 | 2023-04-19T04:22:12Z |
 | [go-macaron/macaron](https://github.com/go-macaron/macaron) | 3k | 291 | 2023-04-17T05:17:27Z |
 | [justinas/alice](https://github.com/justinas/alice) | 3k | 151 | 2023-04-22T19:24:34Z |
@@ -26,7 +26,7 @@
 | [ulule/limiter](https://github.com/ulule/limiter) | 2k | 131 | 2023-04-22T07:52:31Z |
 | [gocraft/web](https://github.com/gocraft/web) | 2k | 128 | 2023-04-19T10:16:25Z |
 | [go-zoo/bone](https://github.com/go-zoo/bone) | 1k | 88 | 2023-04-21T02:31:55Z |
-| [go-goyave/goyave](https://github.com/go-goyave/goyave) | 1k | 54 | 2023-04-21T06:54:45Z |
+| [go-goyave/goyave](https://github.com/go-goyave/goyave) | 1k | 54 | 2023-04-23T02:01:50Z |
 | [savsgio/atreugo](https://github.com/savsgio/atreugo) | 1k | 68 | 2023-04-20T03:11:36Z |
 | [rcrowley/go-tigertonic](https://github.com/rcrowley/go-tigertonic) | 998 | 77 | 2023-02-22T15:43:25Z |
 | [goji/goji](https://github.com/goji/goji) | 938 | 69 | 2023-04-10T12:27:15Z |
@@ -110,19 +110,19 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 68k | 7k | 2023-04-22T20:45:04Z |
-| [beego/beego](https://github.com/beego/beego) | 30k | 6k | 2023-04-22T10:38:13Z |
-| [labstack/echo](https://github.com/labstack/echo) | 25k | 2k | 2023-04-23T00:28:33Z |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 68k | 7k | 2023-04-23T06:08:03Z |
+| [beego/beego](https://github.com/beego/beego) | 30k | 6k | 2023-04-23T03:25:43Z |
+| [labstack/echo](https://github.com/labstack/echo) | 25k | 2k | 2023-04-23T05:36:29Z |
 | [gorilla/mux](https://github.com/gorilla/mux) | 18k | 2k | 2023-04-23T00:14:57Z |
 | [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 15k | 1k | 2023-04-22T23:50:12Z |
 | [revel/revel](https://github.com/revel/revel) | 13k | 1k | 2023-04-21T09:50:58Z |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | 26k | 1k | 2023-04-23T00:35:05Z |
-| [go-chi/chi](https://github.com/go-chi/chi) | 14k | 880 | 2023-04-23T00:12:50Z |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | 26k | 1k | 2023-04-23T02:35:55Z |
+| [go-chi/chi](https://github.com/go-chi/chi) | 14k | 880 | 2023-04-23T02:19:55Z |
 | [urfave/negroni](https://github.com/urfave/negroni) | 7k | 585 | 2023-04-22T19:24:20Z |
 | [goadesign/goa](https://github.com/goadesign/goa) | 5k | 511 | 2023-04-21T15:38:09Z |
 | [ant0ine/go-json-rest](https://github.com/ant0ine/go-json-rest) | 4k | 388 | 2023-04-19T04:22:12Z |
 | [go-macaron/macaron](https://github.com/go-macaron/macaron) | 3k | 291 | 2023-04-17T05:17:27Z |
-| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 4k | 278 | 2023-04-22T17:16:41Z |
+| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 4k | 278 | 2023-04-23T01:32:53Z |
 | [NYTimes/gizmo](https://github.com/NYTimes/gizmo) | 4k | 235 | 2023-04-20T11:49:22Z |
 | [rs/cors](https://github.com/rs/cors) | 2k | 214 | 2023-04-21T18:21:09Z |
 | [didip/tollbooth](https://github.com/didip/tollbooth) | 2k | 204 | 2023-04-22T08:22:51Z |
@@ -142,7 +142,7 @@
 | [i-love-flamingo/flamingo-commerce](https://github.com/i-love-flamingo/flamingo-commerce) | 415 | 58 | 2023-04-21T14:22:03Z |
 | [dimfeld/httptreemux](https://github.com/dimfeld/httptreemux) | 589 | 56 | 2023-04-20T14:50:14Z |
 | [abahmed/gearbox](https://github.com/abahmed/gearbox) | 710 | 55 | 2023-04-20T12:10:26Z |
-| [go-goyave/goyave](https://github.com/go-goyave/goyave) | 1k | 54 | 2023-04-21T06:54:45Z |
+| [go-goyave/goyave](https://github.com/go-goyave/goyave) | 1k | 54 | 2023-04-23T02:01:50Z |
 | [thoas/stats](https://github.com/thoas/stats) | 589 | 52 | 2023-03-07T01:59:48Z |
 | [go-ozzo/ozzo-routing](https://github.com/go-ozzo/ozzo-routing) | 449 | 50 | 2023-04-17T20:50:15Z |
 | [uadmin/uadmin](https://github.com/uadmin/uadmin) | 252 | 48 | 2023-04-19T16:39:38Z |
@@ -216,26 +216,26 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [gofiber/fiber](https://github.com/gofiber/fiber) | 26k | 1k | 2023-04-23T00:35:05Z |
-| [labstack/echo](https://github.com/labstack/echo) | 25k | 2k | 2023-04-23T00:28:33Z |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 68k | 7k | 2023-04-23T06:08:03Z |
+| [labstack/echo](https://github.com/labstack/echo) | 25k | 2k | 2023-04-23T05:36:29Z |
+| [beego/beego](https://github.com/beego/beego) | 30k | 6k | 2023-04-23T03:25:43Z |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | 26k | 1k | 2023-04-23T02:35:55Z |
+| [go-chi/chi](https://github.com/go-chi/chi) | 14k | 880 | 2023-04-23T02:19:55Z |
+| [go-goyave/goyave](https://github.com/go-goyave/goyave) | 1k | 54 | 2023-04-23T02:01:50Z |
+| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 4k | 278 | 2023-04-23T01:32:53Z |
 | [gorilla/mux](https://github.com/gorilla/mux) | 18k | 2k | 2023-04-23T00:14:57Z |
-| [go-chi/chi](https://github.com/go-chi/chi) | 14k | 880 | 2023-04-23T00:12:50Z |
 | [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 15k | 1k | 2023-04-22T23:50:12Z |
 | [gopulse/pulse](https://github.com/gopulse/pulse) | 20 | 2 | 2023-04-22T23:01:44Z |
 | [vardius/gorouter](https://github.com/vardius/gorouter) | 147 | 16 | 2023-04-22T22:58:48Z |
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 68k | 7k | 2023-04-22T20:45:04Z |
 | [justinas/alice](https://github.com/justinas/alice) | 3k | 151 | 2023-04-22T19:24:34Z |
 | [urfave/negroni](https://github.com/urfave/negroni) | 7k | 585 | 2023-04-22T19:24:20Z |
-| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 4k | 278 | 2023-04-22T17:16:41Z |
 | [unrolled/render](https://github.com/unrolled/render) | 2k | 139 | 2023-04-22T16:37:22Z |
-| [beego/beego](https://github.com/beego/beego) | 30k | 6k | 2023-04-22T10:38:13Z |
 | [didip/tollbooth](https://github.com/didip/tollbooth) | 2k | 204 | 2023-04-22T08:22:51Z |
 | [ulule/limiter](https://github.com/ulule/limiter) | 2k | 131 | 2023-04-22T07:52:31Z |
 | [rs/cors](https://github.com/rs/cors) | 2k | 214 | 2023-04-21T18:21:09Z |
 | [goadesign/goa](https://github.com/goadesign/goa) | 5k | 511 | 2023-04-21T15:38:09Z |
 | [i-love-flamingo/flamingo-commerce](https://github.com/i-love-flamingo/flamingo-commerce) | 415 | 58 | 2023-04-21T14:22:03Z |
 | [revel/revel](https://github.com/revel/revel) | 13k | 1k | 2023-04-21T09:50:58Z |
-| [go-goyave/goyave](https://github.com/go-goyave/goyave) | 1k | 54 | 2023-04-21T06:54:45Z |
 | [go-zoo/bone](https://github.com/go-zoo/bone) | 1k | 88 | 2023-04-21T02:31:55Z |
 | [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) | 367 | 39 | 2023-04-20T21:00:09Z |
 | [twharmon/golamb](https://github.com/twharmon/golamb) | 5 | 1 | 2023-04-20T21:00:08Z |

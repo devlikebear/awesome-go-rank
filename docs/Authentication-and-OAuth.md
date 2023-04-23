@@ -4,22 +4,22 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-04-22T17:18:43Z |
-| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 930 | 2023-04-22T06:14:58Z |
-| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 260 | 2023-04-22T19:00:35Z |
+| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-04-23T04:43:13Z |
+| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 930 | 2023-04-23T03:28:22Z |
+| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 260 | 2023-04-23T02:29:57Z |
 | [markbates/goth](https://github.com/markbates/goth) | 4k | 500 | 2023-04-19T06:04:21Z |
 | [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-04-22T00:50:54Z |
-| [volatiletech/authboss](https://github.com/volatiletech/authboss) | 3k | 202 | 2023-04-20T19:07:08Z |
+| [volatiletech/authboss](https://github.com/volatiletech/authboss) | 3k | 202 | 2023-04-23T01:39:33Z |
 | [tarent/loginsrv](https://github.com/tarent/loginsrv) | 2k | 158 | 2023-04-22T00:53:50Z |
 | [openshift/osin](https://github.com/openshift/osin) | 2k | 395 | 2023-04-20T07:14:49Z |
 | [dghubble/gologin](https://github.com/dghubble/gologin) | 2k | 131 | 2023-04-19T10:38:53Z |
-| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-04-22T10:45:34Z |
+| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-04-23T02:54:17Z |
 | [alexedwards/scs](https://github.com/alexedwards/scs) | 1k | 121 | 2023-04-21T22:54:45Z |
 | [o1egl/paseto](https://github.com/o1egl/paseto) | 692 | 35 | 2023-04-20T01:03:29Z |
 | [cristalhq/jwt](https://github.com/cristalhq/jwt) | 598 | 41 | 2023-04-20T22:54:37Z |
 | [xyproto/permissions2](https://github.com/xyproto/permissions2) | 481 | 38 | 2023-04-15T01:58:18Z |
 | [shaj13/go-guardian](https://github.com/shaj13/go-guardian) | 450 | 49 | 2023-04-11T01:07:33Z |
-| [pascaldekloe/jwt](https://github.com/pascaldekloe/jwt) | 323 | 25 | 2023-04-21T22:02:01Z |
+| [pascaldekloe/jwt](https://github.com/pascaldekloe/jwt) | 324 | 25 | 2023-04-23T05:08:37Z |
 | [abraithwaite/jeff](https://github.com/abraithwaite/jeff) | 256 | 17 | 2023-04-04T19:21:08Z |
 | [adam-hanna/jwt-auth](https://github.com/adam-hanna/jwt-auth) | 226 | 42 | 2023-04-12T09:35:52Z |
 | [tuupola/branca-spec](https://github.com/tuupola/branca-spec) | 203 | 7 | 2023-04-22T16:57:01Z |
@@ -38,14 +38,14 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-04-22T17:18:43Z |
-| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 930 | 2023-04-22T06:14:58Z |
+| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-04-23T04:43:13Z |
+| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 930 | 2023-04-23T03:28:22Z |
 | [markbates/goth](https://github.com/markbates/goth) | 4k | 500 | 2023-04-19T06:04:21Z |
 | [openshift/osin](https://github.com/openshift/osin) | 2k | 395 | 2023-04-20T07:14:49Z |
 | [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-04-22T00:50:54Z |
-| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 260 | 2023-04-22T19:00:35Z |
-| [volatiletech/authboss](https://github.com/volatiletech/authboss) | 3k | 202 | 2023-04-20T19:07:08Z |
-| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-04-22T10:45:34Z |
+| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 260 | 2023-04-23T02:29:57Z |
+| [volatiletech/authboss](https://github.com/volatiletech/authboss) | 3k | 202 | 2023-04-23T01:39:33Z |
+| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-04-23T02:54:17Z |
 | [tarent/loginsrv](https://github.com/tarent/loginsrv) | 2k | 158 | 2023-04-22T00:53:50Z |
 | [dghubble/gologin](https://github.com/dghubble/gologin) | 2k | 131 | 2023-04-19T10:38:53Z |
 | [alexedwards/scs](https://github.com/alexedwards/scs) | 1k | 121 | 2023-04-21T22:54:45Z |
@@ -55,7 +55,7 @@
 | [xyproto/permissions2](https://github.com/xyproto/permissions2) | 481 | 38 | 2023-04-15T01:58:18Z |
 | [o1egl/paseto](https://github.com/o1egl/paseto) | 692 | 35 | 2023-04-20T01:03:29Z |
 | [go-jose/go-jose](https://github.com/go-jose/go-jose) | 114 | 31 | 2023-04-21T19:43:17Z |
-| [pascaldekloe/jwt](https://github.com/pascaldekloe/jwt) | 323 | 25 | 2023-04-21T22:02:01Z |
+| [pascaldekloe/jwt](https://github.com/pascaldekloe/jwt) | 324 | 25 | 2023-04-23T05:08:37Z |
 | [abraithwaite/jeff](https://github.com/abraithwaite/jeff) | 256 | 17 | 2023-04-04T19:21:08Z |
 | [icza/session](https://github.com/icza/session) | 111 | 17 | 2023-01-22T03:03:17Z |
 | [chmike/securecookie](https://github.com/chmike/securecookie) | 67 | 11 | 2023-04-14T12:21:22Z |
@@ -72,20 +72,20 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 260 | 2023-04-22T19:00:35Z |
-| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-04-22T17:18:43Z |
+| [pascaldekloe/jwt](https://github.com/pascaldekloe/jwt) | 324 | 25 | 2023-04-23T05:08:37Z |
+| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-04-23T04:43:13Z |
+| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 930 | 2023-04-23T03:28:22Z |
+| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-04-23T02:54:17Z |
+| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 260 | 2023-04-23T02:29:57Z |
+| [volatiletech/authboss](https://github.com/volatiletech/authboss) | 3k | 202 | 2023-04-23T01:39:33Z |
 | [tuupola/branca-spec](https://github.com/tuupola/branca-spec) | 203 | 7 | 2023-04-22T16:57:01Z |
-| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-04-22T10:45:34Z |
-| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 930 | 2023-04-22T06:14:58Z |
 | [tarent/loginsrv](https://github.com/tarent/loginsrv) | 2k | 158 | 2023-04-22T00:53:50Z |
 | [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-04-22T00:50:54Z |
 | [alexedwards/scs](https://github.com/alexedwards/scs) | 1k | 121 | 2023-04-21T22:54:45Z |
-| [pascaldekloe/jwt](https://github.com/pascaldekloe/jwt) | 323 | 25 | 2023-04-21T22:02:01Z |
 | [go-jose/go-jose](https://github.com/go-jose/go-jose) | 114 | 31 | 2023-04-21T19:43:17Z |
 | [jltorresm/otpgo](https://github.com/jltorresm/otpgo) | 56 | 8 | 2023-04-21T08:52:05Z |
 | [cristalhq/jwt](https://github.com/cristalhq/jwt) | 598 | 41 | 2023-04-20T22:54:37Z |
 | [brianvoe/sjwt](https://github.com/brianvoe/sjwt) | 111 | 10 | 2023-04-20T22:26:39Z |
-| [volatiletech/authboss](https://github.com/volatiletech/authboss) | 3k | 202 | 2023-04-20T19:07:08Z |
 | [openshift/osin](https://github.com/openshift/osin) | 2k | 395 | 2023-04-20T07:14:49Z |
 | [o1egl/paseto](https://github.com/o1egl/paseto) | 692 | 35 | 2023-04-20T01:03:29Z |
 | [dghubble/gologin](https://github.com/dghubble/gologin) | 2k | 131 | 2023-04-19T10:38:53Z |
