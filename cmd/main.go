@@ -14,24 +14,27 @@ import (
 func printRepositories(title string, repositories []awesomego.Repository) {
 	fmt.Println(title)
 	for _, repo := range repositories {
-		fmt.Printf("%s (Stars: %s, Forks: %s, Last updated: %v)\n", repo.Name,
+		fmt.Printf("%s (Stars: %s, Forks: %s, Last updated: %v, Desc: %s)\n", repo.Name,
 			stringutil.FormatMetricNumber(repo.Stars),
 			stringutil.FormatMetricNumber(repo.Forks),
-			repo.LastUpdated.Format("2006-01-02T15:04:05Z"))
+			repo.LastUpdated.Format("2006-01-02T15:04:05Z"),
+			repo.Description,
+		)
 	}
 }
 
 func writeRepositoriesToFile(title string, repositories []awesomego.Repository,
 	file *os.File) {
 	file.WriteString("### " + title + "\n\n")
-	file.WriteString("| Repository | Stars | Forks | Last Updated |\n")
-	file.WriteString("|------------|-------|-------|--------------|\n")
+	file.WriteString("| Repository | Stars | Forks | Last Updated | Description | \n")
+	file.WriteString("|------------|-------|-------|--------------|-------------|\n")
 	for _, repo := range repositories {
-		file.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s | %v |\n", repo.Name,
+		file.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s | %v | %s |\n", repo.Name,
 			repo.URL,
 			stringutil.FormatMetricNumber(repo.Stars),
 			stringutil.FormatMetricNumber(repo.Forks),
-			repo.LastUpdated.Format("2006-01-02T15:04:05Z")))
+			repo.LastUpdated.Format("2006-01-02T15:04:05Z"),
+			strings.Trim(repo.Description, "-")))
 	}
 	file.WriteString("\n")
 }
@@ -99,25 +102,26 @@ func main() {
 			sort.Strings(sections)
 
 			// Iterate over sorted sections
-			for _, section := range sections {
-				repo := repositories[section]
+			for _, sectionName := range sections {
+				section := ag.Sections()[sectionName]
+				repo := repositories[section.Name]
 				if len(repo) == 0 {
 					continue
 				}
 
 				// Table of Contents
-				outputFile.WriteString(fmt.Sprintf("* [%s](docs/%s.md)\n",
-					section, convertToFilename(section)))
+				outputFile.WriteString(fmt.Sprintf("* [%s](docs/%s.md)<br/>%s\n",
+					section.Name, convertToFilename(section.Name), section.Description ))
 
 				// Skip section if specificSection is set and the section is not
 				// contain the specificSection
 				if specificSection != "" && !strings.Contains(specificSection,
-					section) {
+					section.Name) {
 					continue
 				}
 
 				// Printing and writing results to file by Stars in each section
-				printSectionRank(section, repo)
+				printSectionRank(&section, repo)
 
 			}
 
@@ -139,8 +143,8 @@ func convertToFilename(name string) string {
 	return strings.Replace(name, " ", "-", -1)
 }
 
-func printSectionRank(section string, repo []awesomego.Repository) {
-	filename := "docs/" + convertToFilename(section) + ".md"
+func printSectionRank(section *awesomego.Section, repo []awesomego.Repository) {
+	filename := "docs/" + convertToFilename(section.Name) + ".md"
 
 	// If the directory does not exist, create it
 	if _, err := os.Stat("docs"); os.IsNotExist(err) {
@@ -155,8 +159,8 @@ func printSectionRank(section string, repo []awesomego.Repository) {
 	defer outputFile.Close()
 
 	// Printing and writing a section name
-	fmt.Printf("## %s", section)
-	outputFile.WriteString("## " + section + "\n\n")
+	fmt.Printf("## %s\n\n%s\n\n", section.Name, section.Description)
+	outputFile.WriteString("## " + section.Name + "\n\n" +section.Description + "\n\n")
 
 	// Printing and writing results to file by Star
 	sort.Slice(repo, func(i, j int) bool {
