@@ -6,7 +6,7 @@
 |------------|-------|-------|--------------|
 | [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 776 | 2023-04-22T15:23:38Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-19T13:58:44Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-21T19:00:15Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-23T03:43:09Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 585 | 46 | 2023-04-21T16:40:42Z |
 | [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 286 | 7 | 2023-04-21T22:44:30Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 53 | 2023-03-24T14:56:14Z |
@@ -45,7 +45,7 @@
 |------------|-------|-------|--------------|
 | [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 776 | 2023-04-22T15:23:38Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-19T13:58:44Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-21T19:00:15Z |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-23T03:43:09Z |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 252 | 53 | 2023-03-24T14:56:14Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 585 | 46 | 2023-04-21T16:40:42Z |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 236 | 26 | 2023-04-06T13:11:35Z |
@@ -82,9 +82,9 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-23T03:43:09Z |
 | [tidwall/gjson](https://github.com/tidwall/gjson) | 12k | 776 | 2023-04-22T15:23:38Z |
 | [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 286 | 7 | 2023-04-21T22:44:30Z |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 113 | 2023-04-21T19:00:15Z |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 585 | 46 | 2023-04-21T16:40:42Z |
 | [wI2L/jettison](https://github.com/wI2L/jettison) | 147 | 10 | 2023-04-19T17:23:50Z |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2023-04-19T13:58:44Z |

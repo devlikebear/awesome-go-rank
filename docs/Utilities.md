@@ -4,12 +4,12 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-22T19:27:42Z |
-| [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-22T21:56:04Z |
-| [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-22T21:50:36Z |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T05:45:25Z |
+| [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-23T04:44:19Z |
+| [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-23T05:08:02Z |
 | [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-22T20:01:23Z |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-22T21:13:25Z |
-| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-22T20:09:17Z |
+| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T05:56:59Z |
 | [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 10k | 430 | 2023-04-23T00:14:48Z |
 | [knq/usql](https://github.com/knq/usql) | 8k | 319 | 2023-04-21T18:35:52Z |
 | [peco/peco](https://github.com/peco/peco) | 7k | 240 | 2023-04-21T16:50:09Z |
@@ -20,10 +20,10 @@
 | [tdewolff/minify](https://github.com/tdewolff/minify) | 3k | 201 | 2023-04-22T09:32:11Z |
 | [wgliang/goreporter](https://github.com/wgliang/goreporter) | 3k | 273 | 2023-04-21T15:53:18Z |
 | [minio/mc](https://github.com/minio/mc) | 2k | 465 | 2023-04-22T05:16:14Z |
-| [imdario/mergo](https://github.com/imdario/mergo) | 2k | 252 | 2023-04-22T02:46:13Z |
-| [duke-git/lancet](https://github.com/duke-git/lancet) | 2k | 255 | 2023-04-22T03:30:15Z |
+| [imdario/mergo](https://github.com/imdario/mergo) | 2k | 252 | 2023-04-23T00:53:08Z |
+| [duke-git/lancet](https://github.com/duke-git/lancet) | 2k | 255 | 2023-04-23T03:15:55Z |
 | [asdine/storm](https://github.com/asdine/storm) | 2k | 138 | 2023-04-21T17:33:38Z |
-| [create-go-app/cli](https://github.com/create-go-app/cli) | 2k | 236 | 2023-04-22T12:32:58Z |
+| [create-go-app/cli](https://github.com/create-go-app/cli) | 2k | 236 | 2023-04-23T00:50:17Z |
 | [h2non/filetype](https://github.com/h2non/filetype) | 2k | 158 | 2023-04-20T15:07:06Z |
 | [davrodpin/mole](https://github.com/davrodpin/mole) | 2k | 93 | 2023-04-20T07:41:46Z |
 | [avast/retry-go](https://github.com/avast/retry-go) | 2k | 124 | 2023-04-21T05:43:40Z |
@@ -176,23 +176,23 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-22T21:56:04Z |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-22T19:27:42Z |
+| [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-23T04:44:19Z |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T05:45:25Z |
 | [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-22T20:01:23Z |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-22T21:13:25Z |
-| [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-22T21:50:36Z |
-| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-22T20:09:17Z |
+| [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-23T05:08:02Z |
+| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T05:56:59Z |
 | [minio/mc](https://github.com/minio/mc) | 2k | 465 | 2023-04-22T05:16:14Z |
 | [afex/hystrix-go](https://github.com/afex/hystrix-go) | 4k | 461 | 2023-04-21T15:52:04Z |
 | [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 444 | 2023-04-21T12:44:42Z |
 | [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 10k | 430 | 2023-04-23T00:14:48Z |
 | [knq/usql](https://github.com/knq/usql) | 8k | 319 | 2023-04-21T18:35:52Z |
 | [wgliang/goreporter](https://github.com/wgliang/goreporter) | 3k | 273 | 2023-04-21T15:53:18Z |
-| [duke-git/lancet](https://github.com/duke-git/lancet) | 2k | 255 | 2023-04-22T03:30:15Z |
-| [imdario/mergo](https://github.com/imdario/mergo) | 2k | 252 | 2023-04-22T02:46:13Z |
+| [duke-git/lancet](https://github.com/duke-git/lancet) | 2k | 255 | 2023-04-23T03:15:55Z |
+| [imdario/mergo](https://github.com/imdario/mergo) | 2k | 252 | 2023-04-23T00:53:08Z |
 | [thoas/go-funk](https://github.com/thoas/go-funk) | 4k | 251 | 2023-04-21T19:17:08Z |
 | [peco/peco](https://github.com/peco/peco) | 7k | 240 | 2023-04-21T16:50:09Z |
-| [create-go-app/cli](https://github.com/create-go-app/cli) | 2k | 236 | 2023-04-22T12:32:58Z |
+| [create-go-app/cli](https://github.com/create-go-app/cli) | 2k | 236 | 2023-04-23T00:50:17Z |
 | [tdewolff/minify](https://github.com/tdewolff/minify) | 3k | 201 | 2023-04-22T09:32:11Z |
 | [h2non/filetype](https://github.com/h2non/filetype) | 2k | 158 | 2023-04-20T15:07:06Z |
 | [megaease/easeprobe](https://github.com/megaease/easeprobe) | 2k | 154 | 2023-04-22T02:32:01Z |
@@ -348,28 +348,28 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-23T05:56:59Z |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-23T05:45:25Z |
+| [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-23T05:08:02Z |
+| [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-23T04:44:19Z |
+| [duke-git/lancet](https://github.com/duke-git/lancet) | 2k | 255 | 2023-04-23T03:15:55Z |
+| [imdario/mergo](https://github.com/imdario/mergo) | 2k | 252 | 2023-04-23T00:53:08Z |
+| [create-go-app/cli](https://github.com/create-go-app/cli) | 2k | 236 | 2023-04-23T00:50:17Z |
 | [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 10k | 430 | 2023-04-23T00:14:48Z |
 | [tmrts/boilr](https://github.com/tmrts/boilr) | 2k | 125 | 2023-04-22T23:43:27Z |
 | [golang-design/clipboard](https://github.com/golang-design/clipboard) | 382 | 42 | 2023-04-22T22:40:05Z |
 | [jonboulle/clockwork](https://github.com/jonboulle/clockwork) | 451 | 56 | 2023-04-22T22:31:57Z |
-| [github/hub](https://github.com/github/hub) | 22k | 2k | 2023-04-22T21:56:04Z |
-| [bcicen/ctop](https://github.com/bcicen/ctop) | 14k | 522 | 2023-04-22T21:50:36Z |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 12k | 811 | 2023-04-22T21:13:25Z |
 | [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) | 563 | 58 | 2023-04-22T21:09:00Z |
-| [samber/lo](https://github.com/samber/lo) | 11k | 468 | 2023-04-22T20:09:17Z |
 | [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 14k | 1k | 2023-04-22T20:01:23Z |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 52k | 2k | 2023-04-22T19:27:42Z |
 | [gookit/filter](https://github.com/gookit/filter) | 131 | 11 | 2023-04-22T17:16:47Z |
 | [mennanov/limiters](https://github.com/mennanov/limiters) | 149 | 25 | 2023-04-22T17:04:13Z |
 | [maruel/panicparse](https://github.com/maruel/panicparse) | 3k | 101 | 2023-04-22T16:36:25Z |
-| [create-go-app/cli](https://github.com/create-go-app/cli) | 2k | 236 | 2023-04-22T12:32:58Z |
 | [ferama/rospo](https://github.com/ferama/rospo) | 207 | 18 | 2023-04-22T10:41:48Z |
 | [tdewolff/minify](https://github.com/tdewolff/minify) | 3k | 201 | 2023-04-22T09:32:11Z |
 | [georgysavva/scany](https://github.com/georgysavva/scany) | 893 | 51 | 2023-04-22T08:00:22Z |
 | [minio/mc](https://github.com/minio/mc) | 2k | 465 | 2023-04-22T05:16:14Z |
 | [derekparker/delve](https://github.com/derekparker/delve) | 575 | 114 | 2023-04-22T05:05:20Z |
-| [duke-git/lancet](https://github.com/duke-git/lancet) | 2k | 255 | 2023-04-22T03:30:15Z |
-| [imdario/mergo](https://github.com/imdario/mergo) | 2k | 252 | 2023-04-22T02:46:13Z |
 | [megaease/easeprobe](https://github.com/megaease/easeprobe) | 2k | 154 | 2023-04-22T02:32:01Z |
 | [kazhuravlev/just](https://github.com/kazhuravlev/just) | 20 | 0 | 2023-04-21T22:46:27Z |
 | [thoas/go-funk](https://github.com/thoas/go-funk) | 4k | 251 | 2023-04-21T19:17:08Z |

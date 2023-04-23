@@ -4,7 +4,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-22T21:29:28Z |
+| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-23T05:22:37Z |
 | [joho/godotenv](https://github.com/joho/godotenv) | 6k | 341 | 2023-04-22T13:30:47Z |
 | [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 5k | 362 | 2023-04-22T10:34:32Z |
 | [caarlos0/env](https://github.com/caarlos0/env) | 3k | 206 | 2023-04-22T19:49:42Z |
@@ -63,7 +63,7 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-22T21:29:28Z |
+| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-23T05:22:37Z |
 | [go-ini/ini](https://github.com/go-ini/ini) | 3k | 366 | 2023-04-21T17:43:25Z |
 | [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 5k | 362 | 2023-04-22T10:34:32Z |
 | [joho/godotenv](https://github.com/joho/godotenv) | 6k | 341 | 2023-04-22T13:30:47Z |
@@ -122,8 +122,8 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
+| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-23T05:22:37Z |
 | [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 968 | 85 | 2023-04-23T00:26:32Z |
-| [spf13/viper](https://github.com/spf13/viper) | 23k | 2k | 2023-04-22T21:29:28Z |
 | [knadh/koanf](https://github.com/knadh/koanf) | 2k | 118 | 2023-04-22T20:19:41Z |
 | [caarlos0/env](https://github.com/caarlos0/env) | 3k | 206 | 2023-04-22T19:49:42Z |
 | [alecthomas/kong](https://github.com/alecthomas/kong) | 1k | 115 | 2023-04-22T14:42:01Z |

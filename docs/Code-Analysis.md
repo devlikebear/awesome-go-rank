@@ -6,8 +6,8 @@
 |------------|-------|-------|--------------|
 | [golang/lint](https://github.com/golang/lint) | 4k | 531 | 2023-04-18T07:28:19Z |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2023-04-19T14:15:25Z |
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-22T16:00:52Z |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-22T13:20:04Z |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-23T02:31:52Z |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-23T02:35:35Z |
 | [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 69 | 2023-04-19T06:32:21Z |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 912 | 64 | 2023-04-12T09:18:22Z |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 716 | 42 | 2023-04-18T20:50:04Z |
@@ -37,9 +37,9 @@
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
 | [golang/lint](https://github.com/golang/lint) | 4k | 531 | 2023-04-18T07:28:19Z |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-22T13:20:04Z |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-23T02:35:35Z |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2023-04-19T14:15:25Z |
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-22T16:00:52Z |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-23T02:31:52Z |
 | [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 69 | 2023-04-19T06:32:21Z |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 697 | 67 | 2023-04-05T03:54:51Z |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 912 | 64 | 2023-04-12T09:18:22Z |
@@ -68,8 +68,8 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-22T16:00:52Z |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-22T13:20:04Z |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 139 | 2023-04-23T02:35:35Z |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 111 | 2023-04-23T02:31:52Z |
 | [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) | 626 | 25 | 2023-04-21T14:36:50Z |
 | [segmentio/golines](https://github.com/segmentio/golines) | 594 | 42 | 2023-04-21T14:04:33Z |
 | [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) | 394 | 41 | 2023-04-19T16:11:23Z |
