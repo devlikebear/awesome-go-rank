@@ -93,7 +93,7 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 			atomic.AddInt32(&cnt, 1)
 
 			wg.Add(1)
-			go func(i int, repos []Repository) {
+			/*go */ func(i int, repos []Repository) {
 				defer wg.Done()
 
 				owner, name := extractRepoURLs(repos[i].URL)
@@ -115,7 +115,7 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 				progressBar.Increment() // Update progress bar
 				progressBarMutex.Unlock()
 			}(i, repos)
-								// Sleep to avoid rate limit
+			// Sleep to avoid rate limit
 			time.Sleep(1000 * time.Microsecond)
 
 		}

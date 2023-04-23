@@ -4,41 +4,41 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 1k | 113 | 2023-04-14T08:40:26Z |
-| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 587 | 86 | 2023-04-10T19:54:52Z |
-| [bogem/id3v2](https://github.com/bogem/id3v2) | 287 | 45 | 2023-03-28T20:33:02Z |
-| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 280 | 34 | 2023-04-02T10:55:52Z |
-| [mewkiz/flac](https://github.com/mewkiz/flac) | 243 | 38 | 2023-04-14T07:28:20Z |
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 216 | 42 | 2023-04-14T05:44:33Z |
-| [Comcast/gaad](https://github.com/Comcast/gaad) | 111 | 20 | 2023-04-08T17:06:16Z |
-| [tosone/minimp3](https://github.com/tosone/minimp3) | 101 | 17 | 2023-03-28T04:45:39Z |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 1k | 114 | 2023-04-21T02:01:54Z |
+| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 590 | 87 | 2023-04-21T20:34:54Z |
+| [bogem/id3v2](https://github.com/bogem/id3v2) | 288 | 45 | 2023-04-15T01:19:34Z |
+| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 282 | 34 | 2023-04-20T03:54:17Z |
+| [mewkiz/flac](https://github.com/mewkiz/flac) | 244 | 38 | 2023-04-16T10:15:48Z |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 217 | 42 | 2023-04-15T09:19:00Z |
+| [Comcast/gaad](https://github.com/Comcast/gaad) | 111 | 21 | 2023-04-08T17:06:16Z |
+| [tosone/minimp3](https://github.com/tosone/minimp3) | 102 | 16 | 2023-04-19T07:42:56Z |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 27 | 12 | 2023-02-07T06:22:51Z |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 1k | 113 | 2023-04-14T08:40:26Z |
-| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 587 | 86 | 2023-04-10T19:54:52Z |
-| [bogem/id3v2](https://github.com/bogem/id3v2) | 287 | 45 | 2023-03-28T20:33:02Z |
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 216 | 42 | 2023-04-14T05:44:33Z |
-| [mewkiz/flac](https://github.com/mewkiz/flac) | 243 | 38 | 2023-04-14T07:28:20Z |
-| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 280 | 34 | 2023-04-02T10:55:52Z |
-| [Comcast/gaad](https://github.com/Comcast/gaad) | 111 | 20 | 2023-04-08T17:06:16Z |
-| [tosone/minimp3](https://github.com/tosone/minimp3) | 101 | 17 | 2023-03-28T04:45:39Z |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 1k | 114 | 2023-04-21T02:01:54Z |
+| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 590 | 87 | 2023-04-21T20:34:54Z |
+| [bogem/id3v2](https://github.com/bogem/id3v2) | 288 | 45 | 2023-04-15T01:19:34Z |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 217 | 42 | 2023-04-15T09:19:00Z |
+| [mewkiz/flac](https://github.com/mewkiz/flac) | 244 | 38 | 2023-04-16T10:15:48Z |
+| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 282 | 34 | 2023-04-20T03:54:17Z |
+| [Comcast/gaad](https://github.com/Comcast/gaad) | 111 | 21 | 2023-04-08T17:06:16Z |
+| [tosone/minimp3](https://github.com/tosone/minimp3) | 102 | 16 | 2023-04-19T07:42:56Z |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 27 | 12 | 2023-02-07T06:22:51Z |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 1k | 113 | 2023-04-14T08:40:26Z |
-| [mewkiz/flac](https://github.com/mewkiz/flac) | 243 | 38 | 2023-04-14T07:28:20Z |
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 216 | 42 | 2023-04-14T05:44:33Z |
-| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 587 | 86 | 2023-04-10T19:54:52Z |
-| [Comcast/gaad](https://github.com/Comcast/gaad) | 111 | 20 | 2023-04-08T17:06:16Z |
-| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 280 | 34 | 2023-04-02T10:55:52Z |
-| [bogem/id3v2](https://github.com/bogem/id3v2) | 287 | 45 | 2023-03-28T20:33:02Z |
-| [tosone/minimp3](https://github.com/tosone/minimp3) | 101 | 17 | 2023-03-28T04:45:39Z |
+| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 590 | 87 | 2023-04-21T20:34:54Z |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 1k | 114 | 2023-04-21T02:01:54Z |
+| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 282 | 34 | 2023-04-20T03:54:17Z |
+| [tosone/minimp3](https://github.com/tosone/minimp3) | 102 | 16 | 2023-04-19T07:42:56Z |
+| [mewkiz/flac](https://github.com/mewkiz/flac) | 244 | 38 | 2023-04-16T10:15:48Z |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 217 | 42 | 2023-04-15T09:19:00Z |
+| [bogem/id3v2](https://github.com/bogem/id3v2) | 288 | 45 | 2023-04-15T01:19:34Z |
+| [Comcast/gaad](https://github.com/Comcast/gaad) | 111 | 21 | 2023-04-08T17:06:16Z |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 27 | 12 | 2023-02-07T06:22:51Z |
 

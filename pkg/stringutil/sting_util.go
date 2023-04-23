@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"math"
 	"strconv"
+	"strings"
 )
 
 // FormatNumber formats a number to a string with a comma separator
@@ -38,4 +39,22 @@ func FormatMetricNumber(number int) string {
 		}
 	}
 	return fmt.Sprintf("%.0f%s", num, suffix)
+}
+
+// ParseMetricNumber parses a metric number string to an integer
+func ParseMetricNumber(metricNumber string) (int, error) {
+	suffixes := []string{"k", "m", "b", "t"}
+	var multiplier float64 = 1
+	for i, suffix := range suffixes {
+		if strings.HasSuffix(metricNumber, suffix) {
+			multiplier = math.Pow(10, float64((i+1)*3))
+			metricNumber = strings.TrimSuffix(metricNumber, suffix)
+			break
+		}
+	}
+	number, err := strconv.ParseFloat(metricNumber, 64)
+	if err != nil {
+		return 0, err
+	}
+	return int(number * multiplier), nil
 }

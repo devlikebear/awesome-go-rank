@@ -4,10 +4,10 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 199 | 2023-04-13T13:36:31Z |
-| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 235 | 2023-04-12T07:21:53Z |
-| [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 1k | 144 | 2023-04-13T07:13:53Z |
-| [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 129 | 2023-04-11T14:50:18Z |
+| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 200 | 2023-04-20T09:15:00Z |
+| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 235 | 2023-04-19T10:39:34Z |
+| [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 1k | 144 | 2023-04-21T07:06:00Z |
+| [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 129 | 2023-04-19T06:10:54Z |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 231 | 18 | 2023-03-21T05:44:26Z |
 | [tylertreat/go-benchmarks](https://github.com/tylertreat/go-benchmarks) | 147 | 24 | 2022-12-14T18:09:19Z |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 111 | 7 | 2023-01-06T06:44:30Z |
@@ -23,10 +23,10 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 235 | 2023-04-12T07:21:53Z |
-| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 199 | 2023-04-13T13:36:31Z |
-| [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 1k | 144 | 2023-04-13T07:13:53Z |
-| [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 129 | 2023-04-11T14:50:18Z |
+| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 235 | 2023-04-19T10:39:34Z |
+| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 200 | 2023-04-20T09:15:00Z |
+| [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 1k | 144 | 2023-04-21T07:06:00Z |
+| [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 129 | 2023-04-19T06:10:54Z |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 96 | 30 | 2023-02-27T16:16:44Z |
 | [tylertreat/go-benchmarks](https://github.com/tylertreat/go-benchmarks) | 147 | 24 | 2022-12-14T18:09:19Z |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 231 | 18 | 2023-03-21T05:44:26Z |
@@ -42,10 +42,10 @@
 
 | Repository | Stars | Forks | Last Updated |
 |------------|-------|-------|--------------|
-| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 199 | 2023-04-13T13:36:31Z |
-| [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 1k | 144 | 2023-04-13T07:13:53Z |
-| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 235 | 2023-04-12T07:21:53Z |
-| [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 129 | 2023-04-11T14:50:18Z |
+| [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 1k | 144 | 2023-04-21T07:06:00Z |
+| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 200 | 2023-04-20T09:15:00Z |
+| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 235 | 2023-04-19T10:39:34Z |
+| [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 129 | 2023-04-19T06:10:54Z |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 231 | 18 | 2023-03-21T05:44:26Z |
 | [nikolaydubina/go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) | 27 | 1 | 2023-03-14T13:33:48Z |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 96 | 30 | 2023-02-27T16:16:44Z |
