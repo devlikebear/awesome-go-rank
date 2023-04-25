@@ -6,9 +6,9 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-23T09:17:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-24T16:23:35Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-04-22T16:36:48Z |  Statistics package with common functions missing from the Golang standard library. |
-| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-23T14:40:01Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-24T17:28:26Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 150 | 2023-04-20T23:46:43Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 111 | 2023-04-19T09:32:08Z |  general purpose, graphical tool for dealing with streams of data. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 978 | 87 | 2023-04-22T19:15:04Z |  Dataframes for machine-learning and statistics (similar to pandas). |
@@ -28,8 +28,8 @@ Libraries for scientific computing and data analyzing.
 | [skelterjohn/geom](https://github.com/skelterjohn/geom) | 55 | 18 | 2023-04-02T02:39:45Z |  2D geometry for golang. |
 | [soniah/evaler](https://github.com/soniah/evaler) | 51 | 15 | 2023-01-17T15:34:03Z |  Simple floating point arithmetic expression evaluator. |
 | [tchayen/triangolatte](https://github.com/tchayen/triangolatte) | 35 | 3 | 2023-04-03T14:18:57Z |  2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. |
+| [db47h/decimal](https://github.com/db47h/decimal) | 33 | 3 | 2023-04-25T00:22:13Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
 | [kzahedi/goent](https://github.com/kzahedi/goent) | 32 | 4 | 2023-04-02T02:40:09Z |  GO Implementation of Entropy Measures. |
-| [db47h/decimal](https://github.com/db47h/decimal) | 32 | 3 | 2023-03-15T12:54:27Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 24 | 3 | 2023-02-27T07:17:09Z |  Tiny linear interpolation library. |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 22 | 2 | 2023-04-21T03:30:04Z |   A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [soypat/godesim](https://github.com/soypat/godesim) | 21 | 1 | 2023-01-05T01:18:21Z |  Extended/multivariable ODE solver framework for event-based simulations with simple API. |
@@ -45,8 +45,8 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-23T09:17:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-23T14:40:01Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-24T16:23:35Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-24T17:28:26Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-04-22T16:36:48Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 150 | 2023-04-20T23:46:43Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 111 | 2023-04-19T09:32:08Z |  general purpose, graphical tool for dealing with streams of data. |
@@ -66,11 +66,11 @@ Libraries for scientific computing and data analyzing.
 | [soniah/evaler](https://github.com/soniah/evaler) | 51 | 15 | 2023-01-17T15:34:03Z |  Simple floating point arithmetic expression evaluator. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 104 | 7 | 2023-03-03T21:01:18Z |  State estimation and filtering algorithms in Go. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 63 | 5 | 2023-03-22T22:54:33Z |  Tool to manipulate JSONL graphs with graphviz support. |
-| [claygod/PiHex](https://github.com/claygod/PiHex) | 20 | 4 | 2023-03-05T13:19:33Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
 | [kzahedi/goent](https://github.com/kzahedi/goent) | 32 | 4 | 2023-04-02T02:40:09Z |  GO Implementation of Entropy Measures. |
+| [claygod/PiHex](https://github.com/claygod/PiHex) | 20 | 4 | 2023-03-05T13:19:33Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
 | [OGFris/GoStats](https://github.com/OGFris/GoStats) | 19 | 3 | 2022-11-10T12:06:20Z |  GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 24 | 3 | 2023-02-27T07:17:09Z |  Tiny linear interpolation library. |
-| [db47h/decimal](https://github.com/db47h/decimal) | 32 | 3 | 2023-03-15T12:54:27Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
+| [db47h/decimal](https://github.com/db47h/decimal) | 33 | 3 | 2023-04-25T00:22:13Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
 | [tchayen/triangolatte](https://github.com/tchayen/triangolatte) | 35 | 3 | 2023-04-03T14:18:57Z |  2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. |
 | [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 11 | 3 | 2023-03-22T19:19:34Z |  Package assocentity returns the average distance from words to a given entity. |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 22 | 2 | 2023-04-21T03:30:04Z |   A golang generic graph library that provides mathematical graph-theory and algorithms. |
@@ -84,8 +84,9 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-23T14:40:01Z |  gonum/plot provides an API for building and drawing plots in Go. |
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-23T09:17:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [db47h/decimal](https://github.com/db47h/decimal) | 33 | 3 | 2023-04-25T00:22:13Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
+| [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-04-24T17:28:26Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 502 | 2023-04-24T16:23:35Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 978 | 87 | 2023-04-22T19:15:04Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [paulmach/orb](https://github.com/paulmach/orb) | 651 | 85 | 2023-04-22T17:06:26Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-04-22T16:36:48Z |  Statistics package with common functions missing from the Golang standard library. |
@@ -109,7 +110,6 @@ Libraries for scientific computing and data analyzing.
 | [skelterjohn/geom](https://github.com/skelterjohn/geom) | 55 | 18 | 2023-04-02T02:39:45Z |  2D geometry for golang. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 63 | 5 | 2023-03-22T22:54:33Z |  Tool to manipulate JSONL graphs with graphviz support. |
 | [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 11 | 3 | 2023-03-22T19:19:34Z |  Package assocentity returns the average distance from words to a given entity. |
-| [db47h/decimal](https://github.com/db47h/decimal) | 32 | 3 | 2023-03-15T12:54:27Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
 | [claygod/PiHex](https://github.com/claygod/PiHex) | 20 | 4 | 2023-03-05T13:19:33Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 104 | 7 | 2023-03-03T21:01:18Z |  State estimation and filtering algorithms in Go. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 24 | 3 | 2023-02-27T07:17:09Z |  Tiny linear interpolation library. |
