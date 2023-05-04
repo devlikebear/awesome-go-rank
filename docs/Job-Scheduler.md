@@ -10,7 +10,7 @@ Libraries for scheduling jobs.
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 1k | 70 | 2023-05-01T15:47:34Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 966 | 65 | 2023-05-02T10:21:29Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 957 | 94 | 2023-05-01T20:11:19Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 746 | 73 | 2023-04-30T03:11:27Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 748 | 74 | 2023-05-03T17:43:10Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [albrow/jobs](https://github.com/albrow/jobs) | 497 | 45 | 2023-04-28T14:56:51Z |  Persistent and flexible background jobs library. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 426 | 54 | 2023-04-30T21:00:51Z |  Cronjobs scheduling made easy. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 262 | 13 | 2023-04-25T14:20:48Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
@@ -30,7 +30,7 @@ Libraries for scheduling jobs.
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 341 | 2023-05-02T15:00:16Z | . |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 957 | 94 | 2023-05-01T20:11:19Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 746 | 73 | 2023-04-30T03:11:27Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 748 | 74 | 2023-05-03T17:43:10Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 1k | 70 | 2023-05-01T15:47:34Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 966 | 65 | 2023-05-02T10:21:29Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 426 | 54 | 2023-04-30T21:00:51Z |  Cronjobs scheduling made easy. |
@@ -50,13 +50,13 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 748 | 74 | 2023-05-03T17:43:10Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 341 | 2023-05-02T15:00:16Z | . |
 | [datarootsio/cheek](https://github.com/datarootsio/cheek) | 75 | 4 | 2023-05-02T11:32:14Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 966 | 65 | 2023-05-02T10:21:29Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 957 | 94 | 2023-05-01T20:11:19Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 1k | 70 | 2023-05-01T15:47:34Z |  Simple, zero-dependency scheduling library for Go. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 426 | 54 | 2023-04-30T21:00:51Z |  Cronjobs scheduling made easy. |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 746 | 73 | 2023-04-30T03:11:27Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [albrow/jobs](https://github.com/albrow/jobs) | 497 | 45 | 2023-04-28T14:56:51Z |  Persistent and flexible background jobs library. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 114 | 9 | 2023-04-28T03:45:18Z |  A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 151 | 17 | 2023-04-26T14:07:06Z |  An easy to use in-process scheduler for recurring tasks in Go. |
