@@ -16,7 +16,7 @@ Libraries for manipulating video.
 | [ziutek/gst](https://github.com/ziutek/gst) | 166 | 47 | 2022-11-10T07:38:11Z |  Go bindings for GStreamer. |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 74 | 13 | 2023-03-09T15:24:12Z |  Video capture library for Linux, written in Go. |
 | [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs) | 23 | 5 | 2023-04-14T15:22:49Z |  Subtitle format support for go. Supports .srt, .ttml, and .ass. |
-| [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 18 | 9 | 2023-05-04T23:43:22Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
+| [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 17 | 9 | 2023-05-05T12:36:11Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
 | [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 16 | 6 | 2023-04-11T21:31:08Z |  Parser and generator library for MPEG-DASH manifest files. |
 
 ### Ranked by Forks
@@ -32,7 +32,7 @@ Libraries for manipulating video.
 | [ziutek/gst](https://github.com/ziutek/gst) | 166 | 47 | 2022-11-10T07:38:11Z |  Go bindings for GStreamer. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 347 | 44 | 2023-05-02T14:15:05Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 74 | 13 | 2023-03-09T15:24:12Z |  Video capture library for Linux, written in Go. |
-| [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 18 | 9 | 2023-05-04T23:43:22Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
+| [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 17 | 9 | 2023-05-05T12:36:11Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
 | [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 16 | 6 | 2023-04-11T21:31:08Z |  Parser and generator library for MPEG-DASH manifest files. |
 | [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs) | 23 | 5 | 2023-04-14T15:22:49Z |  Subtitle format support for go. Supports .srt, .ttml, and .ass. |
 
@@ -40,7 +40,7 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 18 | 9 | 2023-05-04T23:43:22Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
+| [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 17 | 9 | 2023-05-05T12:36:11Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 402 | 128 | 2023-05-04T22:13:02Z |  Pure Go RTSP server and client library. |
 | [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 281 | 2023-05-04T14:04:48Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 347 | 44 | 2023-05-02T14:15:05Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
