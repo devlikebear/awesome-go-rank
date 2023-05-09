@@ -6,8 +6,8 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 503 | 2023-05-07T17:46:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-05-07T23:03:02Z |  Statistics package with common functions missing from the Golang standard library. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 503 | 2023-05-08T19:54:23Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-05-08T05:55:51Z |  Statistics package with common functions missing from the Golang standard library. |
 | [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-05-07T14:31:54Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 150 | 2023-05-03T16:16:59Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 111 | 2023-04-19T09:32:08Z |  general purpose, graphical tool for dealing with streams of data. |
@@ -18,7 +18,7 @@ Libraries for scientific computing and data analyzing.
 | [paulmach/orb](https://github.com/paulmach/orb) | 662 | 86 | 2023-05-05T16:06:01Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 639 | 58 | 2023-05-06T01:51:02Z |  Library of basic graph algorithms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 407 | 34 | 2023-04-18T22:19:56Z |  Exponentially-weighted moving averages. |
-| [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 372 | 16 | 2023-05-07T14:54:20Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
+| [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 373 | 16 | 2023-05-08T21:29:23Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 180 | 21 | 2023-05-02T15:19:58Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [VividCortex/gohistogram](https://github.com/VividCortex/gohistogram) | 171 | 32 | 2023-04-13T09:03:41Z |  Approximate histograms for data streams. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 140 | 23 | 2023-04-18T01:23:06Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
@@ -45,9 +45,9 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 503 | 2023-05-07T17:46:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 503 | 2023-05-08T19:54:23Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-05-07T14:31:54Z |  gonum/plot provides an API for building and drawing plots in Go. |
-| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-05-07T23:03:02Z |  Statistics package with common functions missing from the Golang standard library. |
+| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-05-08T05:55:51Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 150 | 2023-05-03T16:16:59Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 111 | 2023-04-19T09:32:08Z |  general purpose, graphical tool for dealing with streams of data. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 752 | 106 | 2023-05-03T17:44:44Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
@@ -62,7 +62,7 @@ Libraries for scientific computing and data analyzing.
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 180 | 21 | 2023-05-02T15:19:58Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 78 | 21 | 2023-04-04T03:34:21Z |  Weighted PageRank algorithm implemented in Go. |
 | [skelterjohn/geom](https://github.com/skelterjohn/geom) | 55 | 18 | 2023-04-02T02:39:45Z |  2D geometry for golang. |
-| [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 372 | 16 | 2023-05-07T14:54:20Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
+| [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 373 | 16 | 2023-05-08T21:29:23Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
 | [soniah/evaler](https://github.com/soniah/evaler) | 51 | 15 | 2023-01-17T15:34:03Z |  Simple floating point arithmetic expression evaluator. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 104 | 7 | 2023-03-03T21:01:18Z |  State estimation and filtering algorithms in Go. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 63 | 5 | 2023-03-22T22:54:33Z |  Tool to manipulate JSONL graphs with graphviz support. |
@@ -84,9 +84,9 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-05-07T23:03:02Z |  Statistics package with common functions missing from the Golang standard library. |
-| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 503 | 2023-05-07T17:46:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 372 | 16 | 2023-05-07T14:54:20Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
+| [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 373 | 16 | 2023-05-08T21:29:23Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 7k | 503 | 2023-05-08T19:54:23Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 171 | 2023-05-08T05:55:51Z |  Statistics package with common functions missing from the Golang standard library. |
 | [gonum/plot](https://github.com/gonum/plot) | 2k | 204 | 2023-05-07T14:31:54Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 979 | 86 | 2023-05-06T11:29:56Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 639 | 58 | 2023-05-06T01:51:02Z |  Library of basic graph algorithms. |
