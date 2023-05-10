@@ -6,9 +6,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 7k | 443 | 2023-05-08T23:33:46Z |  simple "Make" alternative. |
+| [go-task/task](https://github.com/go-task/task) | 7k | 443 | 2023-05-09T23:22:16Z |  simple "Make" alternative. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 232 | 2023-05-09T00:15:58Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
-| [magefile/mage](https://github.com/magefile/mage) | 3k | 231 | 2023-05-08T12:35:56Z |  Mage is a make/rake-like build tool using Go. |
+| [magefile/mage](https://github.com/magefile/mage) | 3k | 231 | 2023-05-09T23:29:41Z |  Mage is a make/rake-like build tool using Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 48 | 2023-04-21T01:35:40Z |  Modern Make. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 837 | 18 | 2023-05-08T16:08:01Z |  Task runner with README.md defined tasks, executable markdown. |
 | [goyek/goyek](https://github.com/goyek/goyek) | 382 | 27 | 2023-04-28T10:20:30Z |  Create build pipelines in Go. |
@@ -21,9 +21,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 7k | 443 | 2023-05-08T23:33:46Z |  simple "Make" alternative. |
+| [go-task/task](https://github.com/go-task/task) | 7k | 443 | 2023-05-09T23:22:16Z |  simple "Make" alternative. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 232 | 2023-05-09T00:15:58Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
-| [magefile/mage](https://github.com/magefile/mage) | 3k | 231 | 2023-05-08T12:35:56Z |  Mage is a make/rake-like build tool using Go. |
+| [magefile/mage](https://github.com/magefile/mage) | 3k | 231 | 2023-05-09T23:29:41Z |  Mage is a make/rake-like build tool using Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 48 | 2023-04-21T01:35:40Z |  Modern Make. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 251 | 36 | 2023-05-08T13:55:40Z |  Concurrent task runner. |
 | [gopinath-langote/1build](https://github.com/gopinath-langote/1build) | 210 | 31 | 2023-05-04T09:31:19Z |  Command line tool to frictionlessly manage project-specific commands. |
@@ -36,11 +36,11 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [magefile/mage](https://github.com/magefile/mage) | 3k | 231 | 2023-05-09T23:29:41Z |  Mage is a make/rake-like build tool using Go. |
+| [go-task/task](https://github.com/go-task/task) | 7k | 443 | 2023-05-09T23:22:16Z |  simple "Make" alternative. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 232 | 2023-05-09T00:15:58Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
-| [go-task/task](https://github.com/go-task/task) | 7k | 443 | 2023-05-08T23:33:46Z |  simple "Make" alternative. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 837 | 18 | 2023-05-08T16:08:01Z |  Task runner with README.md defined tasks, executable markdown. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 251 | 36 | 2023-05-08T13:55:40Z |  Concurrent task runner. |
-| [magefile/mage](https://github.com/magefile/mage) | 3k | 231 | 2023-05-08T12:35:56Z |  Mage is a make/rake-like build tool using Go. |
 | [gopinath-langote/1build](https://github.com/gopinath-langote/1build) | 210 | 31 | 2023-05-04T09:31:19Z |  Command line tool to frictionlessly manage project-specific commands. |
 | [goyek/goyek](https://github.com/goyek/goyek) | 382 | 27 | 2023-04-28T10:20:30Z |  Create build pipelines in Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 48 | 2023-04-21T01:35:40Z |  Modern Make. |
