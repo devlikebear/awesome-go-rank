@@ -18,7 +18,7 @@ Unofficial libraries for package and dependency management.
 | [jingweno/nut](https://github.com/jingweno/nut) | 238 | 11 | 2022-09-27T09:04:04Z |  Vendor Go dependencies. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2022-09-27T09:03:57Z |  Minimal dependency version using Git. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 182 | 13 | 2023-05-03T12:48:23Z |  Update binaries installed by "go install". |
-| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 150 | 30 | 2023-03-11T06:19:20Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
+| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 151 | 31 | 2023-05-11T19:38:17Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 124 | 11 | 2023-03-27T21:16:08Z |  create and manage exportable isolated go virtual environments. |
 | [lunny/gop](https://github.com/lunny/gop) | 50 | 6 | 2023-01-28T18:24:13Z |  Build and manage your Go applications out of GOPATH. |
 
@@ -34,7 +34,7 @@ Unofficial libraries for package and dependency management.
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 103 | 2023-04-24T18:27:57Z |  Go Manager - bundle for go. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2023-05-06T13:57:08Z |  Barebones dependency manager for Go. |
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 779 | 45 | 2022-09-27T09:03:45Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
-| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 150 | 30 | 2023-03-11T06:19:20Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
+| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 151 | 31 | 2023-05-11T19:38:17Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 450 | 18 | 2023-04-27T05:50:47Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 182 | 13 | 2023-05-03T12:48:23Z |  Update binaries installed by "go install". |
 | [jingweno/nut](https://github.com/jingweno/nut) | 238 | 11 | 2022-09-27T09:04:04Z |  Vendor Go dependencies. |
@@ -46,6 +46,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 151 | 31 | 2023-05-11T19:38:17Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 222 | 2023-05-09T20:14:46Z |  Go Package Manager. |
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-05-09T16:36:37Z |  Go dependency tool. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2023-05-06T13:57:08Z |  Barebones dependency manager for Go. |
@@ -56,7 +57,6 @@ Unofficial libraries for package and dependency management.
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 450 | 18 | 2023-04-27T05:50:47Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 103 | 2023-04-24T18:27:57Z |  Go Manager - bundle for go. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 124 | 11 | 2023-03-27T21:16:08Z |  create and manage exportable isolated go virtual environments. |
-| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 150 | 30 | 2023-03-11T06:19:20Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [lunny/gop](https://github.com/lunny/gop) | 50 | 6 | 2023-01-28T18:24:13Z |  Build and manage your Go applications out of GOPATH. |
 | [jingweno/nut](https://github.com/jingweno/nut) | 238 | 11 | 2022-09-27T09:04:04Z |  Vendor Go dependencies. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2022-09-27T09:03:57Z |  Minimal dependency version using Git. |
