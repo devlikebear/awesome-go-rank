@@ -6,17 +6,17 @@ Libraries for implementing authentication schemes.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-05-15T23:23:00Z |  Authorization library that supports access control models like ACL, RBAC, and ABAC. |
-| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 938 | 2023-05-15T07:24:14Z |  Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support. |
-| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 264 | 2023-05-15T23:40:18Z |  A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs. |
-| [markbates/goth](https://github.com/markbates/goth) | 4k | 504 | 2023-05-15T11:58:25Z |  provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. |
-| [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-05-15T15:29:42Z |  Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. |
+| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-05-17T00:27:31Z |  Authorization library that supports access control models like ACL, RBAC, and ABAC. |
+| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 938 | 2023-05-16T02:35:17Z |  Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support. |
+| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 264 | 2023-05-16T22:56:01Z |  A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs. |
+| [markbates/goth](https://github.com/markbates/goth) | 4k | 504 | 2023-05-16T13:11:34Z |  provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. |
+| [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-05-16T07:41:45Z |  Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. |
 | [volatiletech/authboss](https://github.com/volatiletech/authboss) | 3k | 201 | 2023-05-13T18:44:51Z |  Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time. |
 | [tarent/loginsrv](https://github.com/tarent/loginsrv) | 2k | 158 | 2023-05-14T09:29:58Z |  JWT login microservice with plugable backends such as OAuth2 (Github), htpasswd, osiam. |
 | [openshift/osin](https://github.com/openshift/osin) | 2k | 394 | 2023-05-11T10:23:03Z |  Golang OAuth2 server library. |
 | [dghubble/gologin](https://github.com/dghubble/gologin) | 2k | 131 | 2023-05-15T04:28:21Z |  chainable handlers for login with OAuth1 and OAuth2 authentication providers. |
 | [alexedwards/scs](https://github.com/alexedwards/scs) | 1k | 124 | 2023-05-15T00:08:00Z |  Session Manager for HTTP servers. |
-| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-05-15T02:59:31Z |  provides a lightweight role-based access control (RBAC) implementation in Golang. |
+| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-05-16T09:55:12Z |  provides a lightweight role-based access control (RBAC) implementation in Golang. |
 | [o1egl/paseto](https://github.com/o1egl/paseto) | 708 | 35 | 2023-05-13T19:34:12Z |  Golang implementation of Platform-Agnostic Security Tokens (PASETO). |
 | [cristalhq/jwt](https://github.com/cristalhq/jwt) | 600 | 41 | 2023-05-15T13:43:05Z |  Safe, simple, and fast JSON Web Tokens for Go. |
 | [xyproto/permissions2](https://github.com/xyproto/permissions2) | 482 | 38 | 2023-04-25T09:27:54Z |  Library for keeping track of users, login states, and permissions. Uses secure cookies and bcrypt. |
@@ -40,14 +40,14 @@ Libraries for implementing authentication schemes.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-05-15T23:23:00Z |  Authorization library that supports access control models like ACL, RBAC, and ABAC. |
-| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 938 | 2023-05-15T07:24:14Z |  Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support. |
-| [markbates/goth](https://github.com/markbates/goth) | 4k | 504 | 2023-05-15T11:58:25Z |  provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. |
+| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-05-17T00:27:31Z |  Authorization library that supports access control models like ACL, RBAC, and ABAC. |
+| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 938 | 2023-05-16T02:35:17Z |  Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support. |
+| [markbates/goth](https://github.com/markbates/goth) | 4k | 504 | 2023-05-16T13:11:34Z |  provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. |
 | [openshift/osin](https://github.com/openshift/osin) | 2k | 394 | 2023-05-11T10:23:03Z |  Golang OAuth2 server library. |
-| [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-05-15T15:29:42Z |  Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. |
-| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 264 | 2023-05-15T23:40:18Z |  A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs. |
+| [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-05-16T07:41:45Z |  Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. |
+| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 264 | 2023-05-16T22:56:01Z |  A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs. |
 | [volatiletech/authboss](https://github.com/volatiletech/authboss) | 3k | 201 | 2023-05-13T18:44:51Z |  Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time. |
-| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-05-15T02:59:31Z |  provides a lightweight role-based access control (RBAC) implementation in Golang. |
+| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-05-16T09:55:12Z |  provides a lightweight role-based access control (RBAC) implementation in Golang. |
 | [tarent/loginsrv](https://github.com/tarent/loginsrv) | 2k | 158 | 2023-05-14T09:29:58Z |  JWT login microservice with plugable backends such as OAuth2 (Github), htpasswd, osiam. |
 | [dghubble/gologin](https://github.com/dghubble/gologin) | 2k | 131 | 2023-05-15T04:28:21Z |  chainable handlers for login with OAuth1 and OAuth2 authentication providers. |
 | [alexedwards/scs](https://github.com/alexedwards/scs) | 1k | 124 | 2023-05-15T00:08:00Z |  Session Manager for HTTP servers. |
@@ -74,15 +74,15 @@ Libraries for implementing authentication schemes.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 264 | 2023-05-15T23:40:18Z |  A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs. |
-| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-05-15T23:23:00Z |  Authorization library that supports access control models like ACL, RBAC, and ABAC. |
-| [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-05-15T15:29:42Z |  Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. |
+| [hsluoyz/casbin](https://github.com/hsluoyz/casbin) | 14k | 2k | 2023-05-17T00:27:31Z |  Authorization library that supports access control models like ACL, RBAC, and ABAC. |
+| [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | 5k | 264 | 2023-05-16T22:56:01Z |  A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs. |
+| [markbates/goth](https://github.com/markbates/goth) | 4k | 504 | 2023-05-16T13:11:34Z |  provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. |
+| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-05-16T09:55:12Z |  provides a lightweight role-based access control (RBAC) implementation in Golang. |
+| [ory/keto](https://github.com/ory/keto) | 4k | 293 | 2023-05-16T07:41:45Z |  Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. |
+| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 938 | 2023-05-16T02:35:17Z |  Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support. |
 | [cristalhq/jwt](https://github.com/cristalhq/jwt) | 600 | 41 | 2023-05-15T13:43:05Z |  Safe, simple, and fast JSON Web Tokens for Go. |
-| [markbates/goth](https://github.com/markbates/goth) | 4k | 504 | 2023-05-15T11:58:25Z |  provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. |
-| [golang/oauth2](https://github.com/golang/oauth2) | 5k | 938 | 2023-05-15T07:24:14Z |  Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support. |
 | [shaj13/go-guardian](https://github.com/shaj13/go-guardian) | 465 | 50 | 2023-05-15T05:11:39Z |  Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication. |
 | [dghubble/gologin](https://github.com/dghubble/gologin) | 2k | 131 | 2023-05-15T04:28:21Z |  chainable handlers for login with OAuth1 and OAuth2 authentication providers. |
-| [mikespook/gorbac](https://github.com/mikespook/gorbac) | 1k | 170 | 2023-05-15T02:59:31Z |  provides a lightweight role-based access control (RBAC) implementation in Golang. |
 | [alexedwards/scs](https://github.com/alexedwards/scs) | 1k | 124 | 2023-05-15T00:08:00Z |  Session Manager for HTTP servers. |
 | [tarent/loginsrv](https://github.com/tarent/loginsrv) | 2k | 158 | 2023-05-14T09:29:58Z |  JWT login microservice with plugable backends such as OAuth2 (Github), htpasswd, osiam. |
 | [o1egl/paseto](https://github.com/o1egl/paseto) | 708 | 35 | 2023-05-13T19:34:12Z |  Golang implementation of Platform-Agnostic Security Tokens (PASETO). |
