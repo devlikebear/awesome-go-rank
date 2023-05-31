@@ -11,7 +11,7 @@ Libraries for scientific computing and data analyzing.
 | [gonum/plot](https://github.com/gonum/plot) | 2k | 206 | 2023-05-27T23:21:20Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 151 | 2023-05-29T18:56:29Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 112 | 2023-05-17T21:41:11Z |  general purpose, graphical tool for dealing with streams of data. |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 996 | 88 | 2023-05-29T04:22:53Z |  Dataframes for machine-learning and statistics (similar to pandas). |
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 998 | 88 | 2023-05-30T09:52:21Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 816 | 90 | 2023-05-28T00:35:57Z |  Digital Signal Processing for Go. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 754 | 107 | 2023-05-25T12:22:36Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 716 | 81 | 2023-05-20T19:00:18Z |  Pure Go graph theory library(data structure, algorithm visualization). |
@@ -23,7 +23,7 @@ Libraries for scientific computing and data analyzing.
 | [VividCortex/gohistogram](https://github.com/VividCortex/gohistogram) | 171 | 31 | 2023-04-13T09:03:41Z |  Approximate histograms for data streams. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 140 | 23 | 2023-04-18T01:23:06Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 104 | 7 | 2023-03-03T21:01:18Z |  State estimation and filtering algorithms in Go. |
-| [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 78 | 21 | 2023-04-04T03:34:21Z |  Weighted PageRank algorithm implemented in Go. |
+| [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 78 | 20 | 2023-04-04T03:34:21Z |  Weighted PageRank algorithm implemented in Go. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 63 | 5 | 2023-03-22T22:54:33Z |  Tool to manipulate JSONL graphs with graphviz support. |
 | [skelterjohn/geom](https://github.com/skelterjohn/geom) | 55 | 18 | 2023-04-02T02:39:45Z |  2D geometry for golang. |
 | [soniah/evaler](https://github.com/soniah/evaler) | 52 | 15 | 2023-05-21T14:19:13Z |  Simple floating point arithmetic expression evaluator. |
@@ -52,7 +52,7 @@ Libraries for scientific computing and data analyzing.
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 112 | 2023-05-17T21:41:11Z |  general purpose, graphical tool for dealing with streams of data. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 754 | 107 | 2023-05-25T12:22:36Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 816 | 90 | 2023-05-28T00:35:57Z |  Digital Signal Processing for Go. |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 996 | 88 | 2023-05-29T04:22:53Z |  Dataframes for machine-learning and statistics (similar to pandas). |
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 998 | 88 | 2023-05-30T09:52:21Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [paulmach/orb](https://github.com/paulmach/orb) | 669 | 87 | 2023-05-29T01:41:41Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 716 | 81 | 2023-05-20T19:00:18Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 641 | 59 | 2023-05-28T14:54:33Z |  Library of basic graph algorithms. |
@@ -60,7 +60,7 @@ Libraries for scientific computing and data analyzing.
 | [VividCortex/gohistogram](https://github.com/VividCortex/gohistogram) | 171 | 31 | 2023-04-13T09:03:41Z |  Approximate histograms for data streams. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 140 | 23 | 2023-04-18T01:23:06Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 182 | 21 | 2023-05-19T16:39:00Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
-| [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 78 | 21 | 2023-04-04T03:34:21Z |  Weighted PageRank algorithm implemented in Go. |
+| [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 78 | 20 | 2023-04-04T03:34:21Z |  Weighted PageRank algorithm implemented in Go. |
 | [skelterjohn/geom](https://github.com/skelterjohn/geom) | 55 | 18 | 2023-04-02T02:39:45Z |  2D geometry for golang. |
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 375 | 17 | 2023-05-22T03:30:34Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
 | [soniah/evaler](https://github.com/soniah/evaler) | 52 | 15 | 2023-05-21T14:19:13Z |  Simple floating point arithmetic expression evaluator. |
@@ -84,9 +84,9 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 998 | 88 | 2023-05-30T09:52:21Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 151 | 2023-05-29T18:56:29Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 25 | 3 | 2023-05-29T18:08:09Z |  Tiny linear interpolation library. |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 996 | 88 | 2023-05-29T04:22:53Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [paulmach/orb](https://github.com/paulmach/orb) | 669 | 87 | 2023-05-29T01:41:41Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 641 | 59 | 2023-05-28T14:54:33Z |  Library of basic graph algorithms. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 173 | 2023-05-28T12:38:30Z |  Statistics package with common functions missing from the Golang standard library. |
@@ -107,7 +107,7 @@ Libraries for scientific computing and data analyzing.
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 140 | 23 | 2023-04-18T01:23:06Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [VividCortex/gohistogram](https://github.com/VividCortex/gohistogram) | 171 | 31 | 2023-04-13T09:03:41Z |  Approximate histograms for data streams. |
 | [ThePaw/go-gt](https://github.com/ThePaw/go-gt) | 10 | 2 | 2023-04-07T11:01:36Z |  Graph theory algorithms written in "Go" language. |
-| [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 78 | 21 | 2023-04-04T03:34:21Z |  Weighted PageRank algorithm implemented in Go. |
+| [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 78 | 20 | 2023-04-04T03:34:21Z |  Weighted PageRank algorithm implemented in Go. |
 | [tchayen/triangolatte](https://github.com/tchayen/triangolatte) | 35 | 3 | 2023-04-03T14:18:57Z |  2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. |
 | [ChristopherRabotin/ode](https://github.com/ChristopherRabotin/ode) | 21 | 2 | 2023-04-02T02:41:27Z |  Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions. |
 | [skelterjohn/geom](https://github.com/skelterjohn/geom) | 55 | 18 | 2023-04-02T02:39:45Z |  2D geometry for golang. |
