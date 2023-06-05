@@ -14,9 +14,9 @@ Libraries for scientific computing and data analyzing.
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 88 | 2023-06-03T09:15:24Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 816 | 90 | 2023-05-28T00:35:57Z |  Digital Signal Processing for Go. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 754 | 107 | 2023-05-25T12:22:36Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
-| [gyuho/goraph](https://github.com/gyuho/goraph) | 717 | 81 | 2023-05-31T18:03:04Z |  Pure Go graph theory library(data structure, algorithm visualization). |
+| [gyuho/goraph](https://github.com/gyuho/goraph) | 718 | 81 | 2023-06-04T14:29:28Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [paulmach/orb](https://github.com/paulmach/orb) | 670 | 87 | 2023-06-01T13:12:38Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 641 | 59 | 2023-05-28T14:54:33Z |  Library of basic graph algorithms. |
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 642 | 59 | 2023-06-04T13:11:12Z |  Library of basic graph algorithms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 408 | 34 | 2023-05-28T12:36:47Z |  Exponentially-weighted moving averages. |
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 375 | 17 | 2023-05-22T03:30:34Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 182 | 21 | 2023-05-19T16:39:00Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
@@ -54,8 +54,8 @@ Libraries for scientific computing and data analyzing.
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 816 | 90 | 2023-05-28T00:35:57Z |  Digital Signal Processing for Go. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 88 | 2023-06-03T09:15:24Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [paulmach/orb](https://github.com/paulmach/orb) | 670 | 87 | 2023-06-01T13:12:38Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
-| [gyuho/goraph](https://github.com/gyuho/goraph) | 717 | 81 | 2023-05-31T18:03:04Z |  Pure Go graph theory library(data structure, algorithm visualization). |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 641 | 59 | 2023-05-28T14:54:33Z |  Library of basic graph algorithms. |
+| [gyuho/goraph](https://github.com/gyuho/goraph) | 718 | 81 | 2023-06-04T14:29:28Z |  Pure Go graph theory library(data structure, algorithm visualization). |
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 642 | 59 | 2023-06-04T13:11:12Z |  Library of basic graph algorithms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 408 | 34 | 2023-05-28T12:36:47Z |  Exponentially-weighted moving averages. |
 | [VividCortex/gohistogram](https://github.com/VividCortex/gohistogram) | 171 | 31 | 2023-06-01T01:05:00Z |  Approximate histograms for data streams. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 140 | 23 | 2023-04-18T01:23:06Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
@@ -84,17 +84,17 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [gyuho/goraph](https://github.com/gyuho/goraph) | 718 | 81 | 2023-06-04T14:29:28Z |  Pure Go graph theory library(data structure, algorithm visualization). |
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 642 | 59 | 2023-06-04T13:11:12Z |  Library of basic graph algorithms. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 64 | 5 | 2023-06-03T14:47:49Z |  Tool to manipulate JSONL graphs with graphviz support. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 88 | 2023-06-03T09:15:24Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [gonum/gonum](https://github.com/gonum/gonum) | 7k | 509 | 2023-06-03T04:34:23Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 151 | 2023-06-01T20:09:13Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 670 | 87 | 2023-06-01T13:12:38Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [VividCortex/gohistogram](https://github.com/VividCortex/gohistogram) | 171 | 31 | 2023-06-01T01:05:00Z |  Approximate histograms for data streams. |
-| [gyuho/goraph](https://github.com/gyuho/goraph) | 717 | 81 | 2023-05-31T18:03:04Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 173 | 2023-05-31T16:58:10Z |  Statistics package with common functions missing from the Golang standard library. |
 | [gonum/plot](https://github.com/gonum/plot) | 2k | 206 | 2023-05-31T12:28:35Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 25 | 3 | 2023-05-29T18:08:09Z |  Tiny linear interpolation library. |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 641 | 59 | 2023-05-28T14:54:33Z |  Library of basic graph algorithms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 408 | 34 | 2023-05-28T12:36:47Z |  Exponentially-weighted moving averages. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 816 | 90 | 2023-05-28T00:35:57Z |  Digital Signal Processing for Go. |
 | [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 11 | 3 | 2023-05-27T05:38:42Z |  Package assocentity returns the average distance from words to a given entity. |
