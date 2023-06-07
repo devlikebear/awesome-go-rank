@@ -18,7 +18,7 @@ Unofficial libraries for package and dependency management.
 | [jingweno/nut](https://github.com/jingweno/nut) | 237 | 11 | 2023-05-27T17:38:59Z |  Vendor Go dependencies. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 186 | 13 | 2023-06-03T12:14:21Z |  Update binaries installed by "go install". |
-| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 153 | 31 | 2023-06-04T03:37:42Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
+| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 154 | 31 | 2023-06-06T12:23:54Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 123 | 11 | 2023-05-24T00:44:16Z |  create and manage exportable isolated go virtual environments. |
 | [lunny/gop](https://github.com/lunny/gop) | 50 | 7 | 2023-01-28T18:24:13Z |  Build and manage your Go applications out of GOPATH. |
 
@@ -34,7 +34,7 @@ Unofficial libraries for package and dependency management.
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 104 | 2023-06-04T05:10:44Z |  Go Manager - bundle for go. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2023-05-06T13:57:08Z |  Barebones dependency manager for Go. |
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 779 | 45 | 2022-09-27T09:03:45Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
-| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 153 | 31 | 2023-06-04T03:37:42Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
+| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 154 | 31 | 2023-06-06T12:23:54Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 462 | 19 | 2023-05-31T21:48:53Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 186 | 13 | 2023-06-03T12:14:21Z |  Update binaries installed by "go install". |
 | [jingweno/nut](https://github.com/jingweno/nut) | 237 | 11 | 2023-05-27T17:38:59Z |  Vendor Go dependencies. |
@@ -46,10 +46,10 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 154 | 31 | 2023-06-06T12:23:54Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 554 | 2023-06-04T19:48:16Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-06-04T06:10:09Z |  Go dependency tool. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 104 | 2023-06-04T05:10:44Z |  Go Manager - bundle for go. |
-| [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 153 | 31 | 2023-06-04T03:37:42Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 186 | 13 | 2023-06-03T12:14:21Z |  Update binaries installed by "go install". |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 462 | 19 | 2023-05-31T21:48:53Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
