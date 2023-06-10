@@ -6,12 +6,12 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-08T14:07:06Z |  Go development plugin for Vim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-09T20:24:46Z |  Go development plugin for Vim. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-06-01T18:46:07Z |  Autocompletion daemon for the Go programming language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 314 | 2023-06-06T05:39:14Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 685 | 2023-06-08T22:07:18Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 686 | 2023-06-08T22:07:18Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 144 | 2023-05-27T19:45:39Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
-| [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 208 | 2023-06-05T18:38:28Z |  Go mode for GNU/Emacs. |
+| [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 208 | 2023-06-09T17:45:20Z |  Go mode for GNU/Emacs. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 343 | 57 | 2023-06-08T10:58:42Z |  Formatting tool for imports. |
 | [eaburns/Watch](https://github.com/eaburns/Watch) | 199 | 50 | 2023-05-03T14:57:49Z |  Runs a command in an acme win on file changes. |
 | [rjohnsondev/vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go) | 87 | 17 | 2023-06-06T14:19:28Z |  Vim plugin to highlight syntax errors on save. |
@@ -25,11 +25,11 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-08T14:07:06Z |  Go development plugin for Vim. |
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 685 | 2023-06-08T22:07:18Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-09T20:24:46Z |  Go development plugin for Vim. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 686 | 2023-06-08T22:07:18Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-06-01T18:46:07Z |  Autocompletion daemon for the Go programming language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 314 | 2023-06-06T05:39:14Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
-| [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 208 | 2023-06-05T18:38:28Z |  Go mode for GNU/Emacs. |
+| [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 208 | 2023-06-09T17:45:20Z |  Go mode for GNU/Emacs. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 144 | 2023-05-27T19:45:39Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 343 | 57 | 2023-06-08T10:58:42Z |  Formatting tool for imports. |
 | [eaburns/Watch](https://github.com/eaburns/Watch) | 199 | 50 | 2023-05-03T14:57:49Z |  Runs a command in an acme win on file changes. |
@@ -44,12 +44,12 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 685 | 2023-06-08T22:07:18Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-08T14:07:06Z |  Go development plugin for Vim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-09T20:24:46Z |  Go development plugin for Vim. |
+| [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 208 | 2023-06-09T17:45:20Z |  Go mode for GNU/Emacs. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 686 | 2023-06-08T22:07:18Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 343 | 57 | 2023-06-08T10:58:42Z |  Formatting tool for imports. |
 | [rjohnsondev/vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go) | 87 | 17 | 2023-06-06T14:19:28Z |  Vim plugin to highlight syntax errors on save. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 314 | 2023-06-06T05:39:14Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
-| [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 208 | 2023-06-05T18:38:28Z |  Go mode for GNU/Emacs. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-06-01T18:46:07Z |  Autocompletion daemon for the Go programming language. |
 | [hexdigest/gounit-vim](https://github.com/hexdigest/gounit-vim) | 23 | 1 | 2023-05-29T01:41:20Z |  Vim plugin for generating Go tests based on the function's or method's signature. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 144 | 2023-05-27T19:45:39Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
