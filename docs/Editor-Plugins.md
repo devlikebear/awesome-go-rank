@@ -6,10 +6,10 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-14T22:09:02Z |  Go development plugin for Vim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-15T16:44:48Z |  Go development plugin for Vim. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-06-14T10:40:55Z |  Autocompletion daemon for the Go programming language. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 693 | 2023-06-15T16:35:36Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 314 | 2023-06-14T10:51:26Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 690 | 2023-06-14T20:30:28Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 144 | 2023-05-27T19:45:39Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 208 | 2023-06-10T11:36:50Z |  Go mode for GNU/Emacs. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 346 | 57 | 2023-06-14T16:55:23Z |  Formatting tool for imports. |
@@ -25,8 +25,8 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-14T22:09:02Z |  Go development plugin for Vim. |
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 690 | 2023-06-14T20:30:28Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-15T16:44:48Z |  Go development plugin for Vim. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 693 | 2023-06-15T16:35:36Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-06-14T10:40:55Z |  Autocompletion daemon for the Go programming language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 314 | 2023-06-14T10:51:26Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 208 | 2023-06-10T11:36:50Z |  Go mode for GNU/Emacs. |
@@ -44,8 +44,8 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-14T22:09:02Z |  Go development plugin for Vim. |
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 690 | 2023-06-14T20:30:28Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 15k | 1k | 2023-06-15T16:44:48Z |  Go development plugin for Vim. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 3k | 693 | 2023-06-15T16:35:36Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 346 | 57 | 2023-06-14T16:55:23Z |  Formatting tool for imports. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 314 | 2023-06-14T10:51:26Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 682 | 2023-06-14T10:40:55Z |  Autocompletion daemon for the Go programming language. |
