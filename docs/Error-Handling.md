@@ -18,7 +18,7 @@ Libraries for handling errors.
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 134 | 5 | 2023-06-14T03:19:40Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
 | [bnkamalesh/errors](https://github.com/bnkamalesh/errors) | 51 | 4 | 2023-05-30T14:24:22Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
 | [samber/oops](https://github.com/samber/oops) | 33 | 2 | 2023-06-16T17:27:49Z |  Error handling with context, stack trace and source fragments. |
-| [rbrahul/exception](https://github.com/rbrahul/exception) | 25 | 1 | 2023-01-09T05:38:50Z |  A simple utility package for exception handling with try-catch in Golang. |
+| [rbrahul/exception](https://github.com/rbrahul/exception) | 24 | 1 | 2023-06-17T02:06:06Z |  A simple utility package for exception handling with try-catch in Golang. |
 | [SonicRoshan/falcon](https://github.com/SonicRoshan/falcon) | 9 | 1 | 2023-04-02T02:07:48Z |  A Simple Yet Highly Powerful Package For Error Handling. |
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 8 | 1 | 2023-04-02T02:08:10Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
 | [neuronlabs/errors](https://github.com/neuronlabs/errors) | 5 | 1 | 2023-04-02T02:06:54Z |  Simple golang error handling with classification primitives. |
@@ -39,7 +39,7 @@ Libraries for handling errors.
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 134 | 5 | 2023-06-14T03:19:40Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
 | [bnkamalesh/errors](https://github.com/bnkamalesh/errors) | 51 | 4 | 2023-05-30T14:24:22Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
 | [samber/oops](https://github.com/samber/oops) | 33 | 2 | 2023-06-16T17:27:49Z |  Error handling with context, stack trace and source fragments. |
-| [rbrahul/exception](https://github.com/rbrahul/exception) | 25 | 1 | 2023-01-09T05:38:50Z |  A simple utility package for exception handling with try-catch in Golang. |
+| [rbrahul/exception](https://github.com/rbrahul/exception) | 24 | 1 | 2023-06-17T02:06:06Z |  A simple utility package for exception handling with try-catch in Golang. |
 | [SonicRoshan/falcon](https://github.com/SonicRoshan/falcon) | 9 | 1 | 2023-04-02T02:07:48Z |  A Simple Yet Highly Powerful Package For Error Handling. |
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 8 | 1 | 2023-04-02T02:08:10Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
 | [neuronlabs/errors](https://github.com/neuronlabs/errors) | 5 | 1 | 2023-04-02T02:06:54Z |  Simple golang error handling with classification primitives. |
@@ -48,6 +48,7 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [rbrahul/exception](https://github.com/rbrahul/exception) | 24 | 1 | 2023-06-17T02:06:06Z |  A simple utility package for exception handling with try-catch in Golang. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 54 | 2023-06-16T22:46:03Z |  Go error library with error portability over the network. |
 | [pkg/errors](https://github.com/pkg/errors) | 8k | 667 | 2023-06-16T18:02:11Z |  Package that provides simple error handling primitives. |
 | [samber/oops](https://github.com/samber/oops) | 33 | 2 | 2023-06-16T17:27:49Z |  Error handling with context, stack trace and source fragments. |
@@ -63,5 +64,4 @@ Libraries for handling errors.
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 8 | 1 | 2023-04-02T02:08:10Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
 | [SonicRoshan/falcon](https://github.com/SonicRoshan/falcon) | 9 | 1 | 2023-04-02T02:07:48Z |  A Simple Yet Highly Powerful Package For Error Handling. |
 | [neuronlabs/errors](https://github.com/neuronlabs/errors) | 5 | 1 | 2023-04-02T02:06:54Z |  Simple golang error handling with classification primitives. |
-| [rbrahul/exception](https://github.com/rbrahul/exception) | 25 | 1 | 2023-01-09T05:38:50Z |  A simple utility package for exception handling with try-catch in Golang. |
 
