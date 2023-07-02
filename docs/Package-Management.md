@@ -17,7 +17,7 @@ Unofficial libraries for package and dependency management.
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 464 | 20 | 2023-06-16T02:18:26Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [jingweno/nut](https://github.com/jingweno/nut) | 235 | 11 | 2023-06-17T18:32:16Z |  Vendor Go dependencies. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 191 | 14 | 2023-06-30T04:40:46Z |  Update binaries installed by "go install". |
+| [nao1215/gup](https://github.com/nao1215/gup) | 192 | 14 | 2023-07-01T14:38:16Z |  Update binaries installed by "go install". |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 155 | 31 | 2023-06-08T08:56:20Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 122 | 11 | 2023-06-28T15:34:48Z |  create and manage exportable isolated go virtual environments. |
 | [lunny/gop](https://github.com/lunny/gop) | 50 | 7 | 2023-01-28T18:24:13Z |  Build and manage your Go applications out of GOPATH. |
@@ -36,7 +36,7 @@ Unofficial libraries for package and dependency management.
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 780 | 45 | 2023-06-17T14:27:31Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 155 | 31 | 2023-06-08T08:56:20Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 464 | 20 | 2023-06-16T02:18:26Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 191 | 14 | 2023-06-30T04:40:46Z |  Update binaries installed by "go install". |
+| [nao1215/gup](https://github.com/nao1215/gup) | 192 | 14 | 2023-07-01T14:38:16Z |  Update binaries installed by "go install". |
 | [jingweno/nut](https://github.com/jingweno/nut) | 235 | 11 | 2023-06-17T18:32:16Z |  Vendor Go dependencies. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 122 | 11 | 2023-06-28T15:34:48Z |  create and manage exportable isolated go virtual environments. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
@@ -46,7 +46,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [nao1215/gup](https://github.com/nao1215/gup) | 191 | 14 | 2023-06-30T04:40:46Z |  Update binaries installed by "go install". |
+| [nao1215/gup](https://github.com/nao1215/gup) | 192 | 14 | 2023-07-01T14:38:16Z |  Update binaries installed by "go install". |
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-06-28T16:10:26Z |  Go dependency tool. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 122 | 11 | 2023-06-28T15:34:48Z |  create and manage exportable isolated go virtual environments. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 104 | 2023-06-28T11:20:35Z |  Go Manager - bundle for go. |
