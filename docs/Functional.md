@@ -6,8 +6,8 @@ Packages to support functional programming in Go.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [samber/mo](https://github.com/samber/mo) | 2k | 51 | 2023-07-07T19:11:49Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
-| [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 69 | 2023-07-07T02:49:04Z |  Useful collection of helpfully functional Go collection utilities. |
+| [samber/mo](https://github.com/samber/mo) | 2k | 51 | 2023-07-08T15:25:41Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
+| [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 68 | 2023-07-07T02:49:04Z |  Useful collection of helpfully functional Go collection utilities. |
 | [TeaEntityLab/fpGo](https://github.com/TeaEntityLab/fpGo) | 322 | 21 | 2023-07-07T11:59:41Z |  Monad, Functional Programming features for Golang. |
 | [repeale/fp-go](https://github.com/repeale/fp-go) | 233 | 10 | 2023-07-03T18:20:57Z |  Collection of Functional Programming helpers powered by Golang 1.18+ generics. |
 | [seborama/fuego](https://github.com/seborama/fuego) | 140 | 12 | 2023-06-22T09:54:50Z |  Functional Experiment in Go. |
@@ -19,8 +19,8 @@ Packages to support functional programming in Go.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 69 | 2023-07-07T02:49:04Z |  Useful collection of helpfully functional Go collection utilities. |
-| [samber/mo](https://github.com/samber/mo) | 2k | 51 | 2023-07-07T19:11:49Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
+| [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 68 | 2023-07-07T02:49:04Z |  Useful collection of helpfully functional Go collection utilities. |
+| [samber/mo](https://github.com/samber/mo) | 2k | 51 | 2023-07-08T15:25:41Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
 | [TeaEntityLab/fpGo](https://github.com/TeaEntityLab/fpGo) | 322 | 21 | 2023-07-07T11:59:41Z |  Monad, Functional Programming features for Golang. |
 | [seborama/fuego](https://github.com/seborama/fuego) | 140 | 12 | 2023-06-22T09:54:50Z |  Functional Experiment in Go. |
 | [repeale/fp-go](https://github.com/repeale/fp-go) | 233 | 10 | 2023-07-03T18:20:57Z |  Collection of Functional Programming helpers powered by Golang 1.18+ generics. |
@@ -32,9 +32,9 @@ Packages to support functional programming in Go.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [samber/mo](https://github.com/samber/mo) | 2k | 51 | 2023-07-07T19:11:49Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
+| [samber/mo](https://github.com/samber/mo) | 2k | 51 | 2023-07-08T15:25:41Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
 | [TeaEntityLab/fpGo](https://github.com/TeaEntityLab/fpGo) | 322 | 21 | 2023-07-07T11:59:41Z |  Monad, Functional Programming features for Golang. |
-| [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 69 | 2023-07-07T02:49:04Z |  Useful collection of helpfully functional Go collection utilities. |
+| [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 68 | 2023-07-07T02:49:04Z |  Useful collection of helpfully functional Go collection utilities. |
 | [rbrahul/gofp](https://github.com/rbrahul/gofp) | 138 | 7 | 2023-07-06T23:49:03Z |  A lodash like powerful utility library for Golang. |
 | [repeale/fp-go](https://github.com/repeale/fp-go) | 233 | 10 | 2023-07-03T18:20:57Z |  Collection of Functional Programming helpers powered by Golang 1.18+ generics. |
 | [seborama/fuego](https://github.com/seborama/fuego) | 140 | 12 | 2023-06-22T09:54:50Z |  Functional Experiment in Go. |
