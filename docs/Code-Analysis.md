@@ -9,7 +9,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [golang/lint](https://github.com/golang/lint) | 4k | 530 | 2023-07-04T17:26:23Z |  Golint is a linter for Go source code. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2023-07-08T15:36:45Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 112 | 2023-07-07T11:09:23Z |  source code linter that brings checks that are currently not implemented in other linters. |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 146 | 2023-07-08T07:39:00Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 146 | 2023-07-09T04:41:41Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 72 | 2023-07-03T10:43:17Z |  Visualise Go program GC trace data in real time. |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 927 | 65 | 2023-07-07T19:10:28Z |  A Parser for PHP written in Go. |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 747 | 44 | 2023-07-03T00:42:33Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
@@ -21,7 +21,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [mdempsky/unconvert](https://github.com/mdempsky/unconvert) | 358 | 27 | 2023-06-30T08:47:05Z |  Remove unnecessary type conversions from Go source. |
 | [mibk/dupl](https://github.com/mibk/dupl) | 314 | 23 | 2023-07-07T20:53:37Z |  Tool for code clone detection. |
 | [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) | 307 | 19 | 2023-07-04T09:45:33Z |  CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author. |
-| [shurcooL/gostatus](https://github.com/shurcooL/gostatus) | 244 | 11 | 2023-02-13T11:13:31Z |  Command line tool, shows the status of repositories that contain Go packages. |
+| [shurcooL/gostatus](https://github.com/shurcooL/gostatus) | 244 | 11 | 2023-07-09T21:16:14Z |  Command line tool, shows the status of repositories that contain Go packages. |
 | [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 231 | 16 | 2023-07-07T19:11:03Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
 | [bradleyfalzon/apicompat](https://github.com/bradleyfalzon/apicompat) | 178 | 5 | 2023-06-10T11:53:22Z |  Checks recent changes to a Go project for backwards incompatible changes. |
 | [qiniu/checkstyle](https://github.com/qiniu/checkstyle) | 128 | 17 | 2023-05-14T08:54:56Z |  checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments. |
@@ -39,7 +39,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [golang/lint](https://github.com/golang/lint) | 4k | 530 | 2023-07-04T17:26:23Z |  Golint is a linter for Go source code. |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 146 | 2023-07-08T07:39:00Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 146 | 2023-07-09T04:41:41Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2023-07-08T15:36:45Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 112 | 2023-07-07T11:09:23Z |  source code linter that brings checks that are currently not implemented in other linters. |
 | [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 72 | 2023-07-03T10:43:17Z |  Visualise Go program GC trace data in real time. |
@@ -57,7 +57,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [mccoyst/validate](https://github.com/mccoyst/validate) | 60 | 14 | 2023-01-09T17:07:28Z |  Automatically validates struct fields with tags. |
 | [amit-davidson/Chronos](https://github.com/amit-davidson/Chronos) | 405 | 13 | 2023-07-05T11:52:22Z |  Detects race conditions statically |
 | [Checkmarx/chainjacking](https://github.com/Checkmarx/chainjacking) | 43 | 11 | 2023-07-04T10:03:24Z |  Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack. |
-| [shurcooL/gostatus](https://github.com/shurcooL/gostatus) | 244 | 11 | 2023-02-13T11:13:31Z |  Command line tool, shows the status of repositories that contain Go packages. |
+| [shurcooL/gostatus](https://github.com/shurcooL/gostatus) | 244 | 11 | 2023-07-09T21:16:14Z |  Command line tool, shows the status of repositories that contain Go packages. |
 | [surullabs/lint](https://github.com/surullabs/lint) | 67 | 9 | 2022-09-27T10:12:53Z |  Run linters as part of go test. |
 | [sashamelentyev/usestdlibvars](https://github.com/sashamelentyev/usestdlibvars) | 39 | 6 | 2023-04-11T19:23:34Z |  A linter that detect the possibility to use variables/constants from the Go standard library. |
 | [bradleyfalzon/apicompat](https://github.com/bradleyfalzon/apicompat) | 178 | 5 | 2023-06-10T11:53:22Z |  Checks recent changes to a Go project for backwards incompatible changes. |
@@ -70,8 +70,9 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [shurcooL/gostatus](https://github.com/shurcooL/gostatus) | 244 | 11 | 2023-07-09T21:16:14Z |  Command line tool, shows the status of repositories that contain Go packages. |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 146 | 2023-07-09T04:41:41Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2023-07-08T15:36:45Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 1k | 146 | 2023-07-08T07:39:00Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [mibk/dupl](https://github.com/mibk/dupl) | 314 | 23 | 2023-07-07T20:53:37Z |  Tool for code clone detection. |
 | [segmentio/golines](https://github.com/segmentio/golines) | 648 | 47 | 2023-07-07T20:48:26Z |  Formatter that automatically shortens long lines in Go code. |
 | [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 231 | 16 | 2023-07-07T19:11:03Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
@@ -92,7 +93,6 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [bradleyfalzon/apicompat](https://github.com/bradleyfalzon/apicompat) | 178 | 5 | 2023-06-10T11:53:22Z |  Checks recent changes to a Go project for backwards incompatible changes. |
 | [qiniu/checkstyle](https://github.com/qiniu/checkstyle) | 128 | 17 | 2023-05-14T08:54:56Z |  checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments. |
 | [sashamelentyev/usestdlibvars](https://github.com/sashamelentyev/usestdlibvars) | 39 | 6 | 2023-04-11T19:23:34Z |  A linter that detect the possibility to use variables/constants from the Go standard library. |
-| [shurcooL/gostatus](https://github.com/shurcooL/gostatus) | 244 | 11 | 2023-02-13T11:13:31Z |  Command line tool, shows the status of repositories that contain Go packages. |
 | [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 10 | 2 | 2023-01-09T17:54:47Z |  iFood API SDK. |
 | [mccoyst/validate](https://github.com/mccoyst/validate) | 60 | 14 | 2023-01-09T17:07:28Z |  Automatically validates struct fields with tags. |
 | [surullabs/lint](https://github.com/surullabs/lint) | 67 | 9 | 2022-09-27T10:12:53Z |  Run linters as part of go test. |
