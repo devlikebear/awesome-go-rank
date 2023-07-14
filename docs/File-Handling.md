@@ -6,17 +6,17 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [spf13/afero](https://github.com/spf13/afero) | 5k | 474 | 2023-07-12T09:52:14Z |  FileSystem Abstraction System for Go. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 364 | 2023-07-13T00:15:10Z |  PDF processor. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 107 | 2023-07-13T00:12:52Z |  Disk usage analyzer with console interface. |
+| [spf13/afero](https://github.com/spf13/afero) | 5k | 474 | 2023-07-13T09:26:19Z |  FileSystem Abstraction System for Go. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 365 | 2023-07-13T07:17:00Z |  PDF processor. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 107 | 2023-07-13T15:41:49Z |  Disk usage analyzer with console interface. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 101 | 2023-07-12T09:57:39Z | . |
-| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 827 | 124 | 2023-07-12T12:28:37Z |  File system event notification library with simple API, similar to os/signal. |
-| [otiai10/copy](https://github.com/otiai10/copy) | 571 | 113 | 2023-07-12T16:20:50Z |  Copy directory recursively. |
+| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 828 | 124 | 2023-07-13T09:45:15Z |  File system event notification library with simple API, similar to os/signal. |
+| [otiai10/copy](https://github.com/otiai10/copy) | 572 | 113 | 2023-07-13T15:27:02Z |  Copy directory recursively. |
 | [no-src/gofs](https://github.com/no-src/gofs) | 302 | 25 | 2023-07-07T08:57:54Z |  A cross-platform real-time file synchronization tool out of the box. |
-| [viant/afs](https://github.com/viant/afs) | 250 | 33 | 2023-07-09T13:08:34Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
+| [viant/afs](https://github.com/viant/afs) | 251 | 33 | 2023-07-13T15:38:11Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 244 | 26 | 2023-07-09T01:22:26Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [bigfile/bigfile](https://github.com/bigfile/bigfile) | 241 | 48 | 2023-05-19T07:47:42Z |  A file transfer system, support to manage files with http api, rpc call and ftp client. |
-| [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 174 | 39 | 2023-07-07T19:11:02Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
+| [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 173 | 39 | 2023-07-13T09:13:48Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 107 | 30 | 2023-07-10T13:13:35Z |  Load csv file using tag. |
 | [dixonwille/skywalker](https://github.com/dixonwille/skywalker) | 90 | 5 | 2023-06-10T10:44:00Z |  Package to allow one to concurrently go through a filesystem with ease. |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 88 | 17 | 2023-06-18T04:31:36Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
@@ -35,15 +35,15 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [spf13/afero](https://github.com/spf13/afero) | 5k | 474 | 2023-07-12T09:52:14Z |  FileSystem Abstraction System for Go. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 364 | 2023-07-13T00:15:10Z |  PDF processor. |
-| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 827 | 124 | 2023-07-12T12:28:37Z |  File system event notification library with simple API, similar to os/signal. |
-| [otiai10/copy](https://github.com/otiai10/copy) | 571 | 113 | 2023-07-12T16:20:50Z |  Copy directory recursively. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 107 | 2023-07-13T00:12:52Z |  Disk usage analyzer with console interface. |
+| [spf13/afero](https://github.com/spf13/afero) | 5k | 474 | 2023-07-13T09:26:19Z |  FileSystem Abstraction System for Go. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 365 | 2023-07-13T07:17:00Z |  PDF processor. |
+| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 828 | 124 | 2023-07-13T09:45:15Z |  File system event notification library with simple API, similar to os/signal. |
+| [otiai10/copy](https://github.com/otiai10/copy) | 572 | 113 | 2023-07-13T15:27:02Z |  Copy directory recursively. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 107 | 2023-07-13T15:41:49Z |  Disk usage analyzer with console interface. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 101 | 2023-07-12T09:57:39Z | . |
 | [bigfile/bigfile](https://github.com/bigfile/bigfile) | 241 | 48 | 2023-05-19T07:47:42Z |  A file transfer system, support to manage files with http api, rpc call and ftp client. |
-| [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 174 | 39 | 2023-07-07T19:11:02Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
-| [viant/afs](https://github.com/viant/afs) | 250 | 33 | 2023-07-09T13:08:34Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
+| [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 173 | 39 | 2023-07-13T09:13:48Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
+| [viant/afs](https://github.com/viant/afs) | 251 | 33 | 2023-07-13T15:38:11Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 107 | 30 | 2023-07-10T13:13:35Z |  Load csv file using tag. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 244 | 26 | 2023-07-09T01:22:26Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [no-src/gofs](https://github.com/no-src/gofs) | 302 | 25 | 2023-07-07T08:57:54Z |  A cross-platform real-time file synchronization tool out of the box. |
@@ -64,17 +64,17 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 364 | 2023-07-13T00:15:10Z |  PDF processor. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 107 | 2023-07-13T00:12:52Z |  Disk usage analyzer with console interface. |
-| [otiai10/copy](https://github.com/otiai10/copy) | 571 | 113 | 2023-07-12T16:20:50Z |  Copy directory recursively. |
-| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 827 | 124 | 2023-07-12T12:28:37Z |  File system event notification library with simple API, similar to os/signal. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 107 | 2023-07-13T15:41:49Z |  Disk usage analyzer with console interface. |
+| [viant/afs](https://github.com/viant/afs) | 251 | 33 | 2023-07-13T15:38:11Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
+| [otiai10/copy](https://github.com/otiai10/copy) | 572 | 113 | 2023-07-13T15:27:02Z |  Copy directory recursively. |
+| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 828 | 124 | 2023-07-13T09:45:15Z |  File system event notification library with simple API, similar to os/signal. |
+| [spf13/afero](https://github.com/spf13/afero) | 5k | 474 | 2023-07-13T09:26:19Z |  FileSystem Abstraction System for Go. |
+| [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 173 | 39 | 2023-07-13T09:13:48Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 365 | 2023-07-13T07:17:00Z |  PDF processor. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 101 | 2023-07-12T09:57:39Z | . |
-| [spf13/afero](https://github.com/spf13/afero) | 5k | 474 | 2023-07-12T09:52:14Z |  FileSystem Abstraction System for Go. |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 107 | 30 | 2023-07-10T13:13:35Z |  Load csv file using tag. |
 | [xis/baraka](https://github.com/xis/baraka) | 50 | 8 | 2023-07-10T05:13:17Z |  A library to process http file uploads easily. |
-| [viant/afs](https://github.com/viant/afs) | 250 | 33 | 2023-07-09T13:08:34Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 244 | 26 | 2023-07-09T01:22:26Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
-| [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 174 | 39 | 2023-07-07T19:11:02Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [dastoori/higgs](https://github.com/dastoori/higgs) | 16 | 4 | 2023-07-07T19:10:06Z |  A tiny cross-platform Go library to hide/unhide files and directories. |
 | [no-src/gofs](https://github.com/no-src/gofs) | 302 | 25 | 2023-07-07T08:57:54Z |  A cross-platform real-time file synchronization tool out of the box. |
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 81 | 12 | 2023-07-06T06:04:43Z |  Read and write [parquet](https://parquet.apache.org) files. |
