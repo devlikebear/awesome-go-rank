@@ -7,9 +7,9 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2023-07-16T02:39:24Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 611 | 2023-07-16T15:21:16Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 611 | 2023-07-17T22:54:06Z |  Industrial IoT Messaging and Device Management Server. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 292 | 2023-07-15T03:45:22Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 296 | 2023-07-16T15:26:54Z |  Lightweight data stream processing engine for IoT edge. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 297 | 2023-07-17T03:26:52Z |  Lightweight data stream processing engine for IoT edge. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 367 | 32 | 2023-06-09T18:24:11Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 260 | 32 | 2023-05-20T07:41:23Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [amimof/huego](https://github.com/amimof/huego) | 234 | 36 | 2023-07-13T05:46:20Z |  An extensive Philips Hue client library for Go. |
@@ -22,8 +22,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 611 | 2023-07-16T15:21:16Z |  Industrial IoT Messaging and Device Management Server. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 296 | 2023-07-16T15:26:54Z |  Lightweight data stream processing engine for IoT edge. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 611 | 2023-07-17T22:54:06Z |  Industrial IoT Messaging and Device Management Server. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 297 | 2023-07-17T03:26:52Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 292 | 2023-07-15T03:45:22Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2023-07-16T02:39:24Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 221 | 42 | 2023-06-16T06:43:13Z |  Lightweight stream processing engine for IoT. |
@@ -38,8 +38,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 296 | 2023-07-16T15:26:54Z |  Lightweight data stream processing engine for IoT edge. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 611 | 2023-07-16T15:21:16Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 611 | 2023-07-17T22:54:06Z |  Industrial IoT Messaging and Device Management Server. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 297 | 2023-07-17T03:26:52Z |  Lightweight data stream processing engine for IoT edge. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2023-07-16T02:39:24Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 292 | 2023-07-15T03:45:22Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [amimof/huego](https://github.com/amimof/huego) | 234 | 36 | 2023-07-13T05:46:20Z |  An extensive Philips Hue client library for Go. |
