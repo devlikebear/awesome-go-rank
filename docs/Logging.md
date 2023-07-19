@@ -6,20 +6,20 @@ Libraries for generating and working with log files.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z |  Structured logger for Go. |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z | logger. |
-| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-07-17T21:39:58Z |  Fast, structured, leveled logging in Go. |
-| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 940 | 2023-07-15T04:36:02Z | , great for CLI tools and applications. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-17T19:19:12Z |  Zero-allocation JSON logger. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-17T19:19:12Z | , etc). |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z |  Structured logger for Go. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z | logger. |
+| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-07-19T00:53:28Z |  Fast, structured, leveled logging in Go. |
+| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 940 | 2023-07-18T14:20:02Z | , great for CLI tools and applications. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-18T20:13:46Z |  Zero-allocation JSON logger. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-18T20:13:46Z | , etc). |
 | [davecgh/go-spew](https://github.com/davecgh/go-spew) | 6k | 364 | 2023-07-17T09:01:06Z |  Implements a deep pretty printer for Go data structures to aid in debugging. |
-| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 518 | 2023-07-14T05:58:24Z |  Simple rolling logger, implements io.WriteCloser. |
-| [golang/glog](https://github.com/golang/glog) | 3k | 907 | 2023-07-16T18:00:23Z |  Leveled execution logs for Go. |
-| [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 499 | 2023-07-12T16:06:57Z |  Go package striving to emulate the features of the BSD tail program. |
+| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 518 | 2023-07-18T17:10:14Z |  Simple rolling logger, implements io.WriteCloser. |
+| [golang/glog](https://github.com/golang/glog) | 3k | 905 | 2023-07-18T09:20:42Z |  Leveled execution logs for Go. |
+| [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 499 | 2023-07-18T01:10:07Z |  Go package striving to emulate the features of the BSD tail program. |
 | [k0kubun/pp](https://github.com/k0kubun/pp) | 2k | 94 | 2023-07-16T07:16:39Z |  Colored pretty printer for Go language. |
 | [cihub/seelog](https://github.com/cihub/seelog) | 2k | 249 | 2023-07-13T08:55:32Z |  Logging functionality with flexible dispatching, filtering, and formatting. |
-| [apex/log](https://github.com/apex/log) | 1k | 109 | 2023-07-15T04:46:21Z |  Structured logging package for Go. |
+| [apex/log](https://github.com/apex/log) | 1k | 109 | 2023-07-18T10:00:35Z |  Structured logging package for Go. |
 | [inconshreveable/log15](https://github.com/inconshreveable/log15) | 1k | 152 | 2023-07-09T23:10:29Z |  Simple, powerful logging for Go. |
 | [phuslu/log](https://github.com/phuslu/log) | 500 | 38 | 2023-07-13T14:02:40Z |  High performance structured logging. |
 | [francoispqt/onelog](https://github.com/francoispqt/onelog) | 411 | 17 | 2023-07-16T12:57:31Z |  Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the lowest allocation. |
@@ -73,20 +73,20 @@ Libraries for generating and working with log files.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z |  Structured logger for Go. |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z | logger. |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
-| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-07-17T21:39:58Z |  Fast, structured, leveled logging in Go. |
-| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 940 | 2023-07-15T04:36:02Z | , great for CLI tools and applications. |
-| [golang/glog](https://github.com/golang/glog) | 3k | 907 | 2023-07-16T18:00:23Z |  Leveled execution logs for Go. |
-| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 518 | 2023-07-14T05:58:24Z |  Simple rolling logger, implements io.WriteCloser. |
-| [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 499 | 2023-07-12T16:06:57Z |  Go package striving to emulate the features of the BSD tail program. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-17T19:19:12Z |  Zero-allocation JSON logger. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-17T19:19:12Z | , etc). |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z |  Structured logger for Go. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z | logger. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
+| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-07-19T00:53:28Z |  Fast, structured, leveled logging in Go. |
+| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 940 | 2023-07-18T14:20:02Z | , great for CLI tools and applications. |
+| [golang/glog](https://github.com/golang/glog) | 3k | 905 | 2023-07-18T09:20:42Z |  Leveled execution logs for Go. |
+| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 518 | 2023-07-18T17:10:14Z |  Simple rolling logger, implements io.WriteCloser. |
+| [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 499 | 2023-07-18T01:10:07Z |  Go package striving to emulate the features of the BSD tail program. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-18T20:13:46Z |  Zero-allocation JSON logger. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-18T20:13:46Z | , etc). |
 | [davecgh/go-spew](https://github.com/davecgh/go-spew) | 6k | 364 | 2023-07-17T09:01:06Z |  Implements a deep pretty printer for Go data structures to aid in debugging. |
 | [cihub/seelog](https://github.com/cihub/seelog) | 2k | 249 | 2023-07-13T08:55:32Z |  Logging functionality with flexible dispatching, filtering, and formatting. |
 | [inconshreveable/log15](https://github.com/inconshreveable/log15) | 1k | 152 | 2023-07-09T23:10:29Z |  Simple, powerful logging for Go. |
-| [apex/log](https://github.com/apex/log) | 1k | 109 | 2023-07-15T04:46:21Z |  Structured logging package for Go. |
+| [apex/log](https://github.com/apex/log) | 1k | 109 | 2023-07-18T10:00:35Z |  Structured logging package for Go. |
 | [k0kubun/pp](https://github.com/k0kubun/pp) | 2k | 94 | 2023-07-16T07:16:39Z |  Colored pretty printer for Go language. |
 | [apsdehal/go-logger](https://github.com/apsdehal/go-logger) | 287 | 52 | 2023-06-23T14:26:10Z |  Simple logger of Go Programs, with level handlers. |
 | [mgutz/logxi](https://github.com/mgutz/logxi) | 350 | 42 | 2023-07-13T15:37:04Z |  12-factor app logger that is fast and makes you happy. |
@@ -140,29 +140,29 @@ Libraries for generating and working with log files.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-07-17T21:39:58Z |  Fast, structured, leveled logging in Go. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-17T19:19:12Z |  Zero-allocation JSON logger. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-17T19:19:12Z | , etc). |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z | logger. |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-07-17T16:10:22Z |  Structured logger for Go. |
+| [uber-go/zap](https://github.com/uber-go/zap) | 19k | 1k | 2023-07-19T00:53:28Z |  Fast, structured, leveled logging in Go. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-18T20:13:46Z |  Zero-allocation JSON logger. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 9k | 489 | 2023-07-18T20:13:46Z | , etc). |
+| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 518 | 2023-07-18T17:10:14Z |  Simple rolling logger, implements io.WriteCloser. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z | logger. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 23k | 2k | 2023-07-18T15:34:23Z |  Structured logger for Go. |
+| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 940 | 2023-07-18T14:20:02Z | , great for CLI tools and applications. |
+| [apex/log](https://github.com/apex/log) | 1k | 109 | 2023-07-18T10:00:35Z |  Structured logging package for Go. |
+| [golang/glog](https://github.com/golang/glog) | 3k | 905 | 2023-07-18T09:20:42Z |  Leveled execution logs for Go. |
+| [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 499 | 2023-07-18T01:10:07Z |  Go package striving to emulate the features of the BSD tail program. |
 | [davecgh/go-spew](https://github.com/davecgh/go-spew) | 6k | 364 | 2023-07-17T09:01:06Z |  Implements a deep pretty printer for Go data structures to aid in debugging. |
 | [simukti/sqldb-logger](https://github.com/simukti/sqldb-logger) | 311 | 12 | 2023-07-17T02:19:46Z |  A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage. |
-| [golang/glog](https://github.com/golang/glog) | 3k | 907 | 2023-07-16T18:00:23Z |  Leveled execution logs for Go. |
 | [francoispqt/onelog](https://github.com/francoispqt/onelog) | 411 | 17 | 2023-07-16T12:57:31Z |  Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the lowest allocation. |
 | [k0kubun/pp](https://github.com/k0kubun/pp) | 2k | 94 | 2023-07-16T07:16:39Z |  Colored pretty printer for Go language. |
 | [lmittmann/tint](https://github.com/lmittmann/tint) | 204 | 11 | 2023-07-15T13:54:40Z |  A slog.Handler that writes tinted logs. |
 | [gookit/slog](https://github.com/gookit/slog) | 267 | 17 | 2023-07-15T11:03:12Z |  Lightweight, configurable, extensible logger for Go. |
-| [apex/log](https://github.com/apex/log) | 1k | 109 | 2023-07-15T04:46:21Z |  Structured logging package for Go. |
-| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 940 | 2023-07-15T04:36:02Z | , great for CLI tools and applications. |
 | [samber/slog-multi](https://github.com/samber/slog-multi) | 61 | 2 | 2023-07-14T09:53:08Z |  Chain of slog.Handler (pipeline, fanout...). |
-| [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 4k | 518 | 2023-07-14T05:58:24Z |  Simple rolling logger, implements io.WriteCloser. |
 | [kpango/glg](https://github.com/kpango/glg) | 185 | 16 | 2023-07-13T20:55:52Z |  glg is simple and fast leveled logging library for Go. |
 | [amoghe/distillog](https://github.com/amoghe/distillog) | 32 | 8 | 2023-07-13T20:49:47Z |  distilled levelled logging (think of it as stdlib + log levels). |
 | [mgutz/logxi](https://github.com/mgutz/logxi) | 350 | 42 | 2023-07-13T15:37:04Z |  12-factor app logger that is fast and makes you happy. |
 | [phuslu/log](https://github.com/phuslu/log) | 500 | 38 | 2023-07-13T14:02:40Z |  High performance structured logging. |
 | [cihub/seelog](https://github.com/cihub/seelog) | 2k | 249 | 2023-07-13T08:55:32Z |  Logging functionality with flexible dispatching, filtering, and formatting. |
-| [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 499 | 2023-07-12T16:06:57Z |  Go package striving to emulate the features of the BSD tail program. |
 | [jbrodriguez/mlog](https://github.com/jbrodriguez/mlog) | 33 | 19 | 2023-07-11T00:08:26Z |  Simple logging module for go, with 5 levels, an optional rotating logfile feature and stdout/stderr output. |
 | [inconshreveable/log15](https://github.com/inconshreveable/log15) | 1k | 152 | 2023-07-09T23:10:29Z |  Simple, powerful logging for Go. |
 | [samber/slog-formatter](https://github.com/samber/slog-formatter) | 20 | 0 | 2023-07-09T08:36:47Z |  Common formatters for slog and helpers to build your own. |
