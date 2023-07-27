@@ -6,9 +6,9 @@ Libraries and tools that implement email creation and sending.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 12k | 982 | 2023-07-25T21:28:25Z |  Email and SMTP testing with web and API interface. |
+| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 12k | 982 | 2023-07-26T18:25:23Z |  Email and SMTP testing with web and API interface. |
 | [matcornic/hermes](https://github.com/matcornic/hermes) | 3k | 228 | 2023-07-25T09:43:28Z |  Golang package that generates clean, responsive HTML e-mails. |
-| [axllent/mailpit](https://github.com/axllent/mailpit) | 2k | 58 | 2023-07-26T00:33:52Z |  Email and SMTP testing tool for developers. |
+| [axllent/mailpit](https://github.com/axllent/mailpit) | 2k | 58 | 2023-07-26T22:30:29Z |  Email and SMTP testing tool for developers. |
 | [jordan-wright/email](https://github.com/jordan-wright/email) | 2k | 321 | 2023-07-24T08:58:20Z |  A robust and flexible email library for Go. |
 | [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 260 | 2023-07-25T07:07:54Z |  IMAP library for clients and servers. |
 | [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | 917 | 111 | 2023-07-24T03:12:25Z |  A Go library for email verification without sending any emails. |
@@ -33,7 +33,7 @@ Libraries and tools that implement email creation and sending.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 12k | 982 | 2023-07-25T21:28:25Z |  Email and SMTP testing with web and API interface. |
+| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 12k | 982 | 2023-07-26T18:25:23Z |  Email and SMTP testing with web and API interface. |
 | [jordan-wright/email](https://github.com/jordan-wright/email) | 2k | 321 | 2023-07-24T08:58:20Z |  A robust and flexible email library for Go. |
 | [sendgrid/sendgrid-go](https://github.com/sendgrid/sendgrid-go) | 911 | 261 | 2023-07-22T21:52:17Z |  SendGrid's Go library for sending email. |
 | [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 260 | 2023-07-25T07:07:54Z |  IMAP library for clients and servers. |
@@ -42,7 +42,7 @@ Libraries and tools that implement email creation and sending.
 | [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | 917 | 111 | 2023-07-24T03:12:25Z |  A Go library for email verification without sending any emails. |
 | [emersion/go-message](https://github.com/emersion/go-message) | 319 | 97 | 2023-07-05T18:07:23Z |  Streaming library for the Internet Message Format and mail messages. |
 | [xhit/go-simple-mail](https://github.com/xhit/go-simple-mail) | 480 | 74 | 2023-07-25T06:52:37Z |  Very simple package to send emails with SMTP Keep Alive and two timeouts: Connect and Send. |
-| [axllent/mailpit](https://github.com/axllent/mailpit) | 2k | 58 | 2023-07-26T00:33:52Z |  Email and SMTP testing tool for developers. |
+| [axllent/mailpit](https://github.com/axllent/mailpit) | 2k | 58 | 2023-07-26T22:30:29Z |  Email and SMTP testing tool for developers. |
 | [mailchain/mailchain](https://github.com/mailchain/mailchain) | 139 | 50 | 2023-07-19T03:44:57Z |  Send encrypted emails to blockchain addresses written in Go. |
 | [aymerick/douceur](https://github.com/aymerick/douceur) | 229 | 42 | 2023-06-27T16:35:35Z |  CSS inliner for your HTML emails. |
 | [toorop/go-dkim](https://github.com/toorop/go-dkim) | 90 | 36 | 2023-06-14T19:49:11Z |  DKIM library, to sign & verify email. |
@@ -60,8 +60,8 @@ Libraries and tools that implement email creation and sending.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [axllent/mailpit](https://github.com/axllent/mailpit) | 2k | 58 | 2023-07-26T00:33:52Z |  Email and SMTP testing tool for developers. |
-| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 12k | 982 | 2023-07-25T21:28:25Z |  Email and SMTP testing with web and API interface. |
+| [axllent/mailpit](https://github.com/axllent/mailpit) | 2k | 58 | 2023-07-26T22:30:29Z |  Email and SMTP testing tool for developers. |
+| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 12k | 982 | 2023-07-26T18:25:23Z |  Email and SMTP testing with web and API interface. |
 | [matcornic/hermes](https://github.com/matcornic/hermes) | 3k | 228 | 2023-07-25T09:43:28Z |  Golang package that generates clean, responsive HTML e-mails. |
 | [wneessen/go-mail](https://github.com/wneessen/go-mail) | 303 | 22 | 2023-07-25T07:54:01Z |  A simple Go library for sending mails in Go. |
 | [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 260 | 2023-07-25T07:07:54Z |  IMAP library for clients and servers. |
