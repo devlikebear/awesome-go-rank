@@ -6,11 +6,11 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-24T09:36:33Z |  .NET LINQ-like query methods for Go. |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-28T17:38:11Z |  .NET LINQ-like query methods for Go. |
 | [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-07-27T01:54:13Z |  Generate arbitrary Go code without templates. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 43 | 2023-07-24T07:56:51Z |  Derives functions from input types. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 784 | 76 | 2023-07-23T12:52:38Z |  Generate decorators for Go interfaces using simple templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 528 | 51 | 2023-07-27T08:32:27Z |  Code generation for enums from code comments. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 530 | 51 | 2023-07-28T09:10:59Z |  Code generation for enums from code comments. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 397 | 31 | 2023-07-26T01:49:36Z |  Command line tool for generating interface definitions. |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 283 | 23 | 2023-07-26T03:17:34Z |  Generate converters by defining an interface. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 272 | 13 | 2023-07-25T17:20:48Z |  Generate type-to-type and type-based code without reflection. |
@@ -23,10 +23,10 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-24T09:36:33Z |  .NET LINQ-like query methods for Go. |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-28T17:38:11Z |  .NET LINQ-like query methods for Go. |
 | [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-07-27T01:54:13Z |  Generate arbitrary Go code without templates. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 784 | 76 | 2023-07-23T12:52:38Z |  Generate decorators for Go interfaces using simple templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 528 | 51 | 2023-07-27T08:32:27Z |  Code generation for enums from code comments. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 530 | 51 | 2023-07-28T09:10:59Z |  Code generation for enums from code comments. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 43 | 2023-07-24T07:56:51Z |  Derives functions from input types. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 397 | 31 | 2023-07-26T01:49:36Z |  Command line tool for generating interface definitions. |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 283 | 23 | 2023-07-26T03:17:34Z |  Generate converters by defining an interface. |
@@ -40,13 +40,13 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [abice/go-enum](https://github.com/abice/go-enum) | 528 | 51 | 2023-07-27T08:32:27Z |  Code generation for enums from code comments. |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-28T17:38:11Z |  .NET LINQ-like query methods for Go. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 530 | 51 | 2023-07-28T09:10:59Z |  Code generation for enums from code comments. |
 | [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-07-27T01:54:13Z |  Generate arbitrary Go code without templates. |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 283 | 23 | 2023-07-26T03:17:34Z |  Generate converters by defining an interface. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 397 | 31 | 2023-07-26T01:49:36Z |  Command line tool for generating interface definitions. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 272 | 13 | 2023-07-25T17:20:48Z |  Generate type-to-type and type-based code without reflection. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 41 | 1 | 2023-07-25T15:53:50Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-24T09:36:33Z |  .NET LINQ-like query methods for Go. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 43 | 2023-07-24T07:56:51Z |  Derives functions from input types. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 19 | 1 | 2023-07-23T14:49:10Z |  A library to create type dynamically. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 784 | 76 | 2023-07-23T12:52:38Z |  Generate decorators for Go interfaces using simple templates. |
