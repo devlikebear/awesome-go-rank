@@ -6,16 +6,16 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 12k | 1k | 2023-07-31T03:11:48Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
-| [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2023-07-31T19:33:56Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 7k | 632 | 2023-07-31T22:01:07Z |  Go library for decoding generic map values into native Go structures. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 12k | 1k | 2023-08-01T20:39:05Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2023-08-01T22:29:25Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 7k | 632 | 2023-08-01T23:44:43Z |  Go library for decoding generic map values into native Go structures. |
 | [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 792 | 2023-07-27T08:20:50Z |  Protocol Buffers for Go with Gadgets. |
-| [ugorji/go](https://github.com/ugorji/go) | 2k | 312 | 2023-07-28T17:37:57Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
+| [ugorji/go](https://github.com/ugorji/go) | 2k | 313 | 2023-08-01T06:30:32Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 819 | 59 | 2023-07-22T15:02:43Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
-| [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 711 | 54 | 2023-07-28T08:50:43Z |  Code generation for the Colfer binary format. |
+| [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 712 | 54 | 2023-08-01T04:05:28Z |  Code generation for the Colfer binary format. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 591 | 54 | 2023-07-28T18:46:43Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [glycerine/go-capnproto](https://github.com/glycerine/go-capnproto) | 289 | 21 | 2023-07-31T21:43:40Z |  Cap'n Proto library and parser for go. |
-| [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 158 | 46 | 2023-06-03T13:14:26Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
+| [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 159 | 45 | 2023-08-01T09:58:22Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
 | [tuvistavie/structomap](https://github.com/tuvistavie/structomap) | 140 | 11 | 2023-06-15T13:58:04Z |  Library to easily and dynamically generate maps from static structures. |
 | [ghostiam/binstruct](https://github.com/ghostiam/binstruct) | 75 | 19 | 2023-07-09T16:54:37Z |  Golang binary decoder for mapping data into the structure. |
 | [glycerine/bambam](https://github.com/glycerine/bambam) | 67 | 12 | 2023-07-31T21:43:38Z |  generator for Cap'n Proto schemas from go. |
@@ -32,15 +32,15 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2023-07-31T19:33:56Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 12k | 1k | 2023-07-31T03:11:48Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2023-08-01T22:29:25Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 12k | 1k | 2023-08-01T20:39:05Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 792 | 2023-07-27T08:20:50Z |  Protocol Buffers for Go with Gadgets. |
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 7k | 632 | 2023-07-31T22:01:07Z |  Go library for decoding generic map values into native Go structures. |
-| [ugorji/go](https://github.com/ugorji/go) | 2k | 312 | 2023-07-28T17:37:57Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 7k | 632 | 2023-08-01T23:44:43Z |  Go library for decoding generic map values into native Go structures. |
+| [ugorji/go](https://github.com/ugorji/go) | 2k | 313 | 2023-08-01T06:30:32Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 819 | 59 | 2023-07-22T15:02:43Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
-| [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 711 | 54 | 2023-07-28T08:50:43Z |  Code generation for the Colfer binary format. |
+| [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 712 | 54 | 2023-08-01T04:05:28Z |  Code generation for the Colfer binary format. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 591 | 54 | 2023-07-28T18:46:43Z |  Small, safe, and easy CBOR encoding and decoding library. |
-| [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 158 | 46 | 2023-06-03T13:14:26Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
+| [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 159 | 45 | 2023-08-01T09:58:22Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
 | [PromonLogicalis/asn1](https://github.com/PromonLogicalis/asn1) | 53 | 27 | 2023-01-28T18:49:45Z |  Asn.1 BER and DER encoding library for golang. |
 | [glycerine/go-capnproto](https://github.com/glycerine/go-capnproto) | 289 | 21 | 2023-07-31T21:43:40Z |  Cap'n Proto library and parser for go. |
 | [ghostiam/binstruct](https://github.com/ghostiam/binstruct) | 75 | 19 | 2023-07-09T16:54:37Z |  Golang binary decoder for mapping data into the structure. |
@@ -58,21 +58,21 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 7k | 632 | 2023-07-31T22:01:07Z |  Go library for decoding generic map values into native Go structures. |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 7k | 632 | 2023-08-01T23:44:43Z |  Go library for decoding generic map values into native Go structures. |
+| [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2023-08-01T22:29:25Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 12k | 1k | 2023-08-01T20:39:05Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 159 | 45 | 2023-08-01T09:58:22Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
+| [ugorji/go](https://github.com/ugorji/go) | 2k | 313 | 2023-08-01T06:30:32Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
+| [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 712 | 54 | 2023-08-01T04:05:28Z |  Code generation for the Colfer binary format. |
 | [glycerine/go-capnproto](https://github.com/glycerine/go-capnproto) | 289 | 21 | 2023-07-31T21:43:40Z |  Cap'n Proto library and parser for go. |
 | [glycerine/bambam](https://github.com/glycerine/bambam) | 67 | 12 | 2023-07-31T21:43:38Z |  generator for Cap'n Proto schemas from go. |
-| [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2023-07-31T19:33:56Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 12k | 1k | 2023-07-31T03:11:48Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 591 | 54 | 2023-07-28T18:46:43Z |  Small, safe, and easy CBOR encoding and decoding library. |
-| [ugorji/go](https://github.com/ugorji/go) | 2k | 312 | 2023-07-28T17:37:57Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
-| [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 711 | 54 | 2023-07-28T08:50:43Z |  Code generation for the Colfer binary format. |
 | [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 792 | 2023-07-27T08:20:50Z |  Protocol Buffers for Go with Gadgets. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 819 | 59 | 2023-07-22T15:02:43Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [ghostiam/binstruct](https://github.com/ghostiam/binstruct) | 75 | 19 | 2023-07-09T16:54:37Z |  Golang binary decoder for mapping data into the structure. |
 | [o1egl/fwencoder](https://github.com/o1egl/fwencoder) | 25 | 10 | 2023-07-08T09:03:11Z |  Fixed width file parser (encoding and decoding library) for Go. |
 | [32leaves/bel](https://github.com/32leaves/bel) | 35 | 9 | 2023-06-16T22:34:38Z |  Generate TypeScript interfaces from Go structs/interfaces. Useful for JSON RPC. |
 | [tuvistavie/structomap](https://github.com/tuvistavie/structomap) | 140 | 11 | 2023-06-15T13:58:04Z |  Library to easily and dynamically generate maps from static structures. |
-| [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 158 | 46 | 2023-06-03T13:14:26Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
 | [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) | 24 | 4 | 2023-04-22T08:32:14Z |  Convert slices, maps or any other unknown value across different types at run-time, no matter what. |
 | [recolude/unitpacking](https://github.com/recolude/unitpacking) | 6 | 1 | 2023-02-06T17:20:12Z |  Library to pack unit vectors into as fewest bytes as possible. |
 | [PromonLogicalis/asn1](https://github.com/PromonLogicalis/asn1) | 53 | 27 | 2023-01-28T18:49:45Z |  Asn.1 BER and DER encoding library for golang. |

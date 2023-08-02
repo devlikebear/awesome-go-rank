@@ -7,12 +7,12 @@ Tools that generate Go code.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-31T07:13:42Z |  .NET LINQ-like query methods for Go. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-07-31T13:15:09Z |  Generate arbitrary Go code without templates. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-08-01T20:46:09Z |  Generate arbitrary Go code without templates. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 43 | 2023-07-24T07:56:51Z |  Derives functions from input types. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 785 | 76 | 2023-07-29T08:14:45Z |  Generate decorators for Go interfaces using simple templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 530 | 51 | 2023-07-31T20:43:25Z |  Code generation for enums from code comments. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 531 | 51 | 2023-08-01T08:16:37Z |  Code generation for enums from code comments. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 397 | 32 | 2023-07-26T01:49:36Z |  Command line tool for generating interface definitions. |
-| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 284 | 23 | 2023-07-29T18:58:58Z |  Generate converters by defining an interface. |
+| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 285 | 23 | 2023-08-01T13:28:21Z |  Generate converters by defining an interface. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 271 | 13 | 2023-07-30T18:39:29Z |  Generate type-to-type and type-based code without reflection. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 54 | 9 | 2023-06-13T09:16:49Z |  Golang source code parsing, usage like reflect package. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 41 | 1 | 2023-07-25T15:53:50Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
@@ -24,12 +24,12 @@ Tools that generate Go code.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-31T07:13:42Z |  .NET LINQ-like query methods for Go. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-07-31T13:15:09Z |  Generate arbitrary Go code without templates. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-08-01T20:46:09Z |  Generate arbitrary Go code without templates. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 785 | 76 | 2023-07-29T08:14:45Z |  Generate decorators for Go interfaces using simple templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 530 | 51 | 2023-07-31T20:43:25Z |  Code generation for enums from code comments. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 531 | 51 | 2023-08-01T08:16:37Z |  Code generation for enums from code comments. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 43 | 2023-07-24T07:56:51Z |  Derives functions from input types. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 397 | 32 | 2023-07-26T01:49:36Z |  Command line tool for generating interface definitions. |
-| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 284 | 23 | 2023-07-29T18:58:58Z |  Generate converters by defining an interface. |
+| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 285 | 23 | 2023-08-01T13:28:21Z |  Generate converters by defining an interface. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 271 | 13 | 2023-07-30T18:39:29Z |  Generate type-to-type and type-based code without reflection. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 54 | 9 | 2023-06-13T09:16:49Z |  Golang source code parsing, usage like reflect package. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 41 | 1 | 2023-07-25T15:53:50Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
@@ -40,11 +40,11 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [abice/go-enum](https://github.com/abice/go-enum) | 530 | 51 | 2023-07-31T20:43:25Z |  Code generation for enums from code comments. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-07-31T13:15:09Z |  Generate arbitrary Go code without templates. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 156 | 2023-08-01T20:46:09Z |  Generate arbitrary Go code without templates. |
+| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 285 | 23 | 2023-08-01T13:28:21Z |  Generate converters by defining an interface. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 531 | 51 | 2023-08-01T08:16:37Z |  Code generation for enums from code comments. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 234 | 2023-07-31T07:13:42Z |  .NET LINQ-like query methods for Go. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 271 | 13 | 2023-07-30T18:39:29Z |  Generate type-to-type and type-based code without reflection. |
-| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 284 | 23 | 2023-07-29T18:58:58Z |  Generate converters by defining an interface. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 785 | 76 | 2023-07-29T08:14:45Z |  Generate decorators for Go interfaces using simple templates. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 397 | 32 | 2023-07-26T01:49:36Z |  Command line tool for generating interface definitions. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 41 | 1 | 2023-07-25T15:53:50Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
