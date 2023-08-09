@@ -6,17 +6,17 @@ Interaction
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 21k | 1k | 2023-08-07T20:48:36Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
-| [zserge/webview](https://github.com/zserge/webview) | 11k | 885 | 2023-08-07T23:57:44Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
-| [therecipe/qt](https://github.com/therecipe/qt) | 10k | 738 | 2023-08-07T14:16:29Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
-| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 9k | 820 | 2023-08-07T15:12:41Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
+| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 21k | 1k | 2023-08-08T23:13:36Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
+| [zserge/webview](https://github.com/zserge/webview) | 11k | 886 | 2023-08-08T15:59:11Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
+| [therecipe/qt](https://github.com/therecipe/qt) | 10k | 738 | 2023-08-08T13:43:57Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
+| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 9k | 821 | 2023-08-08T22:20:10Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
 | [andlabs/ui](https://github.com/andlabs/ui) | 8k | 763 | 2023-08-07T08:59:59Z |  Platform-native GUI library for Go. Cross platform. |
-| [murlokswarm/app](https://github.com/murlokswarm/app) | 7k | 350 | 2023-08-07T22:56:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
-| [lxn/walk](https://github.com/lxn/walk) | 7k | 883 | 2023-08-07T12:43:53Z |  Windows application library kit for Go. |
-| [asticode/go-astilectron](https://github.com/asticode/go-astilectron) | 5k | 339 | 2023-08-07T09:47:43Z |  Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron). |
-| [getlantern/systray](https://github.com/getlantern/systray) | 3k | 381 | 2023-08-07T08:01:38Z |  Cross platform Go library to place an icon and menu in the notification area. |
+| [murlokswarm/app](https://github.com/murlokswarm/app) | 7k | 351 | 2023-08-07T22:56:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
+| [lxn/walk](https://github.com/lxn/walk) | 7k | 883 | 2023-08-08T12:16:27Z |  Windows application library kit for Go. |
+| [asticode/go-astilectron](https://github.com/asticode/go-astilectron) | 5k | 339 | 2023-08-08T10:48:55Z |  Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron). |
+| [getlantern/systray](https://github.com/getlantern/systray) | 3k | 380 | 2023-08-08T11:47:34Z |  Cross platform Go library to place an icon and menu in the notification area. |
 | [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) | 3k | 268 | 2023-08-06T05:51:27Z |  Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform. |
-| [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 226 | 2023-08-07T21:30:59Z |  Go bindings for GTK3. |
+| [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 227 | 2023-08-07T21:30:59Z |  Go bindings for GTK3. |
 | [deckarep/gosx-notifier](https://github.com/deckarep/gosx-notifier) | 578 | 50 | 2023-06-22T20:19:02Z |  OSX Desktop Notifications library for Go. |
 | [ncruces/zenity](https://github.com/ncruces/zenity) | 525 | 25 | 2023-08-07T04:29:24Z |  Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user. |
 | [dtylman/gowd](https://github.com/dtylman/gowd) | 402 | 43 | 2023-08-07T05:02:02Z |  Rapid and simple desktop UI development with GO, HTML, CSS and NW.js. Cross platform. |
@@ -30,17 +30,17 @@ Interaction
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 21k | 1k | 2023-08-07T20:48:36Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
-| [zserge/webview](https://github.com/zserge/webview) | 11k | 885 | 2023-08-07T23:57:44Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
-| [lxn/walk](https://github.com/lxn/walk) | 7k | 883 | 2023-08-07T12:43:53Z |  Windows application library kit for Go. |
-| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 9k | 820 | 2023-08-07T15:12:41Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
+| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 21k | 1k | 2023-08-08T23:13:36Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
+| [zserge/webview](https://github.com/zserge/webview) | 11k | 886 | 2023-08-08T15:59:11Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
+| [lxn/walk](https://github.com/lxn/walk) | 7k | 883 | 2023-08-08T12:16:27Z |  Windows application library kit for Go. |
+| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 9k | 821 | 2023-08-08T22:20:10Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
 | [andlabs/ui](https://github.com/andlabs/ui) | 8k | 763 | 2023-08-07T08:59:59Z |  Platform-native GUI library for Go. Cross platform. |
-| [therecipe/qt](https://github.com/therecipe/qt) | 10k | 738 | 2023-08-07T14:16:29Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
-| [getlantern/systray](https://github.com/getlantern/systray) | 3k | 381 | 2023-08-07T08:01:38Z |  Cross platform Go library to place an icon and menu in the notification area. |
-| [murlokswarm/app](https://github.com/murlokswarm/app) | 7k | 350 | 2023-08-07T22:56:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
-| [asticode/go-astilectron](https://github.com/asticode/go-astilectron) | 5k | 339 | 2023-08-07T09:47:43Z |  Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron). |
+| [therecipe/qt](https://github.com/therecipe/qt) | 10k | 738 | 2023-08-08T13:43:57Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
+| [getlantern/systray](https://github.com/getlantern/systray) | 3k | 380 | 2023-08-08T11:47:34Z |  Cross platform Go library to place an icon and menu in the notification area. |
+| [murlokswarm/app](https://github.com/murlokswarm/app) | 7k | 351 | 2023-08-07T22:56:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
+| [asticode/go-astilectron](https://github.com/asticode/go-astilectron) | 5k | 339 | 2023-08-08T10:48:55Z |  Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron). |
 | [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) | 3k | 268 | 2023-08-06T05:51:27Z |  Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform. |
-| [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 226 | 2023-08-07T21:30:59Z |  Go bindings for GTK3. |
+| [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 227 | 2023-08-07T21:30:59Z |  Go bindings for GTK3. |
 | [deckarep/gosx-notifier](https://github.com/deckarep/gosx-notifier) | 578 | 50 | 2023-06-22T20:19:02Z |  OSX Desktop Notifications library for Go. |
 | [dtylman/gowd](https://github.com/dtylman/gowd) | 402 | 43 | 2023-08-07T05:02:02Z |  Rapid and simple desktop UI development with GO, HTML, CSS and NW.js. Cross platform. |
 | [ncruces/zenity](https://github.com/ncruces/zenity) | 525 | 25 | 2023-08-07T04:29:24Z |  Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user. |
@@ -54,16 +54,16 @@ Interaction
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [zserge/webview](https://github.com/zserge/webview) | 11k | 885 | 2023-08-07T23:57:44Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
-| [murlokswarm/app](https://github.com/murlokswarm/app) | 7k | 350 | 2023-08-07T22:56:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
-| [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 226 | 2023-08-07T21:30:59Z |  Go bindings for GTK3. |
-| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 21k | 1k | 2023-08-07T20:48:36Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
-| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 9k | 820 | 2023-08-07T15:12:41Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
-| [therecipe/qt](https://github.com/therecipe/qt) | 10k | 738 | 2023-08-07T14:16:29Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
-| [lxn/walk](https://github.com/lxn/walk) | 7k | 883 | 2023-08-07T12:43:53Z |  Windows application library kit for Go. |
-| [asticode/go-astilectron](https://github.com/asticode/go-astilectron) | 5k | 339 | 2023-08-07T09:47:43Z |  Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron). |
+| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 21k | 1k | 2023-08-08T23:13:36Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
+| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 9k | 821 | 2023-08-08T22:20:10Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
+| [zserge/webview](https://github.com/zserge/webview) | 11k | 886 | 2023-08-08T15:59:11Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
+| [therecipe/qt](https://github.com/therecipe/qt) | 10k | 738 | 2023-08-08T13:43:57Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
+| [lxn/walk](https://github.com/lxn/walk) | 7k | 883 | 2023-08-08T12:16:27Z |  Windows application library kit for Go. |
+| [getlantern/systray](https://github.com/getlantern/systray) | 3k | 380 | 2023-08-08T11:47:34Z |  Cross platform Go library to place an icon and menu in the notification area. |
+| [asticode/go-astilectron](https://github.com/asticode/go-astilectron) | 5k | 339 | 2023-08-08T10:48:55Z |  Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron). |
+| [murlokswarm/app](https://github.com/murlokswarm/app) | 7k | 351 | 2023-08-07T22:56:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
+| [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 227 | 2023-08-07T21:30:59Z |  Go bindings for GTK3. |
 | [andlabs/ui](https://github.com/andlabs/ui) | 8k | 763 | 2023-08-07T08:59:59Z |  Platform-native GUI library for Go. Cross platform. |
-| [getlantern/systray](https://github.com/getlantern/systray) | 3k | 381 | 2023-08-07T08:01:38Z |  Cross platform Go library to place an icon and menu in the notification area. |
 | [dtylman/gowd](https://github.com/dtylman/gowd) | 402 | 43 | 2023-08-07T05:02:02Z |  Rapid and simple desktop UI development with GO, HTML, CSS and NW.js. Cross platform. |
 | [ncruces/zenity](https://github.com/ncruces/zenity) | 525 | 25 | 2023-08-07T04:29:24Z |  Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user. |
 | [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) | 3k | 268 | 2023-08-06T05:51:27Z |  Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform. |
