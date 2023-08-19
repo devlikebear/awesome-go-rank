@@ -6,8 +6,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2023-08-17T23:34:35Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 613 | 2023-08-18T00:09:10Z |  Industrial IoT Messaging and Device Management Server. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2023-08-18T20:26:37Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 613 | 2023-08-18T07:08:15Z |  Industrial IoT Messaging and Device Management Server. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 309 | 2023-08-17T13:01:21Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 293 | 2023-08-15T03:54:45Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 371 | 32 | 2023-08-15T18:23:54Z |  Open-Source Platform for Quantified Self & IoT. |
@@ -22,10 +22,10 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 613 | 2023-08-18T00:09:10Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 613 | 2023-08-18T07:08:15Z |  Industrial IoT Messaging and Device Management Server. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 309 | 2023-08-17T13:01:21Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 293 | 2023-08-15T03:54:45Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2023-08-17T23:34:35Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2023-08-18T20:26:37Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 222 | 42 | 2023-08-17T15:52:36Z |  Lightweight stream processing engine for IoT. |
 | [amimof/huego](https://github.com/amimof/huego) | 236 | 36 | 2023-08-16T08:05:58Z |  An extensive Philips Hue client library for Go. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 371 | 32 | 2023-08-15T18:23:54Z |  Open-Source Platform for Quantified Self & IoT. |
@@ -38,8 +38,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 613 | 2023-08-18T00:09:10Z |  Industrial IoT Messaging and Device Management Server. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2023-08-17T23:34:35Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2023-08-18T20:26:37Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 613 | 2023-08-18T07:08:15Z |  Industrial IoT Messaging and Device Management Server. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 222 | 42 | 2023-08-17T15:52:36Z |  Lightweight stream processing engine for IoT. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 309 | 2023-08-17T13:01:21Z |  Lightweight data stream processing engine for IoT edge. |
 | [amimof/huego](https://github.com/amimof/huego) | 236 | 36 | 2023-08-16T08:05:58Z |  An extensive Philips Hue client library for Go. |
