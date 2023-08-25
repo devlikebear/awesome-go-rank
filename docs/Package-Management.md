@@ -6,8 +6,8 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-08-23T17:59:15Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 556 | 2023-08-22T21:33:18Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-08-24T13:31:26Z |  Go dependency tool. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 556 | 2023-08-24T13:27:36Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 490 | 2023-08-23T03:35:26Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 416 | 2023-08-23T05:54:42Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 226 | 2023-08-18T20:33:21Z |  Go Package Manager. |
@@ -26,8 +26,8 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-08-23T17:59:15Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 556 | 2023-08-22T21:33:18Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-08-24T13:31:26Z |  Go dependency tool. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 556 | 2023-08-24T13:27:36Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 490 | 2023-08-23T03:35:26Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 416 | 2023-08-23T05:54:42Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 226 | 2023-08-18T20:33:21Z |  Go Package Manager. |
@@ -46,11 +46,11 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-08-23T17:59:15Z |  Go dependency tool. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-08-24T13:31:26Z |  Go dependency tool. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 556 | 2023-08-24T13:27:36Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 416 | 2023-08-23T05:54:42Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 490 | 2023-08-23T03:35:26Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [jingweno/nut](https://github.com/jingweno/nut) | 234 | 11 | 2023-08-23T03:18:56Z |  Vendor Go dependencies. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 556 | 2023-08-22T21:33:18Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2023-08-22T21:18:52Z |  Barebones dependency manager for Go. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 208 | 14 | 2023-08-21T22:23:26Z |  Update binaries installed by "go install". |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 226 | 2023-08-18T20:33:21Z |  Go Package Manager. |
