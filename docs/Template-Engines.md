@@ -6,7 +6,7 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Masterminds/sprig](https://github.com/Masterminds/sprig) | 4k | 413 | 2023-09-08T16:43:36Z |  Useful template functions for Go templates. |
+| [Masterminds/sprig](https://github.com/Masterminds/sprig) | 4k | 414 | 2023-09-09T13:42:49Z |  Useful template functions for Go templates. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 148 | 2023-09-08T17:07:49Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 279 | 2023-09-08T16:41:36Z |  Django-like template-engine for Go. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 1k | 149 | 2023-09-08T07:02:29Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
@@ -27,7 +27,7 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Masterminds/sprig](https://github.com/Masterminds/sprig) | 4k | 413 | 2023-09-08T16:43:36Z |  Useful template functions for Go templates. |
+| [Masterminds/sprig](https://github.com/Masterminds/sprig) | 4k | 414 | 2023-09-09T13:42:49Z |  Useful template functions for Go templates. |
 | [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 279 | 2023-09-08T16:41:36Z |  Django-like template-engine for Go. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 1k | 149 | 2023-09-08T07:02:29Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 148 | 2023-09-08T17:07:49Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
@@ -48,13 +48,13 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [Masterminds/sprig](https://github.com/Masterminds/sprig) | 4k | 414 | 2023-09-09T13:42:49Z |  Useful template functions for Go templates. |
 | [benbjohnson/ego](https://github.com/benbjohnson/ego) | 563 | 41 | 2023-09-08T21:30:20Z |  Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled. |
 | [foolin/goview](https://github.com/foolin/goview) | 367 | 34 | 2023-09-08T17:52:41Z |  Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application. |
 | [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 100 | 2023-09-08T17:08:44Z |  Jet template engine. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 148 | 2023-09-08T17:07:49Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [valyala/fasttemplate](https://github.com/valyala/fasttemplate) | 765 | 77 | 2023-09-08T17:00:45Z |  Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/). |
 | [sipin/gorazor](https://github.com/sipin/gorazor) | 827 | 90 | 2023-09-08T16:47:17Z |  Razor view engine for Golang. |
-| [Masterminds/sprig](https://github.com/Masterminds/sprig) | 4k | 413 | 2023-09-08T16:43:36Z |  Useful template functions for Go templates. |
 | [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 279 | 2023-09-08T16:41:36Z |  Django-like template-engine for Go. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 1k | 149 | 2023-09-08T07:02:29Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
 | [aymerick/raymond](https://github.com/aymerick/raymond) | 551 | 91 | 2023-09-07T12:20:54Z |  Complete handlebars implementation in Go. |
