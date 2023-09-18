@@ -6,8 +6,8 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 638 | 2023-09-16T21:28:31Z |  highly extensible Git implementation in pure Go. |
-| [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-16T22:37:18Z |  gaining advanced insights from Git repository history. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 639 | 2023-09-17T16:57:54Z |  highly extensible Git implementation in pure Go. |
+| [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-17T20:47:34Z |  gaining advanced insights from Git repository history. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 317 | 2023-09-16T01:51:44Z |  Go bindings for libgit2. |
 | [rjeczalik/gh](https://github.com/rjeczalik/gh) | 80 | 13 | 2023-09-01T06:22:11Z |  Scriptable server and net/http middleware for GitHub Webhooks. |
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 77 | 3 | 2023-09-08T17:55:17Z |  Per-repo and shared Git hooks with version control and auto update. |
@@ -19,9 +19,9 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 638 | 2023-09-16T21:28:31Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 639 | 2023-09-17T16:57:54Z |  highly extensible Git implementation in pure Go. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 317 | 2023-09-16T01:51:44Z |  Go bindings for libgit2. |
-| [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-16T22:37:18Z |  gaining advanced insights from Git repository history. |
+| [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-17T20:47:34Z |  gaining advanced insights from Git repository history. |
 | [sourcegraph/go-vcs](https://github.com/sourcegraph/go-vcs) | 75 | 20 | 2023-07-17T07:36:27Z |  manipulate and inspect VCS repositories in Go. |
 | [jfrog/froggit-go](https://github.com/jfrog/froggit-go) | 39 | 15 | 2023-07-21T13:38:07Z |  Froggit-Go is a Go library, allowing to perform actions on VCS providers. |
 | [rjeczalik/gh](https://github.com/rjeczalik/gh) | 80 | 13 | 2023-09-01T06:22:11Z |  Scriptable server and net/http middleware for GitHub Webhooks. |
@@ -32,8 +32,8 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-16T22:37:18Z |  gaining advanced insights from Git repository history. |
-| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 638 | 2023-09-16T21:28:31Z |  highly extensible Git implementation in pure Go. |
+| [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-17T20:47:34Z |  gaining advanced insights from Git repository history. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 639 | 2023-09-17T16:57:54Z |  highly extensible Git implementation in pure Go. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 317 | 2023-09-16T01:51:44Z |  Go bindings for libgit2. |
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 77 | 3 | 2023-09-08T17:55:17Z |  Per-repo and shared Git hooks with version control and auto update. |
 | [rjeczalik/gh](https://github.com/rjeczalik/gh) | 80 | 13 | 2023-09-01T06:22:11Z |  Scriptable server and net/http middleware for GitHub Webhooks. |

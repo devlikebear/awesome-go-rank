@@ -13,7 +13,7 @@ Libraries for scheduling jobs.
 | [dagu-go/dagu](https://github.com/dagu-go/dagu) | 883 | 92 | 2023-09-16T06:53:49Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [albrow/jobs](https://github.com/albrow/jobs) | 495 | 47 | 2023-09-12T09:20:53Z |  Persistent and flexible background jobs library. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 433 | 54 | 2023-09-13T21:07:09Z |  Cronjobs scheduling made easy. |
-| [adhocore/gronx](https://github.com/adhocore/gronx) | 297 | 16 | 2023-09-16T13:34:12Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
+| [adhocore/gronx](https://github.com/adhocore/gronx) | 298 | 16 | 2023-09-17T15:01:36Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 220 | 15 | 2023-09-13T21:06:20Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 179 | 20 | 2023-09-13T21:07:18Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 162 | 11 | 2023-09-15T03:38:17Z |  A simple but powerful DAG scheduler and dashboard. |
@@ -36,7 +36,7 @@ Libraries for scheduling jobs.
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 433 | 54 | 2023-09-13T21:07:09Z |  Cronjobs scheduling made easy. |
 | [albrow/jobs](https://github.com/albrow/jobs) | 495 | 47 | 2023-09-12T09:20:53Z |  Persistent and flexible background jobs library. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 179 | 20 | 2023-09-13T21:07:18Z |  An easy to use in-process scheduler for recurring tasks in Go. |
-| [adhocore/gronx](https://github.com/adhocore/gronx) | 297 | 16 | 2023-09-16T13:34:12Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
+| [adhocore/gronx](https://github.com/adhocore/gronx) | 298 | 16 | 2023-09-17T15:01:36Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 220 | 15 | 2023-09-13T21:06:20Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 139 | 14 | 2023-06-28T09:38:18Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 98 | 13 | 2023-08-20T13:07:37Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
@@ -50,9 +50,9 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [adhocore/gronx](https://github.com/adhocore/gronx) | 298 | 16 | 2023-09-17T15:01:36Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 1k | 78 | 2023-09-16T21:21:17Z |  Simple, zero-dependency scheduling library for Go. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 365 | 2023-09-16T20:42:52Z | . |
-| [adhocore/gronx](https://github.com/adhocore/gronx) | 297 | 16 | 2023-09-16T13:34:12Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [dagu-go/dagu](https://github.com/dagu-go/dagu) | 883 | 92 | 2023-09-16T06:53:49Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 162 | 11 | 2023-09-15T03:38:17Z |  A simple but powerful DAG scheduler and dashboard. |
 | [datarootsio/cheek](https://github.com/datarootsio/cheek) | 96 | 5 | 2023-09-14T21:07:20Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
