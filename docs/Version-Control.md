@@ -6,7 +6,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 640 | 2023-09-19T09:28:49Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 641 | 2023-09-20T12:18:20Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-19T11:51:45Z |  gaining advanced insights from Git repository history. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 317 | 2023-09-16T01:51:44Z |  Go bindings for libgit2. |
 | [rjeczalik/gh](https://github.com/rjeczalik/gh) | 81 | 13 | 2023-09-18T15:05:55Z |  Scriptable server and net/http middleware for GitHub Webhooks. |
@@ -19,7 +19,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 640 | 2023-09-19T09:28:49Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 641 | 2023-09-20T12:18:20Z |  highly extensible Git implementation in pure Go. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 317 | 2023-09-16T01:51:44Z |  Go bindings for libgit2. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-19T11:51:45Z |  gaining advanced insights from Git repository history. |
 | [sourcegraph/go-vcs](https://github.com/sourcegraph/go-vcs) | 76 | 20 | 2023-09-18T15:06:03Z |  manipulate and inspect VCS repositories in Go. |
@@ -32,8 +32,8 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 641 | 2023-09-20T12:18:20Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 2k | 150 | 2023-09-19T11:51:45Z |  gaining advanced insights from Git repository history. |
-| [go-git/go-git](https://github.com/go-git/go-git) | 5k | 640 | 2023-09-19T09:28:49Z |  highly extensible Git implementation in pure Go. |
 | [beyang/hgo](https://github.com/beyang/hgo) | 16 | 4 | 2023-09-18T15:06:10Z |  Hgo is a collection of Go packages providing read-access to local Mercurial repositories. |
 | [sourcegraph/go-vcs](https://github.com/sourcegraph/go-vcs) | 76 | 20 | 2023-09-18T15:06:03Z |  manipulate and inspect VCS repositories in Go. |
 | [rjeczalik/gh](https://github.com/rjeczalik/gh) | 81 | 13 | 2023-09-18T15:05:55Z |  Scriptable server and net/http middleware for GitHub Webhooks. |
