@@ -6,8 +6,8 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 9k | 513 | 2023-09-22T15:01:24Z |  simple "Make" alternative. |
-| [tockins/realize](https://github.com/tockins/realize) | 4k | 235 | 2023-09-21T05:47:09Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
+| [go-task/task](https://github.com/go-task/task) | 9k | 513 | 2023-09-23T20:51:38Z |  simple "Make" alternative. |
+| [tockins/realize](https://github.com/tockins/realize) | 4k | 235 | 2023-09-23T17:49:23Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 244 | 2023-09-22T16:26:20Z |  Mage is a make/rake-like build tool using Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 49 | 2023-09-22T12:04:52Z |  Modern Make. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 898 | 21 | 2023-09-21T19:08:19Z |  Task runner with README.md defined tasks, executable markdown. |
@@ -21,9 +21,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 9k | 513 | 2023-09-22T15:01:24Z |  simple "Make" alternative. |
+| [go-task/task](https://github.com/go-task/task) | 9k | 513 | 2023-09-23T20:51:38Z |  simple "Make" alternative. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 244 | 2023-09-22T16:26:20Z |  Mage is a make/rake-like build tool using Go. |
-| [tockins/realize](https://github.com/tockins/realize) | 4k | 235 | 2023-09-21T05:47:09Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
+| [tockins/realize](https://github.com/tockins/realize) | 4k | 235 | 2023-09-23T17:49:23Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 49 | 2023-09-22T12:04:52Z |  Modern Make. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 263 | 38 | 2023-09-10T07:06:20Z |  Concurrent task runner. |
 | [gopinath-langote/1build](https://github.com/gopinath-langote/1build) | 217 | 31 | 2023-09-01T00:49:39Z |  Command line tool to frictionlessly manage project-specific commands. |
@@ -36,11 +36,11 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [go-task/task](https://github.com/go-task/task) | 9k | 513 | 2023-09-23T20:51:38Z |  simple "Make" alternative. |
+| [tockins/realize](https://github.com/tockins/realize) | 4k | 235 | 2023-09-23T17:49:23Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 244 | 2023-09-22T16:26:20Z |  Mage is a make/rake-like build tool using Go. |
-| [go-task/task](https://github.com/go-task/task) | 9k | 513 | 2023-09-22T15:01:24Z |  simple "Make" alternative. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 49 | 2023-09-22T12:04:52Z |  Modern Make. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 898 | 21 | 2023-09-21T19:08:19Z |  Task runner with README.md defined tasks, executable markdown. |
-| [tockins/realize](https://github.com/tockins/realize) | 4k | 235 | 2023-09-21T05:47:09Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 263 | 38 | 2023-09-10T07:06:20Z |  Concurrent task runner. |
 | [goyek/goyek](https://github.com/goyek/goyek) | 398 | 29 | 2023-09-08T06:35:40Z |  Create build pipelines in Go. |
 | [maxcnunes/gaper](https://github.com/maxcnunes/gaper) | 75 | 6 | 2023-09-06T01:58:38Z |  Builds and restarts a Go project when it crashes or some watched file changes. |
