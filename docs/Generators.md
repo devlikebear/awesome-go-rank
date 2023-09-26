@@ -6,50 +6,50 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 259 | 2023-09-22T03:58:15Z |  .NET LINQ-like query methods for Go. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 157 | 2023-09-22T09:30:34Z |  Generate arbitrary Go code without templates. |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 261 | 2023-09-25T15:57:20Z |  .NET LINQ-like query methods for Go. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 157 | 2023-09-25T15:27:48Z |  Generate arbitrary Go code without templates. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 44 | 2023-09-21T18:39:01Z |  Derives functions from input types. |
-| [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 799 | 76 | 2023-09-17T12:20:12Z |  Generate decorators for Go interfaces using simple templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 551 | 53 | 2023-09-22T06:14:58Z |  Code generation for enums from code comments. |
+| [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 801 | 76 | 2023-09-25T23:08:55Z |  Generate decorators for Go interfaces using simple templates. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 552 | 53 | 2023-09-25T14:35:21Z |  Code generation for enums from code comments. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 401 | 32 | 2023-09-20T05:55:40Z |  Command line tool for generating interface definitions. |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 312 | 26 | 2023-09-23T13:06:04Z |  Generate converters by defining an interface. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 284 | 15 | 2023-09-21T08:37:19Z |  Generate type-to-type and type-based code without reflection. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 56 | 9 | 2023-09-01T06:06:52Z |  Golang source code parsing, usage like reflect package. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 42 | 1 | 2023-09-09T17:22:35Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
-| [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 21 | 1 | 2023-08-18T20:32:19Z |  A library to create type dynamically. |
+| [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 22 | 1 | 2023-09-25T14:34:06Z |  A library to create type dynamically. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 9 | 0 | 2023-09-21T01:11:13Z |  Feature rich type-to-type copy code generator. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 259 | 2023-09-22T03:58:15Z |  .NET LINQ-like query methods for Go. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 157 | 2023-09-22T09:30:34Z |  Generate arbitrary Go code without templates. |
-| [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 799 | 76 | 2023-09-17T12:20:12Z |  Generate decorators for Go interfaces using simple templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 551 | 53 | 2023-09-22T06:14:58Z |  Code generation for enums from code comments. |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 261 | 2023-09-25T15:57:20Z |  .NET LINQ-like query methods for Go. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 157 | 2023-09-25T15:27:48Z |  Generate arbitrary Go code without templates. |
+| [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 801 | 76 | 2023-09-25T23:08:55Z |  Generate decorators for Go interfaces using simple templates. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 552 | 53 | 2023-09-25T14:35:21Z |  Code generation for enums from code comments. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 44 | 2023-09-21T18:39:01Z |  Derives functions from input types. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 401 | 32 | 2023-09-20T05:55:40Z |  Command line tool for generating interface definitions. |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 312 | 26 | 2023-09-23T13:06:04Z |  Generate converters by defining an interface. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 284 | 15 | 2023-09-21T08:37:19Z |  Generate type-to-type and type-based code without reflection. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 56 | 9 | 2023-09-01T06:06:52Z |  Golang source code parsing, usage like reflect package. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 42 | 1 | 2023-09-09T17:22:35Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
-| [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 21 | 1 | 2023-08-18T20:32:19Z |  A library to create type dynamically. |
+| [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 22 | 1 | 2023-09-25T14:34:06Z |  A library to create type dynamically. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 9 | 0 | 2023-09-21T01:11:13Z |  Feature rich type-to-type copy code generator. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 801 | 76 | 2023-09-25T23:08:55Z |  Generate decorators for Go interfaces using simple templates. |
+| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 261 | 2023-09-25T15:57:20Z |  .NET LINQ-like query methods for Go. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 157 | 2023-09-25T15:27:48Z |  Generate arbitrary Go code without templates. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 552 | 53 | 2023-09-25T14:35:21Z |  Code generation for enums from code comments. |
+| [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 22 | 1 | 2023-09-25T14:34:06Z |  A library to create type dynamically. |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 312 | 26 | 2023-09-23T13:06:04Z |  Generate converters by defining an interface. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 157 | 2023-09-22T09:30:34Z |  Generate arbitrary Go code without templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 551 | 53 | 2023-09-22T06:14:58Z |  Code generation for enums from code comments. |
-| [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 3k | 259 | 2023-09-22T03:58:15Z |  .NET LINQ-like query methods for Go. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 44 | 2023-09-21T18:39:01Z |  Derives functions from input types. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 284 | 15 | 2023-09-21T08:37:19Z |  Generate type-to-type and type-based code without reflection. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 9 | 0 | 2023-09-21T01:11:13Z |  Feature rich type-to-type copy code generator. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 401 | 32 | 2023-09-20T05:55:40Z |  Command line tool for generating interface definitions. |
-| [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 799 | 76 | 2023-09-17T12:20:12Z |  Generate decorators for Go interfaces using simple templates. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 42 | 1 | 2023-09-09T17:22:35Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 56 | 9 | 2023-09-01T06:06:52Z |  Golang source code parsing, usage like reflect package. |
-| [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 21 | 1 | 2023-08-18T20:32:19Z |  A library to create type dynamically. |
 
