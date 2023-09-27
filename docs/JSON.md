@@ -6,122 +6,122 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 842 | 2023-09-25T15:14:03Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 842 | 2023-09-26T22:58:39Z |  Get a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 230 | 2023-09-09T13:43:44Z |  Automatically generate Go (golang) struct definitions from example JSON. |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 120 | 2023-09-25T19:33:52Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
-| [ohler55/ojg](https://github.com/ohler55/ojg) | 639 | 47 | 2023-09-24T03:53:34Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
-| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 317 | 11 | 2023-09-17T08:17:06Z |  Performant JSON unmarshaling for flexible use cases. |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 120 | 2023-09-26T22:58:11Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
+| [ohler55/ojg](https://github.com/ohler55/ojg) | 640 | 47 | 2023-09-26T23:01:29Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
+| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 317 | 11 | 2023-09-26T23:01:21Z |  Performant JSON unmarshaling for flexible use cases. |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 275 | 31 | 2023-09-25T23:36:23Z |  JSON diff library for Go based on RFC6902 (JSON Patch). |
-| [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 263 | 54 | 2023-09-18T21:34:03Z |  API for arbitrary transformation of JSON documents. |
-| [elgs/gojq](https://github.com/elgs/gojq) | 188 | 23 | 2023-08-15T00:33:23Z |  JSON query in Golang. |
-| [spyzhov/ajson](https://github.com/spyzhov/ajson) | 185 | 20 | 2023-09-25T07:47:40Z |  Abstract JSON for golang with JSONPath support. |
-| [wI2L/jettison](https://github.com/wI2L/jettison) | 160 | 11 | 2023-09-19T03:19:48Z |  Fast and flexible JSON encoder for Go. |
+| [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 264 | 54 | 2023-09-26T23:00:59Z |  API for arbitrary transformation of JSON documents. |
+| [elgs/gojq](https://github.com/elgs/gojq) | 190 | 23 | 2023-09-26T22:59:23Z |  JSON query in Golang. |
+| [spyzhov/ajson](https://github.com/spyzhov/ajson) | 187 | 20 | 2023-09-26T22:57:22Z |  Abstract JSON for golang with JSONPath support. |
+| [wI2L/jettison](https://github.com/wI2L/jettison) | 161 | 11 | 2023-09-26T22:59:48Z |  Fast and flexible JSON encoder for Go. |
 | [Andrew-M-C/go.jsonvalue](https://github.com/Andrew-M-C/go.jsonvalue) | 159 | 19 | 2023-09-20T14:42:58Z |  A fast and convinient library for unstructured JSON data, replacing `encoding/json`. |
 | [m-zajac/json2go](https://github.com/m-zajac/json2go) | 122 | 17 | 2023-09-02T00:39:04Z |  Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all. |
-| [skanehira/gjo](https://github.com/skanehira/gjo) | 121 | 15 | 2023-09-15T19:44:31Z |  Small utility to create JSON objects. |
+| [skanehira/gjo](https://github.com/skanehira/gjo) | 122 | 15 | 2023-09-26T22:58:24Z |  Small utility to create JSON objects. |
 | [ricardolonga/jsongo](https://github.com/ricardolonga/jsongo) | 109 | 15 | 2023-02-02T12:48:01Z |  Fluent API to make it easier to create Json objects. |
-| [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 101 | 8 | 2023-09-05T06:20:39Z |  JSON diff utility written in Go. |
-| [olvrng/ujson](https://github.com/olvrng/ujson) | 69 | 8 | 2023-08-29T14:34:50Z |  Fast and minimal JSON parser and transformer that works on unstructured JSON. |
-| [miolini/jsonf](https://github.com/miolini/jsonf) | 64 | 11 | 2023-03-05T05:10:10Z |  Console tool for highlighted formatting and struct query fetching JSON. |
-| [romshark/jscan](https://github.com/romshark/jscan) | 57 | 5 | 2023-08-03T04:45:42Z |  High performance zero-allocation JSON iterator. |
-| [nicklaw5/go-respond](https://github.com/nicklaw5/go-respond) | 52 | 10 | 2023-09-25T21:29:14Z |  Go package for handling common HTTP JSON responses. |
+| [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 102 | 8 | 2023-09-26T22:59:43Z |  JSON diff utility written in Go. |
+| [olvrng/ujson](https://github.com/olvrng/ujson) | 70 | 8 | 2023-09-26T23:01:49Z |  Fast and minimal JSON parser and transformer that works on unstructured JSON. |
+| [miolini/jsonf](https://github.com/miolini/jsonf) | 65 | 11 | 2023-09-26T23:00:18Z |  Console tool for highlighted formatting and struct query fetching JSON. |
+| [romshark/jscan](https://github.com/romshark/jscan) | 58 | 5 | 2023-09-26T22:59:54Z |  High performance zero-allocation JSON iterator. |
+| [nicklaw5/go-respond](https://github.com/nicklaw5/go-respond) | 52 | 10 | 2023-09-26T22:59:02Z |  Go package for handling common HTTP JSON responses. |
 | [sanbornm/mp](https://github.com/sanbornm/mp) | 46 | 8 | 2022-09-26T23:21:10Z |  Simple cli email parser. It currently takes stdin and outputs JSON. |
-| [miladibra10/vjson](https://github.com/miladibra10/vjson) | 35 | 2 | 2023-09-24T23:31:55Z |  Go package for validating JSON objects with declaring a JSON schema with fluent API. |
-| [neilotoole/jsoncolor](https://github.com/neilotoole/jsoncolor) | 33 | 5 | 2023-06-03T14:14:16Z |  Drop-in replacement for `encoding/json` that outputs colorized JSON. |
-| [simonnilsson/ask](https://github.com/simonnilsson/ask) | 27 | 3 | 2023-09-11T21:19:06Z |  Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types. |
-| [limiu82214/gojmapr](https://github.com/limiu82214/gojmapr) | 19 | 1 | 2023-05-15T05:45:15Z |  Get simple struct from complex json by json path. |
-| [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) | 15 | 6 | 2023-06-04T02:54:55Z |  Client-customizable JSON formats for dynamic APIs. |
-| [mickep76/mapslice-json](https://github.com/mickep76/mapslice-json) | 15 | 7 | 2022-11-30T11:36:56Z |  Go MapSlice for ordered marshal/ unmarshal of maps in JSON. |
-| [AmuzaTkts/jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 13 | 3 | 2022-09-26T23:20:44Z |  Go bindings based on the JSON API errors reference. |
-| [RichardKnop/jsonhal](https://github.com/RichardKnop/jsonhal) | 13 | 7 | 2023-01-20T17:40:23Z |  Simple Go package to make custom structs marshal into HAL compatible JSON responses. |
-| [ddymko/go-jsonerror](https://github.com/ddymko/go-jsonerror) | 13 | 2 | 2022-09-26T23:20:04Z |  Go-JsonError is meant to allow us to easily create json response errors that follow the JsonApi spec. |
-| [vtopc/epoch](https://github.com/vtopc/epoch) | 12 | 3 | 2023-03-10T01:36:58Z |  Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from build-in time.Time type in JSON. |
-| [zerosnake0/jzon](https://github.com/zerosnake0/jzon) | 11 | 2 | 2022-09-26T23:21:01Z |  JSON library with standard compatible API/behavior. |
-| [sinhashubham95/jsonic](https://github.com/sinhashubham95/jsonic) | 9 | 2 | 2023-06-08T10:20:46Z |  Utilities to handle and query JSON without defining structs in a type safe manner. |
-| [lucassscaravelli/ej](https://github.com/lucassscaravelli/ej) | 9 | 2 | 2023-02-22T12:02:42Z |  Write and read JSON from different sources succinctly. |
-| [nikolaydubina/htmljson](https://github.com/nikolaydubina/htmljson) | 4 | 0 | 2023-08-25T09:52:05Z |  Rich rendering of JSON as HTML in Go. |
-| [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) | 4 | 2 | 2022-05-27T14:50:00Z |  Simple JSON parser with validation by condition via golang struct fields tags. |
-| [abusomani/jsonhandlers](https://github.com/abusomani/jsonhandlers) | 1 | 0 | 2023-03-11T16:51:01Z |  JSON library to expose simple handlers that lets you easily read and write json from various sources. |
+| [miladibra10/vjson](https://github.com/miladibra10/vjson) | 36 | 2 | 2023-09-26T23:01:55Z |  Go package for validating JSON objects with declaring a JSON schema with fluent API. |
+| [neilotoole/jsoncolor](https://github.com/neilotoole/jsoncolor) | 34 | 5 | 2023-09-26T23:00:13Z |  Drop-in replacement for `encoding/json` that outputs colorized JSON. |
+| [simonnilsson/ask](https://github.com/simonnilsson/ask) | 28 | 3 | 2023-09-26T22:57:33Z |  Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types. |
+| [limiu82214/gojmapr](https://github.com/limiu82214/gojmapr) | 20 | 1 | 2023-09-26T22:59:14Z |  Get simple struct from complex json by json path. |
+| [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) | 16 | 6 | 2023-09-26T22:57:53Z |  Client-customizable JSON formats for dynamic APIs. |
+| [mickep76/mapslice-json](https://github.com/mickep76/mapslice-json) | 16 | 7 | 2023-09-26T23:01:11Z |  Go MapSlice for ordered marshal/ unmarshal of maps in JSON. |
+| [AmuzaTkts/jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 14 | 3 | 2023-09-26T23:00:03Z |  Go bindings based on the JSON API errors reference. |
+| [RichardKnop/jsonhal](https://github.com/RichardKnop/jsonhal) | 14 | 7 | 2023-09-26T23:00:26Z |  Simple Go package to make custom structs marshal into HAL compatible JSON responses. |
+| [ddymko/go-jsonerror](https://github.com/ddymko/go-jsonerror) | 14 | 2 | 2023-09-26T22:58:50Z |  Go-JsonError is meant to allow us to easily create json response errors that follow the JsonApi spec. |
+| [vtopc/epoch](https://github.com/vtopc/epoch) | 13 | 3 | 2023-09-26T22:58:05Z |  Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from build-in time.Time type in JSON. |
+| [zerosnake0/jzon](https://github.com/zerosnake0/jzon) | 12 | 2 | 2023-09-26T23:00:53Z |  JSON library with standard compatible API/behavior. |
+| [sinhashubham95/jsonic](https://github.com/sinhashubham95/jsonic) | 10 | 2 | 2023-09-26T23:00:47Z |  Utilities to handle and query JSON without defining structs in a type safe manner. |
+| [lucassscaravelli/ej](https://github.com/lucassscaravelli/ej) | 10 | 2 | 2023-09-26T22:57:59Z |  Write and read JSON from different sources succinctly. |
+| [nikolaydubina/htmljson](https://github.com/nikolaydubina/htmljson) | 5 | 0 | 2023-09-26T22:59:32Z |  Rich rendering of JSON as HTML in Go. |
+| [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) | 5 | 2 | 2023-09-26T23:01:40Z |  Simple JSON parser with validation by condition via golang struct fields tags. |
+| [abusomani/jsonhandlers](https://github.com/abusomani/jsonhandlers) | 2 | 0 | 2023-09-26T23:00:40Z |  JSON library to expose simple handlers that lets you easily read and write json from various sources. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 842 | 2023-09-25T15:14:03Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 842 | 2023-09-26T22:58:39Z |  Get a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 230 | 2023-09-09T13:43:44Z |  Automatically generate Go (golang) struct definitions from example JSON. |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 120 | 2023-09-25T19:33:52Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
-| [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 263 | 54 | 2023-09-18T21:34:03Z |  API for arbitrary transformation of JSON documents. |
-| [ohler55/ojg](https://github.com/ohler55/ojg) | 639 | 47 | 2023-09-24T03:53:34Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 120 | 2023-09-26T22:58:11Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
+| [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 264 | 54 | 2023-09-26T23:00:59Z |  API for arbitrary transformation of JSON documents. |
+| [ohler55/ojg](https://github.com/ohler55/ojg) | 640 | 47 | 2023-09-26T23:01:29Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 275 | 31 | 2023-09-25T23:36:23Z |  JSON diff library for Go based on RFC6902 (JSON Patch). |
-| [elgs/gojq](https://github.com/elgs/gojq) | 188 | 23 | 2023-08-15T00:33:23Z |  JSON query in Golang. |
-| [spyzhov/ajson](https://github.com/spyzhov/ajson) | 185 | 20 | 2023-09-25T07:47:40Z |  Abstract JSON for golang with JSONPath support. |
+| [elgs/gojq](https://github.com/elgs/gojq) | 190 | 23 | 2023-09-26T22:59:23Z |  JSON query in Golang. |
+| [spyzhov/ajson](https://github.com/spyzhov/ajson) | 187 | 20 | 2023-09-26T22:57:22Z |  Abstract JSON for golang with JSONPath support. |
 | [Andrew-M-C/go.jsonvalue](https://github.com/Andrew-M-C/go.jsonvalue) | 159 | 19 | 2023-09-20T14:42:58Z |  A fast and convinient library for unstructured JSON data, replacing `encoding/json`. |
 | [m-zajac/json2go](https://github.com/m-zajac/json2go) | 122 | 17 | 2023-09-02T00:39:04Z |  Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all. |
-| [skanehira/gjo](https://github.com/skanehira/gjo) | 121 | 15 | 2023-09-15T19:44:31Z |  Small utility to create JSON objects. |
+| [skanehira/gjo](https://github.com/skanehira/gjo) | 122 | 15 | 2023-09-26T22:58:24Z |  Small utility to create JSON objects. |
 | [ricardolonga/jsongo](https://github.com/ricardolonga/jsongo) | 109 | 15 | 2023-02-02T12:48:01Z |  Fluent API to make it easier to create Json objects. |
-| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 317 | 11 | 2023-09-17T08:17:06Z |  Performant JSON unmarshaling for flexible use cases. |
-| [wI2L/jettison](https://github.com/wI2L/jettison) | 160 | 11 | 2023-09-19T03:19:48Z |  Fast and flexible JSON encoder for Go. |
-| [miolini/jsonf](https://github.com/miolini/jsonf) | 64 | 11 | 2023-03-05T05:10:10Z |  Console tool for highlighted formatting and struct query fetching JSON. |
-| [nicklaw5/go-respond](https://github.com/nicklaw5/go-respond) | 52 | 10 | 2023-09-25T21:29:14Z |  Go package for handling common HTTP JSON responses. |
-| [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 101 | 8 | 2023-09-05T06:20:39Z |  JSON diff utility written in Go. |
+| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 317 | 11 | 2023-09-26T23:01:21Z |  Performant JSON unmarshaling for flexible use cases. |
+| [wI2L/jettison](https://github.com/wI2L/jettison) | 161 | 11 | 2023-09-26T22:59:48Z |  Fast and flexible JSON encoder for Go. |
+| [miolini/jsonf](https://github.com/miolini/jsonf) | 65 | 11 | 2023-09-26T23:00:18Z |  Console tool for highlighted formatting and struct query fetching JSON. |
+| [nicklaw5/go-respond](https://github.com/nicklaw5/go-respond) | 52 | 10 | 2023-09-26T22:59:02Z |  Go package for handling common HTTP JSON responses. |
+| [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 102 | 8 | 2023-09-26T22:59:43Z |  JSON diff utility written in Go. |
 | [sanbornm/mp](https://github.com/sanbornm/mp) | 46 | 8 | 2022-09-26T23:21:10Z |  Simple cli email parser. It currently takes stdin and outputs JSON. |
-| [olvrng/ujson](https://github.com/olvrng/ujson) | 69 | 8 | 2023-08-29T14:34:50Z |  Fast and minimal JSON parser and transformer that works on unstructured JSON. |
-| [RichardKnop/jsonhal](https://github.com/RichardKnop/jsonhal) | 13 | 7 | 2023-01-20T17:40:23Z |  Simple Go package to make custom structs marshal into HAL compatible JSON responses. |
-| [mickep76/mapslice-json](https://github.com/mickep76/mapslice-json) | 15 | 7 | 2022-11-30T11:36:56Z |  Go MapSlice for ordered marshal/ unmarshal of maps in JSON. |
-| [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) | 15 | 6 | 2023-06-04T02:54:55Z |  Client-customizable JSON formats for dynamic APIs. |
-| [romshark/jscan](https://github.com/romshark/jscan) | 57 | 5 | 2023-08-03T04:45:42Z |  High performance zero-allocation JSON iterator. |
-| [neilotoole/jsoncolor](https://github.com/neilotoole/jsoncolor) | 33 | 5 | 2023-06-03T14:14:16Z |  Drop-in replacement for `encoding/json` that outputs colorized JSON. |
-| [AmuzaTkts/jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 13 | 3 | 2022-09-26T23:20:44Z |  Go bindings based on the JSON API errors reference. |
-| [simonnilsson/ask](https://github.com/simonnilsson/ask) | 27 | 3 | 2023-09-11T21:19:06Z |  Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types. |
-| [vtopc/epoch](https://github.com/vtopc/epoch) | 12 | 3 | 2023-03-10T01:36:58Z |  Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from build-in time.Time type in JSON. |
-| [miladibra10/vjson](https://github.com/miladibra10/vjson) | 35 | 2 | 2023-09-24T23:31:55Z |  Go package for validating JSON objects with declaring a JSON schema with fluent API. |
-| [ddymko/go-jsonerror](https://github.com/ddymko/go-jsonerror) | 13 | 2 | 2022-09-26T23:20:04Z |  Go-JsonError is meant to allow us to easily create json response errors that follow the JsonApi spec. |
-| [zerosnake0/jzon](https://github.com/zerosnake0/jzon) | 11 | 2 | 2022-09-26T23:21:01Z |  JSON library with standard compatible API/behavior. |
-| [sinhashubham95/jsonic](https://github.com/sinhashubham95/jsonic) | 9 | 2 | 2023-06-08T10:20:46Z |  Utilities to handle and query JSON without defining structs in a type safe manner. |
-| [lucassscaravelli/ej](https://github.com/lucassscaravelli/ej) | 9 | 2 | 2023-02-22T12:02:42Z |  Write and read JSON from different sources succinctly. |
-| [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) | 4 | 2 | 2022-05-27T14:50:00Z |  Simple JSON parser with validation by condition via golang struct fields tags. |
-| [limiu82214/gojmapr](https://github.com/limiu82214/gojmapr) | 19 | 1 | 2023-05-15T05:45:15Z |  Get simple struct from complex json by json path. |
-| [nikolaydubina/htmljson](https://github.com/nikolaydubina/htmljson) | 4 | 0 | 2023-08-25T09:52:05Z |  Rich rendering of JSON as HTML in Go. |
-| [abusomani/jsonhandlers](https://github.com/abusomani/jsonhandlers) | 1 | 0 | 2023-03-11T16:51:01Z |  JSON library to expose simple handlers that lets you easily read and write json from various sources. |
+| [olvrng/ujson](https://github.com/olvrng/ujson) | 70 | 8 | 2023-09-26T23:01:49Z |  Fast and minimal JSON parser and transformer that works on unstructured JSON. |
+| [RichardKnop/jsonhal](https://github.com/RichardKnop/jsonhal) | 14 | 7 | 2023-09-26T23:00:26Z |  Simple Go package to make custom structs marshal into HAL compatible JSON responses. |
+| [mickep76/mapslice-json](https://github.com/mickep76/mapslice-json) | 16 | 7 | 2023-09-26T23:01:11Z |  Go MapSlice for ordered marshal/ unmarshal of maps in JSON. |
+| [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) | 16 | 6 | 2023-09-26T22:57:53Z |  Client-customizable JSON formats for dynamic APIs. |
+| [romshark/jscan](https://github.com/romshark/jscan) | 58 | 5 | 2023-09-26T22:59:54Z |  High performance zero-allocation JSON iterator. |
+| [neilotoole/jsoncolor](https://github.com/neilotoole/jsoncolor) | 34 | 5 | 2023-09-26T23:00:13Z |  Drop-in replacement for `encoding/json` that outputs colorized JSON. |
+| [AmuzaTkts/jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 14 | 3 | 2023-09-26T23:00:03Z |  Go bindings based on the JSON API errors reference. |
+| [simonnilsson/ask](https://github.com/simonnilsson/ask) | 28 | 3 | 2023-09-26T22:57:33Z |  Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types. |
+| [vtopc/epoch](https://github.com/vtopc/epoch) | 13 | 3 | 2023-09-26T22:58:05Z |  Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from build-in time.Time type in JSON. |
+| [miladibra10/vjson](https://github.com/miladibra10/vjson) | 36 | 2 | 2023-09-26T23:01:55Z |  Go package for validating JSON objects with declaring a JSON schema with fluent API. |
+| [ddymko/go-jsonerror](https://github.com/ddymko/go-jsonerror) | 14 | 2 | 2023-09-26T22:58:50Z |  Go-JsonError is meant to allow us to easily create json response errors that follow the JsonApi spec. |
+| [zerosnake0/jzon](https://github.com/zerosnake0/jzon) | 12 | 2 | 2023-09-26T23:00:53Z |  JSON library with standard compatible API/behavior. |
+| [sinhashubham95/jsonic](https://github.com/sinhashubham95/jsonic) | 10 | 2 | 2023-09-26T23:00:47Z |  Utilities to handle and query JSON without defining structs in a type safe manner. |
+| [lucassscaravelli/ej](https://github.com/lucassscaravelli/ej) | 10 | 2 | 2023-09-26T22:57:59Z |  Write and read JSON from different sources succinctly. |
+| [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) | 5 | 2 | 2023-09-26T23:01:40Z |  Simple JSON parser with validation by condition via golang struct fields tags. |
+| [limiu82214/gojmapr](https://github.com/limiu82214/gojmapr) | 20 | 1 | 2023-09-26T22:59:14Z |  Get simple struct from complex json by json path. |
+| [nikolaydubina/htmljson](https://github.com/nikolaydubina/htmljson) | 5 | 0 | 2023-09-26T22:59:32Z |  Rich rendering of JSON as HTML in Go. |
+| [abusomani/jsonhandlers](https://github.com/abusomani/jsonhandlers) | 2 | 0 | 2023-09-26T23:00:40Z |  JSON library to expose simple handlers that lets you easily read and write json from various sources. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [miladibra10/vjson](https://github.com/miladibra10/vjson) | 36 | 2 | 2023-09-26T23:01:55Z |  Go package for validating JSON objects with declaring a JSON schema with fluent API. |
+| [olvrng/ujson](https://github.com/olvrng/ujson) | 70 | 8 | 2023-09-26T23:01:49Z |  Fast and minimal JSON parser and transformer that works on unstructured JSON. |
+| [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) | 5 | 2 | 2023-09-26T23:01:40Z |  Simple JSON parser with validation by condition via golang struct fields tags. |
+| [ohler55/ojg](https://github.com/ohler55/ojg) | 640 | 47 | 2023-09-26T23:01:29Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
+| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 317 | 11 | 2023-09-26T23:01:21Z |  Performant JSON unmarshaling for flexible use cases. |
+| [mickep76/mapslice-json](https://github.com/mickep76/mapslice-json) | 16 | 7 | 2023-09-26T23:01:11Z |  Go MapSlice for ordered marshal/ unmarshal of maps in JSON. |
+| [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 264 | 54 | 2023-09-26T23:00:59Z |  API for arbitrary transformation of JSON documents. |
+| [zerosnake0/jzon](https://github.com/zerosnake0/jzon) | 12 | 2 | 2023-09-26T23:00:53Z |  JSON library with standard compatible API/behavior. |
+| [sinhashubham95/jsonic](https://github.com/sinhashubham95/jsonic) | 10 | 2 | 2023-09-26T23:00:47Z |  Utilities to handle and query JSON without defining structs in a type safe manner. |
+| [abusomani/jsonhandlers](https://github.com/abusomani/jsonhandlers) | 2 | 0 | 2023-09-26T23:00:40Z |  JSON library to expose simple handlers that lets you easily read and write json from various sources. |
+| [RichardKnop/jsonhal](https://github.com/RichardKnop/jsonhal) | 14 | 7 | 2023-09-26T23:00:26Z |  Simple Go package to make custom structs marshal into HAL compatible JSON responses. |
+| [miolini/jsonf](https://github.com/miolini/jsonf) | 65 | 11 | 2023-09-26T23:00:18Z |  Console tool for highlighted formatting and struct query fetching JSON. |
+| [neilotoole/jsoncolor](https://github.com/neilotoole/jsoncolor) | 34 | 5 | 2023-09-26T23:00:13Z |  Drop-in replacement for `encoding/json` that outputs colorized JSON. |
+| [AmuzaTkts/jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 14 | 3 | 2023-09-26T23:00:03Z |  Go bindings based on the JSON API errors reference. |
+| [romshark/jscan](https://github.com/romshark/jscan) | 58 | 5 | 2023-09-26T22:59:54Z |  High performance zero-allocation JSON iterator. |
+| [wI2L/jettison](https://github.com/wI2L/jettison) | 161 | 11 | 2023-09-26T22:59:48Z |  Fast and flexible JSON encoder for Go. |
+| [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 102 | 8 | 2023-09-26T22:59:43Z |  JSON diff utility written in Go. |
+| [nikolaydubina/htmljson](https://github.com/nikolaydubina/htmljson) | 5 | 0 | 2023-09-26T22:59:32Z |  Rich rendering of JSON as HTML in Go. |
+| [elgs/gojq](https://github.com/elgs/gojq) | 190 | 23 | 2023-09-26T22:59:23Z |  JSON query in Golang. |
+| [limiu82214/gojmapr](https://github.com/limiu82214/gojmapr) | 20 | 1 | 2023-09-26T22:59:14Z |  Get simple struct from complex json by json path. |
+| [nicklaw5/go-respond](https://github.com/nicklaw5/go-respond) | 52 | 10 | 2023-09-26T22:59:02Z |  Go package for handling common HTTP JSON responses. |
+| [ddymko/go-jsonerror](https://github.com/ddymko/go-jsonerror) | 14 | 2 | 2023-09-26T22:58:50Z |  Go-JsonError is meant to allow us to easily create json response errors that follow the JsonApi spec. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 842 | 2023-09-26T22:58:39Z |  Get a JSON value with one line of code. |
+| [skanehira/gjo](https://github.com/skanehira/gjo) | 122 | 15 | 2023-09-26T22:58:24Z |  Small utility to create JSON objects. |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 120 | 2023-09-26T22:58:11Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
+| [vtopc/epoch](https://github.com/vtopc/epoch) | 13 | 3 | 2023-09-26T22:58:05Z |  Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from build-in time.Time type in JSON. |
+| [lucassscaravelli/ej](https://github.com/lucassscaravelli/ej) | 10 | 2 | 2023-09-26T22:57:59Z |  Write and read JSON from different sources succinctly. |
+| [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) | 16 | 6 | 2023-09-26T22:57:53Z |  Client-customizable JSON formats for dynamic APIs. |
+| [simonnilsson/ask](https://github.com/simonnilsson/ask) | 28 | 3 | 2023-09-26T22:57:33Z |  Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types. |
+| [spyzhov/ajson](https://github.com/spyzhov/ajson) | 187 | 20 | 2023-09-26T22:57:22Z |  Abstract JSON for golang with JSONPath support. |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 275 | 31 | 2023-09-25T23:36:23Z |  JSON diff library for Go based on RFC6902 (JSON Patch). |
-| [nicklaw5/go-respond](https://github.com/nicklaw5/go-respond) | 52 | 10 | 2023-09-25T21:29:14Z |  Go package for handling common HTTP JSON responses. |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 120 | 2023-09-25T19:33:52Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 842 | 2023-09-25T15:14:03Z |  Get a JSON value with one line of code. |
-| [spyzhov/ajson](https://github.com/spyzhov/ajson) | 185 | 20 | 2023-09-25T07:47:40Z |  Abstract JSON for golang with JSONPath support. |
-| [miladibra10/vjson](https://github.com/miladibra10/vjson) | 35 | 2 | 2023-09-24T23:31:55Z |  Go package for validating JSON objects with declaring a JSON schema with fluent API. |
-| [ohler55/ojg](https://github.com/ohler55/ojg) | 639 | 47 | 2023-09-24T03:53:34Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
 | [Andrew-M-C/go.jsonvalue](https://github.com/Andrew-M-C/go.jsonvalue) | 159 | 19 | 2023-09-20T14:42:58Z |  A fast and convinient library for unstructured JSON data, replacing `encoding/json`. |
-| [wI2L/jettison](https://github.com/wI2L/jettison) | 160 | 11 | 2023-09-19T03:19:48Z |  Fast and flexible JSON encoder for Go. |
-| [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 263 | 54 | 2023-09-18T21:34:03Z |  API for arbitrary transformation of JSON documents. |
-| [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 317 | 11 | 2023-09-17T08:17:06Z |  Performant JSON unmarshaling for flexible use cases. |
-| [skanehira/gjo](https://github.com/skanehira/gjo) | 121 | 15 | 2023-09-15T19:44:31Z |  Small utility to create JSON objects. |
-| [simonnilsson/ask](https://github.com/simonnilsson/ask) | 27 | 3 | 2023-09-11T21:19:06Z |  Easy access to nested values in maps and slices. Works in combination with encoding/json and other packages that "Unmarshal" arbitrary data into Go data-types. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 230 | 2023-09-09T13:43:44Z |  Automatically generate Go (golang) struct definitions from example JSON. |
-| [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 101 | 8 | 2023-09-05T06:20:39Z |  JSON diff utility written in Go. |
 | [m-zajac/json2go](https://github.com/m-zajac/json2go) | 122 | 17 | 2023-09-02T00:39:04Z |  Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all. |
-| [olvrng/ujson](https://github.com/olvrng/ujson) | 69 | 8 | 2023-08-29T14:34:50Z |  Fast and minimal JSON parser and transformer that works on unstructured JSON. |
-| [nikolaydubina/htmljson](https://github.com/nikolaydubina/htmljson) | 4 | 0 | 2023-08-25T09:52:05Z |  Rich rendering of JSON as HTML in Go. |
-| [elgs/gojq](https://github.com/elgs/gojq) | 188 | 23 | 2023-08-15T00:33:23Z |  JSON query in Golang. |
-| [romshark/jscan](https://github.com/romshark/jscan) | 57 | 5 | 2023-08-03T04:45:42Z |  High performance zero-allocation JSON iterator. |
-| [sinhashubham95/jsonic](https://github.com/sinhashubham95/jsonic) | 9 | 2 | 2023-06-08T10:20:46Z |  Utilities to handle and query JSON without defining structs in a type safe manner. |
-| [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) | 15 | 6 | 2023-06-04T02:54:55Z |  Client-customizable JSON formats for dynamic APIs. |
-| [neilotoole/jsoncolor](https://github.com/neilotoole/jsoncolor) | 33 | 5 | 2023-06-03T14:14:16Z |  Drop-in replacement for `encoding/json` that outputs colorized JSON. |
-| [limiu82214/gojmapr](https://github.com/limiu82214/gojmapr) | 19 | 1 | 2023-05-15T05:45:15Z |  Get simple struct from complex json by json path. |
-| [abusomani/jsonhandlers](https://github.com/abusomani/jsonhandlers) | 1 | 0 | 2023-03-11T16:51:01Z |  JSON library to expose simple handlers that lets you easily read and write json from various sources. |
-| [vtopc/epoch](https://github.com/vtopc/epoch) | 12 | 3 | 2023-03-10T01:36:58Z |  Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from build-in time.Time type in JSON. |
-| [miolini/jsonf](https://github.com/miolini/jsonf) | 64 | 11 | 2023-03-05T05:10:10Z |  Console tool for highlighted formatting and struct query fetching JSON. |
-| [lucassscaravelli/ej](https://github.com/lucassscaravelli/ej) | 9 | 2 | 2023-02-22T12:02:42Z |  Write and read JSON from different sources succinctly. |
 | [ricardolonga/jsongo](https://github.com/ricardolonga/jsongo) | 109 | 15 | 2023-02-02T12:48:01Z |  Fluent API to make it easier to create Json objects. |
-| [RichardKnop/jsonhal](https://github.com/RichardKnop/jsonhal) | 13 | 7 | 2023-01-20T17:40:23Z |  Simple Go package to make custom structs marshal into HAL compatible JSON responses. |
-| [mickep76/mapslice-json](https://github.com/mickep76/mapslice-json) | 15 | 7 | 2022-11-30T11:36:56Z |  Go MapSlice for ordered marshal/ unmarshal of maps in JSON. |
 | [sanbornm/mp](https://github.com/sanbornm/mp) | 46 | 8 | 2022-09-26T23:21:10Z |  Simple cli email parser. It currently takes stdin and outputs JSON. |
-| [zerosnake0/jzon](https://github.com/zerosnake0/jzon) | 11 | 2 | 2022-09-26T23:21:01Z |  JSON library with standard compatible API/behavior. |
-| [AmuzaTkts/jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 13 | 3 | 2022-09-26T23:20:44Z |  Go bindings based on the JSON API errors reference. |
-| [ddymko/go-jsonerror](https://github.com/ddymko/go-jsonerror) | 13 | 2 | 2022-09-26T23:20:04Z |  Go-JsonError is meant to allow us to easily create json response errors that follow the JsonApi spec. |
-| [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) | 4 | 2 | 2022-05-27T14:50:00Z |  Simple JSON parser with validation by condition via golang struct fields tags. |
 
