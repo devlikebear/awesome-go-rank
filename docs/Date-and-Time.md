@@ -6,8 +6,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 232 | 2023-09-25T23:35:49Z |  Now is a time toolkit for golang. |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 199 | 2023-09-26T09:14:48Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2023-09-27T21:46:55Z |  Now is a time toolkit for golang. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 199 | 2023-09-27T14:31:25Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 152 | 2023-09-21T04:51:55Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 766 | 55 | 2023-08-30T09:59:00Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 469 | 51 | 2023-09-24T04:58:09Z |  Time duration formatting library for Go. |
@@ -33,8 +33,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 232 | 2023-09-25T23:35:49Z |  Now is a time toolkit for golang. |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 199 | 2023-09-26T09:14:48Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2023-09-27T21:46:55Z |  Now is a time toolkit for golang. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 199 | 2023-09-27T14:31:25Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 152 | 2023-09-21T04:51:55Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 766 | 55 | 2023-08-30T09:59:00Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 469 | 51 | 2023-09-24T04:58:09Z |  Time duration formatting library for Go. |
@@ -60,10 +60,10 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2023-09-27T21:46:55Z |  Now is a time toolkit for golang. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 199 | 2023-09-27T14:31:25Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [wlbr/feiertage](https://github.com/wlbr/feiertage) | 44 | 8 | 2023-09-26T19:47:15Z |  Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving... |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 3k | 199 | 2023-09-26T09:14:48Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 77 | 13 | 2023-09-26T00:19:37Z |  Calculate the sunrise and sunset times for a given location. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 232 | 2023-09-25T23:35:49Z |  Now is a time toolkit for golang. |
 | [relvacode/iso8601](https://github.com/relvacode/iso8601) | 131 | 15 | 2023-09-25T07:56:49Z |  Efficiently parse ISO8601 date-times without regex. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 469 | 51 | 2023-09-24T04:58:09Z |  Time duration formatting library for Go. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 81 | 5 | 2023-09-22T20:21:28Z |  Convert string to duration. Support time.Duration returned string and more. |
