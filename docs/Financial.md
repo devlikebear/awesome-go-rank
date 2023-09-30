@@ -6,7 +6,7 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 581 | 2023-09-28T16:01:22Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 581 | 2023-09-29T19:39:36Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-09-28T20:01:11Z |  Terminal stock watcher and stock position tracker. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 131 | 2023-09-28T16:08:58Z |  Implementation of Fowler's Money pattern. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 963 | 242 | 2023-09-26T09:56:14Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
@@ -33,7 +33,7 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 581 | 2023-09-28T16:01:22Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 581 | 2023-09-29T19:39:36Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-09-28T20:01:11Z |  Terminal stock watcher and stock position tracker. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 963 | 242 | 2023-09-26T09:56:14Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 395 | 147 | 2023-09-28T10:37:59Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
@@ -60,11 +60,11 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 581 | 2023-09-29T19:39:36Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-09-28T20:01:11Z |  Terminal stock watcher and stock position tracker. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 749 | 133 | 2023-09-28T16:23:23Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 833 | 70 | 2023-09-28T16:12:21Z |  money and currency formatting for golang. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 131 | 2023-09-28T16:08:58Z |  Implementation of Fowler's Money pattern. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 581 | 2023-09-28T16:01:22Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 395 | 147 | 2023-09-28T10:37:59Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [govalues/decimal](https://github.com/govalues/decimal) | 5 | 0 | 2023-09-27T11:27:44Z |  Immutable decimal numbers with panic-free arithmetic. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 424 | 33 | 2023-09-26T14:07:54Z |  Handles currency amounts, provides currency information and formatting. |
