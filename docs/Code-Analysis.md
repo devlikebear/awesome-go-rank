@@ -7,14 +7,14 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [golang/lint](https://github.com/golang/lint) | 4k | 552 | 2023-09-29T02:19:00Z |  Golint is a linter for Go source code. |
-| [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 136 | 2023-09-30T01:38:00Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
+| [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 136 | 2023-10-01T11:18:06Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 113 | 2023-09-28T13:51:51Z |  source code linter that brings checks that are currently not implemented in other linters. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 185 | 2023-09-28T10:03:40Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 74 | 2023-09-22T16:33:22Z |  Visualise Go program GC trace data in real time. |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 929 | 88 | 2023-09-20T02:46:16Z |  A Parser for PHP written in Go. |
-| [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 768 | 44 | 2023-09-28T14:40:09Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
+| [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 769 | 44 | 2023-10-01T02:23:44Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 730 | 71 | 2023-09-27T13:05:43Z |  Web based Golang AST visualizer. |
-| [segmentio/golines](https://github.com/segmentio/golines) | 703 | 50 | 2023-09-26T21:01:31Z |  Formatter that automatically shortens long lines in Go code. |
+| [segmentio/golines](https://github.com/segmentio/golines) | 704 | 50 | 2023-10-01T06:06:46Z |  Formatter that automatically shortens long lines in Go code. |
 | [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) | 640 | 27 | 2023-09-14T15:24:37Z |  An easy way to find outdated dependencies of your Go projects. |
 | [amit-davidson/Chronos](https://github.com/amit-davidson/Chronos) | 406 | 13 | 2023-09-19T10:22:10Z |  Detects race conditions statically |
 | [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) | 397 | 42 | 2023-09-23T05:49:23Z |  Static code analyser which links TODO comments in code with issues in your issue tracker. |
@@ -40,13 +40,13 @@ Source code analysis tools, also known as Static Application Security Testing (S
 |------------|-------|-------|--------------|-------------|
 | [golang/lint](https://github.com/golang/lint) | 4k | 552 | 2023-09-29T02:19:00Z |  Golint is a linter for Go source code. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 185 | 2023-09-28T10:03:40Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
-| [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 136 | 2023-09-30T01:38:00Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
+| [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 136 | 2023-10-01T11:18:06Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 113 | 2023-09-28T13:51:51Z |  source code linter that brings checks that are currently not implemented in other linters. |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 929 | 88 | 2023-09-20T02:46:16Z |  A Parser for PHP written in Go. |
 | [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 74 | 2023-09-22T16:33:22Z |  Visualise Go program GC trace data in real time. |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 730 | 71 | 2023-09-27T13:05:43Z |  Web based Golang AST visualizer. |
-| [segmentio/golines](https://github.com/segmentio/golines) | 703 | 50 | 2023-09-26T21:01:31Z |  Formatter that automatically shortens long lines in Go code. |
-| [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 768 | 44 | 2023-09-28T14:40:09Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
+| [segmentio/golines](https://github.com/segmentio/golines) | 704 | 50 | 2023-10-01T06:06:46Z |  Formatter that automatically shortens long lines in Go code. |
+| [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 769 | 44 | 2023-10-01T02:23:44Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
 | [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) | 397 | 42 | 2023-09-23T05:49:23Z |  Static code analyser which links TODO comments in code with issues in your issue tracker. |
 | [mdempsky/unconvert](https://github.com/mdempsky/unconvert) | 358 | 28 | 2023-09-21T12:41:04Z |  Remove unnecessary type conversions from Go source. |
 | [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) | 640 | 27 | 2023-09-14T15:24:37Z |  An easy way to find outdated dependencies of your Go projects. |
@@ -70,14 +70,14 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 136 | 2023-10-01T11:18:06Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
+| [segmentio/golines](https://github.com/segmentio/golines) | 704 | 50 | 2023-10-01T06:06:46Z |  Formatter that automatically shortens long lines in Go code. |
+| [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 769 | 44 | 2023-10-01T02:23:44Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
 | [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 287 | 22 | 2023-09-30T17:15:45Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
-| [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 136 | 2023-09-30T01:38:00Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [golang/lint](https://github.com/golang/lint) | 4k | 552 | 2023-09-29T02:19:00Z |  Golint is a linter for Go source code. |
-| [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 768 | 44 | 2023-09-28T14:40:09Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 113 | 2023-09-28T13:51:51Z |  source code linter that brings checks that are currently not implemented in other linters. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 185 | 2023-09-28T10:03:40Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 730 | 71 | 2023-09-27T13:05:43Z |  Web based Golang AST visualizer. |
-| [segmentio/golines](https://github.com/segmentio/golines) | 703 | 50 | 2023-09-26T21:01:31Z |  Formatter that automatically shortens long lines in Go code. |
 | [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) | 397 | 42 | 2023-09-23T05:49:23Z |  Static code analyser which links TODO comments in code with issues in your issue tracker. |
 | [davecheney/gcvis](https://github.com/davecheney/gcvis) | 1k | 74 | 2023-09-22T16:33:22Z |  Visualise Go program GC trace data in real time. |
 | [mdempsky/unconvert](https://github.com/mdempsky/unconvert) | 358 | 28 | 2023-09-21T12:41:04Z |  Remove unnecessary type conversions from Go source. |
