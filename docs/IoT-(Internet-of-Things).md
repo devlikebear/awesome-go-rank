@@ -7,7 +7,7 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 291 | 2023-10-04T12:36:09Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 614 | 2023-10-06T20:51:27Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 614 | 2023-10-07T23:01:02Z |  Industrial IoT Messaging and Device Management Server. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 321 | 2023-10-06T12:14:23Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 296 | 2023-10-02T10:36:01Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 375 | 32 | 2023-09-29T03:30:35Z |  Open-Source Platform for Quantified Self & IoT. |
@@ -22,7 +22,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 614 | 2023-10-06T20:51:27Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 614 | 2023-10-07T23:01:02Z |  Industrial IoT Messaging and Device Management Server. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 321 | 2023-10-06T12:14:23Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 296 | 2023-10-02T10:36:01Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 291 | 2023-10-04T12:36:09Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
@@ -38,7 +38,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 614 | 2023-10-06T20:51:27Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 614 | 2023-10-07T23:01:02Z |  Industrial IoT Messaging and Device Management Server. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 321 | 2023-10-06T12:14:23Z |  Lightweight data stream processing engine for IoT edge. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 61 | 15 | 2023-10-05T14:10:04Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 291 | 2023-10-04T12:36:09Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
