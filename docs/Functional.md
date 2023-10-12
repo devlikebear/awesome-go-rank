@@ -6,7 +6,7 @@ Packages to support functional programming in Go.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [samber/mo](https://github.com/samber/mo) | 2k | 61 | 2023-10-10T22:26:32Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
+| [samber/mo](https://github.com/samber/mo) | 2k | 62 | 2023-10-11T12:06:53Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
 | [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 68 | 2023-10-10T18:53:07Z |  Useful collection of helpfully functional Go collection utilities. |
 | [TeaEntityLab/fpGo](https://github.com/TeaEntityLab/fpGo) | 328 | 21 | 2023-10-01T07:34:42Z |  Monad, Functional Programming features for Golang. |
 | [repeale/fp-go](https://github.com/repeale/fp-go) | 263 | 12 | 2023-10-11T00:13:07Z |  Collection of Functional Programming helpers powered by Golang 1.18+ generics. |
@@ -21,7 +21,7 @@ Packages to support functional programming in Go.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 68 | 2023-10-10T18:53:07Z |  Useful collection of helpfully functional Go collection utilities. |
-| [samber/mo](https://github.com/samber/mo) | 2k | 61 | 2023-10-10T22:26:32Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
+| [samber/mo](https://github.com/samber/mo) | 2k | 62 | 2023-10-11T12:06:53Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
 | [TeaEntityLab/fpGo](https://github.com/TeaEntityLab/fpGo) | 328 | 21 | 2023-10-01T07:34:42Z |  Monad, Functional Programming features for Golang. |
 | [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) | 209 | 20 | 2023-10-09T10:45:01Z |  Functional programming in Go using generics |
 | [repeale/fp-go](https://github.com/repeale/fp-go) | 263 | 12 | 2023-10-11T00:13:07Z |  Collection of Functional Programming helpers powered by Golang 1.18+ generics. |
@@ -34,8 +34,8 @@ Packages to support functional programming in Go.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [samber/mo](https://github.com/samber/mo) | 2k | 62 | 2023-10-11T12:06:53Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
 | [repeale/fp-go](https://github.com/repeale/fp-go) | 263 | 12 | 2023-10-11T00:13:07Z |  Collection of Functional Programming helpers powered by Golang 1.18+ generics. |
-| [samber/mo](https://github.com/samber/mo) | 2k | 61 | 2023-10-10T22:26:32Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
 | [tobyhede/go-underscore](https://github.com/tobyhede/go-underscore) | 1k | 68 | 2023-10-10T18:53:07Z |  Useful collection of helpfully functional Go collection utilities. |
 | [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) | 209 | 20 | 2023-10-09T10:45:01Z |  Functional programming in Go using generics |
 | [TeaEntityLab/fpGo](https://github.com/TeaEntityLab/fpGo) | 328 | 21 | 2023-10-01T07:34:42Z |  Monad, Functional Programming features for Golang. |
