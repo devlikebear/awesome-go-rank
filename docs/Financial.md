@@ -6,8 +6,8 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 585 | 2023-10-13T12:31:08Z |  Arbitrary-precision fixed-point decimal numbers. |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-10-13T04:18:35Z |  Terminal stock watcher and stock position tracker. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 585 | 2023-10-15T01:49:10Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-10-15T23:49:34Z |  Terminal stock watcher and stock position tracker. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 133 | 2023-10-14T07:09:51Z |  Implementation of Fowler's Money pattern. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 969 | 243 | 2023-10-13T12:34:47Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 835 | 70 | 2023-10-07T18:22:47Z |  money and currency formatting for golang. |
@@ -34,8 +34,8 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 585 | 2023-10-13T12:31:08Z |  Arbitrary-precision fixed-point decimal numbers. |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-10-13T04:18:35Z |  Terminal stock watcher and stock position tracker. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 585 | 2023-10-15T01:49:10Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-10-15T23:49:34Z |  Terminal stock watcher and stock position tracker. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 969 | 243 | 2023-10-13T12:34:47Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 397 | 147 | 2023-10-13T06:51:07Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 750 | 134 | 2023-10-09T18:07:59Z |  Technical analysis library with advanced market analysis and trading strategies. |
@@ -62,6 +62,8 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-10-15T23:49:34Z |  Terminal stock watcher and stock position tracker. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 585 | 2023-10-15T01:49:10Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 133 | 2023-10-14T07:09:51Z |  Implementation of Fowler's Money pattern. |
 | [BoltApp/sleet](https://github.com/BoltApp/sleet) | 126 | 20 | 2023-10-14T06:57:17Z |  One unified interface for multiple Payment Service Providers (PsP) to process online payment. |
 | [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 104 | 15 | 2023-10-14T06:57:09Z |  VAT number validation & EU VAT rates. |
@@ -69,9 +71,7 @@ Packages for accounting and finance.
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 361 | 129 | 2023-10-13T19:57:14Z |  Matching Engine for Limit Order Book in Golang. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 430 | 34 | 2023-10-13T15:02:17Z |  Handles currency amounts, provides currency information and formatting. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 969 | 243 | 2023-10-13T12:34:47Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 585 | 2023-10-13T12:31:08Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 397 | 147 | 2023-10-13T06:51:07Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 263 | 2023-10-13T04:18:35Z |  Terminal stock watcher and stock position tracker. |
 | [jovandeginste/payme](https://github.com/jovandeginste/payme) | 26 | 1 | 2023-10-12T21:28:29Z |  QR code generator (ASCII & PNG) for SEPA payments. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 124 | 26 | 2023-10-12T16:13:33Z |  Query OFX servers and/or parse the responses (with example command-line client). |
 | [govalues/money](https://github.com/govalues/money) | 6 | 1 | 2023-10-10T16:14:45Z |  Immutable monetary amounts and exchange rates with panic-free arithmetic. |
