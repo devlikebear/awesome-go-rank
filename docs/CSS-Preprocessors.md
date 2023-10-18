@@ -6,20 +6,20 @@ Libraries for preprocessing CSS files.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [yosssi/gcss](https://github.com/yosssi/gcss) | 485 | 38 | 2023-09-26T23:10:07Z |  Pure Go CSS Preprocessor. |
+| [yosssi/gcss](https://github.com/yosssi/gcss) | 486 | 38 | 2023-10-17T16:47:47Z |  Pure Go CSS Preprocessor. |
 | [wellington/go-libsass](https://github.com/wellington/go-libsass) | 199 | 27 | 2023-09-26T23:10:14Z |  Go wrapper to the 100% Sass compatible libsass project. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [yosssi/gcss](https://github.com/yosssi/gcss) | 485 | 38 | 2023-09-26T23:10:07Z |  Pure Go CSS Preprocessor. |
+| [yosssi/gcss](https://github.com/yosssi/gcss) | 486 | 38 | 2023-10-17T16:47:47Z |  Pure Go CSS Preprocessor. |
 | [wellington/go-libsass](https://github.com/wellington/go-libsass) | 199 | 27 | 2023-09-26T23:10:14Z |  Go wrapper to the 100% Sass compatible libsass project. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [yosssi/gcss](https://github.com/yosssi/gcss) | 486 | 38 | 2023-10-17T16:47:47Z |  Pure Go CSS Preprocessor. |
 | [wellington/go-libsass](https://github.com/wellington/go-libsass) | 199 | 27 | 2023-09-26T23:10:14Z |  Go wrapper to the 100% Sass compatible libsass project. |
-| [yosssi/gcss](https://github.com/yosssi/gcss) | 485 | 38 | 2023-09-26T23:10:07Z |  Pure Go CSS Preprocessor. |
 
