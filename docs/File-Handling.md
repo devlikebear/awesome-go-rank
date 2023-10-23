@@ -6,10 +6,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 407 | 2023-10-21T14:07:16Z |  PDF processor. |
-| [spf13/afero](https://github.com/spf13/afero) | 5k | 520 | 2023-10-21T18:02:20Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 112 | 2023-10-21T21:20:12Z |  Disk usage analyzer with console interface. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2023-10-21T13:03:34Z | . |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 407 | 2023-10-22T10:55:27Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 5k | 521 | 2023-10-22T16:53:20Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 112 | 2023-10-22T22:36:36Z |  Disk usage analyzer with console interface. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2023-10-22T10:28:46Z | . |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 856 | 125 | 2023-10-21T18:51:07Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 602 | 152 | 2023-10-18T19:40:18Z |  Copy directory recursively. |
 | [no-src/gofs](https://github.com/no-src/gofs) | 367 | 28 | 2023-10-21T09:27:16Z |  A cross-platform real-time file synchronization tool out of the box. |
@@ -29,19 +29,19 @@ Libraries for handling files and file systems.
 | [homedepot/flop](https://github.com/homedepot/flop) | 34 | 12 | 2023-06-26T22:45:43Z |  File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html). |
 | [1set/gut](https://github.com/1set/gut) | 27 | 9 | 2023-09-05T07:27:56Z |  Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links. |
 | [hugocarreira/go-decent-copy](https://github.com/hugocarreira/go-decent-copy) | 20 | 8 | 2023-10-19T16:57:20Z |  Copy files for humans. |
-| [dastoori/higgs](https://github.com/dastoori/higgs) | 17 | 4 | 2023-08-04T05:21:40Z |  A tiny cross-platform Go library to hide/unhide files and directories. |
+| [dastoori/higgs](https://github.com/dastoori/higgs) | 18 | 4 | 2023-10-22T08:05:01Z |  A tiny cross-platform Go library to hide/unhide files and directories. |
 | [jonchun/pathtype](https://github.com/jonchun/pathtype) | 13 | 3 | 2023-10-21T16:23:14Z |  Treat paths as their own type instead of using strings. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [spf13/afero](https://github.com/spf13/afero) | 5k | 520 | 2023-10-21T18:02:20Z |  FileSystem Abstraction System for Go. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 407 | 2023-10-21T14:07:16Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 5k | 521 | 2023-10-22T16:53:20Z |  FileSystem Abstraction System for Go. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 407 | 2023-10-22T10:55:27Z |  PDF processor. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 602 | 152 | 2023-10-18T19:40:18Z |  Copy directory recursively. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 856 | 125 | 2023-10-21T18:51:07Z |  File system event notification library with simple API, similar to os/signal. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 112 | 2023-10-21T21:20:12Z |  Disk usage analyzer with console interface. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2023-10-21T13:03:34Z | . |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 112 | 2023-10-22T22:36:36Z |  Disk usage analyzer with console interface. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2023-10-22T10:28:46Z | . |
 | [bigfile/bigfile](https://github.com/bigfile/bigfile) | 242 | 47 | 2023-09-15T15:44:06Z |  A file transfer system, support to manage files with http api, rpc call and ftp client. |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 192 | 41 | 2023-10-07T13:39:18Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 243 | 41 | 2023-10-10T08:58:32Z |  A package for reading and creating ISO9660 disk images |
@@ -59,20 +59,21 @@ Libraries for handling files and file systems.
 | [hugocarreira/go-decent-copy](https://github.com/hugocarreira/go-decent-copy) | 20 | 8 | 2023-10-19T16:57:20Z |  Copy files for humans. |
 | [qmuntal/opc](https://github.com/qmuntal/opc) | 75 | 7 | 2023-09-11T17:12:49Z |  Load Open Packaging Conventions (OPC) files for Go. |
 | [dixonwille/skywalker](https://github.com/dixonwille/skywalker) | 94 | 5 | 2023-10-16T18:01:20Z |  Package to allow one to concurrently go through a filesystem with ease. |
-| [dastoori/higgs](https://github.com/dastoori/higgs) | 17 | 4 | 2023-08-04T05:21:40Z |  A tiny cross-platform Go library to hide/unhide files and directories. |
+| [dastoori/higgs](https://github.com/dastoori/higgs) | 18 | 4 | 2023-10-22T08:05:01Z |  A tiny cross-platform Go library to hide/unhide files and directories. |
 | [jonchun/pathtype](https://github.com/jonchun/pathtype) | 13 | 3 | 2023-10-21T16:23:14Z |  Treat paths as their own type instead of using strings. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 112 | 2023-10-21T21:20:12Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 112 | 2023-10-22T22:36:36Z |  Disk usage analyzer with console interface. |
+| [spf13/afero](https://github.com/spf13/afero) | 5k | 521 | 2023-10-22T16:53:20Z |  FileSystem Abstraction System for Go. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 407 | 2023-10-22T10:55:27Z |  PDF processor. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2023-10-22T10:28:46Z | . |
+| [dastoori/higgs](https://github.com/dastoori/higgs) | 18 | 4 | 2023-10-22T08:05:01Z |  A tiny cross-platform Go library to hide/unhide files and directories. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 856 | 125 | 2023-10-21T18:51:07Z |  File system event notification library with simple API, similar to os/signal. |
-| [spf13/afero](https://github.com/spf13/afero) | 5k | 520 | 2023-10-21T18:02:20Z |  FileSystem Abstraction System for Go. |
 | [jonchun/pathtype](https://github.com/jonchun/pathtype) | 13 | 3 | 2023-10-21T16:23:14Z |  Treat paths as their own type instead of using strings. |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 93 | 17 | 2023-10-21T16:22:06Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 5k | 407 | 2023-10-21T14:07:16Z |  PDF processor. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2023-10-21T13:03:34Z | . |
 | [no-src/gofs](https://github.com/no-src/gofs) | 367 | 28 | 2023-10-21T09:27:16Z |  A cross-platform real-time file synchronization tool out of the box. |
 | [hugocarreira/go-decent-copy](https://github.com/hugocarreira/go-decent-copy) | 20 | 8 | 2023-10-19T16:57:20Z |  Copy files for humans. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 602 | 152 | 2023-10-18T19:40:18Z |  Copy directory recursively. |
@@ -86,7 +87,6 @@ Libraries for handling files and file systems.
 | [qmuntal/opc](https://github.com/qmuntal/opc) | 75 | 7 | 2023-09-11T17:12:49Z |  Load Open Packaging Conventions (OPC) files for Go. |
 | [1set/gut](https://github.com/1set/gut) | 27 | 9 | 2023-09-05T07:27:56Z |  Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links. |
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 85 | 12 | 2023-08-17T11:05:19Z |  Read and write [parquet](https://parquet.apache.org) files. |
-| [dastoori/higgs](https://github.com/dastoori/higgs) | 17 | 4 | 2023-08-04T05:21:40Z |  A tiny cross-platform Go library to hide/unhide files and directories. |
 | [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 37 | 24 | 2023-07-29T18:17:44Z |  Load gtfs files in go. |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 108 | 31 | 2023-07-24T03:28:19Z |  Load csv file using tag. |
 | [homedepot/flop](https://github.com/homedepot/flop) | 34 | 12 | 2023-06-26T22:45:43Z |  File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html). |
