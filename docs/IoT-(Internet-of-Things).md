@@ -7,8 +7,8 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-10-26T09:12:27Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 625 | 2023-10-26T09:10:32Z |  Industrial IoT Messaging and Device Management Server. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 331 | 2023-10-26T15:48:24Z |  Lightweight data stream processing engine for IoT edge. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 624 | 2023-10-26T09:10:32Z |  Industrial IoT Messaging and Device Management Server. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 332 | 2023-10-26T15:48:24Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 296 | 2023-10-20T07:34:44Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 375 | 32 | 2023-10-24T12:39:44Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 261 | 33 | 2023-10-23T11:15:04Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
@@ -22,8 +22,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 625 | 2023-10-26T09:10:32Z |  Industrial IoT Messaging and Device Management Server. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 331 | 2023-10-26T15:48:24Z |  Lightweight data stream processing engine for IoT edge. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 624 | 2023-10-26T09:10:32Z |  Industrial IoT Messaging and Device Management Server. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 332 | 2023-10-26T15:48:24Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 296 | 2023-10-20T07:34:44Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-10-26T09:12:27Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 225 | 42 | 2023-10-21T16:07:04Z |  Lightweight stream processing engine for IoT. |
@@ -38,9 +38,9 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 331 | 2023-10-26T15:48:24Z |  Lightweight data stream processing engine for IoT edge. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 332 | 2023-10-26T15:48:24Z |  Lightweight data stream processing engine for IoT edge. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-10-26T09:12:27Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 625 | 2023-10-26T09:10:32Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 624 | 2023-10-26T09:10:32Z |  Industrial IoT Messaging and Device Management Server. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 375 | 32 | 2023-10-24T12:39:44Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 261 | 33 | 2023-10-23T11:15:04Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 225 | 42 | 2023-10-21T16:07:04Z |  Lightweight stream processing engine for IoT. |
