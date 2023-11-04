@@ -7,8 +7,8 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-11-02T08:24:53Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 626 | 2023-11-02T04:42:27Z |  Industrial IoT Messaging and Device Management Server. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 333 | 2023-11-01T17:21:55Z |  Lightweight data stream processing engine for IoT edge. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 626 | 2023-11-03T13:42:32Z |  Industrial IoT Messaging and Device Management Server. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 333 | 2023-11-03T03:38:22Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 296 | 2023-10-31T21:19:35Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 376 | 32 | 2023-10-31T20:55:55Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 261 | 33 | 2023-10-23T11:15:04Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
@@ -22,8 +22,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 626 | 2023-11-02T04:42:27Z |  Industrial IoT Messaging and Device Management Server. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 333 | 2023-11-01T17:21:55Z |  Lightweight data stream processing engine for IoT edge. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 626 | 2023-11-03T13:42:32Z |  Industrial IoT Messaging and Device Management Server. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 333 | 2023-11-03T03:38:22Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 296 | 2023-10-31T21:19:35Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-11-02T08:24:53Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 225 | 42 | 2023-10-21T16:07:04Z |  Lightweight stream processing engine for IoT. |
@@ -38,10 +38,10 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 626 | 2023-11-03T13:42:32Z |  Industrial IoT Messaging and Device Management Server. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 333 | 2023-11-03T03:38:22Z |  Lightweight data stream processing engine for IoT edge. |
 | [amimof/huego](https://github.com/amimof/huego) | 240 | 37 | 2023-11-02T17:19:57Z |  An extensive Philips Hue client library for Go. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-11-02T08:24:53Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 2k | 626 | 2023-11-02T04:42:27Z |  Industrial IoT Messaging and Device Management Server. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 333 | 2023-11-01T17:21:55Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 296 | 2023-10-31T21:19:35Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 376 | 32 | 2023-10-31T20:55:55Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 261 | 33 | 2023-10-23T11:15:04Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
