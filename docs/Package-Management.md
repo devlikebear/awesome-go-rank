@@ -7,16 +7,16 @@ Unofficial libraries for package and dependency management.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-11-07T08:50:53Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 555 | 2023-11-06T21:12:07Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 555 | 2023-11-09T03:01:30Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 517 | 2023-11-06T21:09:41Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 445 | 2023-11-03T10:23:51Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 242 | 2023-10-23T11:04:52Z |  Go Package Manager. |
-| [mattn/gom](https://github.com/mattn/gom) | 1k | 139 | 2023-10-09T14:32:20Z |  Go Manager - bundle for go. |
+| [mattn/gom](https://github.com/mattn/gom) | 1k | 140 | 2023-10-09T14:32:20Z |  Go Manager - bundle for go. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2023-10-19T10:35:03Z |  Barebones dependency manager for Go. |
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 780 | 45 | 2023-06-17T14:27:31Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 475 | 21 | 2023-11-01T13:11:35Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [jingweno/nut](https://github.com/jingweno/nut) | 234 | 11 | 2023-08-23T03:18:56Z |  Vendor Go dependencies. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 227 | 15 | 2023-11-06T17:50:26Z |  Update binaries installed by "go install". |
+| [nao1215/gup](https://github.com/nao1215/gup) | 228 | 15 | 2023-11-09T11:50:20Z |  Update binaries installed by "go install". |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 156 | 31 | 2023-10-19T20:17:40Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 123 | 11 | 2023-10-10T16:39:21Z |  create and manage exportable isolated go virtual environments. |
@@ -27,16 +27,16 @@ Unofficial libraries for package and dependency management.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-11-07T08:50:53Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 555 | 2023-11-06T21:12:07Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 555 | 2023-11-09T03:01:30Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 517 | 2023-11-06T21:09:41Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 445 | 2023-11-03T10:23:51Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 242 | 2023-10-23T11:04:52Z |  Go Package Manager. |
-| [mattn/gom](https://github.com/mattn/gom) | 1k | 139 | 2023-10-09T14:32:20Z |  Go Manager - bundle for go. |
+| [mattn/gom](https://github.com/mattn/gom) | 1k | 140 | 2023-10-09T14:32:20Z |  Go Manager - bundle for go. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2023-10-19T10:35:03Z |  Barebones dependency manager for Go. |
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 780 | 45 | 2023-06-17T14:27:31Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 156 | 31 | 2023-10-19T20:17:40Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 475 | 21 | 2023-11-01T13:11:35Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 227 | 15 | 2023-11-06T17:50:26Z |  Update binaries installed by "go install". |
+| [nao1215/gup](https://github.com/nao1215/gup) | 228 | 15 | 2023-11-09T11:50:20Z |  Update binaries installed by "go install". |
 | [jingweno/nut](https://github.com/jingweno/nut) | 234 | 11 | 2023-08-23T03:18:56Z |  Vendor Go dependencies. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 123 | 11 | 2023-10-10T16:39:21Z |  create and manage exportable isolated go virtual environments. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
@@ -46,17 +46,17 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [nao1215/gup](https://github.com/nao1215/gup) | 228 | 15 | 2023-11-09T11:50:20Z |  Update binaries installed by "go install". |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 555 | 2023-11-09T03:01:30Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-11-07T08:50:53Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 555 | 2023-11-06T21:12:07Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 517 | 2023-11-06T21:09:41Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 227 | 15 | 2023-11-06T17:50:26Z |  Update binaries installed by "go install". |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 445 | 2023-11-03T10:23:51Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 475 | 21 | 2023-11-01T13:11:35Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 242 | 2023-10-23T11:04:52Z |  Go Package Manager. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 156 | 31 | 2023-10-19T20:17:40Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2023-10-19T10:35:03Z |  Barebones dependency manager for Go. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 123 | 11 | 2023-10-10T16:39:21Z |  create and manage exportable isolated go virtual environments. |
-| [mattn/gom](https://github.com/mattn/gom) | 1k | 139 | 2023-10-09T14:32:20Z |  Go Manager - bundle for go. |
+| [mattn/gom](https://github.com/mattn/gom) | 1k | 140 | 2023-10-09T14:32:20Z |  Go Manager - bundle for go. |
 | [jingweno/nut](https://github.com/jingweno/nut) | 234 | 11 | 2023-08-23T03:18:56Z |  Vendor Go dependencies. |
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 780 | 45 | 2023-06-17T14:27:31Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
