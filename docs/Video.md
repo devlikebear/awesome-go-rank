@@ -7,7 +7,7 @@ Libraries for manipulating video.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 411 | 2023-11-09T11:21:49Z |  Comprehensive Go bindings for FFmpeg. |
-| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 297 | 2023-11-10T14:06:41Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
+| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 297 | 2023-11-11T20:04:11Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 861 | 213 | 2023-11-10T07:57:36Z |  Go bindings for FFmpeg av\* libraries. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 515 | 102 | 2023-11-07T09:54:35Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 507 | 52 | 2023-11-04T00:11:31Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
@@ -17,14 +17,14 @@ Libraries for manipulating video.
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 77 | 14 | 2023-09-18T15:05:05Z |  Video capture library for Linux, written in Go. |
 | [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs) | 24 | 5 | 2023-08-17T13:54:41Z |  Subtitle format support for go. Supports .srt, .ttml, and .ass. |
 | [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 21 | 11 | 2023-10-16T14:40:51Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
-| [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 18 | 6 | 2023-09-18T15:04:52Z |  Parser and generator library for MPEG-DASH manifest files. |
+| [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 18 | 6 | 2023-11-11T09:34:37Z |  Parser and generator library for MPEG-DASH manifest files. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 411 | 2023-11-09T11:21:49Z |  Comprehensive Go bindings for FFmpeg. |
-| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 297 | 2023-11-10T14:06:41Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
+| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 297 | 2023-11-11T20:04:11Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 861 | 213 | 2023-11-10T07:57:36Z |  Go bindings for FFmpeg av\* libraries. |
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 504 | 153 | 2023-11-10T19:20:08Z |  Pure Go RTSP server and client library. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 515 | 102 | 2023-11-07T09:54:35Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
@@ -33,15 +33,16 @@ Libraries for manipulating video.
 | [ziutek/gst](https://github.com/ziutek/gst) | 168 | 48 | 2023-08-27T12:31:57Z |  Go bindings for GStreamer. |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 77 | 14 | 2023-09-18T15:05:05Z |  Video capture library for Linux, written in Go. |
 | [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 21 | 11 | 2023-10-16T14:40:51Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
-| [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 18 | 6 | 2023-09-18T15:04:52Z |  Parser and generator library for MPEG-DASH manifest files. |
+| [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 18 | 6 | 2023-11-11T09:34:37Z |  Parser and generator library for MPEG-DASH manifest files. |
 | [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs) | 24 | 5 | 2023-08-17T13:54:41Z |  Subtitle format support for go. Supports .srt, .ttml, and .ass. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 297 | 2023-11-11T20:04:11Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
+| [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 18 | 6 | 2023-11-11T09:34:37Z |  Parser and generator library for MPEG-DASH manifest files. |
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 504 | 153 | 2023-11-10T19:20:08Z |  Pure Go RTSP server and client library. |
-| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 297 | 2023-11-10T14:06:41Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 861 | 213 | 2023-11-10T07:57:36Z |  Go bindings for FFmpeg av\* libraries. |
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 411 | 2023-11-09T11:21:49Z |  Comprehensive Go bindings for FFmpeg. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 515 | 102 | 2023-11-07T09:54:35Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
@@ -49,7 +50,6 @@ Libraries for manipulating video.
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 507 | 52 | 2023-11-04T00:11:31Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 21 | 11 | 2023-10-16T14:40:51Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 77 | 14 | 2023-09-18T15:05:05Z |  Video capture library for Linux, written in Go. |
-| [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 18 | 6 | 2023-09-18T15:04:52Z |  Parser and generator library for MPEG-DASH manifest files. |
 | [ziutek/gst](https://github.com/ziutek/gst) | 168 | 48 | 2023-08-27T12:31:57Z |  Go bindings for GStreamer. |
 | [wargarblgarbl/libgosubs](https://github.com/wargarblgarbl/libgosubs) | 24 | 5 | 2023-08-17T13:54:41Z |  Subtitle format support for go. Supports .srt, .ttml, and .ass. |
 
