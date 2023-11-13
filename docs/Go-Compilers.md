@@ -6,7 +6,7 @@ Tools for compiling Go to other languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 12k | 612 | 2023-11-11T16:05:59Z |  Compiler from Go to JavaScript. |
+| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 12k | 614 | 2023-11-12T10:30:05Z |  Compiler from Go to JavaScript. |
 | [tardisgo/tardisgo](https://github.com/tardisgo/tardisgo) | 429 | 33 | 2023-10-26T19:49:15Z |  Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler. |
 | [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) | 342 | 38 | 2023-11-11T16:04:44Z |  Transpile C code to Go code. |
 | [goplus/c2go](https://github.com/goplus/c2go) | 287 | 17 | 2023-11-11T16:05:38Z |  Convert C code to Go code. |
@@ -17,7 +17,7 @@ Tools for compiling Go to other languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 12k | 612 | 2023-11-11T16:05:59Z |  Compiler from Go to JavaScript. |
+| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 12k | 614 | 2023-11-12T10:30:05Z |  Compiler from Go to JavaScript. |
 | [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) | 342 | 38 | 2023-11-11T16:04:44Z |  Transpile C code to Go code. |
 | [tardisgo/tardisgo](https://github.com/tardisgo/tardisgo) | 429 | 33 | 2023-10-26T19:49:15Z |  Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler. |
 | [goplus/c2go](https://github.com/goplus/c2go) | 287 | 17 | 2023-11-11T16:05:38Z |  Convert C code to Go code. |
@@ -28,7 +28,7 @@ Tools for compiling Go to other languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 12k | 612 | 2023-11-11T16:05:59Z |  Compiler from Go to JavaScript. |
+| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 12k | 614 | 2023-11-12T10:30:05Z |  Compiler from Go to JavaScript. |
 | [goplus/c2go](https://github.com/goplus/c2go) | 287 | 17 | 2023-11-11T16:05:38Z |  Convert C code to Go code. |
 | [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) | 342 | 38 | 2023-11-11T16:04:44Z |  Transpile C code to Go code. |
 | [andygeiss/esp32-transpiler](https://github.com/andygeiss/esp32-transpiler) | 76 | 5 | 2023-11-09T02:01:27Z |  Transpile Go into Arduino code. |
