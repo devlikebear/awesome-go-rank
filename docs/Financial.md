@@ -6,20 +6,20 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 599 | 2023-11-20T17:25:59Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 600 | 2023-11-21T21:21:31Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2023-11-19T16:02:24Z |  Terminal stock watcher and stock position tracker. |
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 137 | 2023-11-16T18:03:06Z |  Implementation of Fowler's Money pattern. |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 987 | 251 | 2023-11-20T22:07:54Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 137 | 2023-11-21T07:58:41Z |  Implementation of Fowler's Money pattern. |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 988 | 251 | 2023-11-21T08:45:11Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 841 | 73 | 2023-11-15T10:29:48Z |  money and currency formatting for golang. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 754 | 137 | 2023-11-16T16:33:25Z |  Technical analysis library with advanced market analysis and trading strategies. |
-| [bojanz/currency](https://github.com/bojanz/currency) | 450 | 36 | 2023-11-20T04:31:43Z |  Handles currency amounts, provides currency information and formatting. |
-| [moov-io/ach](https://github.com/moov-io/ach) | 402 | 147 | 2023-11-20T22:22:44Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
+| [bojanz/currency](https://github.com/bojanz/currency) | 451 | 36 | 2023-11-21T07:11:18Z |  Handles currency amounts, provides currency information and formatting. |
+| [moov-io/ach](https://github.com/moov-io/ach) | 403 | 147 | 2023-11-21T19:14:02Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 370 | 134 | 2023-11-12T07:38:02Z |  Matching Engine for Limit Order Book in Golang. |
 | [alpeb/go-finance](https://github.com/alpeb/go-finance) | 158 | 24 | 2023-11-09T21:58:42Z |  Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. |
 | [BoltApp/sleet](https://github.com/BoltApp/sleet) | 128 | 20 | 2023-11-18T13:24:51Z |  One unified interface for multiple Payment Service Providers (PsP) to process online payment. |
 | [claygod/transaction](https://github.com/claygod/transaction) | 126 | 17 | 2023-10-01T12:07:52Z |  Embedded transactional database of accounts, running in multithreaded mode. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 125 | 26 | 2023-11-16T23:27:27Z |  Query OFX servers and/or parse the responses (with example command-line client). |
-| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 105 | 16 | 2023-11-17T04:52:40Z |  VAT number validation & EU VAT rates. |
+| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 106 | 16 | 2023-11-21T10:42:58Z |  VAT number validation & EU VAT rates. |
 | [m1/go-finnhub](https://github.com/m1/go-finnhub) | 82 | 17 | 2023-11-12T13:32:24Z |  Client for stock market, forex and crypto data from finnhub.io. Access real-time financial market data from 60+ stock exchanges, 10 forex brokers, and 15+ crypto exchanges. |
 | [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 56 | 8 | 2023-10-25T22:21:23Z |  High performant & accurate currency computation package. |
 | [jovandeginste/payme](https://github.com/jovandeginste/payme) | 26 | 1 | 2023-10-12T21:28:29Z |  QR code generator (ASCII & PNG) for SEPA payments. |
@@ -34,21 +34,21 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 599 | 2023-11-20T17:25:59Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 600 | 2023-11-21T21:21:31Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2023-11-19T16:02:24Z |  Terminal stock watcher and stock position tracker. |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 987 | 251 | 2023-11-20T22:07:54Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [moov-io/ach](https://github.com/moov-io/ach) | 402 | 147 | 2023-11-20T22:22:44Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 137 | 2023-11-16T18:03:06Z |  Implementation of Fowler's Money pattern. |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 988 | 251 | 2023-11-21T08:45:11Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
+| [moov-io/ach](https://github.com/moov-io/ach) | 403 | 147 | 2023-11-21T19:14:02Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 137 | 2023-11-21T07:58:41Z |  Implementation of Fowler's Money pattern. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 754 | 137 | 2023-11-16T16:33:25Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 370 | 134 | 2023-11-12T07:38:02Z |  Matching Engine for Limit Order Book in Golang. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 841 | 73 | 2023-11-15T10:29:48Z |  money and currency formatting for golang. |
-| [bojanz/currency](https://github.com/bojanz/currency) | 450 | 36 | 2023-11-20T04:31:43Z |  Handles currency amounts, provides currency information and formatting. |
+| [bojanz/currency](https://github.com/bojanz/currency) | 451 | 36 | 2023-11-21T07:11:18Z |  Handles currency amounts, provides currency information and formatting. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 125 | 26 | 2023-11-16T23:27:27Z |  Query OFX servers and/or parse the responses (with example command-line client). |
 | [alpeb/go-finance](https://github.com/alpeb/go-finance) | 158 | 24 | 2023-11-09T21:58:42Z |  Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. |
 | [BoltApp/sleet](https://github.com/BoltApp/sleet) | 128 | 20 | 2023-11-18T13:24:51Z |  One unified interface for multiple Payment Service Providers (PsP) to process online payment. |
 | [claygod/transaction](https://github.com/claygod/transaction) | 126 | 17 | 2023-10-01T12:07:52Z |  Embedded transactional database of accounts, running in multithreaded mode. |
 | [m1/go-finnhub](https://github.com/m1/go-finnhub) | 82 | 17 | 2023-11-12T13:32:24Z |  Client for stock market, forex and crypto data from finnhub.io. Access real-time financial market data from 60+ stock exchanges, 10 forex brokers, and 15+ crypto exchanges. |
-| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 105 | 16 | 2023-11-17T04:52:40Z |  VAT number validation & EU VAT rates. |
+| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 106 | 16 | 2023-11-21T10:42:58Z |  VAT number validation & EU VAT rates. |
 | [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 56 | 8 | 2023-10-25T22:21:23Z |  High performant & accurate currency computation package. |
 | [pieterclaerhout/go-finance](https://github.com/pieterclaerhout/go-finance) | 21 | 5 | 2023-11-12T08:53:14Z |  Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers. |
 | [jovandeginste/payme](https://github.com/jovandeginste/payme) | 26 | 1 | 2023-10-12T21:28:29Z |  QR code generator (ASCII & PNG) for SEPA payments. |
@@ -62,15 +62,15 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [moov-io/ach](https://github.com/moov-io/ach) | 402 | 147 | 2023-11-20T22:22:44Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 987 | 251 | 2023-11-20T22:07:54Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 599 | 2023-11-20T17:25:59Z |  Arbitrary-precision fixed-point decimal numbers. |
-| [bojanz/currency](https://github.com/bojanz/currency) | 450 | 36 | 2023-11-20T04:31:43Z |  Handles currency amounts, provides currency information and formatting. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 600 | 2023-11-21T21:21:31Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [moov-io/ach](https://github.com/moov-io/ach) | 403 | 147 | 2023-11-21T19:14:02Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
+| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 106 | 16 | 2023-11-21T10:42:58Z |  VAT number validation & EU VAT rates. |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 988 | 251 | 2023-11-21T08:45:11Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 137 | 2023-11-21T07:58:41Z |  Implementation of Fowler's Money pattern. |
+| [bojanz/currency](https://github.com/bojanz/currency) | 451 | 36 | 2023-11-21T07:11:18Z |  Handles currency amounts, provides currency information and formatting. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2023-11-19T16:02:24Z |  Terminal stock watcher and stock position tracker. |
 | [BoltApp/sleet](https://github.com/BoltApp/sleet) | 128 | 20 | 2023-11-18T13:24:51Z |  One unified interface for multiple Payment Service Providers (PsP) to process online payment. |
-| [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 105 | 16 | 2023-11-17T04:52:40Z |  VAT number validation & EU VAT rates. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 125 | 26 | 2023-11-16T23:27:27Z |  Query OFX servers and/or parse the responses (with example command-line client). |
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 137 | 2023-11-16T18:03:06Z |  Implementation of Fowler's Money pattern. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 754 | 137 | 2023-11-16T16:33:25Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 841 | 73 | 2023-11-15T10:29:48Z |  money and currency formatting for golang. |
 | [m1/go-finnhub](https://github.com/m1/go-finnhub) | 82 | 17 | 2023-11-12T13:32:24Z |  Client for stock market, forex and crypto data from finnhub.io. Access real-time financial market data from 60+ stock exchanges, 10 forex brokers, and 15+ crypto exchanges. |
