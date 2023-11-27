@@ -6,8 +6,8 @@ Libraries for using OpenGL in Go.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 208 | 2023-11-24T19:12:22Z |  Go bindings for GLFW 3. |
-| [go-gl/gl](https://github.com/go-gl/gl) | 996 | 68 | 2023-11-17T23:28:08Z |  Go bindings for OpenGL (generated via glow). |
+| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 208 | 2023-11-26T11:30:42Z |  Go bindings for GLFW 3. |
+| [go-gl/gl](https://github.com/go-gl/gl) | 997 | 68 | 2023-11-26T11:30:34Z |  Go bindings for OpenGL (generated via glow). |
 | [go-gl/mathgl](https://github.com/go-gl/mathgl) | 511 | 65 | 2023-11-15T02:19:18Z |  Pure Go math package specialized for 3D math, with inspiration from GLM. |
 | [goxjs/gl](https://github.com/goxjs/gl) | 169 | 29 | 2023-11-14T09:41:34Z |  Go cross-platform OpenGL bindings (OS X, Linux, Windows, browsers, iOS, Android). |
 | [goxjs/glfw](https://github.com/goxjs/glfw) | 79 | 26 | 2023-09-17T18:54:49Z |  Go cross-platform glfw library for creating an OpenGL context and receiving events. |
@@ -17,8 +17,8 @@ Libraries for using OpenGL in Go.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 208 | 2023-11-24T19:12:22Z |  Go bindings for GLFW 3. |
-| [go-gl/gl](https://github.com/go-gl/gl) | 996 | 68 | 2023-11-17T23:28:08Z |  Go bindings for OpenGL (generated via glow). |
+| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 208 | 2023-11-26T11:30:42Z |  Go bindings for GLFW 3. |
+| [go-gl/gl](https://github.com/go-gl/gl) | 997 | 68 | 2023-11-26T11:30:34Z |  Go bindings for OpenGL (generated via glow). |
 | [go-gl/mathgl](https://github.com/go-gl/mathgl) | 511 | 65 | 2023-11-15T02:19:18Z |  Pure Go math package specialized for 3D math, with inspiration from GLM. |
 | [goxjs/gl](https://github.com/goxjs/gl) | 169 | 29 | 2023-11-14T09:41:34Z |  Go cross-platform OpenGL bindings (OS X, Linux, Windows, browsers, iOS, Android). |
 | [goxjs/glfw](https://github.com/goxjs/glfw) | 79 | 26 | 2023-09-17T18:54:49Z |  Go cross-platform glfw library for creating an OpenGL context and receiving events. |
@@ -28,8 +28,8 @@ Libraries for using OpenGL in Go.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 208 | 2023-11-24T19:12:22Z |  Go bindings for GLFW 3. |
-| [go-gl/gl](https://github.com/go-gl/gl) | 996 | 68 | 2023-11-17T23:28:08Z |  Go bindings for OpenGL (generated via glow). |
+| [go-gl/glfw](https://github.com/go-gl/glfw) | 1k | 208 | 2023-11-26T11:30:42Z |  Go bindings for GLFW 3. |
+| [go-gl/gl](https://github.com/go-gl/gl) | 997 | 68 | 2023-11-26T11:30:34Z |  Go bindings for OpenGL (generated via glow). |
 | [go-gl/mathgl](https://github.com/go-gl/mathgl) | 511 | 65 | 2023-11-15T02:19:18Z |  Pure Go math package specialized for 3D math, with inspiration from GLM. |
 | [goxjs/gl](https://github.com/goxjs/gl) | 169 | 29 | 2023-11-14T09:41:34Z |  Go cross-platform OpenGL bindings (OS X, Linux, Windows, browsers, iOS, Android). |
 | [goxjs/glfw](https://github.com/goxjs/glfw) | 79 | 26 | 2023-09-17T18:54:49Z |  Go cross-platform glfw library for creating an OpenGL context and receiving events. |
