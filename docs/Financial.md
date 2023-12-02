@@ -6,7 +6,7 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 601 | 2023-11-30T14:37:44Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 6k | 601 | 2023-12-01T16:10:25Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2023-11-29T16:46:22Z |  Terminal stock watcher and stock position tracker. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 1k | 138 | 2023-11-27T14:42:24Z |  Implementation of Fowler's Money pattern. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 989 | 253 | 2023-11-30T14:13:05Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
@@ -28,13 +28,13 @@ Packages for accounting and finance.
 | [nikolaydubina/fpmoney](https://github.com/nikolaydubina/fpmoney) | 22 | 0 | 2023-11-01T21:32:50Z |  Fast and simple ISO4217 fixed-point decimal money. |
 | [govalues/decimal](https://github.com/govalues/decimal) | 14 | 1 | 2023-11-29T07:17:50Z |  Immutable decimal numbers with panic-free arithmetic. |
 | [govalues/money](https://github.com/govalues/money) | 8 | 1 | 2023-11-29T07:16:10Z |  Immutable monetary amounts and exchange rates with panic-free arithmetic. |
-| [matm/go-nowpayments](https://github.com/matm/go-nowpayments) | 2 | 1 | 2022-12-24T10:08:04Z |  Library for the crypto NOWPayments API. |
+| [matm/go-nowpayments](https://github.com/matm/go-nowpayments) | 2 | 2 | 2022-12-24T10:08:04Z |  Library for the crypto NOWPayments API. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 601 | 2023-11-30T14:37:44Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 6k | 601 | 2023-12-01T16:10:25Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2023-11-29T16:46:22Z |  Terminal stock watcher and stock position tracker. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 989 | 253 | 2023-11-30T14:13:05Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 405 | 149 | 2023-11-30T12:34:58Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
@@ -51,18 +51,18 @@ Packages for accounting and finance.
 | [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 106 | 16 | 2023-11-21T10:42:58Z |  VAT number validation & EU VAT rates. |
 | [bnkamalesh/currency](https://github.com/bnkamalesh/currency) | 56 | 8 | 2023-10-25T22:21:23Z |  High performant & accurate currency computation package. |
 | [pieterclaerhout/go-finance](https://github.com/pieterclaerhout/go-finance) | 22 | 5 | 2023-11-22T21:06:46Z |  Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers. |
+| [matm/go-nowpayments](https://github.com/matm/go-nowpayments) | 2 | 2 | 2022-12-24T10:08:04Z |  Library for the crypto NOWPayments API. |
 | [jovandeginste/payme](https://github.com/jovandeginste/payme) | 26 | 1 | 2023-10-12T21:28:29Z |  QR code generator (ASCII & PNG) for SEPA payments. |
 | [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 25 | 1 | 2023-09-30T04:51:03Z |  Fast and precise serialization and arithmetic for small fixed-point decimals |
 | [govalues/decimal](https://github.com/govalues/decimal) | 14 | 1 | 2023-11-29T07:17:50Z |  Immutable decimal numbers with panic-free arithmetic. |
 | [govalues/money](https://github.com/govalues/money) | 8 | 1 | 2023-11-29T07:16:10Z |  Immutable monetary amounts and exchange rates with panic-free arithmetic. |
-| [matm/go-nowpayments](https://github.com/matm/go-nowpayments) | 2 | 1 | 2022-12-24T10:08:04Z |  Library for the crypto NOWPayments API. |
 | [nikolaydubina/fpmoney](https://github.com/nikolaydubina/fpmoney) | 22 | 0 | 2023-11-01T21:32:50Z |  Fast and simple ISO4217 fixed-point decimal money. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 5k | 601 | 2023-11-30T14:37:44Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 6k | 601 | 2023-12-01T16:10:25Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 989 | 253 | 2023-11-30T14:13:05Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 405 | 149 | 2023-11-30T12:34:58Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2023-11-29T16:46:22Z |  Terminal stock watcher and stock position tracker. |
@@ -84,5 +84,5 @@ Packages for accounting and finance.
 | [jovandeginste/payme](https://github.com/jovandeginste/payme) | 26 | 1 | 2023-10-12T21:28:29Z |  QR code generator (ASCII & PNG) for SEPA payments. |
 | [claygod/transaction](https://github.com/claygod/transaction) | 126 | 17 | 2023-10-01T12:07:52Z |  Embedded transactional database of accounts, running in multithreaded mode. |
 | [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 25 | 1 | 2023-09-30T04:51:03Z |  Fast and precise serialization and arithmetic for small fixed-point decimals |
-| [matm/go-nowpayments](https://github.com/matm/go-nowpayments) | 2 | 1 | 2022-12-24T10:08:04Z |  Library for the crypto NOWPayments API. |
+| [matm/go-nowpayments](https://github.com/matm/go-nowpayments) | 2 | 2 | 2022-12-24T10:08:04Z |  Library for the crypto NOWPayments API. |
 
