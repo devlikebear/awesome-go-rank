@@ -9,7 +9,7 @@ Libraries and tools for stream processing and reactive programming.
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 139 | 2023-12-03T12:32:08Z |  Go stream processing library. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 139 | 13 | 2023-11-19T00:17:09Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
 | [youthlin/stream](https://github.com/youthlin/stream) | 84 | 11 | 2023-11-02T15:01:37Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
-| [primetalk/goio](https://github.com/primetalk/goio) | 74 | 1 | 2023-11-24T09:30:05Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
+| [primetalk/goio](https://github.com/primetalk/goio) | 75 | 1 | 2023-12-05T15:39:17Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
 
 ### Ranked by Forks
 
@@ -18,14 +18,14 @@ Libraries and tools for stream processing and reactive programming.
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 139 | 2023-12-03T12:32:08Z |  Go stream processing library. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 139 | 13 | 2023-11-19T00:17:09Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
 | [youthlin/stream](https://github.com/youthlin/stream) | 84 | 11 | 2023-11-02T15:01:37Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
-| [primetalk/goio](https://github.com/primetalk/goio) | 74 | 1 | 2023-11-24T09:30:05Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
+| [primetalk/goio](https://github.com/primetalk/goio) | 75 | 1 | 2023-12-05T15:39:17Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [primetalk/goio](https://github.com/primetalk/goio) | 75 | 1 | 2023-12-05T15:39:17Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 139 | 2023-12-03T12:32:08Z |  Go stream processing library. |
-| [primetalk/goio](https://github.com/primetalk/goio) | 74 | 1 | 2023-11-24T09:30:05Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 139 | 13 | 2023-11-19T00:17:09Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
 | [youthlin/stream](https://github.com/youthlin/stream) | 84 | 11 | 2023-11-02T15:01:37Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
 
