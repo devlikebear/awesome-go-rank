@@ -6,7 +6,7 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 411 | 2023-12-12T08:45:46Z |  Comprehensive Go bindings for FFmpeg. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 412 | 2023-12-12T08:45:46Z |  Comprehensive Go bindings for FFmpeg. |
 | [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 299 | 2023-12-12T09:55:30Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 866 | 217 | 2023-12-09T20:14:15Z |  Go bindings for FFmpeg av\* libraries. |
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 525 | 158 | 2023-12-12T14:42:16Z |  Pure Go RTSP server and client library. |
@@ -23,7 +23,7 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 411 | 2023-12-12T08:45:46Z |  Comprehensive Go bindings for FFmpeg. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 412 | 2023-12-12T08:45:46Z |  Comprehensive Go bindings for FFmpeg. |
 | [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 299 | 2023-12-12T09:55:30Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 866 | 217 | 2023-12-09T20:14:15Z |  Go bindings for FFmpeg av\* libraries. |
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 525 | 158 | 2023-12-12T14:42:16Z |  Pure Go RTSP server and client library. |
@@ -42,7 +42,7 @@ Libraries for manipulating video.
 |------------|-------|-------|--------------|-------------|
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 525 | 158 | 2023-12-12T14:42:16Z |  Pure Go RTSP server and client library. |
 | [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 299 | 2023-12-12T09:55:30Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 411 | 2023-12-12T08:45:46Z |  Comprehensive Go bindings for FFmpeg. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 412 | 2023-12-12T08:45:46Z |  Comprehensive Go bindings for FFmpeg. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 387 | 48 | 2023-12-11T16:52:03Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 866 | 217 | 2023-12-09T20:14:15Z |  Go bindings for FFmpeg av\* libraries. |
 | [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 23 | 10 | 2023-12-09T20:14:08Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |

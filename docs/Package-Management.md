@@ -7,7 +7,7 @@ Unofficial libraries for package and dependency management.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-12-11T06:17:31Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 552 | 2023-12-10T14:28:54Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 552 | 2023-12-13T00:54:34Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 516 | 2023-12-11T06:17:29Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 446 | 2023-12-11T07:51:57Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 241 | 2023-12-11T06:17:05Z |  Go Package Manager. |
@@ -27,7 +27,7 @@ Unofficial libraries for package and dependency management.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-12-11T06:17:31Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 552 | 2023-12-10T14:28:54Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 552 | 2023-12-13T00:54:34Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 516 | 2023-12-11T06:17:29Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 446 | 2023-12-11T07:51:57Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 241 | 2023-12-11T06:17:05Z |  Go Package Manager. |
@@ -46,12 +46,12 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 552 | 2023-12-13T00:54:34Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2023-12-11T07:54:44Z |  Barebones dependency manager for Go. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 446 | 2023-12-11T07:51:57Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2023-12-11T06:17:31Z |  Go dependency tool. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 516 | 2023-12-11T06:17:29Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 241 | 2023-12-11T06:17:05Z |  Go Package Manager. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 552 | 2023-12-10T14:28:54Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 238 | 15 | 2023-12-07T02:17:22Z |  Update binaries installed by "go install". |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 124 | 11 | 2023-12-04T07:43:47Z |  create and manage exportable isolated go virtual environments. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 474 | 21 | 2023-11-24T20:06:56Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
