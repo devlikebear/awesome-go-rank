@@ -7,7 +7,7 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-12-20T03:16:04Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 348 | 2023-12-22T18:21:11Z |  Lightweight data stream processing engine for IoT edge. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 348 | 2023-12-24T10:49:13Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 294 | 2023-12-23T07:31:06Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 382 | 32 | 2023-12-22T07:55:58Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 263 | 33 | 2023-12-20T03:15:18Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
@@ -22,7 +22,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 348 | 2023-12-22T18:21:11Z |  Lightweight data stream processing engine for IoT edge. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 348 | 2023-12-24T10:49:13Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 294 | 2023-12-23T07:31:06Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-12-20T03:16:04Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 227 | 42 | 2023-12-12T15:28:46Z |  Lightweight stream processing engine for IoT. |
@@ -38,8 +38,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 348 | 2023-12-24T10:49:13Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 294 | 2023-12-23T07:31:06Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 348 | 2023-12-22T18:21:11Z |  Lightweight data stream processing engine for IoT edge. |
 | [amimof/huego](https://github.com/amimof/huego) | 242 | 37 | 2023-12-22T16:07:22Z |  An extensive Philips Hue client library for Go. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 382 | 32 | 2023-12-22T07:55:58Z |  Open-Source Platform for Quantified Self & IoT. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2023-12-20T03:16:04Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
