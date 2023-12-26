@@ -6,13 +6,13 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 431 | 2023-12-23T20:41:21Z |  PDF processor. |
-| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2023-12-22T21:46:51Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 120 | 2023-12-24T22:00:45Z |  Disk usage analyzer with console interface. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 104 | 2023-12-24T01:41:52Z | . |
-| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 862 | 127 | 2023-12-15T10:39:22Z |  File system event notification library with simple API, similar to os/signal. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 431 | 2023-12-26T00:01:39Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2023-12-25T15:23:40Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 120 | 2023-12-25T00:16:58Z |  Disk usage analyzer with console interface. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 104 | 2023-12-25T22:32:35Z | . |
+| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 864 | 127 | 2023-12-25T14:53:17Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 632 | 159 | 2023-12-24T05:08:23Z |  Copy directory recursively. |
-| [no-src/gofs](https://github.com/no-src/gofs) | 383 | 29 | 2023-12-23T06:22:11Z |  A cross-platform real-time file synchronization tool out of the box. |
+| [no-src/gofs](https://github.com/no-src/gofs) | 384 | 29 | 2023-12-25T16:41:12Z |  A cross-platform real-time file synchronization tool out of the box. |
 | [viant/afs](https://github.com/viant/afs) | 274 | 33 | 2023-12-21T10:33:25Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 263 | 28 | 2023-12-19T15:25:53Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 248 | 43 | 2023-12-24T06:00:13Z |  A package for reading and creating ISO9660 disk images |
@@ -36,18 +36,18 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2023-12-22T21:46:51Z |  FileSystem Abstraction System for Go. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 431 | 2023-12-23T20:41:21Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2023-12-25T15:23:40Z |  FileSystem Abstraction System for Go. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 431 | 2023-12-26T00:01:39Z |  PDF processor. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 632 | 159 | 2023-12-24T05:08:23Z |  Copy directory recursively. |
-| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 862 | 127 | 2023-12-15T10:39:22Z |  File system event notification library with simple API, similar to os/signal. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 120 | 2023-12-24T22:00:45Z |  Disk usage analyzer with console interface. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 104 | 2023-12-24T01:41:52Z | . |
+| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 864 | 127 | 2023-12-25T14:53:17Z |  File system event notification library with simple API, similar to os/signal. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 120 | 2023-12-25T00:16:58Z |  Disk usage analyzer with console interface. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 104 | 2023-12-25T22:32:35Z | . |
 | [bigfile/bigfile](https://github.com/bigfile/bigfile) | 246 | 47 | 2023-12-16T15:18:29Z |  A file transfer system, support to manage files with http api, rpc call and ftp client. |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 248 | 43 | 2023-12-24T06:00:13Z |  A package for reading and creating ISO9660 disk images |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 202 | 41 | 2023-12-17T19:07:20Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [viant/afs](https://github.com/viant/afs) | 274 | 33 | 2023-12-21T10:33:25Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 111 | 30 | 2023-12-12T03:33:47Z |  Load csv file using tag. |
-| [no-src/gofs](https://github.com/no-src/gofs) | 383 | 29 | 2023-12-23T06:22:11Z |  A cross-platform real-time file synchronization tool out of the box. |
+| [no-src/gofs](https://github.com/no-src/gofs) | 384 | 29 | 2023-12-25T16:41:12Z |  A cross-platform real-time file synchronization tool out of the box. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 263 | 28 | 2023-12-19T15:25:53Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 38 | 24 | 2023-11-08T10:31:01Z |  Load gtfs files in go. |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 96 | 17 | 2023-12-21T10:33:44Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
@@ -66,20 +66,20 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 120 | 2023-12-24T22:00:45Z |  Disk usage analyzer with console interface. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 431 | 2023-12-26T00:01:39Z |  PDF processor. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 104 | 2023-12-25T22:32:35Z | . |
+| [no-src/gofs](https://github.com/no-src/gofs) | 384 | 29 | 2023-12-25T16:41:12Z |  A cross-platform real-time file synchronization tool out of the box. |
+| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2023-12-25T15:23:40Z |  FileSystem Abstraction System for Go. |
+| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 864 | 127 | 2023-12-25T14:53:17Z |  File system event notification library with simple API, similar to os/signal. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 120 | 2023-12-25T00:16:58Z |  Disk usage analyzer with console interface. |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 248 | 43 | 2023-12-24T06:00:13Z |  A package for reading and creating ISO9660 disk images |
 | [otiai10/copy](https://github.com/otiai10/copy) | 632 | 159 | 2023-12-24T05:08:23Z |  Copy directory recursively. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 104 | 2023-12-24T01:41:52Z | . |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 431 | 2023-12-23T20:41:21Z |  PDF processor. |
-| [no-src/gofs](https://github.com/no-src/gofs) | 383 | 29 | 2023-12-23T06:22:11Z |  A cross-platform real-time file synchronization tool out of the box. |
-| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2023-12-22T21:46:51Z |  FileSystem Abstraction System for Go. |
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 87 | 12 | 2023-12-22T09:23:32Z |  Read and write [parquet](https://parquet.apache.org) files. |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 96 | 17 | 2023-12-21T10:33:44Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
 | [viant/afs](https://github.com/viant/afs) | 274 | 33 | 2023-12-21T10:33:25Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 263 | 28 | 2023-12-19T15:25:53Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 202 | 41 | 2023-12-17T19:07:20Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [bigfile/bigfile](https://github.com/bigfile/bigfile) | 246 | 47 | 2023-12-16T15:18:29Z |  A file transfer system, support to manage files with http api, rpc call and ftp client. |
-| [rjeczalik/notify](https://github.com/rjeczalik/notify) | 862 | 127 | 2023-12-15T10:39:22Z |  File system event notification library with simple API, similar to os/signal. |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 111 | 30 | 2023-12-12T03:33:47Z |  Load csv file using tag. |
 | [qmuntal/opc](https://github.com/qmuntal/opc) | 74 | 8 | 2023-12-05T10:14:37Z |  Load Open Packaging Conventions (OPC) files for Go. |
 | [posener/tarfs](https://github.com/posener/tarfs) | 59 | 9 | 2023-12-01T17:22:42Z |  Implementation of the [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) for tar files. |
