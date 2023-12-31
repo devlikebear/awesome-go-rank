@@ -6,8 +6,8 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 161 | 2023-12-29T20:15:33Z |  Go (golang) package for representing a list of errors as a single error. |
-| [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 56 | 2023-12-29T08:59:58Z |  Go error library with error portability over the network. |
+| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 161 | 2023-12-30T20:52:30Z |  Go (golang) package for representing a list of errors as a single error. |
+| [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 56 | 2023-12-30T17:35:12Z |  Go error library with error portability over the network. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 51 | 2023-12-29T14:18:22Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2023-12-27T03:00:24Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 860 | 36 | 2023-12-29T14:01:26Z |  Golang errors with stack trace and source fragments. |
@@ -15,7 +15,7 @@ Libraries for handling errors.
 | [emperror/emperror](https://github.com/emperror/emperror) | 317 | 20 | 2023-12-23T15:37:40Z |  Error handling tools and best practices for Go libraries and applications. |
 | [emperror/errors](https://github.com/emperror/errors) | 191 | 11 | 2023-12-23T15:38:20Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 145 | 6 | 2023-12-18T13:53:48Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
-| [samber/oops](https://github.com/samber/oops) | 130 | 8 | 2023-12-29T14:48:01Z |  Error handling with context, stack trace and source fragments. |
+| [samber/oops](https://github.com/samber/oops) | 131 | 8 | 2023-12-30T14:32:02Z |  Error handling with context, stack trace and source fragments. |
 | [bnkamalesh/errors](https://github.com/bnkamalesh/errors) | 60 | 5 | 2023-12-20T15:05:40Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
 | [rbrahul/exception](https://github.com/rbrahul/exception) | 26 | 1 | 2023-11-15T22:22:52Z |  A simple utility package for exception handling with try-catch in Golang. |
 | [SonicRoshan/falcon](https://github.com/SonicRoshan/falcon) | 10 | 1 | 2023-11-10T02:18:16Z |  A Simple Yet Highly Powerful Package For Error Handling. |
@@ -26,15 +26,15 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 161 | 2023-12-29T20:15:33Z |  Go (golang) package for representing a list of errors as a single error. |
-| [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 56 | 2023-12-29T08:59:58Z |  Go error library with error portability over the network. |
+| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 161 | 2023-12-30T20:52:30Z |  Go (golang) package for representing a list of errors as a single error. |
+| [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 56 | 2023-12-30T17:35:12Z |  Go error library with error portability over the network. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 51 | 2023-12-29T14:18:22Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 860 | 36 | 2023-12-29T14:01:26Z |  Golang errors with stack trace and source fragments. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2023-12-27T03:00:24Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [snwfdhmp/errlog](https://github.com/snwfdhmp/errlog) | 453 | 21 | 2023-12-25T16:34:54Z |  Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place. |
 | [emperror/emperror](https://github.com/emperror/emperror) | 317 | 20 | 2023-12-23T15:37:40Z |  Error handling tools and best practices for Go libraries and applications. |
 | [emperror/errors](https://github.com/emperror/errors) | 191 | 11 | 2023-12-23T15:38:20Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
-| [samber/oops](https://github.com/samber/oops) | 130 | 8 | 2023-12-29T14:48:01Z |  Error handling with context, stack trace and source fragments. |
+| [samber/oops](https://github.com/samber/oops) | 131 | 8 | 2023-12-30T14:32:02Z |  Error handling with context, stack trace and source fragments. |
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 145 | 6 | 2023-12-18T13:53:48Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
 | [bnkamalesh/errors](https://github.com/bnkamalesh/errors) | 60 | 5 | 2023-12-20T15:05:40Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
 | [rbrahul/exception](https://github.com/rbrahul/exception) | 26 | 1 | 2023-11-15T22:22:52Z |  A simple utility package for exception handling with try-catch in Golang. |
@@ -46,11 +46,11 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 161 | 2023-12-29T20:15:33Z |  Go (golang) package for representing a list of errors as a single error. |
-| [samber/oops](https://github.com/samber/oops) | 130 | 8 | 2023-12-29T14:48:01Z |  Error handling with context, stack trace and source fragments. |
+| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 161 | 2023-12-30T20:52:30Z |  Go (golang) package for representing a list of errors as a single error. |
+| [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 56 | 2023-12-30T17:35:12Z |  Go error library with error portability over the network. |
+| [samber/oops](https://github.com/samber/oops) | 131 | 8 | 2023-12-30T14:32:02Z |  Error handling with context, stack trace and source fragments. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 51 | 2023-12-29T14:18:22Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 860 | 36 | 2023-12-29T14:01:26Z |  Golang errors with stack trace and source fragments. |
-| [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 56 | 2023-12-29T08:59:58Z |  Go error library with error portability over the network. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2023-12-27T03:00:24Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [snwfdhmp/errlog](https://github.com/snwfdhmp/errlog) | 453 | 21 | 2023-12-25T16:34:54Z |  Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place. |
 | [emperror/errors](https://github.com/emperror/errors) | 191 | 11 | 2023-12-23T15:38:20Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
