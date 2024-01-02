@@ -6,7 +6,7 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 873 | 2023-12-31T19:38:16Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 873 | 2024-01-01T07:38:32Z |  Get a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 243 | 2023-12-29T00:45:10Z |  Automatically generate Go (golang) struct definitions from example JSON. |
 | [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 125 | 2023-12-29T10:23:22Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 752 | 49 | 2023-12-29T05:39:34Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
@@ -47,7 +47,7 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 873 | 2023-12-31T19:38:16Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 873 | 2024-01-01T07:38:32Z |  Get a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 243 | 2023-12-29T00:45:10Z |  Automatically generate Go (golang) struct definitions from example JSON. |
 | [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 125 | 2023-12-29T10:23:22Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 270 | 54 | 2023-12-29T08:57:44Z |  API for arbitrary transformation of JSON documents. |
@@ -88,7 +88,7 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 873 | 2023-12-31T19:38:16Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 13k | 873 | 2024-01-01T07:38:32Z |  Get a JSON value with one line of code. |
 | [romshark/jscan](https://github.com/romshark/jscan) | 75 | 7 | 2023-12-31T12:20:22Z |  High performance zero-allocation JSON iterator. |
 | [nikolaydubina/htmljson](https://github.com/nikolaydubina/htmljson) | 5 | 1 | 2023-12-29T14:00:43Z |  Rich rendering of JSON as HTML in Go. |
 | [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 125 | 2023-12-29T10:23:22Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
