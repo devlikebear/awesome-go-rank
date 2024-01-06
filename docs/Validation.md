@@ -6,10 +6,10 @@ Libraries for validation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hapijs/joi](https://github.com/hapijs/joi) | 20k | 2k | 2024-01-04T23:43:12Z | . |
-| [go-playground/validator](https://github.com/go-playground/validator) | 15k | 1k | 2024-01-04T15:58:57Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
+| [hapijs/joi](https://github.com/hapijs/joi) | 20k | 2k | 2024-01-05T20:20:22Z | . |
+| [go-playground/validator](https://github.com/go-playground/validator) | 15k | 1k | 2024-01-05T21:52:28Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 597 | 2024-01-04T22:33:14Z |  Validators and sanitizers for strings, numerics, slices and structs. |
-| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3k | 215 | 2024-01-04T22:33:11Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
+| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3k | 215 | 2024-01-05T02:44:44Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
 | [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) | 1k | 122 | 2024-01-03T21:35:16Z |  Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. |
 | [gookit/validate](https://github.com/gookit/validate) | 973 | 114 | 2024-01-04T10:16:11Z |  Go package for data validation and filtering. support validate Map, Struct, Request(Form, JSON, url.Values, Uploaded Files) data and more features. |
 | [osamingo/checkdigit](https://github.com/osamingo/checkdigit) | 106 | 7 | 2023-12-25T11:34:15Z |  Provide check digit algorithms (Luhn, Verhoeff, Damm) and calculators (ISBN, EAN, JAN, UPC, etc.). |
@@ -23,10 +23,10 @@ Libraries for validation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hapijs/joi](https://github.com/hapijs/joi) | 20k | 2k | 2024-01-04T23:43:12Z | . |
-| [go-playground/validator](https://github.com/go-playground/validator) | 15k | 1k | 2024-01-04T15:58:57Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
+| [hapijs/joi](https://github.com/hapijs/joi) | 20k | 2k | 2024-01-05T20:20:22Z | . |
+| [go-playground/validator](https://github.com/go-playground/validator) | 15k | 1k | 2024-01-05T21:52:28Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 597 | 2024-01-04T22:33:14Z |  Validators and sanitizers for strings, numerics, slices and structs. |
-| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3k | 215 | 2024-01-04T22:33:11Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
+| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3k | 215 | 2024-01-05T02:44:44Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
 | [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) | 1k | 122 | 2024-01-03T21:35:16Z |  Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. |
 | [gookit/validate](https://github.com/gookit/validate) | 973 | 114 | 2024-01-04T10:16:11Z |  Go package for data validation and filtering. support validate Map, Struct, Request(Form, JSON, url.Values, Uploaded Files) data and more features. |
 | [gobuffalo/validate](https://github.com/gobuffalo/validate) | 91 | 21 | 2023-12-18T17:14:36Z |  This package provides a framework for writing validations for Go applications. |
@@ -40,10 +40,10 @@ Libraries for validation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hapijs/joi](https://github.com/hapijs/joi) | 20k | 2k | 2024-01-04T23:43:12Z | . |
+| [go-playground/validator](https://github.com/go-playground/validator) | 15k | 1k | 2024-01-05T21:52:28Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
+| [hapijs/joi](https://github.com/hapijs/joi) | 20k | 2k | 2024-01-05T20:20:22Z | . |
+| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3k | 215 | 2024-01-05T02:44:44Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 597 | 2024-01-04T22:33:14Z |  Validators and sanitizers for strings, numerics, slices and structs. |
-| [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3k | 215 | 2024-01-04T22:33:11Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
-| [go-playground/validator](https://github.com/go-playground/validator) | 15k | 1k | 2024-01-04T15:58:57Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
 | [gookit/validate](https://github.com/gookit/validate) | 973 | 114 | 2024-01-04T10:16:11Z |  Go package for data validation and filtering. support validate Map, Struct, Request(Form, JSON, url.Values, Uploaded Files) data and more features. |
 | [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) | 1k | 122 | 2024-01-03T21:35:16Z |  Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. |
 | [twharmon/govalid](https://github.com/twharmon/govalid) | 36 | 6 | 2023-12-25T18:37:20Z |  Fast, tag-based validation for structs. |

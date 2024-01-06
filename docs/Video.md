@@ -6,11 +6,11 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 414 | 2024-01-04T15:59:58Z |  Comprehensive Go bindings for FFmpeg. |
-| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 301 | 2024-01-02T22:31:01Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 414 | 2024-01-05T01:41:05Z |  Comprehensive Go bindings for FFmpeg. |
+| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 301 | 2024-01-05T05:07:13Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 870 | 217 | 2023-12-29T08:02:59Z |  Go bindings for FFmpeg av\* libraries. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 542 | 159 | 2024-01-04T09:05:29Z |  Pure Go RTSP server and client library. |
-| [asticode/go-astisub](https://github.com/asticode/go-astisub) | 529 | 105 | 2024-01-04T10:29:13Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 543 | 161 | 2024-01-05T08:14:48Z |  Pure Go RTSP server and client library. |
+| [asticode/go-astisub](https://github.com/asticode/go-astisub) | 530 | 105 | 2024-01-05T06:49:53Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 511 | 52 | 2024-01-04T16:15:24Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 389 | 48 | 2023-12-31T00:02:53Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [ziutek/gst](https://github.com/ziutek/gst) | 168 | 49 | 2023-08-27T12:31:57Z |  Go bindings for GStreamer. |
@@ -23,11 +23,11 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 414 | 2024-01-04T15:59:58Z |  Comprehensive Go bindings for FFmpeg. |
-| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 301 | 2024-01-02T22:31:01Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 414 | 2024-01-05T01:41:05Z |  Comprehensive Go bindings for FFmpeg. |
+| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 301 | 2024-01-05T05:07:13Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 870 | 217 | 2023-12-29T08:02:59Z |  Go bindings for FFmpeg av\* libraries. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 542 | 159 | 2024-01-04T09:05:29Z |  Pure Go RTSP server and client library. |
-| [asticode/go-astisub](https://github.com/asticode/go-astisub) | 529 | 105 | 2024-01-04T10:29:13Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 543 | 161 | 2024-01-05T08:14:48Z |  Pure Go RTSP server and client library. |
+| [asticode/go-astisub](https://github.com/asticode/go-astisub) | 530 | 105 | 2024-01-05T06:49:53Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 511 | 52 | 2024-01-04T16:15:24Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [ziutek/gst](https://github.com/ziutek/gst) | 168 | 49 | 2023-08-27T12:31:57Z |  Go bindings for GStreamer. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 389 | 48 | 2023-12-31T00:02:53Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
@@ -40,11 +40,11 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 543 | 161 | 2024-01-05T08:14:48Z |  Pure Go RTSP server and client library. |
+| [asticode/go-astisub](https://github.com/asticode/go-astisub) | 530 | 105 | 2024-01-05T06:49:53Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
+| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 301 | 2024-01-05T05:07:13Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 414 | 2024-01-05T01:41:05Z |  Comprehensive Go bindings for FFmpeg. |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 511 | 52 | 2024-01-04T16:15:24Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 414 | 2024-01-04T15:59:58Z |  Comprehensive Go bindings for FFmpeg. |
-| [asticode/go-astisub](https://github.com/asticode/go-astisub) | 529 | 105 | 2024-01-04T10:29:13Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 542 | 159 | 2024-01-04T09:05:29Z |  Pure Go RTSP server and client library. |
-| [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 301 | 2024-01-02T22:31:01Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 389 | 48 | 2023-12-31T00:02:53Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 24 | 10 | 2023-12-29T08:03:19Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 870 | 217 | 2023-12-29T08:02:59Z |  Go bindings for FFmpeg av\* libraries. |
