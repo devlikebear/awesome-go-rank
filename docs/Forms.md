@@ -11,7 +11,7 @@ Libraries for working with forms.
 | [mholt/binding](https://github.com/mholt/binding) | 795 | 84 | 2024-01-03T14:11:20Z |  Binds form and JSON data from net/http Request to struct. |
 | [go-playground/form](https://github.com/go-playground/form) | 661 | 38 | 2024-01-09T19:46:16Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 313 | 38 | 2024-01-02T18:46:44Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
-| [ggicci/httpin](https://github.com/ggicci/httpin) | 224 | 18 | 2024-01-09T14:16:58Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
+| [ggicci/httpin](https://github.com/ggicci/httpin) | 226 | 18 | 2024-01-10T12:22:00Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [monoculum/formam](https://github.com/monoculum/formam) | 180 | 17 | 2024-01-02T11:04:02Z |  decode form's values into a struct. |
 | [albrow/forms](https://github.com/albrow/forms) | 134 | 24 | 2024-01-04T18:15:22Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
 | [sonh/qs](https://github.com/sonh/qs) | 68 | 4 | 2023-10-18T09:53:48Z |  Go module for encoding structs into URL query parameters. |
@@ -30,7 +30,7 @@ Libraries for working with forms.
 | [go-playground/form](https://github.com/go-playground/form) | 661 | 38 | 2024-01-09T19:46:16Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 313 | 38 | 2024-01-02T18:46:44Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
 | [albrow/forms](https://github.com/albrow/forms) | 134 | 24 | 2024-01-04T18:15:22Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
-| [ggicci/httpin](https://github.com/ggicci/httpin) | 224 | 18 | 2024-01-09T14:16:58Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
+| [ggicci/httpin](https://github.com/ggicci/httpin) | 226 | 18 | 2024-01-10T12:22:00Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [monoculum/formam](https://github.com/monoculum/formam) | 180 | 17 | 2024-01-02T11:04:02Z |  decode form's values into a struct. |
 | [robfig/bind](https://github.com/robfig/bind) | 30 | 6 | 2023-10-12T21:12:33Z |  Bind form data to any Go values. |
 | [tomwright/queryparam](https://github.com/tomwright/queryparam) | 19 | 5 | 2023-10-29T08:49:21Z |  Decode `url.Values` into usable struct values of standard or custom types. |
@@ -42,9 +42,9 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [ggicci/httpin](https://github.com/ggicci/httpin) | 226 | 18 | 2024-01-10T12:22:00Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [justinas/nosurf](https://github.com/justinas/nosurf) | 1k | 154 | 2024-01-09T23:25:38Z |  CSRF protection middleware for Go. |
 | [go-playground/form](https://github.com/go-playground/form) | 661 | 38 | 2024-01-09T19:46:16Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
-| [ggicci/httpin](https://github.com/ggicci/httpin) | 224 | 18 | 2024-01-09T14:16:58Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [gorilla/csrf](https://github.com/gorilla/csrf) | 960 | 157 | 2024-01-04T20:50:14Z |  CSRF protection for Go web applications & services. |
 | [albrow/forms](https://github.com/albrow/forms) | 134 | 24 | 2024-01-04T18:15:22Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
 | [mholt/binding](https://github.com/mholt/binding) | 795 | 84 | 2024-01-03T14:11:20Z |  Binds form and JSON data from net/http Request to struct. |
