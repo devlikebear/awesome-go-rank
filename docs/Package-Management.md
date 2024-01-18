@@ -6,8 +6,8 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-01-15T17:06:46Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 553 | 2024-01-13T02:23:37Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-01-17T18:23:09Z |  Go dependency tool. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 553 | 2024-01-17T18:22:32Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 517 | 2024-01-06T20:13:09Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 445 | 2024-01-13T23:53:39Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 241 | 2024-01-10T06:23:03Z |  Go Package Manager. |
@@ -26,8 +26,8 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-01-15T17:06:46Z |  Go dependency tool. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 553 | 2024-01-13T02:23:37Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-01-17T18:23:09Z |  Go dependency tool. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 553 | 2024-01-17T18:22:32Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 517 | 2024-01-06T20:13:09Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 445 | 2024-01-13T23:53:39Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 241 | 2024-01-10T06:23:03Z |  Go Package Manager. |
@@ -46,10 +46,10 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-01-17T18:23:09Z |  Go dependency tool. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 553 | 2024-01-17T18:22:32Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 245 | 15 | 2024-01-16T05:48:49Z |  Update binaries installed by "go install". |
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-01-15T17:06:46Z |  Go dependency tool. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 445 | 2024-01-13T23:53:39Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 553 | 2024-01-13T02:23:37Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 241 | 2024-01-10T06:23:03Z |  Go Package Manager. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 139 | 2024-01-09T10:24:27Z |  Go Manager - bundle for go. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 517 | 2024-01-06T20:13:09Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
