@@ -6,9 +6,9 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 2k | 2024-01-27T20:49:59Z |  Go development plugin for Vim. |
-| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 715 | 2024-01-27T12:45:12Z |  Autocompletion daemon for the Go programming language. |
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 790 | 2024-01-26T02:17:15Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 2k | 2024-01-28T17:11:10Z |  Go development plugin for Vim. |
+| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 715 | 2024-01-28T12:33:49Z |  Autocompletion daemon for the Go programming language. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 789 | 2024-01-26T02:17:15Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 350 | 2024-01-25T19:06:35Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 177 | 2024-01-26T09:52:28Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 213 | 2024-01-26T09:50:40Z |  Go mode for GNU/Emacs. |
@@ -25,9 +25,9 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 2k | 2024-01-27T20:49:59Z |  Go development plugin for Vim. |
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 790 | 2024-01-26T02:17:15Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
-| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 715 | 2024-01-27T12:45:12Z |  Autocompletion daemon for the Go programming language. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 2k | 2024-01-28T17:11:10Z |  Go development plugin for Vim. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 789 | 2024-01-26T02:17:15Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
+| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 715 | 2024-01-28T12:33:49Z |  Autocompletion daemon for the Go programming language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 350 | 2024-01-25T19:06:35Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 213 | 2024-01-26T09:50:40Z |  Go mode for GNU/Emacs. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 177 | 2024-01-26T09:52:28Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
@@ -44,12 +44,12 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 2k | 2024-01-27T20:49:59Z |  Go development plugin for Vim. |
-| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 715 | 2024-01-27T12:45:12Z |  Autocompletion daemon for the Go programming language. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 2k | 2024-01-28T17:11:10Z |  Go development plugin for Vim. |
+| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 715 | 2024-01-28T12:33:49Z |  Autocompletion daemon for the Go programming language. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 501 | 69 | 2024-01-26T19:20:12Z |  Formatting tool for imports. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 177 | 2024-01-26T09:52:28Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 213 | 2024-01-26T09:50:40Z |  Go mode for GNU/Emacs. |
-| [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 790 | 2024-01-26T02:17:15Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
+| [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 789 | 2024-01-26T02:17:15Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 350 | 2024-01-25T19:06:35Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [eaburns/Watch](https://github.com/eaburns/Watch) | 200 | 51 | 2024-01-14T03:35:35Z |  Runs a command in an acme win on file changes. |
 | [theia-ide/go-language-server](https://github.com/theia-ide/go-language-server) | 32 | 12 | 2023-11-21T12:28:27Z |  A wrapper to turn the VSCode go extension into a language server supporting the language-server-protocol. |
