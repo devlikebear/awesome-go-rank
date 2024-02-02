@@ -6,20 +6,20 @@ Libraries for Machine Learning.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-01-29T05:37:06Z |  General Machine Learning library for Go. |
-| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 733 | 2024-01-31T15:18:28Z |  An offline recommender system backend based on collaborative filtering written in Go. |
-| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 457 | 2024-01-31T16:41:24Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
-| [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 226 | 2024-01-31T15:52:14Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
-| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 2k | 305 | 2024-01-31T08:58:06Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
+| [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-02-01T10:36:05Z |  General Machine Learning library for Go. |
+| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 733 | 2024-02-01T17:08:51Z |  An offline recommender system backend based on collaborative filtering written in Go. |
+| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 457 | 2024-02-01T22:46:45Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
+| [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 227 | 2024-02-01T16:21:05Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
+| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 2k | 305 | 2024-02-01T03:36:39Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 197 | 2024-01-30T03:50:09Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
 | [cdipaolo/goml](https://github.com/cdipaolo/goml) | 2k | 178 | 2024-01-31T10:59:43Z |  On-line Machine Learning in Go. |
 | [MaxHalford/eaopt](https://github.com/MaxHalford/eaopt) | 869 | 99 | 2024-01-15T18:46:16Z |  An evolutionary optimization library. |
 | [jbrukh/bayesian](https://github.com/jbrukh/bayesian) | 781 | 127 | 2024-01-14T13:43:37Z |  Naive Bayesian Classification for Golang. |
 | [ryanbressler/CloudForest](https://github.com/ryanbressler/CloudForest) | 735 | 93 | 2024-01-04T15:53:56Z |  Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go. |
-| [otiai10/ocrserver](https://github.com/otiai10/ocrserver) | 630 | 136 | 2024-01-27T08:52:48Z |  A simple OCR API server, seriously easy to be deployed by Docker and Heroku. |
-| [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 590 | 64 | 2024-01-31T06:43:54Z |  Go Interface to Open Neural Network Exchange (ONNX). |
+| [otiai10/ocrserver](https://github.com/otiai10/ocrserver) | 631 | 136 | 2024-02-01T03:41:31Z |  A simple OCR API server, seriously easy to be deployed by Docker and Heroku. |
+| [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 591 | 64 | 2024-02-01T08:45:33Z |  Go Interface to Open Neural Network Exchange (ONNX). |
 | [goml/gobrain](https://github.com/goml/gobrain) | 549 | 59 | 2024-01-24T16:54:32Z |  Neural Networks written in go. |
-| [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 493 | 61 | 2024-01-31T18:07:49Z |  A feature-rich neural network library in Go. |
+| [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 494 | 61 | 2024-02-01T03:44:04Z |  A feature-rich neural network library in Go. |
 | [muesli/regommend](https://github.com/muesli/regommend) | 306 | 28 | 2024-01-27T07:30:36Z |  Recommendation & collaborative filtering engine. |
 | [c-bata/goptuna](https://github.com/c-bata/goptuna) | 249 | 19 | 2024-01-26T12:35:28Z |  Bayesian optimization framework for black-box functions written in Go. Everything will be optimized. |
 | [tomcraven/goga](https://github.com/tomcraven/goga) | 205 | 20 | 2024-01-30T13:43:25Z |  Genetic algorithm library for Go. |
@@ -29,8 +29,8 @@ Libraries for Machine Learning.
 | [white-pony/go-fann](https://github.com/white-pony/go-fann) | 115 | 21 | 2023-10-10T09:40:17Z |  Go bindings for Fast Artificial Neural Networks(FANN) library. |
 | [nikolaydubina/go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) | 107 | 8 | 2024-01-27T00:38:12Z |  Fast and convenient feature processing for low latency machine learning in Go. |
 | [asafschers/goscore](https://github.com/asafschers/goscore) | 93 | 22 | 2023-12-01T13:24:58Z |  Go Scoring API for PMML. |
-| [dathoangnd/gonet](https://github.com/dathoangnd/gonet) | 80 | 8 | 2023-12-01T13:16:30Z |  Neural Network for Go. |
 | [Fontinalis/fonet](https://github.com/Fontinalis/fonet) | 79 | 17 | 2023-10-06T03:49:01Z |  A Deep Neural Network library written in Go. |
+| [dathoangnd/gonet](https://github.com/dathoangnd/gonet) | 79 | 8 | 2024-02-01T20:35:40Z |  Neural Network for Go. |
 | [datastream/libsvm](https://github.com/datastream/libsvm) | 73 | 12 | 2023-01-16T01:34:04Z |  libsvm golang version derived work based on LIBSVM 3.14. |
 | [surenderthakran/gomind](https://github.com/surenderthakran/gomind) | 72 | 8 | 2024-01-16T03:27:26Z |  A simplistic Neural Network Library in Go. |
 | [jinyeom/neat](https://github.com/jinyeom/neat) | 69 | 13 | 2023-12-01T13:26:15Z |  Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). |
@@ -49,19 +49,19 @@ Libraries for Machine Learning.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-01-29T05:37:06Z |  General Machine Learning library for Go. |
-| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 733 | 2024-01-31T15:18:28Z |  An offline recommender system backend based on collaborative filtering written in Go. |
-| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 457 | 2024-01-31T16:41:24Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
-| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 2k | 305 | 2024-01-31T08:58:06Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
-| [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 226 | 2024-01-31T15:52:14Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
+| [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-02-01T10:36:05Z |  General Machine Learning library for Go. |
+| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 733 | 2024-02-01T17:08:51Z |  An offline recommender system backend based on collaborative filtering written in Go. |
+| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 457 | 2024-02-01T22:46:45Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
+| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 2k | 305 | 2024-02-01T03:36:39Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
+| [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 227 | 2024-02-01T16:21:05Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 197 | 2024-01-30T03:50:09Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
 | [cdipaolo/goml](https://github.com/cdipaolo/goml) | 2k | 178 | 2024-01-31T10:59:43Z |  On-line Machine Learning in Go. |
-| [otiai10/ocrserver](https://github.com/otiai10/ocrserver) | 630 | 136 | 2024-01-27T08:52:48Z |  A simple OCR API server, seriously easy to be deployed by Docker and Heroku. |
+| [otiai10/ocrserver](https://github.com/otiai10/ocrserver) | 631 | 136 | 2024-02-01T03:41:31Z |  A simple OCR API server, seriously easy to be deployed by Docker and Heroku. |
 | [jbrukh/bayesian](https://github.com/jbrukh/bayesian) | 781 | 127 | 2024-01-14T13:43:37Z |  Naive Bayesian Classification for Golang. |
 | [MaxHalford/eaopt](https://github.com/MaxHalford/eaopt) | 869 | 99 | 2024-01-15T18:46:16Z |  An evolutionary optimization library. |
 | [ryanbressler/CloudForest](https://github.com/ryanbressler/CloudForest) | 735 | 93 | 2024-01-04T15:53:56Z |  Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go. |
-| [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 590 | 64 | 2024-01-31T06:43:54Z |  Go Interface to Open Neural Network Exchange (ONNX). |
-| [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 493 | 61 | 2024-01-31T18:07:49Z |  A feature-rich neural network library in Go. |
+| [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 591 | 64 | 2024-02-01T08:45:33Z |  Go Interface to Open Neural Network Exchange (ONNX). |
+| [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 494 | 61 | 2024-02-01T03:44:04Z |  A feature-rich neural network library in Go. |
 | [goml/gobrain](https://github.com/goml/gobrain) | 549 | 59 | 2024-01-24T16:54:32Z |  Neural Networks written in go. |
 | [thoj/go-galib](https://github.com/thoj/go-galib) | 195 | 41 | 2023-10-04T06:07:03Z |  Genetic Algorithms library written in Go / golang. |
 | [eaigner/shield](https://github.com/eaigner/shield) | 155 | 33 | 2023-12-21T13:14:21Z |  Bayesian text classifier with flexible tokenizers and storage backends for Go. |
@@ -81,7 +81,7 @@ Libraries for Machine Learning.
 | [e-XpertSolutions/go-cluster](https://github.com/e-XpertSolutions/go-cluster) | 40 | 9 | 2023-12-29T06:02:12Z |  Go implementation of the k-modes and k-prototypes clustering algorithms. |
 | [khezen/evoli](https://github.com/khezen/evoli) | 28 | 9 | 2023-12-29T06:00:48Z |  Genetic Algorithm and Particle Swarm Optimization library. |
 | [surenderthakran/gomind](https://github.com/surenderthakran/gomind) | 72 | 8 | 2024-01-16T03:27:26Z |  A simplistic Neural Network Library in Go. |
-| [dathoangnd/gonet](https://github.com/dathoangnd/gonet) | 80 | 8 | 2023-12-01T13:16:30Z |  Neural Network for Go. |
+| [dathoangnd/gonet](https://github.com/dathoangnd/gonet) | 79 | 8 | 2024-02-01T20:35:40Z |  Neural Network for Go. |
 | [nikolaydubina/go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) | 107 | 8 | 2024-01-27T00:38:12Z |  Fast and convenient feature processing for low latency machine learning in Go. |
 | [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 39 | 7 | 2024-01-04T06:39:45Z |  Easy to use Random Forest library for Go. |
 | [e-dard/godist](https://github.com/e-dard/godist) | 36 | 7 | 2023-11-15T21:13:05Z |  Various probability distributions, and associated methods. |
@@ -92,17 +92,18 @@ Libraries for Machine Learning.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 493 | 61 | 2024-01-31T18:07:49Z |  A feature-rich neural network library in Go. |
-| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 457 | 2024-01-31T16:41:24Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
-| [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 226 | 2024-01-31T15:52:14Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
-| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 733 | 2024-01-31T15:18:28Z |  An offline recommender system backend based on collaborative filtering written in Go. |
+| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 457 | 2024-02-01T22:46:45Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
+| [dathoangnd/gonet](https://github.com/dathoangnd/gonet) | 79 | 8 | 2024-02-01T20:35:40Z |  Neural Network for Go. |
+| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 733 | 2024-02-01T17:08:51Z |  An offline recommender system backend based on collaborative filtering written in Go. |
+| [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 227 | 2024-02-01T16:21:05Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
+| [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-02-01T10:36:05Z |  General Machine Learning library for Go. |
+| [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 591 | 64 | 2024-02-01T08:45:33Z |  Go Interface to Open Neural Network Exchange (ONNX). |
+| [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 494 | 61 | 2024-02-01T03:44:04Z |  A feature-rich neural network library in Go. |
+| [otiai10/ocrserver](https://github.com/otiai10/ocrserver) | 631 | 136 | 2024-02-01T03:41:31Z |  A simple OCR API server, seriously easy to be deployed by Docker and Heroku. |
+| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 2k | 305 | 2024-02-01T03:36:39Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
 | [cdipaolo/goml](https://github.com/cdipaolo/goml) | 2k | 178 | 2024-01-31T10:59:43Z |  On-line Machine Learning in Go. |
-| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 2k | 305 | 2024-01-31T08:58:06Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
-| [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 590 | 64 | 2024-01-31T06:43:54Z |  Go Interface to Open Neural Network Exchange (ONNX). |
 | [tomcraven/goga](https://github.com/tomcraven/goga) | 205 | 20 | 2024-01-30T13:43:25Z |  Genetic algorithm library for Go. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 197 | 2024-01-30T03:50:09Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
-| [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-01-29T05:37:06Z |  General Machine Learning library for Go. |
-| [otiai10/ocrserver](https://github.com/otiai10/ocrserver) | 630 | 136 | 2024-01-27T08:52:48Z |  A simple OCR API server, seriously easy to be deployed by Docker and Heroku. |
 | [muesli/regommend](https://github.com/muesli/regommend) | 306 | 28 | 2024-01-27T07:30:36Z |  Recommendation & collaborative filtering engine. |
 | [nikolaydubina/go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) | 107 | 8 | 2024-01-27T00:38:12Z |  Fast and convenient feature processing for low latency machine learning in Go. |
 | [c-bata/goptuna](https://github.com/c-bata/goptuna) | 249 | 19 | 2024-01-26T12:35:28Z |  Bayesian optimization framework for black-box functions written in Go. Everything will be optimized. |
@@ -120,7 +121,6 @@ Libraries for Machine Learning.
 | [jinyeom/neat](https://github.com/jinyeom/neat) | 69 | 13 | 2023-12-01T13:26:15Z |  Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). |
 | [asafschers/goscore](https://github.com/asafschers/goscore) | 93 | 22 | 2023-12-01T13:24:58Z |  Go Scoring API for PMML. |
 | [Xamber/Varis](https://github.com/Xamber/Varis) | 53 | 9 | 2023-12-01T13:17:10Z |  Golang Neural Network. |
-| [dathoangnd/gonet](https://github.com/dathoangnd/gonet) | 80 | 8 | 2023-12-01T13:16:30Z |  Neural Network for Go. |
 | [schuyler/neural-go](https://github.com/schuyler/neural-go) | 67 | 16 | 2023-11-15T21:15:18Z |  Multilayer perceptron network implemented in Go, with training via backpropagation. |
 | [e-dard/godist](https://github.com/e-dard/godist) | 36 | 7 | 2023-11-15T21:13:05Z |  Various probability distributions, and associated methods. |
 | [ThePaw/probab](https://github.com/ThePaw/probab) | 19 | 7 | 2023-11-13T20:12:08Z |  Probability distribution functions. Bayesian inference. Written in pure Go. |
