@@ -6,9 +6,9 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 384 | 2024-02-23T08:20:51Z | . |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 384 | 2024-02-24T11:27:48Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-02-23T09:56:35Z |  Simple, zero-dependency scheduling library for Go. |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 110 | 2024-02-23T07:29:55Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 110 | 2024-02-24T07:35:13Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 66 | 2024-02-23T19:35:01Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-02-14T17:41:02Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [albrow/jobs](https://github.com/albrow/jobs) | 494 | 47 | 2024-01-03T14:12:00Z |  Persistent and flexible background jobs library. |
@@ -29,8 +29,8 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 384 | 2024-02-23T08:20:51Z | . |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 110 | 2024-02-23T07:29:55Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 384 | 2024-02-24T11:27:48Z | . |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 110 | 2024-02-24T07:35:13Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-02-14T17:41:02Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-02-23T09:56:35Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 66 | 2024-02-23T19:35:01Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
@@ -52,10 +52,10 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 384 | 2024-02-24T11:27:48Z | . |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 110 | 2024-02-24T07:35:13Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 66 | 2024-02-23T19:35:01Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-02-23T09:56:35Z |  Simple, zero-dependency scheduling library for Go. |
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 384 | 2024-02-23T08:20:51Z | . |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 110 | 2024-02-23T07:29:55Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [datarootsio/cheek](https://github.com/datarootsio/cheek) | 117 | 7 | 2024-02-22T08:15:47Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 248 | 21 | 2024-02-22T03:40:49Z |  A simple but powerful DAG scheduler and dashboard. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 337 | 20 | 2024-02-21T08:36:29Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
