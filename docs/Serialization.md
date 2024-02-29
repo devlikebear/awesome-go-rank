@@ -6,11 +6,11 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-02-27T22:54:14Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-02-28T10:49:39Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2024-02-27T06:23:48Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 648 | 2024-02-27T16:55:39Z |  Go library for decoding generic map values into native Go structures. |
-| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 838 | 2024-02-24T05:11:42Z |  Protocol Buffers for Go with Gadgets. |
-| [ugorji/go](https://github.com/ugorji/go) | 2k | 364 | 2024-02-27T14:56:24Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 648 | 2024-02-28T21:19:46Z |  Go library for decoding generic map values into native Go structures. |
+| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 793 | 2024-02-28T03:07:01Z |  Protocol Buffers for Go with Gadgets. |
+| [ugorji/go](https://github.com/ugorji/go) | 2k | 291 | 2024-02-28T03:00:49Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 870 | 60 | 2024-02-27T17:13:11Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 726 | 56 | 2024-02-23T19:28:05Z |  Code generation for the Colfer binary format. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 646 | 59 | 2024-02-26T21:54:22Z |  Small, safe, and easy CBOR encoding and decoding library. |
@@ -24,7 +24,7 @@ Libraries and tools for binary serialization.
 | [o1egl/fwencoder](https://github.com/o1egl/fwencoder) | 26 | 10 | 2023-11-27T01:03:26Z |  Fixed width file parser (encoding and decoding library) for Go. |
 | [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) | 24 | 4 | 2023-12-28T06:43:55Z |  Convert slices, maps or any other unknown value across different types at run-time, no matter what. |
 | [vimeda/pletter](https://github.com/vimeda/pletter) | 19 | 3 | 2023-08-22T11:20:27Z |  A standard way to wrap a proto message for message brokers. |
-| [raszia/gotiny](https://github.com/raszia/gotiny) | 15 | 1 | 2024-01-27T22:41:32Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
+| [raszia/gotiny](https://github.com/raszia/gotiny) | 16 | 1 | 2024-02-28T07:56:22Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
 | [huydang284/fixedwidth](https://github.com/huydang284/fixedwidth) | 9 | 2 | 2023-10-01T22:40:50Z |  Fixed-width text formatting (UTF-8 supported). |
 | [recolude/unitpacking](https://github.com/recolude/unitpacking) | 6 | 1 | 2023-02-06T17:20:12Z |  Library to pack unit vectors into as fewest bytes as possible. |
 | [sbourlon/go-lctree](https://github.com/sbourlon/go-lctree) | 4 | 2 | 2024-02-02T19:31:54Z |  Provides a CLI and primitives to serialize and deserialize [LeetCode binary trees](https://support.leetcode.com/hc/en-us/articles/360011883654-What-does-1-null-2-3-mean-in-binary-tree-representation). |
@@ -34,10 +34,10 @@ Libraries and tools for binary serialization.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2024-02-27T06:23:48Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-02-27T22:54:14Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
-| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 838 | 2024-02-24T05:11:42Z |  Protocol Buffers for Go with Gadgets. |
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 648 | 2024-02-27T16:55:39Z |  Go library for decoding generic map values into native Go structures. |
-| [ugorji/go](https://github.com/ugorji/go) | 2k | 364 | 2024-02-27T14:56:24Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-02-28T10:49:39Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 793 | 2024-02-28T03:07:01Z |  Protocol Buffers for Go with Gadgets. |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 648 | 2024-02-28T21:19:46Z |  Go library for decoding generic map values into native Go structures. |
+| [ugorji/go](https://github.com/ugorji/go) | 2k | 291 | 2024-02-28T03:00:49Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 870 | 60 | 2024-02-27T17:13:11Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 646 | 59 | 2024-02-26T21:54:22Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 726 | 56 | 2024-02-23T19:28:05Z |  Code generation for the Colfer binary format. |
@@ -53,24 +53,24 @@ Libraries and tools for binary serialization.
 | [vimeda/pletter](https://github.com/vimeda/pletter) | 19 | 3 | 2023-08-22T11:20:27Z |  A standard way to wrap a proto message for message brokers. |
 | [huydang284/fixedwidth](https://github.com/huydang284/fixedwidth) | 9 | 2 | 2023-10-01T22:40:50Z |  Fixed-width text formatting (UTF-8 supported). |
 | [sbourlon/go-lctree](https://github.com/sbourlon/go-lctree) | 4 | 2 | 2024-02-02T19:31:54Z |  Provides a CLI and primitives to serialize and deserialize [LeetCode binary trees](https://support.leetcode.com/hc/en-us/articles/360011883654-What-does-1-null-2-3-mean-in-binary-tree-representation). |
-| [raszia/gotiny](https://github.com/raszia/gotiny) | 15 | 1 | 2024-01-27T22:41:32Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
+| [raszia/gotiny](https://github.com/raszia/gotiny) | 16 | 1 | 2024-02-28T07:56:22Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
 | [recolude/unitpacking](https://github.com/recolude/unitpacking) | 6 | 1 | 2023-02-06T17:20:12Z |  Library to pack unit vectors into as fewest bytes as possible. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-02-27T22:54:14Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 648 | 2024-02-28T21:19:46Z |  Go library for decoding generic map values into native Go structures. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-02-28T10:49:39Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [raszia/gotiny](https://github.com/raszia/gotiny) | 16 | 1 | 2024-02-28T07:56:22Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
+| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 793 | 2024-02-28T03:07:01Z |  Protocol Buffers for Go with Gadgets. |
+| [ugorji/go](https://github.com/ugorji/go) | 2k | 291 | 2024-02-28T03:00:49Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 870 | 60 | 2024-02-27T17:13:11Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 648 | 2024-02-27T16:55:39Z |  Go library for decoding generic map values into native Go structures. |
-| [ugorji/go](https://github.com/ugorji/go) | 2k | 364 | 2024-02-27T14:56:24Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [glycerine/bambam](https://github.com/glycerine/bambam) | 65 | 12 | 2024-02-27T07:49:29Z |  generator for Cap'n Proto schemas from go. |
 | [golang/protobuf](https://github.com/golang/protobuf) | 9k | 2k | 2024-02-27T06:23:48Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 646 | 59 | 2024-02-26T21:54:22Z |  Small, safe, and easy CBOR encoding and decoding library. |
-| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 838 | 2024-02-24T05:11:42Z |  Protocol Buffers for Go with Gadgets. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 726 | 56 | 2024-02-23T19:28:05Z |  Code generation for the Colfer binary format. |
 | [sbourlon/go-lctree](https://github.com/sbourlon/go-lctree) | 4 | 2 | 2024-02-02T19:31:54Z |  Provides a CLI and primitives to serialize and deserialize [LeetCode binary trees](https://support.leetcode.com/hc/en-us/articles/360011883654-What-does-1-null-2-3-mean-in-binary-tree-representation). |
-| [raszia/gotiny](https://github.com/raszia/gotiny) | 15 | 1 | 2024-01-27T22:41:32Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
 | [ghostiam/binstruct](https://github.com/ghostiam/binstruct) | 82 | 20 | 2024-01-27T22:39:15Z |  Golang binary decoder for mapping data into the structure. |
 | [tuvistavie/structomap](https://github.com/tuvistavie/structomap) | 144 | 11 | 2024-01-15T23:16:55Z |  Library to easily and dynamically generate maps from static structures. |
 | [glycerine/go-capnproto](https://github.com/glycerine/go-capnproto) | 288 | 21 | 2024-01-03T14:10:56Z |  Cap'n Proto library and parser for go. |
