@@ -12,7 +12,7 @@ Libraries, tools, and tutorials for interacting with hardware.
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 71 | 2024-03-06T00:50:44Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 490 | 88 | 2024-03-18T19:16:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 296 | 63 | 2024-03-10T23:49:15Z |  Robot Operating System (ROS) library for Go. |
-| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 186 | 47 | 2024-02-27T15:55:45Z |  Open Sound Control (OSC) bindings for Go. |
+| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 187 | 47 | 2024-03-21T14:44:20Z |  Open Sound Control (OSC) bindings for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 54 | 17 | 2024-02-22T08:13:43Z |  a polled API to read the state of an attached joystick. |
 
 ### Ranked by Forks
@@ -25,19 +25,19 @@ Libraries, tools, and tutorials for interacting with hardware.
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 490 | 88 | 2024-03-18T19:16:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 71 | 2024-03-06T00:50:44Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 296 | 63 | 2024-03-10T23:49:15Z |  Robot Operating System (ROS) library for Go. |
-| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 186 | 47 | 2024-02-27T15:55:45Z |  Open Sound Control (OSC) bindings for Go. |
+| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 187 | 47 | 2024-03-21T14:44:20Z |  Open Sound Control (OSC) bindings for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 54 | 17 | 2024-02-22T08:13:43Z |  a polled API to read the state of an attached joystick. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 187 | 47 | 2024-03-21T14:44:20Z |  Open Sound Control (OSC) bindings for Go. |
 | [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 4k | 360 | 2024-03-20T22:27:38Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 490 | 88 | 2024-03-18T19:16:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 172 | 2024-03-17T17:05:04Z |  Golang hardware discovery/inspection library. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 217 | 2024-03-16T22:50:13Z |  GPIO for Go, doesn't require cgo. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 296 | 63 | 2024-03-10T23:49:15Z |  Robot Operating System (ROS) library for Go. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 71 | 2024-03-06T00:50:44Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
-| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 186 | 47 | 2024-02-27T15:55:45Z |  Open Sound Control (OSC) bindings for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 54 | 17 | 2024-02-22T08:13:43Z |  a polled API to read the state of an attached joystick. |
 
