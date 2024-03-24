@@ -7,8 +7,8 @@ Libraries for scheduling jobs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-03-22T15:03:33Z | . |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-03-22T23:23:23Z |  Simple, zero-dependency scheduling library for Go. |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 116 | 2024-03-22T14:38:17Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-03-23T22:36:01Z |  Simple, zero-dependency scheduling library for Go. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 116 | 2024-03-24T00:02:01Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2024-03-14T08:28:20Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2024-03-12T10:36:53Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [albrow/jobs](https://github.com/albrow/jobs) | 494 | 47 | 2024-01-03T14:12:00Z |  Persistent and flexible background jobs library. |
@@ -30,9 +30,9 @@ Libraries for scheduling jobs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-03-22T15:03:33Z | . |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 116 | 2024-03-22T14:38:17Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 116 | 2024-03-24T00:02:01Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2024-03-12T10:36:53Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-03-22T23:23:23Z |  Simple, zero-dependency scheduling library for Go. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-03-23T22:36:01Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2024-03-14T08:28:20Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 440 | 53 | 2024-03-12T08:26:16Z |  Cronjobs scheduling made easy. |
 | [albrow/jobs](https://github.com/albrow/jobs) | 494 | 47 | 2024-01-03T14:12:00Z |  Persistent and flexible background jobs library. |
@@ -52,9 +52,9 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-03-22T23:23:23Z |  Simple, zero-dependency scheduling library for Go. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 116 | 2024-03-24T00:02:01Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 80 | 2024-03-23T22:36:01Z |  Simple, zero-dependency scheduling library for Go. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-03-22T15:03:33Z | . |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 1k | 116 | 2024-03-22T14:38:17Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 240 | 23 | 2024-03-22T04:52:42Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 256 | 22 | 2024-03-22T01:19:40Z |  A simple but powerful DAG scheduler and dashboard. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 12 | 3 | 2024-03-20T20:12:15Z |  A ticker implementation to support cron schedules. |
