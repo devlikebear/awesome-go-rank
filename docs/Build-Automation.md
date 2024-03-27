@@ -6,7 +6,7 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 10k | 532 | 2024-03-25T22:38:53Z |  simple "Make" alternative. |
+| [go-task/task](https://github.com/go-task/task) | 10k | 532 | 2024-03-26T23:14:37Z |  simple "Make" alternative. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 229 | 2024-03-12T11:57:01Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 245 | 2024-03-23T01:00:35Z |  Mage is a make/rake-like build tool using Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 42 | 2024-03-25T06:29:22Z |  Modern Make. |
@@ -22,7 +22,7 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 10k | 532 | 2024-03-25T22:38:53Z |  simple "Make" alternative. |
+| [go-task/task](https://github.com/go-task/task) | 10k | 532 | 2024-03-26T23:14:37Z |  simple "Make" alternative. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 245 | 2024-03-23T01:00:35Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 229 | 2024-03-12T11:57:01Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 42 | 2024-03-25T06:29:22Z |  Modern Make. |
@@ -38,7 +38,7 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 10k | 532 | 2024-03-25T22:38:53Z |  simple "Make" alternative. |
+| [go-task/task](https://github.com/go-task/task) | 10k | 532 | 2024-03-26T23:14:37Z |  simple "Make" alternative. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 973 | 25 | 2024-03-25T16:39:30Z |  Task runner with README.md defined tasks, executable markdown. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 42 | 2024-03-25T06:29:22Z |  Modern Make. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 245 | 2024-03-23T01:00:35Z |  Mage is a make/rake-like build tool using Go. |

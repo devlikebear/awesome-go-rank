@@ -6,21 +6,21 @@ Libraries for configuration parsing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [spf13/viper](https://github.com/spf13/viper) | 26k | 2k | 2024-03-25T22:32:35Z |  Go configuration with fangs. |
-| [joho/godotenv](https://github.com/joho/godotenv) | 7k | 379 | 2024-03-25T17:59:49Z |  Go port of Ruby's dotenv library (Loads environment variables from `.env`). |
-| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 5k | 372 | 2024-03-25T03:17:49Z |  Go library for managing configuration data from environment variables. |
-| [caarlos0/env](https://github.com/caarlos0/env) | 4k | 232 | 2024-03-25T14:58:09Z |  Parse environment variables to Go structs (with defaults). |
+| [spf13/viper](https://github.com/spf13/viper) | 26k | 2k | 2024-03-27T00:04:09Z |  Go configuration with fangs. |
+| [joho/godotenv](https://github.com/joho/godotenv) | 7k | 380 | 2024-03-26T20:39:17Z |  Go port of Ruby's dotenv library (Loads environment variables from `.env`). |
+| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 5k | 373 | 2024-03-26T09:48:43Z |  Go library for managing configuration data from environment variables. |
+| [caarlos0/env](https://github.com/caarlos0/env) | 4k | 233 | 2024-03-26T18:38:11Z |  Parse environment variables to Go structs (with defaults). |
 | [go-ini/ini](https://github.com/go-ini/ini) | 3k | 369 | 2024-03-25T11:06:57Z |  Go package to read and write INI files. |
-| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 139 | 2024-03-25T21:42:15Z |  Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line. |
-| [alecthomas/kong](https://github.com/alecthomas/kong) | 2k | 130 | 2024-03-25T15:47:22Z |  Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`). |
-| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 1k | 106 | 2024-03-25T12:44:16Z |  Minimalistic configuration reader (from files, ENV, and wherever you want). |
+| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 139 | 2024-03-26T18:21:10Z |  Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line. |
+| [alecthomas/kong](https://github.com/alecthomas/kong) | 2k | 131 | 2024-03-26T20:20:08Z |  Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`). |
+| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 1k | 106 | 2024-03-26T18:01:13Z |  Minimalistic configuration reader (from files, ENV, and wherever you want). |
 | [lalamove/konfig](https://github.com/lalamove/konfig) | 648 | 56 | 2024-03-11T07:45:09Z |  Composable, observable and performant config handling for Go for the distributed processing era. |
-| [adrg/xdg](https://github.com/adrg/xdg) | 558 | 30 | 2024-03-25T16:30:44Z |  Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories). |
+| [adrg/xdg](https://github.com/adrg/xdg) | 561 | 30 | 2024-03-26T15:53:52Z |  Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories). |
 | [gookit/config](https://github.com/gookit/config) | 520 | 57 | 2024-03-25T09:34:44Z |  application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge. |
 | [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 514 | 31 | 2024-03-23T08:50:19Z |  Simple, useful and opinionated config loader. |
 | [heetch/confita](https://github.com/heetch/confita) | 486 | 50 | 2024-03-25T16:54:45Z |  Load configuration in cascade from multiple backends into a struct. |
 | [golobby/config](https://github.com/golobby/config) | 357 | 30 | 2024-02-27T12:18:22Z |  GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language. |
-| [kkyr/fig](https://github.com/kkyr/fig) | 342 | 30 | 2024-03-23T08:50:18Z |  Tiny library for reading configuration from a file and from environment variables (with validation & defaults). |
+| [kkyr/fig](https://github.com/kkyr/fig) | 343 | 30 | 2024-03-26T20:20:05Z |  Tiny library for reading configuration from a file and from environment variables (with validation & defaults). |
 | [JeremyLoy/config](https://github.com/JeremyLoy/config) | 335 | 16 | 2024-03-21T03:41:02Z |  Cloud native application configuration. Bind ENV to structs in only two lines. |
 | [hjson/hjson-go](https://github.com/hjson/hjson-go) | 317 | 43 | 2024-03-21T14:18:48Z |  Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments. |
 | [tucnak/store](https://github.com/tucnak/store) | 276 | 22 | 2024-02-19T16:42:30Z |  Lightweight configuration manager for Go. |
@@ -33,8 +33,8 @@ Libraries for configuration parsing.
 | [nil-go/konf](https://github.com/nil-go/konf) | 105 | 2 | 2024-03-26T00:04:41Z |  The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP). |
 | [tomazk/envcfg](https://github.com/tomazk/envcfg) | 103 | 8 | 2024-03-01T23:44:35Z |  Un-marshaling environment variables to Go structs. |
 | [antham/envh](https://github.com/antham/envh) | 98 | 2 | 2024-01-08T13:09:18Z |  Helpers to manage environment variables. |
+| [BoRuDar/configuration](https://github.com/BoRuDar/configuration) | 94 | 10 | 2024-03-26T22:12:20Z |  Library for initializing configuration structs from env variables, files, flags and 'default' tag. |
 | [sherifabdlnaby/configuro](https://github.com/sherifabdlnaby/configuro) | 92 | 12 | 2024-03-10T19:52:42Z |  opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications. |
-| [BoRuDar/configuration](https://github.com/BoRuDar/configuration) | 92 | 10 | 2024-03-21T04:14:09Z |  Library for initializing configuration structs from env variables, files, flags and 'default' tag. |
 | [OpenPeeDeeP/xdg](https://github.com/OpenPeeDeeP/xdg) | 80 | 7 | 2023-12-08T07:37:08Z |  Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html). |
 | [omeid/uconfig](https://github.com/omeid/uconfig) | 70 | 9 | 2024-02-19T12:25:46Z |  Lightweight, zero-dependency, and extendable configuration management. |
 | [gurkankaymak/hocon](https://github.com/gurkankaymak/hocon) | 70 | 14 | 2024-03-08T06:05:48Z |  Configuration library for working with the HOCON(a human-friendly JSON superset) format, supports features like environment variables, referencing other values, comments and multiple files. |
@@ -66,14 +66,14 @@ Libraries for configuration parsing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [spf13/viper](https://github.com/spf13/viper) | 26k | 2k | 2024-03-25T22:32:35Z |  Go configuration with fangs. |
-| [joho/godotenv](https://github.com/joho/godotenv) | 7k | 379 | 2024-03-25T17:59:49Z |  Go port of Ruby's dotenv library (Loads environment variables from `.env`). |
-| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 5k | 372 | 2024-03-25T03:17:49Z |  Go library for managing configuration data from environment variables. |
+| [spf13/viper](https://github.com/spf13/viper) | 26k | 2k | 2024-03-27T00:04:09Z |  Go configuration with fangs. |
+| [joho/godotenv](https://github.com/joho/godotenv) | 7k | 380 | 2024-03-26T20:39:17Z |  Go port of Ruby's dotenv library (Loads environment variables from `.env`). |
+| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 5k | 373 | 2024-03-26T09:48:43Z |  Go library for managing configuration data from environment variables. |
 | [go-ini/ini](https://github.com/go-ini/ini) | 3k | 369 | 2024-03-25T11:06:57Z |  Go package to read and write INI files. |
-| [caarlos0/env](https://github.com/caarlos0/env) | 4k | 232 | 2024-03-25T14:58:09Z |  Parse environment variables to Go structs (with defaults). |
-| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 139 | 2024-03-25T21:42:15Z |  Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line. |
-| [alecthomas/kong](https://github.com/alecthomas/kong) | 2k | 130 | 2024-03-25T15:47:22Z |  Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`). |
-| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 1k | 106 | 2024-03-25T12:44:16Z |  Minimalistic configuration reader (from files, ENV, and wherever you want). |
+| [caarlos0/env](https://github.com/caarlos0/env) | 4k | 233 | 2024-03-26T18:38:11Z |  Parse environment variables to Go structs (with defaults). |
+| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 139 | 2024-03-26T18:21:10Z |  Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line. |
+| [alecthomas/kong](https://github.com/alecthomas/kong) | 2k | 131 | 2024-03-26T20:20:08Z |  Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`). |
+| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 1k | 106 | 2024-03-26T18:01:13Z |  Minimalistic configuration reader (from files, ENV, and wherever you want). |
 | [go-gcfg/gcfg](https://github.com/go-gcfg/gcfg) | 165 | 62 | 2024-03-22T08:24:03Z |  read INI-style configuration files into Go structs; supports user-defined types and subsections. |
 | [gookit/config](https://github.com/gookit/config) | 520 | 57 | 2024-03-25T09:34:44Z |  application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge. |
 | [lalamove/konfig](https://github.com/lalamove/konfig) | 648 | 56 | 2024-03-11T07:45:09Z |  Composable, observable and performant config handling for Go for the distributed processing era. |
@@ -81,8 +81,8 @@ Libraries for configuration parsing.
 | [hjson/hjson-go](https://github.com/hjson/hjson-go) | 317 | 43 | 2024-03-21T14:18:48Z |  Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments. |
 | [olebedev/config](https://github.com/olebedev/config) | 268 | 43 | 2023-10-20T09:01:08Z |  JSON or YAML configuration wrapper with environment variables and flags parsing. |
 | [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 514 | 31 | 2024-03-23T08:50:19Z |  Simple, useful and opinionated config loader. |
-| [kkyr/fig](https://github.com/kkyr/fig) | 342 | 30 | 2024-03-23T08:50:18Z |  Tiny library for reading configuration from a file and from environment variables (with validation & defaults). |
-| [adrg/xdg](https://github.com/adrg/xdg) | 558 | 30 | 2024-03-25T16:30:44Z |  Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories). |
+| [kkyr/fig](https://github.com/kkyr/fig) | 343 | 30 | 2024-03-26T20:20:05Z |  Tiny library for reading configuration from a file and from environment variables (with validation & defaults). |
+| [adrg/xdg](https://github.com/adrg/xdg) | 561 | 30 | 2024-03-26T15:53:52Z |  Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories). |
 | [vrischmann/envconfig](https://github.com/vrischmann/envconfig) | 236 | 30 | 2024-01-10T23:00:25Z |  Read your configuration from environment variables. |
 | [golobby/config](https://github.com/golobby/config) | 357 | 30 | 2024-02-27T12:18:22Z |  GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language. |
 | [beatlabs/harvester](https://github.com/beatlabs/harvester) | 130 | 27 | 2024-03-11T07:59:01Z |  Harvester, a easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration. |
@@ -94,7 +94,7 @@ Libraries for configuration parsing.
 | [ianlopshire/go-ssm-config](https://github.com/ianlopshire/go-ssm-config) | 19 | 13 | 2024-03-18T03:50:48Z |  Go utility for loading configuration parameters from AWS SSM (Parameter Store). |
 | [sherifabdlnaby/configuro](https://github.com/sherifabdlnaby/configuro) | 92 | 12 | 2024-03-10T19:52:42Z |  opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications. |
 | [paked/configure](https://github.com/paked/configure) | 56 | 10 | 2024-01-03T14:12:24Z |  Provides configuration through multiple sources, including JSON, flags and environment variables. |
-| [BoRuDar/configuration](https://github.com/BoRuDar/configuration) | 92 | 10 | 2024-03-21T04:14:09Z |  Library for initializing configuration structs from env variables, files, flags and 'default' tag. |
+| [BoRuDar/configuration](https://github.com/BoRuDar/configuration) | 94 | 10 | 2024-03-26T22:12:20Z |  Library for initializing configuration structs from env variables, files, flags and 'default' tag. |
 | [PaddleHQ/go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) | 54 | 10 | 2023-12-08T11:24:45Z |  Go package that fetches parameters from AWS System Manager - Parameter Store. |
 | [schachmat/ingo](https://github.com/schachmat/ingo) | 36 | 9 | 2023-11-11T23:52:07Z |  Flags persisted in an ini-like config file. |
 | [omeid/uconfig](https://github.com/omeid/uconfig) | 70 | 9 | 2024-02-19T12:25:46Z |  Lightweight, zero-dependency, and extendable configuration management. |
@@ -126,24 +126,24 @@ Libraries for configuration parsing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [spf13/viper](https://github.com/spf13/viper) | 26k | 2k | 2024-03-27T00:04:09Z |  Go configuration with fangs. |
+| [BoRuDar/configuration](https://github.com/BoRuDar/configuration) | 94 | 10 | 2024-03-26T22:12:20Z |  Library for initializing configuration structs from env variables, files, flags and 'default' tag. |
+| [joho/godotenv](https://github.com/joho/godotenv) | 7k | 380 | 2024-03-26T20:39:17Z |  Go port of Ruby's dotenv library (Loads environment variables from `.env`). |
+| [alecthomas/kong](https://github.com/alecthomas/kong) | 2k | 131 | 2024-03-26T20:20:08Z |  Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`). |
+| [kkyr/fig](https://github.com/kkyr/fig) | 343 | 30 | 2024-03-26T20:20:05Z |  Tiny library for reading configuration from a file and from environment variables (with validation & defaults). |
+| [caarlos0/env](https://github.com/caarlos0/env) | 4k | 233 | 2024-03-26T18:38:11Z |  Parse environment variables to Go structs (with defaults). |
+| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 139 | 2024-03-26T18:21:10Z |  Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line. |
+| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 1k | 106 | 2024-03-26T18:01:13Z |  Minimalistic configuration reader (from files, ENV, and wherever you want). |
+| [adrg/xdg](https://github.com/adrg/xdg) | 561 | 30 | 2024-03-26T15:53:52Z |  Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories). |
+| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 5k | 373 | 2024-03-26T09:48:43Z |  Go library for managing configuration data from environment variables. |
 | [nil-go/konf](https://github.com/nil-go/konf) | 105 | 2 | 2024-03-26T00:04:41Z |  The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP). |
-| [spf13/viper](https://github.com/spf13/viper) | 26k | 2k | 2024-03-25T22:32:35Z |  Go configuration with fangs. |
-| [knadh/koanf](https://github.com/knadh/koanf) | 2k | 139 | 2024-03-25T21:42:15Z |  Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line. |
-| [joho/godotenv](https://github.com/joho/godotenv) | 7k | 379 | 2024-03-25T17:59:49Z |  Go port of Ruby's dotenv library (Loads environment variables from `.env`). |
 | [heetch/confita](https://github.com/heetch/confita) | 486 | 50 | 2024-03-25T16:54:45Z |  Load configuration in cascade from multiple backends into a struct. |
-| [adrg/xdg](https://github.com/adrg/xdg) | 558 | 30 | 2024-03-25T16:30:44Z |  Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories). |
-| [alecthomas/kong](https://github.com/alecthomas/kong) | 2k | 130 | 2024-03-25T15:47:22Z |  Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`). |
-| [caarlos0/env](https://github.com/caarlos0/env) | 4k | 232 | 2024-03-25T14:58:09Z |  Parse environment variables to Go structs (with defaults). |
-| [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 1k | 106 | 2024-03-25T12:44:16Z |  Minimalistic configuration reader (from files, ENV, and wherever you want). |
 | [go-ini/ini](https://github.com/go-ini/ini) | 3k | 369 | 2024-03-25T11:06:57Z |  Go package to read and write INI files. |
 | [gookit/config](https://github.com/gookit/config) | 520 | 57 | 2024-03-25T09:34:44Z |  application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge. |
-| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | 5k | 372 | 2024-03-25T03:17:49Z |  Go library for managing configuration data from environment variables. |
 | [cristalhq/aconfig](https://github.com/cristalhq/aconfig) | 514 | 31 | 2024-03-23T08:50:19Z |  Simple, useful and opinionated config loader. |
-| [kkyr/fig](https://github.com/kkyr/fig) | 342 | 30 | 2024-03-23T08:50:18Z |  Tiny library for reading configuration from a file and from environment variables (with validation & defaults). |
 | [go-gcfg/gcfg](https://github.com/go-gcfg/gcfg) | 165 | 62 | 2024-03-22T08:24:03Z |  read INI-style configuration files into Go structs; supports user-defined types and subsections. |
 | [joshbetz/config](https://github.com/joshbetz/config) | 216 | 14 | 2024-03-21T16:16:36Z |  Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP. |
 | [hjson/hjson-go](https://github.com/hjson/hjson-go) | 317 | 43 | 2024-03-21T14:18:48Z |  Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments. |
-| [BoRuDar/configuration](https://github.com/BoRuDar/configuration) | 92 | 10 | 2024-03-21T04:14:09Z |  Library for initializing configuration structs from env variables, files, flags and 'default' tag. |
 | [junk1tm/env](https://github.com/junk1tm/env) | 49 | 4 | 2024-03-21T03:45:58Z |  A lightweight package for loading environment variables into structs. |
 | [JeremyLoy/config](https://github.com/JeremyLoy/config) | 335 | 16 | 2024-03-21T03:41:02Z |  Cloud native application configuration. Bind ENV to structs in only two lines. |
 | [ianlopshire/go-ssm-config](https://github.com/ianlopshire/go-ssm-config) | 19 | 13 | 2024-03-18T03:50:48Z |  Go utility for loading configuration parameters from AWS SSM (Parameter Store). |
