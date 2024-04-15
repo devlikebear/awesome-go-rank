@@ -6,7 +6,7 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 32k | 7k | 2024-04-13T14:39:11Z | which a Chinese word splitting algorithm. |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 32k | 7k | 2024-04-14T16:27:28Z | which a Chinese word splitting algorithm. |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 985 | 2024-04-12T16:27:28Z | . |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 163 | 2024-04-13T16:39:28Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
 | [go-ego/gse](https://github.com/go-ego/gse) | 2k | 209 | 2024-04-12T03:07:19Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
@@ -59,7 +59,7 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 32k | 7k | 2024-04-13T14:39:11Z | which a Chinese word splitting algorithm. |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 32k | 7k | 2024-04-14T16:27:28Z | which a Chinese word splitting algorithm. |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 985 | 2024-04-12T16:27:28Z | . |
 | [go-ego/gse](https://github.com/go-ego/gse) | 2k | 209 | 2024-04-12T03:07:19Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 193 | 2024-04-12T05:39:30Z |  CN Hanzi to Hanyu Pinyin converter. |
@@ -112,9 +112,9 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 32k | 7k | 2024-04-14T16:27:28Z | which a Chinese word splitting algorithm. |
 | [jonreiter/govader](https://github.com/jonreiter/govader) | 37 | 7 | 2024-04-13T18:29:00Z | . |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 163 | 2024-04-13T16:39:28Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 32k | 7k | 2024-04-13T14:39:11Z | which a Chinese word splitting algorithm. |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 985 | 2024-04-12T16:27:28Z | . |
 | [gosimple/slug](https://github.com/gosimple/slug) | 1k | 105 | 2024-04-12T11:55:33Z |  URL-friendly slugify with multiple languages support. |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 626 | 63 | 2024-04-12T09:57:24Z |  Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). |

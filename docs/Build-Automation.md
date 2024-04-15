@@ -6,8 +6,8 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 10k | 537 | 2024-04-13T11:03:32Z |  simple "Make" alternative. |
-| [tockins/realize](https://github.com/tockins/realize) | 4k | 228 | 2024-04-13T22:07:22Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
+| [go-task/task](https://github.com/go-task/task) | 10k | 537 | 2024-04-14T15:59:24Z |  simple "Make" alternative. |
+| [tockins/realize](https://github.com/tockins/realize) | 4k | 228 | 2024-04-14T08:56:52Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 245 | 2024-04-13T22:05:52Z |  Mage is a make/rake-like build tool using Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 42 | 2024-04-10T14:15:24Z |  Modern Make. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 976 | 25 | 2024-04-08T07:44:22Z |  Task runner with README.md defined tasks, executable markdown. |
@@ -22,9 +22,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 10k | 537 | 2024-04-13T11:03:32Z |  simple "Make" alternative. |
+| [go-task/task](https://github.com/go-task/task) | 10k | 537 | 2024-04-14T15:59:24Z |  simple "Make" alternative. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 245 | 2024-04-13T22:05:52Z |  Mage is a make/rake-like build tool using Go. |
-| [tockins/realize](https://github.com/tockins/realize) | 4k | 228 | 2024-04-13T22:07:22Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
+| [tockins/realize](https://github.com/tockins/realize) | 4k | 228 | 2024-04-14T08:56:52Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 42 | 2024-04-10T14:15:24Z |  Modern Make. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 276 | 38 | 2024-03-18T19:36:18Z |  Concurrent task runner. |
 | [gopinath-langote/1build](https://github.com/gopinath-langote/1build) | 221 | 30 | 2024-02-21T05:34:19Z |  Command line tool to frictionlessly manage project-specific commands. |
@@ -38,10 +38,10 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tockins/realize](https://github.com/tockins/realize) | 4k | 228 | 2024-04-13T22:07:22Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
+| [go-task/task](https://github.com/go-task/task) | 10k | 537 | 2024-04-14T15:59:24Z |  simple "Make" alternative. |
+| [tockins/realize](https://github.com/tockins/realize) | 4k | 228 | 2024-04-14T08:56:52Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [magefile/mage](https://github.com/magefile/mage) | 4k | 245 | 2024-04-13T22:05:52Z |  Mage is a make/rake-like build tool using Go. |
 | [GuilhermeCaruso/anko](https://github.com/GuilhermeCaruso/anko) | 36 | 2 | 2024-04-13T22:04:40Z |  Simple application watcher for multiple programming languages. |
-| [go-task/task](https://github.com/go-task/task) | 10k | 537 | 2024-04-13T11:03:32Z |  simple "Make" alternative. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 42 | 2024-04-10T14:15:24Z |  Modern Make. |
 | [goyek/goyek](https://github.com/goyek/goyek) | 501 | 29 | 2024-04-10T13:37:00Z |  Create build pipelines in Go. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 976 | 25 | 2024-04-08T07:44:22Z |  Task runner with README.md defined tasks, executable markdown. |

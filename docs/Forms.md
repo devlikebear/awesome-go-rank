@@ -6,8 +6,8 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 123 | 2024-04-13T18:05:31Z |  CSRF protection middleware for Go. |
-| [gorilla/csrf](https://github.com/gorilla/csrf) | 993 | 154 | 2024-04-12T11:12:06Z |  CSRF protection for Go web applications & services. |
+| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 123 | 2024-04-14T02:57:24Z |  CSRF protection middleware for Go. |
+| [gorilla/csrf](https://github.com/gorilla/csrf) | 994 | 154 | 2024-04-14T03:08:37Z |  CSRF protection for Go web applications & services. |
 | [mholt/binding](https://github.com/mholt/binding) | 796 | 84 | 2024-04-07T14:35:53Z |  Binds form and JSON data from net/http Request to struct. |
 | [go-playground/form](https://github.com/go-playground/form) | 692 | 37 | 2024-04-13T13:19:34Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 316 | 38 | 2024-04-02T17:40:45Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
@@ -24,8 +24,8 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gorilla/csrf](https://github.com/gorilla/csrf) | 993 | 154 | 2024-04-12T11:12:06Z |  CSRF protection for Go web applications & services. |
-| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 123 | 2024-04-13T18:05:31Z |  CSRF protection middleware for Go. |
+| [gorilla/csrf](https://github.com/gorilla/csrf) | 994 | 154 | 2024-04-14T03:08:37Z |  CSRF protection for Go web applications & services. |
+| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 123 | 2024-04-14T02:57:24Z |  CSRF protection middleware for Go. |
 | [mholt/binding](https://github.com/mholt/binding) | 796 | 84 | 2024-04-07T14:35:53Z |  Binds form and JSON data from net/http Request to struct. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 316 | 38 | 2024-04-02T17:40:45Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
 | [go-playground/form](https://github.com/go-playground/form) | 692 | 37 | 2024-04-13T13:19:34Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
@@ -42,10 +42,10 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 123 | 2024-04-13T18:05:31Z |  CSRF protection middleware for Go. |
+| [gorilla/csrf](https://github.com/gorilla/csrf) | 994 | 154 | 2024-04-14T03:08:37Z |  CSRF protection for Go web applications & services. |
+| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 123 | 2024-04-14T02:57:24Z |  CSRF protection middleware for Go. |
 | [go-playground/form](https://github.com/go-playground/form) | 692 | 37 | 2024-04-13T13:19:34Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 267 | 19 | 2024-04-13T07:59:17Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
-| [gorilla/csrf](https://github.com/gorilla/csrf) | 993 | 154 | 2024-04-12T11:12:06Z |  CSRF protection for Go web applications & services. |
 | [monoculum/formam](https://github.com/monoculum/formam) | 186 | 18 | 2024-04-08T23:45:42Z |  decode form's values into a struct. |
 | [mholt/binding](https://github.com/mholt/binding) | 796 | 84 | 2024-04-07T14:35:53Z |  Binds form and JSON data from net/http Request to struct. |
 | [cinar/checker](https://github.com/cinar/checker) | 7 | 0 | 2024-04-03T14:45:51Z |  Checker helps validating user input through rules defined in struct tags or directly through functions. |
