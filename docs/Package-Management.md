@@ -16,7 +16,7 @@ Unofficial libraries for package and dependency management.
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 780 | 45 | 2024-03-19T15:10:48Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 480 | 22 | 2024-04-11T09:44:45Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 269 | 17 | 2024-04-23T01:24:26Z |  Update binaries installed by "go install". |
-| [jingweno/nut](https://github.com/jingweno/nut) | 234 | 11 | 2023-08-23T03:18:56Z |  Vendor Go dependencies. |
+| [jingweno/nut](https://github.com/jingweno/nut) | 233 | 11 | 2024-04-27T03:55:09Z |  Vendor Go dependencies. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 161 | 31 | 2024-04-05T08:52:49Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 124 | 11 | 2024-04-18T13:51:39Z |  create and manage exportable isolated go virtual environments. |
@@ -37,7 +37,7 @@ Unofficial libraries for package and dependency management.
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 161 | 31 | 2024-04-05T08:52:49Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 480 | 22 | 2024-04-11T09:44:45Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 269 | 17 | 2024-04-23T01:24:26Z |  Update binaries installed by "go install". |
-| [jingweno/nut](https://github.com/jingweno/nut) | 234 | 11 | 2023-08-23T03:18:56Z |  Vendor Go dependencies. |
+| [jingweno/nut](https://github.com/jingweno/nut) | 233 | 11 | 2024-04-27T03:55:09Z |  Vendor Go dependencies. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 124 | 11 | 2024-04-18T13:51:39Z |  create and manage exportable isolated go virtual environments. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
 | [lunny/gop](https://github.com/lunny/gop) | 49 | 7 | 2024-02-21T15:08:14Z |  Build and manage your Go applications out of GOPATH. |
@@ -46,6 +46,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [jingweno/nut](https://github.com/jingweno/nut) | 233 | 11 | 2024-04-27T03:55:09Z |  Vendor Go dependencies. |
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-04-25T05:47:51Z |  Go dependency tool. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 457 | 2024-04-23T12:04:33Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 94 | 2024-04-23T12:04:33Z |  Go Manager - bundle for go. |
@@ -59,6 +60,5 @@ Unofficial libraries for package and dependency management.
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 161 | 31 | 2024-04-05T08:52:49Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 780 | 45 | 2024-03-19T15:10:48Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
 | [lunny/gop](https://github.com/lunny/gop) | 49 | 7 | 2024-02-21T15:08:14Z |  Build and manage your Go applications out of GOPATH. |
-| [jingweno/nut](https://github.com/jingweno/nut) | 234 | 11 | 2023-08-23T03:18:56Z |  Vendor Go dependencies. |
 | [VividCortex/johnny-deps](https://github.com/VividCortex/johnny-deps) | 214 | 7 | 2023-06-01T00:53:15Z |  Minimal dependency version using Git. |
 
