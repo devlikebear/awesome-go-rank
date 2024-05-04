@@ -6,8 +6,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 227 | 2024-05-02T16:37:27Z |  A simple, semantic and developer-friendly golang package for datetime. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-04-28T22:32:59Z |  Now is a time toolkit for golang. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 227 | 2024-05-03T23:54:32Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-05-03T04:43:40Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 165 | 2024-04-28T22:17:18Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 771 | 55 | 2024-03-27T09:32:48Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 487 | 49 | 2024-04-26T14:26:32Z |  Time duration formatting library for Go. |
@@ -27,15 +27,15 @@ Libraries for working with dates and times.
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 12 | 5 | 2023-02-10T14:32:27Z |  C99-compatible strftime formatter. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2022-09-26T09:53:28Z |  Ruby-compatible Strftime function. |
 | [stoewer/go-week](https://github.com/stoewer/go-week) | 9 | 8 | 2023-11-10T03:06:21Z |  An efficient package to work with ISO8601 week dates. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 9 | 1 | 2024-04-29T18:28:58Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 9 | 1 | 2024-05-03T18:09:53Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-04-20T03:51:53Z |  A simple datetime parse pkg. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-04-28T22:32:59Z |  Now is a time toolkit for golang. |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 227 | 2024-05-02T16:37:27Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-05-03T04:43:40Z |  Now is a time toolkit for golang. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 227 | 2024-05-03T23:54:32Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 165 | 2024-04-28T22:17:18Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 771 | 55 | 2024-03-27T09:32:48Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 487 | 49 | 2024-04-26T14:26:32Z |  Time duration formatting library for Go. |
@@ -54,7 +54,7 @@ Libraries for working with dates and times.
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 12 | 5 | 2023-02-10T14:32:27Z |  C99-compatible strftime formatter. |
 | [kirillDanshin/nulltime](https://github.com/kirillDanshin/nulltime) | 14 | 4 | 2023-04-02T02:05:30Z |  Nullable `time.Time`. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2022-09-26T09:53:28Z |  Ruby-compatible Strftime function. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 9 | 1 | 2024-04-29T18:28:58Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 9 | 1 | 2024-05-03T18:09:53Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-04-20T03:51:53Z |  A simple datetime parse pkg. |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 16 | 0 | 2024-04-24T18:30:15Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
 
@@ -62,10 +62,10 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 227 | 2024-05-02T16:37:27Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 227 | 2024-05-03T23:54:32Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 9 | 1 | 2024-05-03T18:09:53Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-05-03T04:43:40Z |  Now is a time toolkit for golang. |
 | [rickb777/date](https://github.com/rickb777/date) | 126 | 23 | 2024-05-01T22:18:50Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 9 | 1 | 2024-04-29T18:28:58Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-04-28T22:32:59Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 165 | 2024-04-28T22:17:18Z |  Parse date's without knowing format in advance. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 487 | 49 | 2024-04-26T14:26:32Z |  Time duration formatting library for Go. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 94 | 6 | 2024-04-24T18:30:30Z |  Convert string to duration. Support time.Duration returned string and more. |
