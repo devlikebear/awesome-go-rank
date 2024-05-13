@@ -6,18 +6,18 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 36k | 4k | 2024-05-11T18:34:13Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
-| [facebook/ent](https://github.com/facebook/ent) | 15k | 887 | 2024-05-11T13:57:39Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 530 | 2024-05-10T22:31:23Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 36k | 4k | 2024-05-12T22:39:08Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [facebook/ent](https://github.com/facebook/ent) | 15k | 887 | 2024-05-12T14:04:13Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 530 | 2024-05-12T15:42:42Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 370 | 2024-04-29T08:37:48Z |  Go Relational Persistence, ORM-ish library for Go. |
-| [upper/db](https://github.com/upper/db) | 3k | 233 | 2024-05-11T05:04:55Z |  Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. |
-| [uptrace/bun](https://github.com/uptrace/bun) | 3k | 189 | 2024-05-11T11:45:46Z |  SQL-first Golang ORM. Successor of go-pg. |
-| [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 348 | 2024-05-10T11:31:55Z |  Mysql database to golang gorm struct. |
-| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 2k | 94 | 2024-05-11T19:33:41Z |  Prisma Client Go, Typesafe database access for Go. |
+| [upper/db](https://github.com/upper/db) | 3k | 233 | 2024-05-12T11:00:53Z |  Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. |
+| [uptrace/bun](https://github.com/uptrace/bun) | 3k | 189 | 2024-05-12T10:50:44Z |  SQL-first Golang ORM. Successor of go-pg. |
+| [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 349 | 2024-05-10T11:31:55Z |  Mysql database to golang gorm struct. |
+| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 2k | 93 | 2024-05-11T19:33:41Z |  Prisma Client Go, Typesafe database access for Go. |
 | [go-reform/reform](https://github.com/go-reform/reform) | 1k | 73 | 2024-04-19T23:20:53Z |  Better ORM for Go, based on non-empty interfaces and code generation. |
 | [gobuffalo/pop](https://github.com/gobuffalo/pop) | 1k | 242 | 2024-05-07T16:52:28Z |  Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. |
-| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 1k | 107 | 2024-05-11T15:06:01Z |  A flexible and powerful SQL string builder library plus a zero-config ORM. |
-| [go-rel/rel](https://github.com/go-rel/rel) | 740 | 58 | 2024-04-21T11:46:08Z |  Modern Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API. |
+| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 1k | 107 | 2024-05-12T05:03:33Z |  A flexible and powerful SQL string builder library plus a zero-config ORM. |
+| [go-rel/rel](https://github.com/go-rel/rel) | 742 | 58 | 2024-05-12T22:53:08Z |  Modern Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API. |
 | [albrow/zoom](https://github.com/albrow/zoom) | 305 | 26 | 2024-02-21T06:22:12Z |  Blazing-fast datastore and querying engine built on Redis. |
 | [rushteam/gosql](https://github.com/rushteam/gosql) | 177 | 23 | 2024-04-18T02:14:59Z |  A easy ORM for mysql. |
 | [Fs02/grimoire](https://github.com/Fs02/grimoire) | 161 | 18 | 2024-02-21T01:49:58Z |  Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3). |
@@ -34,18 +34,18 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 36k | 4k | 2024-05-11T18:34:13Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
-| [facebook/ent](https://github.com/facebook/ent) | 15k | 887 | 2024-05-11T13:57:39Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 530 | 2024-05-10T22:31:23Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 36k | 4k | 2024-05-12T22:39:08Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [facebook/ent](https://github.com/facebook/ent) | 15k | 887 | 2024-05-12T14:04:13Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 530 | 2024-05-12T15:42:42Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 370 | 2024-04-29T08:37:48Z |  Go Relational Persistence, ORM-ish library for Go. |
-| [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 348 | 2024-05-10T11:31:55Z |  Mysql database to golang gorm struct. |
+| [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 349 | 2024-05-10T11:31:55Z |  Mysql database to golang gorm struct. |
 | [gobuffalo/pop](https://github.com/gobuffalo/pop) | 1k | 242 | 2024-05-07T16:52:28Z |  Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. |
-| [upper/db](https://github.com/upper/db) | 3k | 233 | 2024-05-11T05:04:55Z |  Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. |
-| [uptrace/bun](https://github.com/uptrace/bun) | 3k | 189 | 2024-05-11T11:45:46Z |  SQL-first Golang ORM. Successor of go-pg. |
-| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 1k | 107 | 2024-05-11T15:06:01Z |  A flexible and powerful SQL string builder library plus a zero-config ORM. |
-| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 2k | 94 | 2024-05-11T19:33:41Z |  Prisma Client Go, Typesafe database access for Go. |
+| [upper/db](https://github.com/upper/db) | 3k | 233 | 2024-05-12T11:00:53Z |  Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. |
+| [uptrace/bun](https://github.com/uptrace/bun) | 3k | 189 | 2024-05-12T10:50:44Z |  SQL-first Golang ORM. Successor of go-pg. |
+| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 1k | 107 | 2024-05-12T05:03:33Z |  A flexible and powerful SQL string builder library plus a zero-config ORM. |
+| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 2k | 93 | 2024-05-11T19:33:41Z |  Prisma Client Go, Typesafe database access for Go. |
 | [go-reform/reform](https://github.com/go-reform/reform) | 1k | 73 | 2024-04-19T23:20:53Z |  Better ORM for Go, based on non-empty interfaces and code generation. |
-| [go-rel/rel](https://github.com/go-rel/rel) | 740 | 58 | 2024-04-21T11:46:08Z |  Modern Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API. |
+| [go-rel/rel](https://github.com/go-rel/rel) | 742 | 58 | 2024-05-12T22:53:08Z |  Modern Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API. |
 | [albrow/zoom](https://github.com/albrow/zoom) | 305 | 26 | 2024-02-21T06:22:12Z |  Blazing-fast datastore and querying engine built on Redis. |
 | [rushteam/gosql](https://github.com/rushteam/gosql) | 177 | 23 | 2024-04-18T02:14:59Z |  A easy ORM for mysql. |
 | [Fs02/grimoire](https://github.com/Fs02/grimoire) | 161 | 18 | 2024-02-21T01:49:58Z |  Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3). |
@@ -62,19 +62,19 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 2k | 94 | 2024-05-11T19:33:41Z |  Prisma Client Go, Typesafe database access for Go. |
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 36k | 4k | 2024-05-11T18:34:13Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
-| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 1k | 107 | 2024-05-11T15:06:01Z |  A flexible and powerful SQL string builder library plus a zero-config ORM. |
-| [facebook/ent](https://github.com/facebook/ent) | 15k | 887 | 2024-05-11T13:57:39Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
-| [uptrace/bun](https://github.com/uptrace/bun) | 3k | 189 | 2024-05-11T11:45:46Z |  SQL-first Golang ORM. Successor of go-pg. |
+| [go-rel/rel](https://github.com/go-rel/rel) | 742 | 58 | 2024-05-12T22:53:08Z |  Modern Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API. |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 36k | 4k | 2024-05-12T22:39:08Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 530 | 2024-05-12T15:42:42Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
+| [facebook/ent](https://github.com/facebook/ent) | 15k | 887 | 2024-05-12T14:04:13Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
+| [upper/db](https://github.com/upper/db) | 3k | 233 | 2024-05-12T11:00:53Z |  Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. |
+| [uptrace/bun](https://github.com/uptrace/bun) | 3k | 189 | 2024-05-12T10:50:44Z |  SQL-first Golang ORM. Successor of go-pg. |
+| [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 1k | 107 | 2024-05-12T05:03:33Z |  A flexible and powerful SQL string builder library plus a zero-config ORM. |
+| [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 2k | 93 | 2024-05-11T19:33:41Z |  Prisma Client Go, Typesafe database access for Go. |
 | [FrancoLiberali/cql](https://github.com/FrancoLiberali/cql) | 16 | 0 | 2024-05-11T06:05:59Z |  Built on top of GORM, adds compile-time verified queries based on auto-generated code. |
-| [upper/db](https://github.com/upper/db) | 3k | 233 | 2024-05-11T05:04:55Z |  Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 6k | 530 | 2024-05-10T22:31:23Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
-| [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 348 | 2024-05-10T11:31:55Z |  Mysql database to golang gorm struct. |
+| [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 349 | 2024-05-10T11:31:55Z |  Mysql database to golang gorm struct. |
 | [golobby/orm](https://github.com/golobby/orm) | 156 | 4 | 2024-05-10T09:30:10Z |  Simple, fast, type-safe, generic orm for developer happiness. |
 | [gobuffalo/pop](https://github.com/gobuffalo/pop) | 1k | 242 | 2024-05-07T16:52:28Z |  Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 370 | 2024-04-29T08:37:48Z |  Go Relational Persistence, ORM-ish library for Go. |
-| [go-rel/rel](https://github.com/go-rel/rel) | 740 | 58 | 2024-04-21T11:46:08Z |  Modern Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API. |
 | [go-reform/reform](https://github.com/go-reform/reform) | 1k | 73 | 2024-04-19T23:20:53Z |  Better ORM for Go, based on non-empty interfaces and code generation. |
 | [rushteam/gosql](https://github.com/rushteam/gosql) | 177 | 23 | 2024-04-18T02:14:59Z |  A easy ORM for mysql. |
 | [jschoedt/go-firestorm](https://github.com/jschoedt/go-firestorm) | 49 | 9 | 2024-03-31T09:02:20Z |  A simple ORM for Google/Firebase Cloud Firestore. |

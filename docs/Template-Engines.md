@@ -6,12 +6,12 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [a-h/templ](https://github.com/a-h/templ) | 7k | 215 | 2024-05-11T23:05:55Z |  A HTML templating language that has great developer tooling. |
+| [a-h/templ](https://github.com/a-h/templ) | 7k | 217 | 2024-05-12T21:32:21Z |  A HTML templating language that has great developer tooling. |
 | [Masterminds/sprig](https://github.com/Masterminds/sprig) | 4k | 418 | 2024-05-10T03:55:50Z |  Useful template functions for Go templates. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 147 | 2024-05-11T08:52:20Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 267 | 2024-05-11T10:31:40Z |  Django-like template-engine for Go. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 1k | 172 | 2024-05-10T14:13:53Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
-| [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 102 | 2024-05-11T18:40:15Z |  Jet template engine. |
+| [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 102 | 2024-05-12T11:00:49Z |  Jet template engine. |
 | [sipin/gorazor](https://github.com/sipin/gorazor) | 845 | 89 | 2024-05-04T01:08:59Z |  Razor view engine for Golang. |
 | [valyala/fasttemplate](https://github.com/valyala/fasttemplate) | 804 | 80 | 2024-05-05T23:01:35Z |  Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/). |
 | [aymerick/raymond](https://github.com/aymerick/raymond) | 583 | 96 | 2024-04-28T10:48:14Z |  Complete handlebars implementation in Go. |
@@ -30,10 +30,10 @@ Libraries and tools for templating and lexing.
 |------------|-------|-------|--------------|-------------|
 | [Masterminds/sprig](https://github.com/Masterminds/sprig) | 4k | 418 | 2024-05-10T03:55:50Z |  Useful template functions for Go templates. |
 | [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 267 | 2024-05-11T10:31:40Z |  Django-like template-engine for Go. |
-| [a-h/templ](https://github.com/a-h/templ) | 7k | 215 | 2024-05-11T23:05:55Z |  A HTML templating language that has great developer tooling. |
+| [a-h/templ](https://github.com/a-h/templ) | 7k | 217 | 2024-05-12T21:32:21Z |  A HTML templating language that has great developer tooling. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 1k | 172 | 2024-05-10T14:13:53Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 147 | 2024-05-11T08:52:20Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
-| [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 102 | 2024-05-11T18:40:15Z |  Jet template engine. |
+| [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 102 | 2024-05-12T11:00:49Z |  Jet template engine. |
 | [aymerick/raymond](https://github.com/aymerick/raymond) | 583 | 96 | 2024-04-28T10:48:14Z |  Complete handlebars implementation in Go. |
 | [sipin/gorazor](https://github.com/sipin/gorazor) | 845 | 89 | 2024-05-04T01:08:59Z |  Razor view engine for Golang. |
 | [valyala/fasttemplate](https://github.com/valyala/fasttemplate) | 804 | 80 | 2024-05-05T23:01:35Z |  Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/). |
@@ -50,8 +50,8 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [a-h/templ](https://github.com/a-h/templ) | 7k | 215 | 2024-05-11T23:05:55Z |  A HTML templating language that has great developer tooling. |
-| [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 102 | 2024-05-11T18:40:15Z |  Jet template engine. |
+| [a-h/templ](https://github.com/a-h/templ) | 7k | 217 | 2024-05-12T21:32:21Z |  A HTML templating language that has great developer tooling. |
+| [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 102 | 2024-05-12T11:00:49Z |  Jet template engine. |
 | [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 267 | 2024-05-11T10:31:40Z |  Django-like template-engine for Go. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 147 | 2024-05-11T08:52:20Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 1k | 172 | 2024-05-10T14:13:53Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
