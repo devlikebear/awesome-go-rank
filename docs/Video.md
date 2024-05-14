@@ -12,7 +12,7 @@ Libraries for manipulating video.
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 615 | 171 | 2024-05-09T20:17:30Z |  Pure Go RTSP server and client library. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 556 | 108 | 2024-05-10T12:20:30Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 524 | 52 | 2024-05-09T12:29:22Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
-| [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 412 | 48 | 2024-05-10T13:47:10Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
+| [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 413 | 48 | 2024-05-13T15:43:53Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 184 | 28 | 2024-05-11T21:24:25Z |  Better C bindings for ffmpeg in GO. |
 | [ziutek/gst](https://github.com/ziutek/gst) | 168 | 48 | 2024-03-02T18:03:49Z |  Go bindings for GStreamer. |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 77 | 16 | 2023-09-18T15:05:05Z |  Video capture library for Linux, written in Go. |
@@ -30,7 +30,7 @@ Libraries for manipulating video.
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 873 | 170 | 2024-05-01T09:31:51Z |  Go bindings for FFmpeg av\* libraries. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 556 | 108 | 2024-05-10T12:20:30Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 524 | 52 | 2024-05-09T12:29:22Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
-| [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 412 | 48 | 2024-05-10T13:47:10Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
+| [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 413 | 48 | 2024-05-13T15:43:53Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [ziutek/gst](https://github.com/ziutek/gst) | 168 | 48 | 2024-03-02T18:03:49Z |  Go bindings for GStreamer. |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 184 | 28 | 2024-05-11T21:24:25Z |  Better C bindings for ffmpeg in GO. |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 77 | 16 | 2023-09-18T15:05:05Z |  Video capture library for Linux, written in Go. |
@@ -42,8 +42,8 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 413 | 48 | 2024-05-13T15:43:53Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 184 | 28 | 2024-05-11T21:24:25Z |  Better C bindings for ffmpeg in GO. |
-| [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 412 | 48 | 2024-05-10T13:47:10Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 363 | 2024-05-10T13:41:27Z |  Comprehensive Go bindings for FFmpeg. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 556 | 108 | 2024-05-10T12:20:30Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 615 | 171 | 2024-05-09T20:17:30Z |  Pure Go RTSP server and client library. |
