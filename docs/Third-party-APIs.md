@@ -6,31 +6,31 @@ Libraries for accessing third party APIs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [google/go-github](https://github.com/google/go-github) | 10k | 2k | 2024-05-15T15:03:48Z |  Go library for accessing the GitHub REST API v3. |
-| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 8k | 1k | 2024-05-15T22:17:39Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
-| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 5k | 787 | 2024-05-15T18:18:27Z |  Go bindings for the Discord Chat API. |
-| [slack-go/slack](https://github.com/slack-go/slack) | 5k | 1k | 2024-05-14T13:30:33Z |  Slack API in Go. |
-| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2024-05-15T17:20:22Z |  Auto-generated Google APIs for Go. |
-| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 1k | 2024-05-15T23:48:22Z |  Google Cloud APIs Go Client Library. |
-| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 2k | 589 | 2024-05-15T18:35:32Z |  The official AWS SDK for the Go programming language. |
-| [minio/minio-go](https://github.com/minio/minio-go) | 2k | 612 | 2024-05-15T15:59:13Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
-| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 2k | 448 | 2024-05-15T16:50:02Z |  Go client for the Stripe API. |
-| [dghubble/go-twitter](https://github.com/dghubble/go-twitter) | 2k | 320 | 2024-05-07T23:15:30Z |  Go client library for the Twitter v1.1 APIs. |
-| [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) | 1k | 454 | 2024-05-10T00:51:37Z |  Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira) |
+| [google/go-github](https://github.com/google/go-github) | 10k | 2k | 2024-05-16T23:10:04Z |  Go library for accessing the GitHub REST API v3. |
+| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 8k | 1k | 2024-05-16T17:34:26Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
+| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 5k | 787 | 2024-05-16T22:03:34Z |  Go bindings for the Discord Chat API. |
+| [slack-go/slack](https://github.com/slack-go/slack) | 5k | 1k | 2024-05-16T18:54:28Z |  Slack API in Go. |
+| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2024-05-16T21:23:45Z |  Auto-generated Google APIs for Go. |
+| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 1k | 2024-05-17T00:02:22Z |  Google Cloud APIs Go Client Library. |
+| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 2k | 589 | 2024-05-16T18:38:04Z |  The official AWS SDK for the Go programming language. |
+| [minio/minio-go](https://github.com/minio/minio-go) | 2k | 613 | 2024-05-16T14:32:32Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
+| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 2k | 448 | 2024-05-16T22:19:46Z |  Go client for the Stripe API. |
+| [dghubble/go-twitter](https://github.com/dghubble/go-twitter) | 2k | 319 | 2024-05-07T23:15:30Z |  Go client library for the Twitter v1.1 APIs. |
+| [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) | 1k | 454 | 2024-05-16T20:29:32Z |  Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira) |
 | [huandu/facebook](https://github.com/huandu/facebook) | 1k | 508 | 2024-05-13T20:47:19Z |  Go Library that supports the Facebook Graph API. |
-| [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) | 1k | 245 | 2024-05-10T17:33:29Z |  Go client library for the Twitter 1.1 API. |
+| [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) | 1k | 245 | 2024-05-16T04:25:27Z |  Go client library for the Twitter 1.1 API. |
 | [shurcooL/githubql](https://github.com/shurcooL/githubql) | 1k | 89 | 2024-05-14T19:53:38Z |  Go library for accessing the GitHub GraphQL API v4. |
 | [go-playground/webhooks](https://github.com/go-playground/webhooks) | 933 | 232 | 2024-05-15T16:05:14Z |  Webhook receiver for GitHub and Bitbucket. |
 | [n0madic/twitter-scraper](https://github.com/n0madic/twitter-scraper) | 860 | 174 | 2024-05-12T18:51:34Z |  Scrape the Twitter Frontend API without authentication and limits. |
 | [logpacker/PayPal-Go-SDK](https://github.com/logpacker/PayPal-Go-SDK) | 647 | 259 | 2024-05-05T12:51:23Z |  Wrapper for PayPal payment API. |
 | [codingsince1985/geo-golang](https://github.com/codingsince1985/geo-golang) | 501 | 65 | 2024-05-14T10:18:33Z |  Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](https://developer.mapquest.com/documentation/geocoding-api/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](https://opencagedata.com/api), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs. |
-| [chyroc/lark](https://github.com/chyroc/lark) | 386 | 59 | 2024-05-14T11:32:19Z |  [Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK, Support ALL Open API and Event Callback. |
+| [chyroc/lark](https://github.com/chyroc/lark) | 388 | 59 | 2024-05-16T07:01:59Z |  [Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK, Support ALL Open API and Event Callback. |
 | [otiai10/openaigo](https://github.com/otiai10/openaigo) | 285 | 35 | 2024-05-13T23:43:20Z |  OpenAI GPT3/GPT3.5 ChatGPT API client library for Go. |
 | [onrik/ethrpc](https://github.com/onrik/ethrpc) | 262 | 103 | 2024-05-05T08:31:56Z |  Go bindings for Ethereum JSON RPC API. |
-| [adlio/trello](https://github.com/adlio/trello) | 215 | 72 | 2023-12-29T00:15:44Z |  Go wrapper for the Trello API. |
+| [adlio/trello](https://github.com/adlio/trello) | 215 | 71 | 2023-12-29T00:15:44Z |  Go wrapper for the Trello API. |
 | [gambol99/go-marathon](https://github.com/gambol99/go-marathon) | 199 | 128 | 2024-01-04T00:41:18Z |  Go library for interacting with Mesosphere's Marathon PAAS. |
 | [go-lark/lark](https://github.com/go-lark/lark) | 188 | 28 | 2024-05-12T10:40:48Z |  An easy-to-use unofficial SDK for [Feishu](https://open.feishu.cn/) and [Lark](https://open.larksuite.com/) Open Platform. |
-| [wit-ai/wit-go](https://github.com/wit-ai/wit-go) | 151 | 33 | 2024-04-25T15:09:21Z |  Go client for wit.ai HTTP API. |
+| [wit-ai/wit-go](https://github.com/wit-ai/wit-go) | 151 | 30 | 2024-04-25T15:09:21Z |  Go client for wit.ai HTTP API. |
 | [gregdel/pushover](https://github.com/gregdel/pushover) | 140 | 13 | 2024-04-29T11:04:58Z |  Go wrapper for the Pushover API. |
 | [Medium/medium-sdk-go](https://github.com/Medium/medium-sdk-go) | 139 | 17 | 2023-12-26T17:31:04Z |  Golang SDK for Medium's OAuth2 API. |
 | [rhnvrm/simples3](https://github.com/rhnvrm/simples3) | 136 | 27 | 2024-05-06T05:23:04Z |  Simple no frills AWS S3 Library using REST with V4 Signing written in Go. |
@@ -116,36 +116,36 @@ Libraries for accessing third party APIs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [google/go-github](https://github.com/google/go-github) | 10k | 2k | 2024-05-15T15:03:48Z |  Go library for accessing the GitHub REST API v3. |
-| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 8k | 1k | 2024-05-15T22:17:39Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
-| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 1k | 2024-05-15T23:48:22Z |  Google Cloud APIs Go Client Library. |
-| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2024-05-15T17:20:22Z |  Auto-generated Google APIs for Go. |
-| [slack-go/slack](https://github.com/slack-go/slack) | 5k | 1k | 2024-05-14T13:30:33Z |  Slack API in Go. |
-| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 5k | 787 | 2024-05-15T18:18:27Z |  Go bindings for the Discord Chat API. |
-| [minio/minio-go](https://github.com/minio/minio-go) | 2k | 612 | 2024-05-15T15:59:13Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
-| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 2k | 589 | 2024-05-15T18:35:32Z |  The official AWS SDK for the Go programming language. |
+| [google/go-github](https://github.com/google/go-github) | 10k | 2k | 2024-05-16T23:10:04Z |  Go library for accessing the GitHub REST API v3. |
+| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 8k | 1k | 2024-05-16T17:34:26Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
+| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 1k | 2024-05-17T00:02:22Z |  Google Cloud APIs Go Client Library. |
+| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2024-05-16T21:23:45Z |  Auto-generated Google APIs for Go. |
+| [slack-go/slack](https://github.com/slack-go/slack) | 5k | 1k | 2024-05-16T18:54:28Z |  Slack API in Go. |
+| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 5k | 787 | 2024-05-16T22:03:34Z |  Go bindings for the Discord Chat API. |
+| [minio/minio-go](https://github.com/minio/minio-go) | 2k | 613 | 2024-05-16T14:32:32Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
+| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 2k | 589 | 2024-05-16T18:38:04Z |  The official AWS SDK for the Go programming language. |
 | [huandu/facebook](https://github.com/huandu/facebook) | 1k | 508 | 2024-05-13T20:47:19Z |  Go Library that supports the Facebook Graph API. |
-| [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) | 1k | 454 | 2024-05-10T00:51:37Z |  Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira) |
-| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 2k | 448 | 2024-05-15T16:50:02Z |  Go client for the Stripe API. |
-| [dghubble/go-twitter](https://github.com/dghubble/go-twitter) | 2k | 320 | 2024-05-07T23:15:30Z |  Go client library for the Twitter v1.1 APIs. |
+| [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) | 1k | 454 | 2024-05-16T20:29:32Z |  Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira) |
+| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 2k | 448 | 2024-05-16T22:19:46Z |  Go client for the Stripe API. |
+| [dghubble/go-twitter](https://github.com/dghubble/go-twitter) | 2k | 319 | 2024-05-07T23:15:30Z |  Go client library for the Twitter v1.1 APIs. |
 | [logpacker/PayPal-Go-SDK](https://github.com/logpacker/PayPal-Go-SDK) | 647 | 259 | 2024-05-05T12:51:23Z |  Wrapper for PayPal payment API. |
-| [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) | 1k | 245 | 2024-05-10T17:33:29Z |  Go client library for the Twitter 1.1 API. |
+| [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) | 1k | 245 | 2024-05-16T04:25:27Z |  Go client library for the Twitter 1.1 API. |
 | [go-playground/webhooks](https://github.com/go-playground/webhooks) | 933 | 232 | 2024-05-15T16:05:14Z |  Webhook receiver for GitHub and Bitbucket. |
 | [n0madic/twitter-scraper](https://github.com/n0madic/twitter-scraper) | 860 | 174 | 2024-05-12T18:51:34Z |  Scrape the Twitter Frontend API without authentication and limits. |
 | [gambol99/go-marathon](https://github.com/gambol99/go-marathon) | 199 | 128 | 2024-01-04T00:41:18Z |  Go library for interacting with Mesosphere's Marathon PAAS. |
 | [onrik/ethrpc](https://github.com/onrik/ethrpc) | 262 | 103 | 2024-05-05T08:31:56Z |  Go bindings for Ethereum JSON RPC API. |
 | [shurcooL/githubql](https://github.com/shurcooL/githubql) | 1k | 89 | 2024-05-14T19:53:38Z |  Go library for accessing the GitHub GraphQL API v4. |
-| [adlio/trello](https://github.com/adlio/trello) | 215 | 72 | 2023-12-29T00:15:44Z |  Go wrapper for the Trello API. |
+| [adlio/trello](https://github.com/adlio/trello) | 215 | 71 | 2023-12-29T00:15:44Z |  Go wrapper for the Trello API. |
 | [codingsince1985/geo-golang](https://github.com/codingsince1985/geo-golang) | 501 | 65 | 2024-05-14T10:18:33Z |  Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](https://developer.mapquest.com/documentation/geocoding-api/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](https://opencagedata.com/api), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs. |
-| [chyroc/lark](https://github.com/chyroc/lark) | 386 | 59 | 2024-05-14T11:32:19Z |  [Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK, Support ALL Open API and Event Callback. |
+| [chyroc/lark](https://github.com/chyroc/lark) | 388 | 59 | 2024-05-16T07:01:59Z |  [Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK, Support ALL Open API and Event Callback. |
 | [emiddleton/gads](https://github.com/emiddleton/gads) | 50 | 56 | 2024-01-24T02:49:16Z |  Google Adwords Unofficial API. |
 | [jszwedko/go-circleci](https://github.com/jszwedko/go-circleci) | 66 | 50 | 2024-03-21T11:01:53Z |  Go client library for interacting with CircleCI's API. |
 | [otiai10/openaigo](https://github.com/otiai10/openaigo) | 285 | 35 | 2024-05-13T23:43:20Z |  OpenAI GPT3/GPT3.5 ChatGPT API client library for Go. |
 | [daneharrigan/hipchat](https://github.com/daneharrigan/hipchat) | 111 | 34 | 2024-05-07T16:19:10Z |  A golang package to communicate with HipChat over XMPP. |
-| [wit-ai/wit-go](https://github.com/wit-ai/wit-go) | 151 | 33 | 2024-04-25T15:09:21Z |  Go client for wit.ai HTTP API. |
 | [dukex/mixpanel](https://github.com/dukex/mixpanel) | 60 | 33 | 2023-11-07T12:37:44Z |  Mixpanel is a library for tracking events and sending Mixpanel profile updates to Mixpanel from your go applications. |
 | [koltyakov/gosip](https://github.com/koltyakov/gosip) | 134 | 31 | 2024-04-18T21:42:12Z |  Client library for SharePoint. |
 | [bit4bit/gami](https://github.com/bit4bit/gami) | 33 | 30 | 2024-02-26T00:53:43Z |  Go library for Asterisk Manager Interface. |
+| [wit-ai/wit-go](https://github.com/wit-ai/wit-go) | 151 | 30 | 2024-04-25T15:09:21Z |  Go client for wit.ai HTTP API. |
 | [mvrilo/go-redoc](https://github.com/mvrilo/go-redoc) | 62 | 28 | 2024-05-08T02:34:59Z |  Embedded OpenAPI/Swagger documentation ui for Go using [ReDoc](https://redocly.com/). |
 | [groovili/gogtrends](https://github.com/groovili/gogtrends) | 78 | 28 | 2024-01-18T20:23:06Z |  Google Trends Unofficial API. |
 | [go-lark/lark](https://github.com/go-lark/lark) | 188 | 28 | 2024-05-12T10:40:48Z |  An easy-to-use unofficial SDK for [Feishu](https://open.feishu.cn/) and [Lark](https://open.larksuite.com/) Open Platform. |
@@ -226,19 +226,21 @@ Libraries for accessing third party APIs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 1k | 2024-05-15T23:48:22Z |  Google Cloud APIs Go Client Library. |
-| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 8k | 1k | 2024-05-15T22:17:39Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
-| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 2k | 589 | 2024-05-15T18:35:32Z |  The official AWS SDK for the Go programming language. |
-| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 5k | 787 | 2024-05-15T18:18:27Z |  Go bindings for the Discord Chat API. |
-| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2024-05-15T17:20:22Z |  Auto-generated Google APIs for Go. |
-| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 2k | 448 | 2024-05-15T16:50:02Z |  Go client for the Stripe API. |
+| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 1k | 2024-05-17T00:02:22Z |  Google Cloud APIs Go Client Library. |
+| [google/go-github](https://github.com/google/go-github) | 10k | 2k | 2024-05-16T23:10:04Z |  Go library for accessing the GitHub REST API v3. |
+| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 2k | 448 | 2024-05-16T22:19:46Z |  Go client for the Stripe API. |
+| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 5k | 787 | 2024-05-16T22:03:34Z |  Go bindings for the Discord Chat API. |
+| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2024-05-16T21:23:45Z |  Auto-generated Google APIs for Go. |
+| [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) | 1k | 454 | 2024-05-16T20:29:32Z |  Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira) |
+| [slack-go/slack](https://github.com/slack-go/slack) | 5k | 1k | 2024-05-16T18:54:28Z |  Slack API in Go. |
+| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 2k | 589 | 2024-05-16T18:38:04Z |  The official AWS SDK for the Go programming language. |
+| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 8k | 1k | 2024-05-16T17:34:26Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
+| [minio/minio-go](https://github.com/minio/minio-go) | 2k | 613 | 2024-05-16T14:32:32Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
+| [chyroc/lark](https://github.com/chyroc/lark) | 388 | 59 | 2024-05-16T07:01:59Z |  [Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK, Support ALL Open API and Event Callback. |
+| [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) | 1k | 245 | 2024-05-16T04:25:27Z |  Go client library for the Twitter 1.1 API. |
 | [go-playground/webhooks](https://github.com/go-playground/webhooks) | 933 | 232 | 2024-05-15T16:05:14Z |  Webhook receiver for GitHub and Bitbucket. |
-| [minio/minio-go](https://github.com/minio/minio-go) | 2k | 612 | 2024-05-15T15:59:13Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
-| [google/go-github](https://github.com/google/go-github) | 10k | 2k | 2024-05-15T15:03:48Z |  Go library for accessing the GitHub REST API v3. |
 | [shurcooL/githubql](https://github.com/shurcooL/githubql) | 1k | 89 | 2024-05-14T19:53:38Z |  Go library for accessing the GitHub GraphQL API v4. |
 | [cyruzin/golang-tmdb](https://github.com/cyruzin/golang-tmdb) | 100 | 26 | 2024-05-14T14:36:06Z |  Golang wrapper for The Movie Database API v3. |
-| [slack-go/slack](https://github.com/slack-go/slack) | 5k | 1k | 2024-05-14T13:30:33Z |  Slack API in Go. |
-| [chyroc/lark](https://github.com/chyroc/lark) | 386 | 59 | 2024-05-14T11:32:19Z |  [Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK, Support ALL Open API and Event Callback. |
 | [codingsince1985/geo-golang](https://github.com/codingsince1985/geo-golang) | 501 | 65 | 2024-05-14T10:18:33Z |  Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](https://developer.mapquest.com/documentation/geocoding-api/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](https://opencagedata.com/api), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs. |
 | [mrbenosborne/tripadvisor-golang](https://github.com/mrbenosborne/tripadvisor-golang) | 2 | 1 | 2024-05-14T10:15:04Z |  Go wrapper for the TripAdvisor API. |
 | [otiai10/openaigo](https://github.com/otiai10/openaigo) | 285 | 35 | 2024-05-13T23:43:20Z |  OpenAI GPT3/GPT3.5 ChatGPT API client library for Go. |
@@ -246,14 +248,12 @@ Libraries for accessing third party APIs.
 | [n0madic/twitter-scraper](https://github.com/n0madic/twitter-scraper) | 860 | 174 | 2024-05-12T18:51:34Z |  Scrape the Twitter Frontend API without authentication and limits. |
 | [go-lark/lark](https://github.com/go-lark/lark) | 188 | 28 | 2024-05-12T10:40:48Z |  An easy-to-use unofficial SDK for [Feishu](https://open.feishu.cn/) and [Lark](https://open.larksuite.com/) Open Platform. |
 | [navidys/gopensky](https://github.com/navidys/gopensky) | 2 | 0 | 2024-05-10T21:46:07Z |  Go client implementation for [OpenSKY Network](https://opensky-network.org/) live's API (airspace ADS-B and Mode S data). |
-| [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) | 1k | 245 | 2024-05-10T17:33:29Z |  Go client library for the Twitter 1.1 API. |
 | [rapito/go-spotify](https://github.com/rapito/go-spotify) | 50 | 8 | 2024-05-10T13:19:14Z |  Go Library to access Spotify WEB API. |
-| [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) | 1k | 454 | 2024-05-10T00:51:37Z |  Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira) |
 | [rbretecher/go-postman-collection](https://github.com/rbretecher/go-postman-collection) | 73 | 18 | 2024-05-08T12:21:32Z |  Go module to work with [Postman Collections](https://learning.getpostman.com/docs/postman/collections/creating-collections/) (compatible with Insomnia). |
 | [wneessen/go-hibp](https://github.com/wneessen/go-hibp) | 8 | 1 | 2024-05-08T09:59:09Z |  Simple Go binding to the "Have I Been Pwned" APIs. |
 | [ctreminiom/go-atlassian](https://github.com/ctreminiom/go-atlassian) | 108 | 26 | 2024-05-08T07:11:46Z |  Go library for accessing the [Atlassian Cloud](https://www.atlassian.com/enterprise/cloud) services (Jira, Jira Service Management, Jira Agile, Confluence, Admin Cloud) |
 | [mvrilo/go-redoc](https://github.com/mvrilo/go-redoc) | 62 | 28 | 2024-05-08T02:34:59Z |  Embedded OpenAPI/Swagger documentation ui for Go using [ReDoc](https://redocly.com/). |
-| [dghubble/go-twitter](https://github.com/dghubble/go-twitter) | 2k | 320 | 2024-05-07T23:15:30Z |  Go client library for the Twitter v1.1 APIs. |
+| [dghubble/go-twitter](https://github.com/dghubble/go-twitter) | 2k | 319 | 2024-05-07T23:15:30Z |  Go client library for the Twitter v1.1 APIs. |
 | [daneharrigan/hipchat](https://github.com/daneharrigan/hipchat) | 111 | 34 | 2024-05-07T16:19:10Z |  A golang package to communicate with HipChat over XMPP. |
 | [rhnvrm/simples3](https://github.com/rhnvrm/simples3) | 136 | 27 | 2024-05-06T05:23:04Z |  Simple no frills AWS S3 Library using REST with V4 Signing written in Go. |
 | [logpacker/PayPal-Go-SDK](https://github.com/logpacker/PayPal-Go-SDK) | 647 | 259 | 2024-05-05T12:51:23Z |  Wrapper for PayPal payment API. |
@@ -262,7 +262,7 @@ Libraries for accessing third party APIs.
 | [gregdel/pushover](https://github.com/gregdel/pushover) | 140 | 13 | 2024-04-29T11:04:58Z |  Go wrapper for the Pushover API. |
 | [ansd/lastpass-go](https://github.com/ansd/lastpass-go) | 34 | 5 | 2024-04-28T08:53:49Z |  Go client library for the [LastPass](https://www.lastpass.com/) API. |
 | [jellydator/newsapi-go](https://github.com/jellydator/newsapi-go) | 7 | 2 | 2024-04-26T00:11:59Z |  Go client for [NewsAPI](https://newsapi.org/). |
-| [wit-ai/wit-go](https://github.com/wit-ai/wit-go) | 151 | 33 | 2024-04-25T15:09:21Z |  Go client for wit.ai HTTP API. |
+| [wit-ai/wit-go](https://github.com/wit-ai/wit-go) | 151 | 30 | 2024-04-25T15:09:21Z |  Go client for wit.ai HTTP API. |
 | [n0madic/google-play-scraper](https://github.com/n0madic/google-play-scraper) | 79 | 20 | 2024-04-24T18:41:47Z |  Get data from Google Play Store. |
 | [nstratos/go-myanimelist](https://github.com/nstratos/go-myanimelist) | 39 | 3 | 2024-04-24T14:12:56Z |  Go client library for accessing the [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2). |
 | [esurdam/go-swagger-ui](https://github.com/esurdam/go-swagger-ui) | 11 | 0 | 2024-04-24T06:28:44Z |  Go library containing precompiled [Swagger UI](https://swagger.io/tools/swagger-ui/) for serving swagger json. |
@@ -298,7 +298,7 @@ Libraries for accessing third party APIs.
 | [sergioaugrod/go-sptrans](https://github.com/sergioaugrod/go-sptrans) | 9 | 1 | 2024-01-07T23:45:26Z |  Go client library for the SPTrans Olho Vivo API. |
 | [gambol99/go-marathon](https://github.com/gambol99/go-marathon) | 199 | 128 | 2024-01-04T00:41:18Z |  Go library for interacting with Mesosphere's Marathon PAAS. |
 | [PaulRosset/go-hacknews](https://github.com/PaulRosset/go-hacknews) | 17 | 1 | 2023-12-29T07:32:15Z |  Tiny Go client for HackerNews API. |
-| [adlio/trello](https://github.com/adlio/trello) | 215 | 72 | 2023-12-29T00:15:44Z |  Go wrapper for the Trello API. |
+| [adlio/trello](https://github.com/adlio/trello) | 215 | 71 | 2023-12-29T00:15:44Z |  Go wrapper for the Trello API. |
 | [Medium/medium-sdk-go](https://github.com/Medium/medium-sdk-go) | 139 | 17 | 2023-12-26T17:31:04Z |  Golang SDK for Medium's OAuth2 API. |
 | [andygrunwald/megos](https://github.com/andygrunwald/megos) | 54 | 12 | 2023-12-25T17:51:59Z |  Client library for accessing an [Apache Mesos](https://mesos.apache.org/) cluster. |
 | [Kachit/appstore-sdk-go](https://github.com/Kachit/appstore-sdk-go) | 5 | 4 | 2023-12-18T17:07:28Z |  Unofficial Golang SDK for AppStore Connect API. |

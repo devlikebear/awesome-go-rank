@@ -6,25 +6,25 @@ Libraries for building standard or basic Command Line applications.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [spf13/cobra](https://github.com/spf13/cobra) | 36k | 3k | 2024-05-15T22:07:35Z |  Commander for modern Go CLI interactions. |
-| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 25k | 713 | 2024-05-15T22:39:58Z |  Go framework to build terminal apps, based on The Elm Architecture. |
-| [urfave/cli](https://github.com/urfave/cli) | 22k | 2k | 2024-05-15T13:42:06Z |  Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli). |
-| [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | 15k | 842 | 2024-05-15T19:11:34Z | . |
-| [gizak/termui](https://github.com/gizak/termui) | 13k | 781 | 2024-05-15T19:12:32Z | . |
-| [jroimartin/gocui](https://github.com/jroimartin/gocui) | 10k | 607 | 2024-05-15T05:03:35Z |  Minimalist Go library aimed at creating Console User Interfaces. |
-| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 9k | 703 | 2024-05-15T10:48:20Z | . |
-| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 7k | 200 | 2024-05-15T19:43:31Z |  Declaratively define styles for color, format and layout in the terminal. |
-| [elves/elvish](https://github.com/elves/elvish) | 5k | 296 | 2024-05-15T22:36:34Z |  An expressive programming language and a versatile interactive shell. |
-| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | 5k | 220 | 2024-05-15T21:22:27Z |  TUI components for bubbletea. |
-| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 372 | 2024-05-15T03:52:41Z |  Termbox is a library for creating cross-platform text-based interfaces. |
-| [pterm/pterm](https://github.com/pterm/pterm) | 5k | 183 | 2024-05-14T21:12:10Z |  A library to beautify console output on every platform with many combinable components. |
-| [go-survey/survey](https://github.com/go-survey/survey) | 4k | 347 | 2024-05-15T03:02:04Z |  Build interactive and accessible prompts with full support for windows and posix terminals. |
-| [schollz/progressbar](https://github.com/schollz/progressbar) | 4k | 214 | 2024-05-15T19:51:04Z |  Basic thread-safe progress bar that works in every OS. |
+| [spf13/cobra](https://github.com/spf13/cobra) | 36k | 3k | 2024-05-16T23:07:41Z |  Commander for modern Go CLI interactions. |
+| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 25k | 711 | 2024-05-16T19:23:34Z |  Go framework to build terminal apps, based on The Elm Architecture. |
+| [urfave/cli](https://github.com/urfave/cli) | 22k | 2k | 2024-05-16T18:15:10Z |  Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli). |
+| [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | 15k | 844 | 2024-05-16T01:29:43Z | . |
+| [gizak/termui](https://github.com/gizak/termui) | 13k | 781 | 2024-05-16T20:49:52Z | . |
+| [jroimartin/gocui](https://github.com/jroimartin/gocui) | 10k | 607 | 2024-05-16T20:45:40Z |  Minimalist Go library aimed at creating Console User Interfaces. |
+| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 9k | 703 | 2024-05-16T14:52:48Z | . |
+| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 7k | 201 | 2024-05-16T11:58:13Z |  Declaratively define styles for color, format and layout in the terminal. |
+| [elves/elvish](https://github.com/elves/elvish) | 5k | 295 | 2024-05-17T00:02:05Z |  An expressive programming language and a versatile interactive shell. |
+| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | 5k | 220 | 2024-05-16T16:02:39Z |  TUI components for bubbletea. |
+| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 372 | 2024-05-16T20:49:55Z |  Termbox is a library for creating cross-platform text-based interfaces. |
+| [pterm/pterm](https://github.com/pterm/pterm) | 5k | 183 | 2024-05-16T22:15:23Z |  A library to beautify console output on every platform with many combinable components. |
+| [go-survey/survey](https://github.com/go-survey/survey) | 4k | 347 | 2024-05-16T07:01:47Z |  Build interactive and accessible prompts with full support for windows and posix terminals. |
+| [schollz/progressbar](https://github.com/schollz/progressbar) | 4k | 214 | 2024-05-16T10:15:00Z |  Basic thread-safe progress bar that works in every OS. |
 | [andOTP/andOTP](https://github.com/andOTP/andOTP) | 4k | 357 | 2024-05-15T15:24:52Z | files. Can be used as a library as well. |
-| [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 270 | 2024-05-15T15:08:01Z |  Command line and flag parser supporting sub commands (superseded by `kong`; see below). |
-| [dnote/dnote](https://github.com/dnote/dnote) | 3k | 116 | 2024-05-14T18:33:50Z |  A simple command line notebook with multi-device sync. |
-| [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 3k | 97 | 2024-05-15T02:23:34Z |  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. |
-| [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 3k | 302 | 2024-05-15T19:13:47Z |  go command line option parser. |
+| [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 270 | 2024-05-16T19:43:31Z |  Command line and flag parser supporting sub commands (superseded by `kong`; see below). |
+| [dnote/dnote](https://github.com/dnote/dnote) | 3k | 116 | 2024-05-16T17:26:41Z |  A simple command line notebook with multi-device sync. |
+| [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 3k | 97 | 2024-05-16T07:39:59Z |  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. |
+| [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 3k | 302 | 2024-05-16T10:18:43Z |  go command line option parser. |
 | [spf13/pflag](https://github.com/spf13/pflag) | 2k | 336 | 2024-05-15T10:35:39Z |  Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags. |
 | [briandowns/spinner](https://github.com/briandowns/spinner) | 2k | 132 | 2024-05-15T08:01:06Z |  Go package to easily provide a terminal spinner with options. |
 | [vbauerster/mpb](https://github.com/vbauerster/mpb) | 2k | 123 | 2024-05-11T02:30:33Z |  Multi progress bar for terminal applications. |
@@ -32,26 +32,26 @@ Libraries for building standard or basic Command Line applications.
 | [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 98 | 2024-05-14T13:39:07Z |  Struct-based argument parsing in Go. |
 | [mitchellh/cli](https://github.com/mitchellh/cli) | 2k | 121 | 2024-05-15T12:00:52Z |  Go library for implementing command-line interfaces. |
 | [gosuri/uilive](https://github.com/gosuri/uilive) | 2k | 83 | 2024-05-13T15:19:50Z |  Library for updating terminal output in real time. |
-| [muesli/termenv](https://github.com/muesli/termenv) | 2k | 69 | 2024-05-15T13:52:15Z |  Advanced ANSI style & color support for your terminal applications. |
+| [muesli/termenv](https://github.com/muesli/termenv) | 2k | 69 | 2024-05-16T12:31:13Z |  Advanced ANSI style & color support for your terminal applications. |
 | [gookit/color](https://github.com/gookit/color) | 1k | 84 | 2024-05-15T01:40:13Z |  Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows. |
 | [logrusorgru/aurora](https://github.com/logrusorgru/aurora) | 1k | 59 | 2024-05-13T11:59:17Z |  ANSI terminal colors that support fmt.Printf/Sprintf. |
 | [nanovms/ops](https://github.com/nanovms/ops) | 1k | 132 | 2024-05-13T11:33:20Z |  Unikernel Builder/Orchestrator. |
 | [peterh/liner](https://github.com/peterh/liner) | 1k | 132 | 2024-05-15T12:59:42Z |  Go readline-like library for command-line interfaces. |
 | [posener/complete](https://github.com/posener/complete) | 919 | 72 | 2024-05-12T15:06:26Z |  Write bash completions in Go + Go command bash completion. |
 | [jawher/mow.cli](https://github.com/jawher/mow.cli) | 873 | 58 | 2024-05-08T07:58:10Z |  Go library for building CLI applications with sophisticated flag and argument parsing and validation. |
-| [integrii/flaggy](https://github.com/integrii/flaggy) | 848 | 32 | 2024-05-05T00:03:26Z |  A robust and idiomatic flags package with excellent subcommand support. |
+| [integrii/flaggy](https://github.com/integrii/flaggy) | 849 | 32 | 2024-05-16T15:52:56Z |  A robust and idiomatic flags package with excellent subcommand support. |
 | [mattn/go-isatty](https://github.com/mattn/go-isatty) | 801 | 106 | 2024-05-13T02:59:11Z |  isatty for golang. |
 | [mattn/go-colorable](https://github.com/mattn/go-colorable) | 743 | 96 | 2024-05-14T02:56:47Z |  Colorable writer for windows. |
 | [gosuri/uitable](https://github.com/gosuri/uitable) | 731 | 33 | 2024-05-05T00:19:28Z |  Library to improve readability in terminal apps using tabular data. |
-| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 722 | 43 | 2024-05-15T22:51:53Z |  Multi-shell multi-command argument completer. |
+| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 723 | 43 | 2024-05-16T06:36:56Z |  Multi-shell multi-command argument completer. |
 | [mkideal/cli](https://github.com/mkideal/cli) | 721 | 43 | 2024-05-07T09:49:39Z |  Feature-rich and easy to use command-line package based on golang struct tags. |
 | [akamensky/argparse](https://github.com/akamensky/argparse) | 590 | 61 | 2024-05-07T02:19:15Z |  Command line argument parser inspired by Python's argparse module. |
-| [alexeyco/simpletable](https://github.com/alexeyco/simpletable) | 512 | 33 | 2024-05-13T22:14:06Z |  Simple tables in a terminal with Go. |
+| [alexeyco/simpletable](https://github.com/alexeyco/simpletable) | 513 | 33 | 2024-05-16T02:45:48Z |  Simple tables in a terminal with Go. |
 | [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) | 455 | 25 | 2024-05-13T02:34:30Z |  Make Highly Customized Boxes for your CLI. |
-| [ttacon/chalk](https://github.com/ttacon/chalk) | 442 | 21 | 2024-04-08T00:35:51Z |  Intuitive package for prettifying terminal/console output. |
+| [ttacon/chalk](https://github.com/ttacon/chalk) | 443 | 21 | 2024-05-16T02:35:20Z |  Intuitive package for prettifying terminal/console output. |
 | [theckman/yacspin](https://github.com/theckman/yacspin) | 433 | 13 | 2024-05-02T18:51:52Z |  Yet Another CLi Spinner package, for working with terminal spinners. |
-| [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 348 | 18 | 2024-04-22T17:30:53Z |  A tiny library for super simple Golang tables. |
-| [Evertras/bubble-table](https://github.com/Evertras/bubble-table) | 325 | 20 | 2024-05-14T16:39:59Z |  An interactive table component for bubbletea. |
+| [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 349 | 18 | 2024-05-16T02:43:10Z |  A tiny library for super simple Golang tables. |
+| [Evertras/bubble-table](https://github.com/Evertras/bubble-table) | 326 | 20 | 2024-05-16T12:30:15Z |  An interactive table component for bubbletea. |
 | [rsteube/carapace](https://github.com/rsteube/carapace) | 254 | 6 | 2024-05-15T22:01:46Z |  Command argument completion generator for spf13/cobra. |
 | [tucnak/climax](https://github.com/tucnak/climax) | 216 | 16 | 2024-05-01T01:55:58Z |  Alternative CLI with "human face", in spirit of Go command. |
 | [daviddengcn/go-colortext](https://github.com/daviddengcn/go-colortext) | 214 | 22 | 2024-03-12T09:20:13Z |  Go library for color output in terminals. |
@@ -69,7 +69,7 @@ Libraries for building standard or basic Command Line applications.
 | [mingrammer/cfmt](https://github.com/mingrammer/cfmt) | 102 | 7 | 2024-05-10T11:35:56Z |  Contextual fmt inspired by bootstrap color classes. |
 | [mszostok/version](https://github.com/mszostok/version) | 91 | 6 | 2024-04-27T14:27:41Z |  Collects and displays CLI version information in multiple formats along with upgrade notice. |
 | [InVisionApp/tabular](https://github.com/InVisionApp/tabular) | 76 | 7 | 2023-12-25T13:44:01Z |  Print ASCII tables from command line utilities without the need to pass large sets of data to the API. |
-| [reeflective/readline](https://github.com/reeflective/readline) | 73 | 11 | 2024-04-16T13:59:31Z | Shell library with modern and easy to use UI features. |
+| [reeflective/readline](https://github.com/reeflective/readline) | 74 | 11 | 2024-05-16T06:45:26Z | Shell library with modern and easy to use UI features. |
 | [devfacet/gocmd](https://github.com/devfacet/gocmd) | 66 | 5 | 2024-03-14T21:27:47Z |  Go library for building command line applications. |
 | [i582/cfmt](https://github.com/i582/cfmt) | 65 | 3 | 2024-05-13T02:41:36Z |  Simple and convenient formatted stylized output fully compatible with fmt library. |
 | [dixonwille/wlog](https://github.com/dixonwille/wlog) | 65 | 9 | 2024-05-13T15:01:39Z |  Simple logging interface that supports cross-platform color and concurrency. |
@@ -84,8 +84,8 @@ Libraries for building standard or basic Command Line applications.
 | [cosiner/argv](https://github.com/cosiner/argv) | 41 | 8 | 2024-04-13T20:43:07Z |  Go library to split command line string as arguments array using the bash syntax. |
 | [yitsushi/go-commander](https://github.com/yitsushi/go-commander) | 35 | 5 | 2023-10-07T13:10:47Z |  Go library to simplify CLI workflow. |
 | [TreyBastian/colourize](https://github.com/TreyBastian/colourize) | 26 | 3 | 2023-02-20T07:52:41Z |  Go library for ANSI colour text in terminals. |
+| [jxskiss/mcli](https://github.com/jxskiss/mcli) | 26 | 2 | 2024-05-16T16:55:21Z |  A minimal but very powerful cli library for Go. |
 | [Zaba505/sand](https://github.com/Zaba505/sand) | 25 | 2 | 2024-04-24T18:25:44Z |  Simple API for creating interpreters and so much more. |
-| [jxskiss/mcli](https://github.com/jxskiss/mcli) | 25 | 2 | 2024-04-02T08:41:56Z |  A minimal but very powerful cli library for Go. |
 | [liujianping/ts](https://github.com/liujianping/ts) | 20 | 3 | 2023-11-14T12:53:40Z |  Timestamp convert & compare tool. |
 | [workanator/go-ataman](https://github.com/workanator/go-ataman) | 16 | 3 | 2023-09-27T02:03:14Z |  Go library for rendering ANSI colored text templates in terminals. |
 | [rsteube/carapace-spec](https://github.com/rsteube/carapace-spec) | 15 | 1 | 2024-03-11T15:42:39Z |  Define simple completions using a spec file. |
@@ -99,54 +99,54 @@ Libraries for building standard or basic Command Line applications.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [spf13/cobra](https://github.com/spf13/cobra) | 36k | 3k | 2024-05-15T22:07:35Z |  Commander for modern Go CLI interactions. |
-| [urfave/cli](https://github.com/urfave/cli) | 22k | 2k | 2024-05-15T13:42:06Z |  Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli). |
-| [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | 15k | 842 | 2024-05-15T19:11:34Z | . |
-| [gizak/termui](https://github.com/gizak/termui) | 13k | 781 | 2024-05-15T19:12:32Z | . |
-| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 25k | 713 | 2024-05-15T22:39:58Z |  Go framework to build terminal apps, based on The Elm Architecture. |
-| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 9k | 703 | 2024-05-15T10:48:20Z | . |
-| [jroimartin/gocui](https://github.com/jroimartin/gocui) | 10k | 607 | 2024-05-15T05:03:35Z |  Minimalist Go library aimed at creating Console User Interfaces. |
-| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 372 | 2024-05-15T03:52:41Z |  Termbox is a library for creating cross-platform text-based interfaces. |
+| [spf13/cobra](https://github.com/spf13/cobra) | 36k | 3k | 2024-05-16T23:07:41Z |  Commander for modern Go CLI interactions. |
+| [urfave/cli](https://github.com/urfave/cli) | 22k | 2k | 2024-05-16T18:15:10Z |  Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli). |
+| [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | 15k | 844 | 2024-05-16T01:29:43Z | . |
+| [gizak/termui](https://github.com/gizak/termui) | 13k | 781 | 2024-05-16T20:49:52Z | . |
+| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 25k | 711 | 2024-05-16T19:23:34Z |  Go framework to build terminal apps, based on The Elm Architecture. |
+| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 9k | 703 | 2024-05-16T14:52:48Z | . |
+| [jroimartin/gocui](https://github.com/jroimartin/gocui) | 10k | 607 | 2024-05-16T20:45:40Z |  Minimalist Go library aimed at creating Console User Interfaces. |
+| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 372 | 2024-05-16T20:49:55Z |  Termbox is a library for creating cross-platform text-based interfaces. |
 | [andOTP/andOTP](https://github.com/andOTP/andOTP) | 4k | 357 | 2024-05-15T15:24:52Z | files. Can be used as a library as well. |
-| [go-survey/survey](https://github.com/go-survey/survey) | 4k | 347 | 2024-05-15T03:02:04Z |  Build interactive and accessible prompts with full support for windows and posix terminals. |
+| [go-survey/survey](https://github.com/go-survey/survey) | 4k | 347 | 2024-05-16T07:01:47Z |  Build interactive and accessible prompts with full support for windows and posix terminals. |
 | [spf13/pflag](https://github.com/spf13/pflag) | 2k | 336 | 2024-05-15T10:35:39Z |  Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags. |
-| [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 3k | 302 | 2024-05-15T19:13:47Z |  go command line option parser. |
-| [elves/elvish](https://github.com/elves/elvish) | 5k | 296 | 2024-05-15T22:36:34Z |  An expressive programming language and a versatile interactive shell. |
-| [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 270 | 2024-05-15T15:08:01Z |  Command line and flag parser supporting sub commands (superseded by `kong`; see below). |
-| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | 5k | 220 | 2024-05-15T21:22:27Z |  TUI components for bubbletea. |
-| [schollz/progressbar](https://github.com/schollz/progressbar) | 4k | 214 | 2024-05-15T19:51:04Z |  Basic thread-safe progress bar that works in every OS. |
-| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 7k | 200 | 2024-05-15T19:43:31Z |  Declaratively define styles for color, format and layout in the terminal. |
-| [pterm/pterm](https://github.com/pterm/pterm) | 5k | 183 | 2024-05-14T21:12:10Z |  A library to beautify console output on every platform with many combinable components. |
+| [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 3k | 302 | 2024-05-16T10:18:43Z |  go command line option parser. |
+| [elves/elvish](https://github.com/elves/elvish) | 5k | 295 | 2024-05-17T00:02:05Z |  An expressive programming language and a versatile interactive shell. |
+| [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 270 | 2024-05-16T19:43:31Z |  Command line and flag parser supporting sub commands (superseded by `kong`; see below). |
+| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | 5k | 220 | 2024-05-16T16:02:39Z |  TUI components for bubbletea. |
+| [schollz/progressbar](https://github.com/schollz/progressbar) | 4k | 214 | 2024-05-16T10:15:00Z |  Basic thread-safe progress bar that works in every OS. |
+| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 7k | 201 | 2024-05-16T11:58:13Z |  Declaratively define styles for color, format and layout in the terminal. |
+| [pterm/pterm](https://github.com/pterm/pterm) | 5k | 183 | 2024-05-16T22:15:23Z |  A library to beautify console output on every platform with many combinable components. |
 | [peterh/liner](https://github.com/peterh/liner) | 1k | 132 | 2024-05-15T12:59:42Z |  Go readline-like library for command-line interfaces. |
 | [nanovms/ops](https://github.com/nanovms/ops) | 1k | 132 | 2024-05-13T11:33:20Z |  Unikernel Builder/Orchestrator. |
 | [briandowns/spinner](https://github.com/briandowns/spinner) | 2k | 132 | 2024-05-15T08:01:06Z |  Go package to easily provide a terminal spinner with options. |
 | [gosuri/uiprogress](https://github.com/gosuri/uiprogress) | 2k | 125 | 2024-05-13T03:03:21Z |  Flexible library to render progress bars in terminal applications. |
 | [vbauerster/mpb](https://github.com/vbauerster/mpb) | 2k | 123 | 2024-05-11T02:30:33Z |  Multi progress bar for terminal applications. |
 | [mitchellh/cli](https://github.com/mitchellh/cli) | 2k | 121 | 2024-05-15T12:00:52Z |  Go library for implementing command-line interfaces. |
-| [dnote/dnote](https://github.com/dnote/dnote) | 3k | 116 | 2024-05-14T18:33:50Z |  A simple command line notebook with multi-device sync. |
+| [dnote/dnote](https://github.com/dnote/dnote) | 3k | 116 | 2024-05-16T17:26:41Z |  A simple command line notebook with multi-device sync. |
 | [mattn/go-isatty](https://github.com/mattn/go-isatty) | 801 | 106 | 2024-05-13T02:59:11Z |  isatty for golang. |
 | [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 98 | 2024-05-14T13:39:07Z |  Struct-based argument parsing in Go. |
-| [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 3k | 97 | 2024-05-15T02:23:34Z |  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. |
+| [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 3k | 97 | 2024-05-16T07:39:59Z |  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. |
 | [mattn/go-colorable](https://github.com/mattn/go-colorable) | 743 | 96 | 2024-05-14T02:56:47Z |  Colorable writer for windows. |
 | [gookit/color](https://github.com/gookit/color) | 1k | 84 | 2024-05-15T01:40:13Z |  Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows. |
 | [gosuri/uilive](https://github.com/gosuri/uilive) | 2k | 83 | 2024-05-13T15:19:50Z |  Library for updating terminal output in real time. |
 | [posener/complete](https://github.com/posener/complete) | 919 | 72 | 2024-05-12T15:06:26Z |  Write bash completions in Go + Go command bash completion. |
-| [muesli/termenv](https://github.com/muesli/termenv) | 2k | 69 | 2024-05-15T13:52:15Z |  Advanced ANSI style & color support for your terminal applications. |
+| [muesli/termenv](https://github.com/muesli/termenv) | 2k | 69 | 2024-05-16T12:31:13Z |  Advanced ANSI style & color support for your terminal applications. |
 | [akamensky/argparse](https://github.com/akamensky/argparse) | 590 | 61 | 2024-05-07T02:19:15Z |  Command line argument parser inspired by Python's argparse module. |
 | [logrusorgru/aurora](https://github.com/logrusorgru/aurora) | 1k | 59 | 2024-05-13T11:59:17Z |  ANSI terminal colors that support fmt.Printf/Sprintf. |
 | [jawher/mow.cli](https://github.com/jawher/mow.cli) | 873 | 58 | 2024-05-08T07:58:10Z |  Go library for building CLI applications with sophisticated flag and argument parsing and validation. |
-| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 722 | 43 | 2024-05-15T22:51:53Z |  Multi-shell multi-command argument completer. |
+| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 723 | 43 | 2024-05-16T06:36:56Z |  Multi-shell multi-command argument completer. |
 | [mkideal/cli](https://github.com/mkideal/cli) | 721 | 43 | 2024-05-07T09:49:39Z |  Feature-rich and easy to use command-line package based on golang struct tags. |
 | [octago/sflags](https://github.com/octago/sflags) | 150 | 36 | 2024-05-03T12:57:37Z |  Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries. |
 | [gosuri/uitable](https://github.com/gosuri/uitable) | 731 | 33 | 2024-05-05T00:19:28Z |  Library to improve readability in terminal apps using tabular data. |
-| [alexeyco/simpletable](https://github.com/alexeyco/simpletable) | 512 | 33 | 2024-05-13T22:14:06Z |  Simple tables in a terminal with Go. |
-| [integrii/flaggy](https://github.com/integrii/flaggy) | 848 | 32 | 2024-05-05T00:03:26Z |  A robust and idiomatic flags package with excellent subcommand support. |
+| [alexeyco/simpletable](https://github.com/alexeyco/simpletable) | 513 | 33 | 2024-05-16T02:45:48Z |  Simple tables in a terminal with Go. |
+| [integrii/flaggy](https://github.com/integrii/flaggy) | 849 | 32 | 2024-05-16T15:52:56Z |  A robust and idiomatic flags package with excellent subcommand support. |
 | [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) | 455 | 25 | 2024-05-13T02:34:30Z |  Make Highly Customized Boxes for your CLI. |
 | [dixonwille/wmenu](https://github.com/dixonwille/wmenu) | 212 | 24 | 2024-05-14T13:51:58Z |  Easy to use menu structure for cli applications that prompt users to make choices. |
 | [daviddengcn/go-colortext](https://github.com/daviddengcn/go-colortext) | 214 | 22 | 2024-03-12T09:20:13Z |  Go library for color output in terminals. |
-| [ttacon/chalk](https://github.com/ttacon/chalk) | 442 | 21 | 2024-04-08T00:35:51Z |  Intuitive package for prettifying terminal/console output. |
-| [Evertras/bubble-table](https://github.com/Evertras/bubble-table) | 325 | 20 | 2024-05-14T16:39:59Z |  An interactive table component for bubbletea. |
-| [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 348 | 18 | 2024-04-22T17:30:53Z |  A tiny library for super simple Golang tables. |
+| [ttacon/chalk](https://github.com/ttacon/chalk) | 443 | 21 | 2024-05-16T02:35:20Z |  Intuitive package for prettifying terminal/console output. |
+| [Evertras/bubble-table](https://github.com/Evertras/bubble-table) | 326 | 20 | 2024-05-16T12:30:15Z |  An interactive table component for bubbletea. |
+| [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 349 | 18 | 2024-05-16T02:43:10Z |  A tiny library for super simple Golang tables. |
 | [leaanthony/clir](https://github.com/leaanthony/clir) | 169 | 17 | 2024-05-12T09:18:20Z |  A Simple and Clear CLI library. Dependency free. |
 | [tucnak/climax](https://github.com/tucnak/climax) | 216 | 16 | 2024-05-01T01:55:58Z |  Alternative CLI with "human face", in spirit of Go command. |
 | [jaffee/commandeer](https://github.com/jaffee/commandeer) | 172 | 16 | 2024-02-26T10:47:25Z |  Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags. |
@@ -155,7 +155,7 @@ Libraries for building standard or basic Command Line applications.
 | [theckman/yacspin](https://github.com/theckman/yacspin) | 433 | 13 | 2024-05-02T18:51:52Z |  Yet Another CLi Spinner package, for working with terminal spinners. |
 | [cyucelen/marker](https://github.com/cyucelen/marker) | 46 | 13 | 2024-02-20T03:16:12Z |  Easiest way to match and mark strings for colorful terminal outputs. |
 | [liujianping/job](https://github.com/liujianping/job) | 142 | 12 | 2024-05-14T15:10:30Z |  JOB, make your short-term command as a long-term job. |
-| [reeflective/readline](https://github.com/reeflective/readline) | 73 | 11 | 2024-04-16T13:59:31Z | Shell library with modern and easy to use UI features. |
+| [reeflective/readline](https://github.com/reeflective/readline) | 74 | 11 | 2024-05-16T06:45:26Z | Shell library with modern and easy to use UI features. |
 | [DavidGamba/go-getoptions](https://github.com/DavidGamba/go-getoptions) | 56 | 10 | 2024-03-23T12:09:45Z |  Go option parser inspired by the flexibility of Perl’s GetOpt::Long. |
 | [hedzr/cmdr](https://github.com/hedzr/cmdr) | 131 | 9 | 2024-04-20T06:13:44Z |  A POSIX/GNU style, getopt-like command-line UI Go library. |
 | [teris-io/cli](https://github.com/teris-io/cli) | 126 | 9 | 2024-03-21T03:51:51Z |  Simple and complete API for building command line interfaces in Go. |
@@ -178,8 +178,8 @@ Libraries for building standard or basic Command Line applications.
 | [i582/cfmt](https://github.com/i582/cfmt) | 65 | 3 | 2024-05-13T02:41:36Z |  Simple and convenient formatted stylized output fully compatible with fmt library. |
 | [TreyBastian/colourize](https://github.com/TreyBastian/colourize) | 26 | 3 | 2023-02-20T07:52:41Z |  Go library for ANSI colour text in terminals. |
 | [rainu/go-command-chain](https://github.com/rainu/go-command-chain) | 57 | 2 | 2024-03-12T07:43:44Z |  A go library for configure and run command chains - such as pipelining in unix shells. |
-| [jxskiss/mcli](https://github.com/jxskiss/mcli) | 25 | 2 | 2024-04-02T08:41:56Z |  A minimal but very powerful cli library for Go. |
 | [Zaba505/sand](https://github.com/Zaba505/sand) | 25 | 2 | 2024-04-24T18:25:44Z |  Simple API for creating interpreters and so much more. |
+| [jxskiss/mcli](https://github.com/jxskiss/mcli) | 26 | 2 | 2024-05-16T16:55:21Z |  A minimal but very powerful cli library for Go. |
 | [posener/cmd](https://github.com/posener/cmd) | 41 | 2 | 2023-11-03T12:57:19Z |  Extends the standard `flag` package to support sub commands and more in idiomatic way. |
 | [abusomani/go-palette](https://github.com/abusomani/go-palette) | 14 | 2 | 2023-09-29T08:12:02Z |  Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts. |
 | [rsteube/carapace-spec](https://github.com/rsteube/carapace-spec) | 15 | 1 | 2024-03-11T15:42:39Z |  Define simple completions using a spec file. |
@@ -192,39 +192,44 @@ Libraries for building standard or basic Command Line applications.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 722 | 43 | 2024-05-15T22:51:53Z |  Multi-shell multi-command argument completer. |
-| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 25k | 713 | 2024-05-15T22:39:58Z |  Go framework to build terminal apps, based on The Elm Architecture. |
-| [elves/elvish](https://github.com/elves/elvish) | 5k | 296 | 2024-05-15T22:36:34Z |  An expressive programming language and a versatile interactive shell. |
-| [spf13/cobra](https://github.com/spf13/cobra) | 36k | 3k | 2024-05-15T22:07:35Z |  Commander for modern Go CLI interactions. |
+| [elves/elvish](https://github.com/elves/elvish) | 5k | 295 | 2024-05-17T00:02:05Z |  An expressive programming language and a versatile interactive shell. |
+| [spf13/cobra](https://github.com/spf13/cobra) | 36k | 3k | 2024-05-16T23:07:41Z |  Commander for modern Go CLI interactions. |
+| [pterm/pterm](https://github.com/pterm/pterm) | 5k | 183 | 2024-05-16T22:15:23Z |  A library to beautify console output on every platform with many combinable components. |
+| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 372 | 2024-05-16T20:49:55Z |  Termbox is a library for creating cross-platform text-based interfaces. |
+| [gizak/termui](https://github.com/gizak/termui) | 13k | 781 | 2024-05-16T20:49:52Z | . |
+| [jroimartin/gocui](https://github.com/jroimartin/gocui) | 10k | 607 | 2024-05-16T20:45:40Z |  Minimalist Go library aimed at creating Console User Interfaces. |
+| [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 270 | 2024-05-16T19:43:31Z |  Command line and flag parser supporting sub commands (superseded by `kong`; see below). |
+| [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 25k | 711 | 2024-05-16T19:23:34Z |  Go framework to build terminal apps, based on The Elm Architecture. |
+| [urfave/cli](https://github.com/urfave/cli) | 22k | 2k | 2024-05-16T18:15:10Z |  Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli). |
+| [dnote/dnote](https://github.com/dnote/dnote) | 3k | 116 | 2024-05-16T17:26:41Z |  A simple command line notebook with multi-device sync. |
+| [jxskiss/mcli](https://github.com/jxskiss/mcli) | 26 | 2 | 2024-05-16T16:55:21Z |  A minimal but very powerful cli library for Go. |
+| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | 5k | 220 | 2024-05-16T16:02:39Z |  TUI components for bubbletea. |
+| [integrii/flaggy](https://github.com/integrii/flaggy) | 849 | 32 | 2024-05-16T15:52:56Z |  A robust and idiomatic flags package with excellent subcommand support. |
+| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 9k | 703 | 2024-05-16T14:52:48Z | . |
+| [muesli/termenv](https://github.com/muesli/termenv) | 2k | 69 | 2024-05-16T12:31:13Z |  Advanced ANSI style & color support for your terminal applications. |
+| [Evertras/bubble-table](https://github.com/Evertras/bubble-table) | 326 | 20 | 2024-05-16T12:30:15Z |  An interactive table component for bubbletea. |
+| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 7k | 201 | 2024-05-16T11:58:13Z |  Declaratively define styles for color, format and layout in the terminal. |
+| [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 3k | 302 | 2024-05-16T10:18:43Z |  go command line option parser. |
+| [schollz/progressbar](https://github.com/schollz/progressbar) | 4k | 214 | 2024-05-16T10:15:00Z |  Basic thread-safe progress bar that works in every OS. |
+| [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 3k | 97 | 2024-05-16T07:39:59Z |  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. |
+| [go-survey/survey](https://github.com/go-survey/survey) | 4k | 347 | 2024-05-16T07:01:47Z |  Build interactive and accessible prompts with full support for windows and posix terminals. |
+| [reeflective/readline](https://github.com/reeflective/readline) | 74 | 11 | 2024-05-16T06:45:26Z | Shell library with modern and easy to use UI features. |
+| [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | 723 | 43 | 2024-05-16T06:36:56Z |  Multi-shell multi-command argument completer. |
+| [alexeyco/simpletable](https://github.com/alexeyco/simpletable) | 513 | 33 | 2024-05-16T02:45:48Z |  Simple tables in a terminal with Go. |
+| [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 349 | 18 | 2024-05-16T02:43:10Z |  A tiny library for super simple Golang tables. |
+| [ttacon/chalk](https://github.com/ttacon/chalk) | 443 | 21 | 2024-05-16T02:35:20Z |  Intuitive package for prettifying terminal/console output. |
+| [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | 15k | 844 | 2024-05-16T01:29:43Z | . |
 | [rsteube/carapace](https://github.com/rsteube/carapace) | 254 | 6 | 2024-05-15T22:01:46Z |  Command argument completion generator for spf13/cobra. |
-| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | 5k | 220 | 2024-05-15T21:22:27Z |  TUI components for bubbletea. |
-| [schollz/progressbar](https://github.com/schollz/progressbar) | 4k | 214 | 2024-05-15T19:51:04Z |  Basic thread-safe progress bar that works in every OS. |
-| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | 7k | 200 | 2024-05-15T19:43:31Z |  Declaratively define styles for color, format and layout in the terminal. |
-| [jessevdk/go-flags](https://github.com/jessevdk/go-flags) | 3k | 302 | 2024-05-15T19:13:47Z |  go command line option parser. |
-| [gizak/termui](https://github.com/gizak/termui) | 13k | 781 | 2024-05-15T19:12:32Z | . |
-| [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) | 15k | 842 | 2024-05-15T19:11:34Z | . |
 | [andOTP/andOTP](https://github.com/andOTP/andOTP) | 4k | 357 | 2024-05-15T15:24:52Z | files. Can be used as a library as well. |
-| [alecthomas/kingpin](https://github.com/alecthomas/kingpin) | 3k | 270 | 2024-05-15T15:08:01Z |  Command line and flag parser supporting sub commands (superseded by `kong`; see below). |
-| [muesli/termenv](https://github.com/muesli/termenv) | 2k | 69 | 2024-05-15T13:52:15Z |  Advanced ANSI style & color support for your terminal applications. |
-| [urfave/cli](https://github.com/urfave/cli) | 22k | 2k | 2024-05-15T13:42:06Z |  Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli). |
 | [peterh/liner](https://github.com/peterh/liner) | 1k | 132 | 2024-05-15T12:59:42Z |  Go readline-like library for command-line interfaces. |
 | [mitchellh/cli](https://github.com/mitchellh/cli) | 2k | 121 | 2024-05-15T12:00:52Z |  Go library for implementing command-line interfaces. |
-| [jonathanslenders/python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) | 9k | 703 | 2024-05-15T10:48:20Z | . |
 | [spf13/pflag](https://github.com/spf13/pflag) | 2k | 336 | 2024-05-15T10:35:39Z |  Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags. |
 | [briandowns/spinner](https://github.com/briandowns/spinner) | 2k | 132 | 2024-05-15T08:01:06Z |  Go package to easily provide a terminal spinner with options. |
-| [jroimartin/gocui](https://github.com/jroimartin/gocui) | 10k | 607 | 2024-05-15T05:03:35Z |  Minimalist Go library aimed at creating Console User Interfaces. |
-| [nsf/termbox-go](https://github.com/nsf/termbox-go) | 5k | 372 | 2024-05-15T03:52:41Z |  Termbox is a library for creating cross-platform text-based interfaces. |
-| [go-survey/survey](https://github.com/go-survey/survey) | 4k | 347 | 2024-05-15T03:02:04Z |  Build interactive and accessible prompts with full support for windows and posix terminals. |
-| [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) | 3k | 97 | 2024-05-15T02:23:34Z |  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. |
 | [gookit/color](https://github.com/gookit/color) | 1k | 84 | 2024-05-15T01:40:13Z |  Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows. |
-| [pterm/pterm](https://github.com/pterm/pterm) | 5k | 183 | 2024-05-14T21:12:10Z |  A library to beautify console output on every platform with many combinable components. |
-| [dnote/dnote](https://github.com/dnote/dnote) | 3k | 116 | 2024-05-14T18:33:50Z |  A simple command line notebook with multi-device sync. |
-| [Evertras/bubble-table](https://github.com/Evertras/bubble-table) | 325 | 20 | 2024-05-14T16:39:59Z |  An interactive table component for bubbletea. |
 | [liujianping/job](https://github.com/liujianping/job) | 142 | 12 | 2024-05-14T15:10:30Z |  JOB, make your short-term command as a long-term job. |
 | [dixonwille/wmenu](https://github.com/dixonwille/wmenu) | 212 | 24 | 2024-05-14T13:51:58Z |  Easy to use menu structure for cli applications that prompt users to make choices. |
 | [alexflint/go-arg](https://github.com/alexflint/go-arg) | 2k | 98 | 2024-05-14T13:39:07Z |  Struct-based argument parsing in Go. |
 | [mattn/go-colorable](https://github.com/mattn/go-colorable) | 743 | 96 | 2024-05-14T02:56:47Z |  Colorable writer for windows. |
-| [alexeyco/simpletable](https://github.com/alexeyco/simpletable) | 512 | 33 | 2024-05-13T22:14:06Z |  Simple tables in a terminal with Go. |
 | [gosuri/uilive](https://github.com/gosuri/uilive) | 2k | 83 | 2024-05-13T15:19:50Z |  Library for updating terminal output in real time. |
 | [dixonwille/wlog](https://github.com/dixonwille/wlog) | 65 | 9 | 2024-05-13T15:01:39Z |  Simple logging interface that supports cross-platform color and concurrency. |
 | [logrusorgru/aurora](https://github.com/logrusorgru/aurora) | 1k | 59 | 2024-05-13T11:59:17Z |  ANSI terminal colors that support fmt.Printf/Sprintf. |
@@ -243,7 +248,6 @@ Libraries for building standard or basic Command Line applications.
 | [cristalhq/acmd](https://github.com/cristalhq/acmd) | 111 | 4 | 2024-05-06T08:00:16Z |  Simple, useful, and opinionated CLI package in Go. |
 | [ukautz/clif](https://github.com/ukautz/clif) | 126 | 14 | 2024-05-06T06:55:47Z |  Small command line interface framework. |
 | [gosuri/uitable](https://github.com/gosuri/uitable) | 731 | 33 | 2024-05-05T00:19:28Z |  Library to improve readability in terminal apps using tabular data. |
-| [integrii/flaggy](https://github.com/integrii/flaggy) | 848 | 32 | 2024-05-05T00:03:26Z |  A robust and idiomatic flags package with excellent subcommand support. |
 | [octago/sflags](https://github.com/octago/sflags) | 150 | 36 | 2024-05-03T12:57:37Z |  Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries. |
 | [theckman/yacspin](https://github.com/theckman/yacspin) | 433 | 13 | 2024-05-02T18:51:52Z |  Yet Another CLi Spinner package, for working with terminal spinners. |
 | [tomlazar/table](https://github.com/tomlazar/table) | 50 | 3 | 2024-05-02T02:44:08Z |  Small library for terminal color based tables. |
@@ -251,13 +255,9 @@ Libraries for building standard or basic Command Line applications.
 | [mszostok/version](https://github.com/mszostok/version) | 91 | 6 | 2024-04-27T14:27:41Z |  Collects and displays CLI version information in multiple formats along with upgrade notice. |
 | [antham/strumt](https://github.com/antham/strumt) | 58 | 5 | 2024-04-24T18:26:06Z |  Library to create prompt chain. |
 | [Zaba505/sand](https://github.com/Zaba505/sand) | 25 | 2 | 2024-04-24T18:25:44Z |  Simple API for creating interpreters and so much more. |
-| [cheynewallace/tabby](https://github.com/cheynewallace/tabby) | 348 | 18 | 2024-04-22T17:30:53Z |  A tiny library for super simple Golang tables. |
 | [hedzr/cmdr](https://github.com/hedzr/cmdr) | 131 | 9 | 2024-04-20T06:13:44Z |  A POSIX/GNU style, getopt-like command-line UI Go library. |
 | [cosiner/flag](https://github.com/cosiner/flag) | 131 | 7 | 2024-04-19T09:21:24Z |  Simple but powerful command line option parsing library for Go supporting subcommand. |
-| [reeflective/readline](https://github.com/reeflective/readline) | 73 | 11 | 2024-04-16T13:59:31Z | Shell library with modern and easy to use UI features. |
 | [cosiner/argv](https://github.com/cosiner/argv) | 41 | 8 | 2024-04-13T20:43:07Z |  Go library to split command line string as arguments array using the bash syntax. |
-| [ttacon/chalk](https://github.com/ttacon/chalk) | 442 | 21 | 2024-04-08T00:35:51Z |  Intuitive package for prettifying terminal/console output. |
-| [jxskiss/mcli](https://github.com/jxskiss/mcli) | 25 | 2 | 2024-04-02T08:41:56Z |  A minimal but very powerful cli library for Go. |
 | [codingconcepts/env](https://github.com/codingconcepts/env) | 111 | 14 | 2024-03-27T23:26:49Z |  Tag-based environment configuration for structs. |
 | [sgreben/flagvar](https://github.com/sgreben/flagvar) | 43 | 4 | 2024-03-27T09:49:01Z |  A collection of flag argument types for Go's standard `flag` package. |
 | [DavidGamba/go-getoptions](https://github.com/DavidGamba/go-getoptions) | 56 | 10 | 2024-03-23T12:09:45Z |  Go option parser inspired by the flexibility of Perl’s GetOpt::Long. |

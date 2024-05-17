@@ -17,8 +17,8 @@ Libraries for working with dates and times.
 | [relvacode/iso8601](https://github.com/relvacode/iso8601) | 137 | 14 | 2024-04-11T14:34:10Z |  Efficiently parse ISO8601 date-times without regex. |
 | [rickb777/date](https://github.com/rickb777/date) | 126 | 23 | 2024-05-01T22:18:50Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 95 | 6 | 2024-05-09T02:39:42Z |  Convert string to duration. Support time.Duration returned string and more. |
+| [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 84 | 13 | 2024-05-16T10:33:24Z |  Calculate the sunrise and sunset times for a given location. |
 | [SaidinWoT/timespan](https://github.com/SaidinWoT/timespan) | 84 | 12 | 2024-02-10T05:22:07Z |  For interacting with intervals of time, defined as a start time and a duration. |
-| [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 83 | 13 | 2024-04-03T09:26:28Z |  Calculate the sunrise and sunset times for a given location. |
 | [wlbr/feiertage](https://github.com/wlbr/feiertage) | 45 | 7 | 2024-03-25T17:41:11Z |  Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving... |
 | [GuilhermeCaruso/kair](https://github.com/GuilhermeCaruso/kair) | 25 | 6 | 2023-02-03T00:57:40Z |  Date and Time - Golang Formatting Library. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2022-09-26T09:52:51Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
@@ -43,7 +43,7 @@ Libraries for working with dates and times.
 | [rickb777/date](https://github.com/rickb777/date) | 126 | 23 | 2024-05-01T22:18:50Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
 | [leekchan/timeutil](https://github.com/leekchan/timeutil) | 193 | 15 | 2024-01-30T04:13:36Z |  Useful extensions (Timedelta, Strftime, ...) to the golang's time package. |
 | [relvacode/iso8601](https://github.com/relvacode/iso8601) | 137 | 14 | 2024-04-11T14:34:10Z |  Efficiently parse ISO8601 date-times without regex. |
-| [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 83 | 13 | 2024-04-03T09:26:28Z |  Calculate the sunrise and sunset times for a given location. |
+| [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 84 | 13 | 2024-05-16T10:33:24Z |  Calculate the sunrise and sunset times for a given location. |
 | [SaidinWoT/timespan](https://github.com/SaidinWoT/timespan) | 84 | 12 | 2024-02-10T05:22:07Z |  For interacting with intervals of time, defined as a start time and a duration. |
 | [stoewer/go-week](https://github.com/stoewer/go-week) | 9 | 8 | 2023-11-10T03:06:21Z |  An efficient package to work with ISO8601 week dates. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2022-09-26T09:52:51Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
@@ -62,6 +62,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 84 | 13 | 2024-05-16T10:33:24Z |  Calculate the sunrise and sunset times for a given location. |
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 9 | 1 | 2024-05-15T18:33:39Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 230 | 2024-05-15T17:09:01Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 166 | 2024-05-15T12:00:15Z |  Parse date's without knowing format in advance. |
@@ -75,7 +76,6 @@ Libraries for working with dates and times.
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-04-20T03:51:53Z |  A simple datetime parse pkg. |
 | [relvacode/iso8601](https://github.com/relvacode/iso8601) | 137 | 14 | 2024-04-11T14:34:10Z |  Efficiently parse ISO8601 date-times without regex. |
 | [bykof/gostradamus](https://github.com/bykof/gostradamus) | 197 | 6 | 2024-04-04T14:43:12Z |  A Go package for working with dates. |
-| [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 83 | 13 | 2024-04-03T09:26:28Z |  Calculate the sunrise and sunset times for a given location. |
 | [wlbr/feiertage](https://github.com/wlbr/feiertage) | 45 | 7 | 2024-03-25T17:41:11Z |  Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving... |
 | [SaidinWoT/timespan](https://github.com/SaidinWoT/timespan) | 84 | 12 | 2024-02-10T05:22:07Z |  For interacting with intervals of time, defined as a start time and a duration. |
 | [leekchan/timeutil](https://github.com/leekchan/timeutil) | 193 | 15 | 2024-01-30T04:13:36Z |  Useful extensions (Timedelta, Strftime, ...) to the golang's time package. |
