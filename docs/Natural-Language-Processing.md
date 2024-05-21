@@ -6,12 +6,12 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 33k | 7k | 2024-05-18T10:46:34Z | which a Chinese word splitting algorithm. |
-| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 989 | 2024-05-19T12:28:17Z | . |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 33k | 7k | 2024-05-20T15:31:23Z | which a Chinese word splitting algorithm. |
+| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 989 | 2024-05-20T21:42:26Z | . |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 162 | 2024-05-12T09:05:36Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
-| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 210 | 2024-05-17T17:14:30Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
+| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 210 | 2024-05-20T14:54:24Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 86 | 2024-05-16T22:22:09Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
-| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 193 | 2024-05-18T08:22:49Z |  CN Hanzi to Hanyu Pinyin converter. |
+| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 193 | 2024-05-20T11:35:06Z |  CN Hanzi to Hanyu Pinyin converter. |
 | [gosimple/slug](https://github.com/gosimple/slug) | 1k | 105 | 2024-05-15T17:17:03Z |  URL-friendly slugify with multiple languages support. |
 | [ikawaha/kagome](https://github.com/ikawaha/kagome) | 791 | 53 | 2024-05-17T04:51:04Z |  JP morphological analyzer written in pure Go. |
 | [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 630 | 63 | 2024-05-16T18:21:51Z |  Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). |
@@ -35,7 +35,7 @@ Libraries for working with human languages.
 | [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 47 | 6 | 2024-04-16T01:41:46Z |  Transliterate Cyrillic → Latin in every possible way. |
 | [vorlif/spreak](https://github.com/vorlif/spreak) | 47 | 3 | 2024-05-16T14:14:47Z |  Flexible translation and humanization library for Go, based on the concepts behind gettext. |
 | [zhenjl/porter2](https://github.com/zhenjl/porter2) | 46 | 7 | 2022-09-27T08:50:40Z |  Really fast Porter 2 stemmer. |
-| [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 40 | 9 | 2024-04-17T05:38:20Z |  Provides one-way string transliteration with supporting of language-specific transliteration rules. |
+| [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 40 | 10 | 2024-04-17T05:38:20Z |  Provides one-way string transliteration with supporting of language-specific transliteration rules. |
 | [jonreiter/govader](https://github.com/jonreiter/govader) | 38 | 7 | 2024-04-24T18:43:59Z | . |
 | [goodsign/snowball](https://github.com/goodsign/snowball) | 37 | 5 | 2024-05-07T15:36:12Z |  Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/). |
 | [avelino/slugify](https://github.com/avelino/slugify) | 33 | 4 | 2024-04-16T19:56:26Z |  Go slugify application that handles string. |
@@ -59,10 +59,10 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 33k | 7k | 2024-05-18T10:46:34Z | which a Chinese word splitting algorithm. |
-| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 989 | 2024-05-19T12:28:17Z | . |
-| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 210 | 2024-05-17T17:14:30Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
-| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 193 | 2024-05-18T08:22:49Z |  CN Hanzi to Hanyu Pinyin converter. |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 33k | 7k | 2024-05-20T15:31:23Z | which a Chinese word splitting algorithm. |
+| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 989 | 2024-05-20T21:42:26Z | . |
+| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 210 | 2024-05-20T14:54:24Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
+| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 193 | 2024-05-20T11:35:06Z |  CN Hanzi to Hanyu Pinyin converter. |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 162 | 2024-05-12T09:05:36Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
 | [gosimple/slug](https://github.com/gosimple/slug) | 1k | 105 | 2024-05-15T17:17:03Z |  URL-friendly slugify with multiple languages support. |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 86 | 2024-05-16T22:22:09Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
@@ -81,7 +81,7 @@ Libraries for working with human languages.
 | [awsong/MMSEGO](https://github.com/awsong/MMSEGO) | 63 | 14 | 2024-04-01T19:53:44Z |  This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm. |
 | [m1/go-localize](https://github.com/m1/go-localize) | 58 | 12 | 2024-03-27T18:06:00Z |  Simple and easy to use i18n (Internationalization and localization) engine - used for translating locale strings. |
 | [pebbe/textcat](https://github.com/pebbe/textcat) | 72 | 11 | 2024-05-07T15:36:25Z |  Go package for n-gram based text categorization, with support for utf-8 and raw text. |
-| [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 40 | 9 | 2024-04-17T05:38:20Z |  Provides one-way string transliteration with supporting of language-specific transliteration rules. |
+| [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 40 | 10 | 2024-04-17T05:38:20Z |  Provides one-way string transliteration with supporting of language-specific transliteration rules. |
 | [mozillazg/go-slugify](https://github.com/mozillazg/go-slugify) | 91 | 8 | 2024-05-11T21:25:11Z |  Make pretty slug with multiple languages support. |
 | [goodsign/libtextcat](https://github.com/goodsign/libtextcat) | 13 | 8 | 2023-08-04T09:58:01Z |  Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2. |
 | [dveselov/mystem](https://github.com/dveselov/mystem) | 32 | 8 | 2024-01-21T16:09:12Z |  CGo bindings to Yandex.Mystem - russian morphology analyzer. |
@@ -112,11 +112,11 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 989 | 2024-05-20T21:42:26Z | . |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 33k | 7k | 2024-05-20T15:31:23Z | which a Chinese word splitting algorithm. |
+| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 210 | 2024-05-20T14:54:24Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
+| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 193 | 2024-05-20T11:35:06Z |  CN Hanzi to Hanyu Pinyin converter. |
 | [danieldk/go2vec](https://github.com/danieldk/go2vec) | 53 | 7 | 2024-05-19T19:04:24Z |  Reader and utility functions for word2vec embeddings. |
-| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 4k | 989 | 2024-05-19T12:28:17Z | . |
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 33k | 7k | 2024-05-18T10:46:34Z | which a Chinese word splitting algorithm. |
-| [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 193 | 2024-05-18T08:22:49Z |  CN Hanzi to Hanyu Pinyin converter. |
-| [go-ego/gse](https://github.com/go-ego/gse) | 2k | 210 | 2024-05-17T17:14:30Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [blevesearch/segment](https://github.com/blevesearch/segment) | 87 | 17 | 2024-05-17T16:42:39Z |  Go library for performing Unicode Text Segmentation as described in [Unicode Standard Annex #29](https://www.unicode.org/reports/tr29/) |
 | [ikawaha/kagome](https://github.com/ikawaha/kagome) | 791 | 53 | 2024-05-17T04:51:04Z |  JP morphological analyzer written in pure Go. |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 86 | 2024-05-16T22:22:09Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
@@ -136,7 +136,7 @@ Libraries for working with human languages.
 | [leonelquinteros/gotext](https://github.com/leonelquinteros/gotext) | 423 | 58 | 2024-05-07T03:04:48Z |  GNU gettext utilities for Go. |
 | [afjoseph/RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 112 | 18 | 2024-05-06T15:02:21Z |  Go port of the Rapid Automatic Keyword Extraction Algorithm (RAKE). |
 | [jonreiter/govader](https://github.com/jonreiter/govader) | 38 | 7 | 2024-04-24T18:43:59Z | . |
-| [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 40 | 9 | 2024-04-17T05:38:20Z |  Provides one-way string transliteration with supporting of language-specific transliteration rules. |
+| [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 40 | 10 | 2024-04-17T05:38:20Z |  Provides one-way string transliteration with supporting of language-specific transliteration rules. |
 | [avelino/slugify](https://github.com/avelino/slugify) | 33 | 4 | 2024-04-16T19:56:26Z |  Go slugify application that handles string. |
 | [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 47 | 6 | 2024-04-16T01:41:46Z |  Transliterate Cyrillic → Latin in every possible way. |
 | [awsong/MMSEGO](https://github.com/awsong/MMSEGO) | 63 | 14 | 2024-04-01T19:53:44Z |  This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm. |
