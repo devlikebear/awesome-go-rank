@@ -6,26 +6,26 @@ Libraries and tools to implement Zero Trust architectures.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sigstore/cosign](https://github.com/sigstore/cosign) | 4k | 498 | 2024-05-29T13:01:22Z |  Container Signing, Verification and Storage in an OCI registry. |
-| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 455 | 2024-05-28T19:18:57Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
-| [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 114 | 48 | 2024-05-29T08:40:54Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
+| [sigstore/cosign](https://github.com/sigstore/cosign) | 4k | 498 | 2024-05-30T16:56:46Z |  Container Signing, Verification and Storage in an OCI registry. |
+| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 455 | 2024-05-30T18:46:59Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
+| [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 114 | 48 | 2024-05-30T03:38:20Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
 | [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault) | 76 | 7 | 2024-05-27T13:30:15Z |  Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sigstore/cosign](https://github.com/sigstore/cosign) | 4k | 498 | 2024-05-29T13:01:22Z |  Container Signing, Verification and Storage in an OCI registry. |
-| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 455 | 2024-05-28T19:18:57Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
-| [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 114 | 48 | 2024-05-29T08:40:54Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
+| [sigstore/cosign](https://github.com/sigstore/cosign) | 4k | 498 | 2024-05-30T16:56:46Z |  Container Signing, Verification and Storage in an OCI registry. |
+| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 455 | 2024-05-30T18:46:59Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
+| [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 114 | 48 | 2024-05-30T03:38:20Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
 | [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault) | 76 | 7 | 2024-05-27T13:30:15Z |  Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sigstore/cosign](https://github.com/sigstore/cosign) | 4k | 498 | 2024-05-29T13:01:22Z |  Container Signing, Verification and Storage in an OCI registry. |
-| [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 114 | 48 | 2024-05-29T08:40:54Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
-| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 455 | 2024-05-28T19:18:57Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
+| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 455 | 2024-05-30T18:46:59Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
+| [sigstore/cosign](https://github.com/sigstore/cosign) | 4k | 498 | 2024-05-30T16:56:46Z |  Container Signing, Verification and Storage in an OCI registry. |
+| [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 114 | 48 | 2024-05-30T03:38:20Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
 | [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault) | 76 | 7 | 2024-05-27T13:30:15Z |  Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication. |
 
