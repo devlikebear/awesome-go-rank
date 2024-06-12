@@ -6,7 +6,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 231 | 2024-06-09T10:43:51Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 231 | 2024-06-11T03:22:15Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 234 | 2024-06-10T21:40:22Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 166 | 2024-06-10T13:46:50Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 772 | 56 | 2024-06-06T14:45:49Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
@@ -24,7 +24,7 @@ Libraries for working with dates and times.
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 20 | 1 | 2024-06-04T12:56:44Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2022-09-26T09:52:51Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
 | [kirillDanshin/nulltime](https://github.com/kirillDanshin/nulltime) | 14 | 4 | 2023-04-02T02:05:30Z |  Nullable `time.Time`. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 12 | 1 | 2024-06-06T18:59:39Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 12 | 1 | 2024-06-11T18:46:12Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 12 | 5 | 2023-02-10T14:32:27Z |  C99-compatible strftime formatter. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2022-09-26T09:53:28Z |  Ruby-compatible Strftime function. |
 | [stoewer/go-week](https://github.com/stoewer/go-week) | 9 | 8 | 2023-11-10T03:06:21Z |  An efficient package to work with ISO8601 week dates. |
@@ -35,7 +35,7 @@ Libraries for working with dates and times.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 234 | 2024-06-10T21:40:22Z |  Now is a time toolkit for golang. |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 231 | 2024-06-09T10:43:51Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 231 | 2024-06-11T03:22:15Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 166 | 2024-06-10T13:46:50Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 772 | 56 | 2024-06-06T14:45:49Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 490 | 49 | 2024-05-30T08:30:41Z |  Time duration formatting library for Go. |
@@ -55,19 +55,19 @@ Libraries for working with dates and times.
 | [kirillDanshin/nulltime](https://github.com/kirillDanshin/nulltime) | 14 | 4 | 2023-04-02T02:05:30Z |  Nullable `time.Time`. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2022-09-26T09:53:28Z |  Ruby-compatible Strftime function. |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 20 | 1 | 2024-06-04T12:56:44Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 12 | 1 | 2024-06-06T18:59:39Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 12 | 1 | 2024-06-11T18:46:12Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-06-07T11:55:44Z |  A simple datetime parse pkg. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 12 | 1 | 2024-06-11T18:46:12Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 231 | 2024-06-11T03:22:15Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 234 | 2024-06-10T21:40:22Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 166 | 2024-06-10T13:46:50Z |  Parse date's without knowing format in advance. |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 231 | 2024-06-09T10:43:51Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [rickb777/date](https://github.com/rickb777/date) | 128 | 23 | 2024-06-07T20:51:13Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-06-07T11:55:44Z |  A simple datetime parse pkg. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 12 | 1 | 2024-06-06T18:59:39Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 772 | 56 | 2024-06-06T14:45:49Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 194 | 24 | 2024-06-05T17:45:42Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 20 | 1 | 2024-06-04T12:56:44Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
