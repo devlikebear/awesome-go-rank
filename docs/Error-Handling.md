@@ -8,8 +8,8 @@ Libraries for handling errors.
 |------------|-------|-------|--------------|-------------|
 | [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 123 | 2024-06-18T22:15:42Z |  Go (golang) package for representing a list of errors as a single error. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 65 | 2024-06-19T03:37:25Z |  Go error library with error portability over the network. |
-| [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 52 | 2024-06-19T19:12:57Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
-| [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2024-06-19T11:22:41Z |  A feature rich error package with stack traces, composition of errors and more. |
+| [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 52 | 2024-06-20T14:39:14Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
+| [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2024-06-20T05:01:22Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 930 | 40 | 2024-06-17T12:54:25Z |  Golang errors with stack trace and source fragments. |
 | [snwfdhmp/errlog](https://github.com/snwfdhmp/errlog) | 457 | 21 | 2024-04-10T09:01:27Z |  Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place. |
 | [emperror/emperror](https://github.com/emperror/emperror) | 330 | 19 | 2024-06-06T08:09:47Z |  Error handling tools and best practices for Go libraries and applications. |
@@ -28,9 +28,9 @@ Libraries for handling errors.
 |------------|-------|-------|--------------|-------------|
 | [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 123 | 2024-06-18T22:15:42Z |  Go (golang) package for representing a list of errors as a single error. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 65 | 2024-06-19T03:37:25Z |  Go error library with error portability over the network. |
-| [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 52 | 2024-06-19T19:12:57Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
+| [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 52 | 2024-06-20T14:39:14Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 930 | 40 | 2024-06-17T12:54:25Z |  Golang errors with stack trace and source fragments. |
-| [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2024-06-19T11:22:41Z |  A feature rich error package with stack traces, composition of errors and more. |
+| [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2024-06-20T05:01:22Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [snwfdhmp/errlog](https://github.com/snwfdhmp/errlog) | 457 | 21 | 2024-04-10T09:01:27Z |  Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place. |
 | [emperror/emperror](https://github.com/emperror/emperror) | 330 | 19 | 2024-06-06T08:09:47Z |  Error handling tools and best practices for Go libraries and applications. |
 | [emperror/errors](https://github.com/emperror/errors) | 192 | 13 | 2024-04-13T07:44:17Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
@@ -46,9 +46,9 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 52 | 2024-06-19T19:12:57Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
+| [rotisserie/eris](https://github.com/rotisserie/eris) | 1k | 52 | 2024-06-20T14:39:14Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
+| [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2024-06-20T05:01:22Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [samber/oops](https://github.com/samber/oops) | 220 | 10 | 2024-06-19T13:42:03Z |  Error handling with context, stack trace and source fragments. |
-| [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 31 | 2024-06-19T11:22:41Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 65 | 2024-06-19T03:37:25Z |  Go error library with error portability over the network. |
 | [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 123 | 2024-06-18T22:15:42Z |  Go (golang) package for representing a list of errors as a single error. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 930 | 40 | 2024-06-17T12:54:25Z |  Golang errors with stack trace and source fragments. |
