@@ -8,7 +8,7 @@ Libraries for handling files and file systems.
 |------------|-------|-------|--------------|-------------|
 | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 456 | 2024-06-28T22:59:37Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 498 | 2024-06-26T19:35:45Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 128 | 2024-06-28T15:20:58Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 128 | 2024-06-29T13:27:32Z |  Disk usage analyzer with console interface. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2024-06-28T19:43:01Z | . |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 890 | 125 | 2024-06-28T04:38:20Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 695 | 113 | 2024-06-26T13:22:12Z |  Copy directory recursively. |
@@ -37,7 +37,7 @@ Libraries for handling files and file systems.
 |------------|-------|-------|--------------|-------------|
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 498 | 2024-06-26T19:35:45Z |  FileSystem Abstraction System for Go. |
 | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 456 | 2024-06-28T22:59:37Z |  PDF processor. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 128 | 2024-06-28T15:20:58Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 128 | 2024-06-29T13:27:32Z |  Disk usage analyzer with console interface. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 890 | 125 | 2024-06-28T04:38:20Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 695 | 113 | 2024-06-26T13:22:12Z |  Copy directory recursively. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2024-06-28T19:43:01Z | . |
@@ -64,10 +64,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 128 | 2024-06-29T13:27:32Z |  Disk usage analyzer with console interface. |
 | [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 6k | 456 | 2024-06-28T22:59:37Z |  PDF processor. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 2k | 102 | 2024-06-28T19:43:01Z | . |
 | [no-src/gofs](https://github.com/no-src/gofs) | 441 | 34 | 2024-06-28T16:46:25Z |  A cross-platform real-time file synchronization tool out of the box. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 3k | 128 | 2024-06-28T15:20:58Z |  Disk usage analyzer with console interface. |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 102 | 18 | 2024-06-28T07:25:25Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 890 | 125 | 2024-06-28T04:38:20Z |  File system event notification library with simple API, similar to os/signal. |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 498 | 2024-06-26T19:35:45Z |  FileSystem Abstraction System for Go. |
