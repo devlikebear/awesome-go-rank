@@ -7,8 +7,8 @@ Libraries, tools, and tutorials for interacting with hardware.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 4k | 371 | 2024-07-08T13:01:28Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
-| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 222 | 2024-07-07T19:02:46Z |  GPIO for Go, doesn't require cgo. |
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 174 | 2024-07-05T06:56:13Z |  Golang hardware discovery/inspection library. |
+| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 222 | 2024-07-09T09:48:25Z |  GPIO for Go, doesn't require cgo. |
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 174 | 2024-07-09T11:32:00Z |  Golang hardware discovery/inspection library. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 71 | 2024-06-08T03:07:25Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 509 | 90 | 2024-07-08T13:47:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 311 | 58 | 2024-06-19T14:32:30Z |  Robot Operating System (ROS) library for Go. |
@@ -20,8 +20,8 @@ Libraries, tools, and tutorials for interacting with hardware.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 4k | 371 | 2024-07-08T13:01:28Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
-| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 222 | 2024-07-07T19:02:46Z |  GPIO for Go, doesn't require cgo. |
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 174 | 2024-07-05T06:56:13Z |  Golang hardware discovery/inspection library. |
+| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 222 | 2024-07-09T09:48:25Z |  GPIO for Go, doesn't require cgo. |
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 174 | 2024-07-09T11:32:00Z |  Golang hardware discovery/inspection library. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 509 | 90 | 2024-07-08T13:47:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 71 | 2024-06-08T03:07:25Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 311 | 58 | 2024-06-19T14:32:30Z |  Robot Operating System (ROS) library for Go. |
@@ -32,11 +32,11 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 174 | 2024-07-09T11:32:00Z |  Golang hardware discovery/inspection library. |
+| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 222 | 2024-07-09T09:48:25Z |  GPIO for Go, doesn't require cgo. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 509 | 90 | 2024-07-08T13:47:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 4k | 371 | 2024-07-08T13:01:28Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 195 | 46 | 2024-07-07T22:11:40Z |  Open Sound Control (OSC) bindings for Go. |
-| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 222 | 2024-07-07T19:02:46Z |  GPIO for Go, doesn't require cgo. |
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 174 | 2024-07-05T06:56:13Z |  Golang hardware discovery/inspection library. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 311 | 58 | 2024-06-19T14:32:30Z |  Robot Operating System (ROS) library for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 58 | 17 | 2024-06-15T06:57:52Z |  a polled API to read the state of an attached joystick. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 71 | 2024-06-08T03:07:25Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
