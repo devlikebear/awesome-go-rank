@@ -9,7 +9,7 @@ Unofficial libraries for package and dependency management.
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-07-12T14:21:22Z |  Go dependency tool. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 540 | 2024-07-09T09:48:42Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 456 | 2024-07-05T13:18:55Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
-| [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 399 | 2024-07-03T00:48:47Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
+| [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 399 | 2024-07-13T12:12:52Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 207 | 2024-06-07T22:09:08Z |  Go Package Manager. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 93 | 2024-06-10T10:17:55Z |  Go Manager - bundle for go. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2024-06-25T11:32:52Z |  Barebones dependency manager for Go. |
@@ -29,7 +29,7 @@ Unofficial libraries for package and dependency management.
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-07-12T14:21:22Z |  Go dependency tool. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 540 | 2024-07-09T09:48:42Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 456 | 2024-07-05T13:18:55Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
-| [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 399 | 2024-07-03T00:48:47Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
+| [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 399 | 2024-07-13T12:12:52Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 207 | 2024-06-07T22:09:08Z |  Go Package Manager. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 93 | 2024-06-10T10:17:55Z |  Go Manager - bundle for go. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2024-06-25T11:32:52Z |  Barebones dependency manager for Go. |
@@ -46,11 +46,11 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 399 | 2024-07-13T12:12:52Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-07-12T14:21:22Z |  Go dependency tool. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 298 | 19 | 2024-07-11T21:26:03Z |  Update binaries installed by "go install". |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 540 | 2024-07-09T09:48:42Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 456 | 2024-07-05T13:18:55Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
-| [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 399 | 2024-07-03T00:48:47Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2024-06-25T11:32:52Z |  Barebones dependency manager for Go. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 481 | 22 | 2024-06-10T23:38:55Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 93 | 2024-06-10T10:17:55Z |  Go Manager - bundle for go. |
