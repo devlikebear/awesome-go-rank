@@ -6,38 +6,38 @@ These libraries were placed here because none of the other categories seemed to 
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [google/wire](https://github.com/google/wire) | 13k | 613 | 2024-07-14T16:58:39Z |  Automated Initialization in Go. |
-| [shirou/gopsutil](https://github.com/shirou/gopsutil) | 10k | 2k | 2024-07-13T12:52:16Z |  Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc). |
-| [TwinProduction/gatus](https://github.com/TwinProduction/gatus) | 6k | 394 | 2024-07-14T11:37:31Z |  Automated service health dashboard. |
-| [uber-go/fx](https://github.com/uber-go/fx) | 5k | 283 | 2024-07-14T13:57:48Z |  A dependency injection based application framework for Go (built on top of dig). |
-| [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) | 4k | 261 | 2024-07-13T10:10:19Z |  Random data generator written in go. |
-| [mholt/archiver](https://github.com/mholt/archiver) | 4k | 378 | 2024-07-14T07:54:00Z |  Library and command for making and extracting .zip and .tar.gz archives. |
-| [uber-go/dig](https://github.com/uber-go/dig) | 4k | 206 | 2024-07-13T17:54:46Z |  A reflection based dependency injection toolkit for Go. |
+| [google/wire](https://github.com/google/wire) | 13k | 613 | 2024-07-15T23:46:08Z |  Automated Initialization in Go. |
+| [shirou/gopsutil](https://github.com/shirou/gopsutil) | 10k | 2k | 2024-07-15T03:12:56Z |  Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc). |
+| [TwinProduction/gatus](https://github.com/TwinProduction/gatus) | 6k | 395 | 2024-07-15T20:37:53Z |  Automated service health dashboard. |
+| [uber-go/fx](https://github.com/uber-go/fx) | 5k | 283 | 2024-07-15T17:46:39Z |  A dependency injection based application framework for Go (built on top of dig). |
+| [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) | 4k | 261 | 2024-07-15T17:46:32Z |  Random data generator written in go. |
+| [mholt/archiver](https://github.com/mholt/archiver) | 4k | 378 | 2024-07-15T11:17:25Z |  Library and command for making and extracting .zip and .tar.gz archives. |
+| [uber-go/dig](https://github.com/uber-go/dig) | 4k | 206 | 2024-07-15T04:15:55Z |  A reflection based dependency injection toolkit for Go. |
 | [eapache/go-resiliency](https://github.com/eapache/go-resiliency) | 2k | 145 | 2024-07-09T12:17:55Z |  Resiliency patterns for golang. |
-| [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) | 2k | 265 | 2024-07-12T09:37:20Z |  Base64captch supports digit, number, alphabet, arithmetic, audio and digit-alphabet captcha. |
+| [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) | 2k | 265 | 2024-07-15T10:33:04Z |  Base64captch supports digit, number, alphabet, arithmetic, audio and digit-alphabet captcha. |
 | [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) | 2k | 173 | 2024-07-14T02:27:41Z |  Go application boilerplate and example applying modern practices. |
 | [go-nunu/nunu](https://github.com/go-nunu/nunu) | 2k | 123 | 2024-07-12T07:48:52Z |  Nunu is a scaffolding tool for building Go applications. |
-| [samber/do](https://github.com/samber/do) | 2k | 66 | 2024-07-14T01:31:21Z |  A dependency injection framework based on Generics. |
+| [samber/do](https://github.com/samber/do) | 2k | 66 | 2024-07-15T13:46:46Z |  A dependency injection framework based on Generics. |
 | [haxpax/gosms](https://github.com/haxpax/gosms) | 1k | 156 | 2024-07-09T09:48:55Z |  Your own local SMS gateway in Go that can be used to send SMS. |
-| [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) | 1k | 94 | 2024-07-14T03:56:51Z |  Rapid, easy full-stack web development starter kit built in Go. |
+| [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) | 1k | 94 | 2024-07-15T07:49:10Z |  Rapid, easy full-stack web development starter kit built in Go. |
 | [huandu/xstrings](https://github.com/huandu/xstrings) | 1k | 69 | 2024-07-06T22:02:56Z |  Collection of useful string functions ported from other languages. |
-| [jolestar/go-commons-pool](https://github.com/jolestar/go-commons-pool) | 1k | 149 | 2024-07-08T08:22:52Z |  Generic object pool for Golang. |
-| [llir/llvm](https://github.com/llir/llvm) | 1k | 80 | 2024-07-14T08:54:36Z |  Library for interacting with LLVM IR in pure Go. |
-| [teris-io/shortid](https://github.com/teris-io/shortid) | 928 | 67 | 2024-07-13T21:42:17Z |  Distributed generation of super short, unique, non-sequential, URL friendly IDs. |
-| [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) | 914 | 61 | 2024-07-14T00:35:47Z |  Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others. |
+| [jolestar/go-commons-pool](https://github.com/jolestar/go-commons-pool) | 1k | 149 | 2024-07-15T01:27:14Z |  Generic object pool for Golang. |
+| [llir/llvm](https://github.com/llir/llvm) | 1k | 80 | 2024-07-15T07:05:57Z |  Library for interacting with LLVM IR in pure Go. |
+| [teris-io/shortid](https://github.com/teris-io/shortid) | 928 | 66 | 2024-07-13T21:42:17Z |  Distributed generation of super short, unique, non-sequential, URL friendly IDs. |
+| [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) | 916 | 61 | 2024-07-15T07:19:57Z |  Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others. |
 | [qmuntal/stateless](https://github.com/qmuntal/stateless) | 906 | 48 | 2024-07-12T07:33:58Z |  A fluent library for creating state machines. |
 | [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) | 896 | 31 | 2024-07-14T11:39:26Z |  cross-platform, cli app to perform various operations on string. |
-| [alexliesenfeld/health](https://github.com/alexliesenfeld/health) | 762 | 38 | 2024-07-08T19:15:19Z |  A simple and flexible health check library for Go. |
+| [alexliesenfeld/health](https://github.com/alexliesenfeld/health) | 764 | 38 | 2024-07-15T17:13:37Z |  A simple and flexible health check library for Go. |
 | [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) | 682 | 178 | 2024-07-04T08:31:03Z |  A Go application boilerplate template for quick starting projects following production best practices. |
 | [golobby/container](https://github.com/golobby/container) | 549 | 36 | 2024-07-11T14:35:05Z |  GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language. |
 | [ulikunitz/xz](https://github.com/ulikunitz/xz) | 471 | 43 | 2024-06-21T06:33:36Z |  Pure golang package for reading and writing xz-compressed files. |
 | [allaboutapps/go-starter](https://github.com/allaboutapps/go-starter) | 470 | 58 | 2024-07-13T03:24:49Z |  An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers. |
-| [golang-templates/seed](https://github.com/golang-templates/seed) | 455 | 49 | 2024-07-10T13:29:38Z |  Go application GitHub repository template. |
+| [golang-templates/seed](https://github.com/golang-templates/seed) | 455 | 49 | 2024-07-15T08:06:44Z |  Go application GitHub repository template. |
 | [dimiro1/health](https://github.com/dimiro1/health) | 450 | 40 | 2024-07-03T17:37:20Z |  Easy to use, extensible health check library. |
 | [dimiro1/banner](https://github.com/dimiro1/banner) | 446 | 24 | 2024-07-10T10:25:44Z |  Add beautiful banners into your Go applications. |
 | [pariz/gountries](https://github.com/pariz/gountries) | 407 | 67 | 2024-07-11T23:04:38Z |  Package that exposes country and subdivision data. |
 | [cstockton/go-conv](https://github.com/cstockton/go-conv) | 386 | 20 | 2024-06-06T15:25:38Z |  Package conv provides fast and intuitive conversions across Go types. |
-| [hyperboloide/lk](https://github.com/hyperboloide/lk) | 362 | 60 | 2024-07-10T09:20:31Z |  A simple licensing library for golang. |
+| [hyperboloide/lk](https://github.com/hyperboloide/lk) | 363 | 60 | 2024-07-15T06:39:15Z |  A simple licensing library for golang. |
 | [goioc/di](https://github.com/goioc/di) | 350 | 15 | 2024-07-09T09:44:54Z |  Spring-inspired Dependency Injection Container. |
 | [Fs02/go-todo-backend](https://github.com/Fs02/go-todo-backend) | 310 | 37 | 2024-07-02T18:31:11Z |  Go Todo Backend example using modular project layout for product microservice. |
 | [go-ffmt/ffmt](https://github.com/go-ffmt/ffmt) | 305 | 24 | 2024-07-09T09:48:56Z |  Beautify data display for Humans. |
@@ -110,36 +110,36 @@ These libraries were placed here because none of the other categories seemed to 
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shirou/gopsutil](https://github.com/shirou/gopsutil) | 10k | 2k | 2024-07-13T12:52:16Z |  Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc). |
-| [google/wire](https://github.com/google/wire) | 13k | 613 | 2024-07-14T16:58:39Z |  Automated Initialization in Go. |
-| [TwinProduction/gatus](https://github.com/TwinProduction/gatus) | 6k | 394 | 2024-07-14T11:37:31Z |  Automated service health dashboard. |
-| [mholt/archiver](https://github.com/mholt/archiver) | 4k | 378 | 2024-07-14T07:54:00Z |  Library and command for making and extracting .zip and .tar.gz archives. |
-| [uber-go/fx](https://github.com/uber-go/fx) | 5k | 283 | 2024-07-14T13:57:48Z |  A dependency injection based application framework for Go (built on top of dig). |
-| [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) | 2k | 265 | 2024-07-12T09:37:20Z |  Base64captch supports digit, number, alphabet, arithmetic, audio and digit-alphabet captcha. |
-| [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) | 4k | 261 | 2024-07-13T10:10:19Z |  Random data generator written in go. |
-| [uber-go/dig](https://github.com/uber-go/dig) | 4k | 206 | 2024-07-13T17:54:46Z |  A reflection based dependency injection toolkit for Go. |
+| [shirou/gopsutil](https://github.com/shirou/gopsutil) | 10k | 2k | 2024-07-15T03:12:56Z |  Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc). |
+| [google/wire](https://github.com/google/wire) | 13k | 613 | 2024-07-15T23:46:08Z |  Automated Initialization in Go. |
+| [TwinProduction/gatus](https://github.com/TwinProduction/gatus) | 6k | 395 | 2024-07-15T20:37:53Z |  Automated service health dashboard. |
+| [mholt/archiver](https://github.com/mholt/archiver) | 4k | 378 | 2024-07-15T11:17:25Z |  Library and command for making and extracting .zip and .tar.gz archives. |
+| [uber-go/fx](https://github.com/uber-go/fx) | 5k | 283 | 2024-07-15T17:46:39Z |  A dependency injection based application framework for Go (built on top of dig). |
+| [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) | 2k | 265 | 2024-07-15T10:33:04Z |  Base64captch supports digit, number, alphabet, arithmetic, audio and digit-alphabet captcha. |
+| [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) | 4k | 261 | 2024-07-15T17:46:32Z |  Random data generator written in go. |
+| [uber-go/dig](https://github.com/uber-go/dig) | 4k | 206 | 2024-07-15T04:15:55Z |  A reflection based dependency injection toolkit for Go. |
 | [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) | 682 | 178 | 2024-07-04T08:31:03Z |  A Go application boilerplate template for quick starting projects following production best practices. |
 | [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) | 2k | 173 | 2024-07-14T02:27:41Z |  Go application boilerplate and example applying modern practices. |
 | [haxpax/gosms](https://github.com/haxpax/gosms) | 1k | 156 | 2024-07-09T09:48:55Z |  Your own local SMS gateway in Go that can be used to send SMS. |
-| [jolestar/go-commons-pool](https://github.com/jolestar/go-commons-pool) | 1k | 149 | 2024-07-08T08:22:52Z |  Generic object pool for Golang. |
+| [jolestar/go-commons-pool](https://github.com/jolestar/go-commons-pool) | 1k | 149 | 2024-07-15T01:27:14Z |  Generic object pool for Golang. |
 | [eapache/go-resiliency](https://github.com/eapache/go-resiliency) | 2k | 145 | 2024-07-09T12:17:55Z |  Resiliency patterns for golang. |
 | [go-nunu/nunu](https://github.com/go-nunu/nunu) | 2k | 123 | 2024-07-12T07:48:52Z |  Nunu is a scaffolding tool for building Go applications. |
-| [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) | 1k | 94 | 2024-07-14T03:56:51Z |  Rapid, easy full-stack web development starter kit built in Go. |
-| [llir/llvm](https://github.com/llir/llvm) | 1k | 80 | 2024-07-14T08:54:36Z |  Library for interacting with LLVM IR in pure Go. |
+| [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) | 1k | 94 | 2024-07-15T07:49:10Z |  Rapid, easy full-stack web development starter kit built in Go. |
+| [llir/llvm](https://github.com/llir/llvm) | 1k | 80 | 2024-07-15T07:05:57Z |  Library for interacting with LLVM IR in pure Go. |
 | [huandu/xstrings](https://github.com/huandu/xstrings) | 1k | 69 | 2024-07-06T22:02:56Z |  Collection of useful string functions ported from other languages. |
-| [teris-io/shortid](https://github.com/teris-io/shortid) | 928 | 67 | 2024-07-13T21:42:17Z |  Distributed generation of super short, unique, non-sequential, URL friendly IDs. |
 | [pariz/gountries](https://github.com/pariz/gountries) | 407 | 67 | 2024-07-11T23:04:38Z |  Package that exposes country and subdivision data. |
-| [samber/do](https://github.com/samber/do) | 2k | 66 | 2024-07-14T01:31:21Z |  A dependency injection framework based on Generics. |
-| [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) | 914 | 61 | 2024-07-14T00:35:47Z |  Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others. |
-| [hyperboloide/lk](https://github.com/hyperboloide/lk) | 362 | 60 | 2024-07-10T09:20:31Z |  A simple licensing library for golang. |
+| [samber/do](https://github.com/samber/do) | 2k | 66 | 2024-07-15T13:46:46Z |  A dependency injection framework based on Generics. |
+| [teris-io/shortid](https://github.com/teris-io/shortid) | 928 | 66 | 2024-07-13T21:42:17Z |  Distributed generation of super short, unique, non-sequential, URL friendly IDs. |
+| [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) | 916 | 61 | 2024-07-15T07:19:57Z |  Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others. |
+| [hyperboloide/lk](https://github.com/hyperboloide/lk) | 363 | 60 | 2024-07-15T06:39:15Z |  A simple licensing library for golang. |
 | [allaboutapps/go-starter](https://github.com/allaboutapps/go-starter) | 470 | 58 | 2024-07-13T03:24:49Z |  An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers. |
-| [golang-templates/seed](https://github.com/golang-templates/seed) | 455 | 49 | 2024-07-10T13:29:38Z |  Go application GitHub repository template. |
+| [golang-templates/seed](https://github.com/golang-templates/seed) | 455 | 49 | 2024-07-15T08:06:44Z |  Go application GitHub repository template. |
 | [qmuntal/stateless](https://github.com/qmuntal/stateless) | 906 | 48 | 2024-07-12T07:33:58Z |  A fluent library for creating state machines. |
 | [gen2brain/go-unarr](https://github.com/gen2brain/go-unarr) | 276 | 44 | 2024-07-10T08:40:17Z |  Decompression library for RAR, TAR, ZIP and 7z archives. |
 | [ulikunitz/xz](https://github.com/ulikunitz/xz) | 471 | 43 | 2024-06-21T06:33:36Z |  Pure golang package for reading and writing xz-compressed files. |
 | [antchfx/antch](https://github.com/antchfx/antch) | 259 | 41 | 2024-07-06T08:29:24Z |  A fast, powerful and extensible web crawling & scraping framework. |
 | [dimiro1/health](https://github.com/dimiro1/health) | 450 | 40 | 2024-07-03T17:37:20Z |  Easy to use, extensible health check library. |
-| [alexliesenfeld/health](https://github.com/alexliesenfeld/health) | 762 | 38 | 2024-07-08T19:15:19Z |  A simple and flexible health check library for Go. |
+| [alexliesenfeld/health](https://github.com/alexliesenfeld/health) | 764 | 38 | 2024-07-15T17:13:37Z |  A simple and flexible health check library for Go. |
 | [Fs02/go-todo-backend](https://github.com/Fs02/go-todo-backend) | 310 | 37 | 2024-07-02T18:31:11Z |  Go Todo Backend example using modular project layout for product microservice. |
 | [golobby/container](https://github.com/golobby/container) | 549 | 36 | 2024-07-11T14:35:05Z |  GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language. |
 | [distatus/battery](https://github.com/distatus/battery) | 242 | 36 | 2024-06-18T22:51:36Z |  Cross-platform, normalized battery information library. |
@@ -214,33 +214,35 @@ These libraries were placed here because none of the other categories seemed to 
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [google/wire](https://github.com/google/wire) | 13k | 613 | 2024-07-14T16:58:39Z |  Automated Initialization in Go. |
-| [uber-go/fx](https://github.com/uber-go/fx) | 5k | 283 | 2024-07-14T13:57:48Z |  A dependency injection based application framework for Go (built on top of dig). |
+| [google/wire](https://github.com/google/wire) | 13k | 613 | 2024-07-15T23:46:08Z |  Automated Initialization in Go. |
+| [TwinProduction/gatus](https://github.com/TwinProduction/gatus) | 6k | 395 | 2024-07-15T20:37:53Z |  Automated service health dashboard. |
+| [uber-go/fx](https://github.com/uber-go/fx) | 5k | 283 | 2024-07-15T17:46:39Z |  A dependency injection based application framework for Go (built on top of dig). |
+| [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) | 4k | 261 | 2024-07-15T17:46:32Z |  Random data generator written in go. |
+| [alexliesenfeld/health](https://github.com/alexliesenfeld/health) | 764 | 38 | 2024-07-15T17:13:37Z |  A simple and flexible health check library for Go. |
+| [samber/do](https://github.com/samber/do) | 2k | 66 | 2024-07-15T13:46:46Z |  A dependency injection framework based on Generics. |
+| [mholt/archiver](https://github.com/mholt/archiver) | 4k | 378 | 2024-07-15T11:17:25Z |  Library and command for making and extracting .zip and .tar.gz archives. |
+| [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) | 2k | 265 | 2024-07-15T10:33:04Z |  Base64captch supports digit, number, alphabet, arithmetic, audio and digit-alphabet captcha. |
+| [golang-templates/seed](https://github.com/golang-templates/seed) | 455 | 49 | 2024-07-15T08:06:44Z |  Go application GitHub repository template. |
+| [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) | 1k | 94 | 2024-07-15T07:49:10Z |  Rapid, easy full-stack web development starter kit built in Go. |
+| [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) | 916 | 61 | 2024-07-15T07:19:57Z |  Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others. |
+| [llir/llvm](https://github.com/llir/llvm) | 1k | 80 | 2024-07-15T07:05:57Z |  Library for interacting with LLVM IR in pure Go. |
+| [hyperboloide/lk](https://github.com/hyperboloide/lk) | 363 | 60 | 2024-07-15T06:39:15Z |  A simple licensing library for golang. |
+| [uber-go/dig](https://github.com/uber-go/dig) | 4k | 206 | 2024-07-15T04:15:55Z |  A reflection based dependency injection toolkit for Go. |
+| [shirou/gopsutil](https://github.com/shirou/gopsutil) | 10k | 2k | 2024-07-15T03:12:56Z |  Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc). |
+| [jolestar/go-commons-pool](https://github.com/jolestar/go-commons-pool) | 1k | 149 | 2024-07-15T01:27:14Z |  Generic object pool for Golang. |
 | [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) | 896 | 31 | 2024-07-14T11:39:26Z |  cross-platform, cli app to perform various operations on string. |
-| [TwinProduction/gatus](https://github.com/TwinProduction/gatus) | 6k | 394 | 2024-07-14T11:37:31Z |  Automated service health dashboard. |
-| [llir/llvm](https://github.com/llir/llvm) | 1k | 80 | 2024-07-14T08:54:36Z |  Library for interacting with LLVM IR in pure Go. |
-| [mholt/archiver](https://github.com/mholt/archiver) | 4k | 378 | 2024-07-14T07:54:00Z |  Library and command for making and extracting .zip and .tar.gz archives. |
 | [go-kod/kod](https://github.com/go-kod/kod) | 109 | 3 | 2024-07-14T05:03:08Z |  A generics based dependency injection framework for Go. |
-| [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) | 1k | 94 | 2024-07-14T03:56:51Z |  Rapid, easy full-stack web development starter kit built in Go. |
 | [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) | 2k | 173 | 2024-07-14T02:27:41Z |  Go application boilerplate and example applying modern practices. |
-| [samber/do](https://github.com/samber/do) | 2k | 66 | 2024-07-14T01:31:21Z |  A dependency injection framework based on Generics. |
-| [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) | 914 | 61 | 2024-07-14T00:35:47Z |  Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others. |
 | [NVIDIA/gontainer](https://github.com/NVIDIA/gontainer) | 32 | 3 | 2024-07-13T22:08:11Z |  A dependency injection service container for Go projects. |
-| [teris-io/shortid](https://github.com/teris-io/shortid) | 928 | 67 | 2024-07-13T21:42:17Z |  Distributed generation of super short, unique, non-sequential, URL friendly IDs. |
-| [uber-go/dig](https://github.com/uber-go/dig) | 4k | 206 | 2024-07-13T17:54:46Z |  A reflection based dependency injection toolkit for Go. |
-| [shirou/gopsutil](https://github.com/shirou/gopsutil) | 10k | 2k | 2024-07-13T12:52:16Z |  Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc). |
-| [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) | 4k | 261 | 2024-07-13T10:10:19Z |  Random data generator written in go. |
+| [teris-io/shortid](https://github.com/teris-io/shortid) | 928 | 66 | 2024-07-13T21:42:17Z |  Distributed generation of super short, unique, non-sequential, URL friendly IDs. |
 | [allaboutapps/go-starter](https://github.com/allaboutapps/go-starter) | 470 | 58 | 2024-07-13T03:24:49Z |  An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers. |
 | [goava/di](https://github.com/goava/di) | 231 | 13 | 2024-07-12T22:37:20Z |  A dependency injection container for go programming language. |
-| [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) | 2k | 265 | 2024-07-12T09:37:20Z |  Base64captch supports digit, number, alphabet, arithmetic, audio and digit-alphabet captcha. |
 | [go-nunu/nunu](https://github.com/go-nunu/nunu) | 2k | 123 | 2024-07-12T07:48:52Z |  Nunu is a scaffolding tool for building Go applications. |
 | [qmuntal/stateless](https://github.com/qmuntal/stateless) | 906 | 48 | 2024-07-12T07:33:58Z |  A fluent library for creating state machines. |
 | [antham/gommit](https://github.com/antham/gommit) | 111 | 5 | 2024-07-12T07:23:26Z |  Analyze git commit messages to ensure they follow defined patterns. |
 | [pariz/gountries](https://github.com/pariz/gountries) | 407 | 67 | 2024-07-11T23:04:38Z |  Package that exposes country and subdivision data. |
 | [golobby/container](https://github.com/golobby/container) | 549 | 36 | 2024-07-11T14:35:05Z |  GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language. |
-| [golang-templates/seed](https://github.com/golang-templates/seed) | 455 | 49 | 2024-07-10T13:29:38Z |  Go application GitHub repository template. |
 | [dimiro1/banner](https://github.com/dimiro1/banner) | 446 | 24 | 2024-07-10T10:25:44Z |  Add beautiful banners into your Go applications. |
-| [hyperboloide/lk](https://github.com/hyperboloide/lk) | 362 | 60 | 2024-07-10T09:20:31Z |  A simple licensing library for golang. |
 | [gen2brain/go-unarr](https://github.com/gen2brain/go-unarr) | 276 | 44 | 2024-07-10T08:40:17Z |  Decompression library for RAR, TAR, ZIP and 7z archives. |
 | [wangyoucao577/go-project-layout](https://github.com/wangyoucao577/go-project-layout) | 25 | 2 | 2024-07-09T22:38:48Z |  Set of practices and discussions on how to structure Go project layout. |
 | [eapache/go-resiliency](https://github.com/eapache/go-resiliency) | 2k | 145 | 2024-07-09T12:17:55Z |  Resiliency patterns for golang. |
@@ -251,8 +253,6 @@ These libraries were placed here because none of the other categories seemed to 
 | [chmike/varint](https://github.com/chmike/varint) | 13 | 1 | 2024-07-09T09:48:43Z |  A faster varying length integer encoder/decoder than the one provided in the standard library. |
 | [goioc/di](https://github.com/goioc/di) | 350 | 15 | 2024-07-09T09:44:54Z |  Spring-inspired Dependency Injection Container. |
 | [i-love-flamingo/dingo](https://github.com/i-love-flamingo/dingo) | 178 | 13 | 2024-07-09T09:44:51Z |  A dependency injection toolkit for Go, based on Guice. |
-| [alexliesenfeld/health](https://github.com/alexliesenfeld/health) | 762 | 38 | 2024-07-08T19:15:19Z |  A simple and flexible health check library for Go. |
-| [jolestar/go-commons-pool](https://github.com/jolestar/go-commons-pool) | 1k | 149 | 2024-07-08T08:22:52Z |  Generic object pool for Golang. |
 | [osamingo/gosh](https://github.com/osamingo/gosh) | 36 | 2 | 2024-07-07T04:35:09Z |  Provide Go Statistics Handler, Struct, Measure Method. |
 | [huandu/xstrings](https://github.com/huandu/xstrings) | 1k | 69 | 2024-07-06T22:02:56Z |  Collection of useful string functions ported from other languages. |
 | [wajox/gobase](https://github.com/wajox/gobase) | 60 | 6 | 2024-07-06T14:08:42Z |  A simple skeleton for golang application with basic setup for real golang application. |
@@ -309,8 +309,8 @@ These libraries were placed here because none of the other categories seemed to 
 | [artyom/autoflags](https://github.com/artyom/autoflags) | 39 | 5 | 2023-06-27T11:32:25Z |  Go package to automatically define command line flags from struct fields. |
 | [kubeservice-stack/common](https://github.com/kubeservice-stack/common) | 4 | 3 | 2023-06-12T04:12:33Z |  A library for server framework. |
 | [/](https://github.com/go-openapi) | 0 | 0 | 0001-01-01T00:00:00Z |  Collection of packages to parse and utilize open-api schemas. |
-| [/](https://github.com/golang-standards/project-layout/issues/117) | 0 | 0 | 0001-01-01T00:00:00Z | for more information. Nonetheless, some may find the layout useful. |
 | [/](https://github.com/azr/generators/tree/master/varhandler) | 0 | 0 | 0001-01-01T00:00:00Z |  Generate boilerplate http input and output handling. |
 | [/](https://github.com/happy-sdk/happy/tree/main/pkg/strings/bexp) | 0 | 0 | 0001-01-01T00:00:00Z |  Go implementation of Brace Expansion mechanism to generate arbitrary strings. |
 | [/](https://github.com/ardanlabs/service/wiki) | 0 | 0 | 0001-01-01T00:00:00Z | for building production grade scalable web service applications. |
+| [/](https://github.com/golang-standards/project-layout/issues/117) | 0 | 0 | 0001-01-01T00:00:00Z | for more information. Nonetheless, some may find the layout useful. |
 
