@@ -6,8 +6,8 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2024-08-04T20:41:22Z |  Go development plugin for Vim. |
-| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 658 | 2024-08-04T08:37:01Z |  Autocompletion daemon for the Go programming language. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2024-08-05T10:39:40Z |  Go development plugin for Vim. |
+| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 658 | 2024-08-05T15:00:31Z |  Autocompletion daemon for the Go programming language. |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 729 | 2024-08-04T23:07:07Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 302 | 2024-07-31T17:24:32Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 129 | 2024-06-14T18:23:40Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
@@ -25,9 +25,9 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2024-08-04T20:41:22Z |  Go development plugin for Vim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2024-08-05T10:39:40Z |  Go development plugin for Vim. |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 729 | 2024-08-04T23:07:07Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
-| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 658 | 2024-08-04T08:37:01Z |  Autocompletion daemon for the Go programming language. |
+| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 658 | 2024-08-05T15:00:31Z |  Autocompletion daemon for the Go programming language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 302 | 2024-07-31T17:24:32Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 209 | 2024-07-31T14:25:40Z |  Go mode for GNU/Emacs. |
 | [joefitzgerald/go-plus](https://github.com/joefitzgerald/go-plus) | 2k | 129 | 2024-06-14T18:23:40Z |  Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting. |
@@ -44,9 +44,9 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 658 | 2024-08-05T15:00:31Z |  Autocompletion daemon for the Go programming language. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2024-08-05T10:39:40Z |  Go development plugin for Vim. |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 729 | 2024-08-04T23:07:07Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2024-08-04T20:41:22Z |  Go development plugin for Vim. |
-| [nsf/gocode](https://github.com/nsf/gocode) | 5k | 658 | 2024-08-04T08:37:01Z |  Autocompletion daemon for the Go programming language. |
 | [rjohnsondev/vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go) | 89 | 17 | 2024-08-03T13:03:20Z |  Vim plugin to highlight syntax errors on save. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 574 | 73 | 2024-08-02T14:06:29Z |  Formatting tool for imports. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 302 | 2024-07-31T17:24:32Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
