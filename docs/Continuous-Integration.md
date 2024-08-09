@@ -6,9 +6,9 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 32k | 3k | 2024-08-07T23:41:39Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 416 | 2024-08-07T15:33:18Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 4k | 352 | 2024-08-07T22:26:54Z |  Woodpecker is a community fork of the Drone CI system. |
+| [drone/drone](https://github.com/drone/drone) | 32k | 3k | 2024-08-08T22:00:07Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 416 | 2024-08-08T13:39:04Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 4k | 352 | 2024-08-08T17:58:03Z |  Woodpecker is a community fork of the Drone CI system. |
 | [mattn/goveralls](https://github.com/mattn/goveralls) | 787 | 140 | 2024-07-29T18:31:34Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
 | [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) | 492 | 9 | 2024-08-06T11:47:38Z |  go test output for humans. |
 | [go-playground/overalls](https://github.com/go-playground/overalls) | 114 | 26 | 2023-10-03T00:20:25Z |  Multi-Package go project coverprofile for tools like goveralls. |
@@ -24,9 +24,9 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 32k | 3k | 2024-08-07T23:41:39Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 416 | 2024-08-07T15:33:18Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 4k | 352 | 2024-08-07T22:26:54Z |  Woodpecker is a community fork of the Drone CI system. |
+| [drone/drone](https://github.com/drone/drone) | 32k | 3k | 2024-08-08T22:00:07Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 416 | 2024-08-08T13:39:04Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 4k | 352 | 2024-08-08T17:58:03Z |  Woodpecker is a community fork of the Drone CI system. |
 | [mattn/goveralls](https://github.com/mattn/goveralls) | 787 | 140 | 2024-07-29T18:31:34Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
 | [go-playground/overalls](https://github.com/go-playground/overalls) | 114 | 26 | 2023-10-03T00:20:25Z |  Multi-Package go project coverprofile for tools like goveralls. |
 | [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) | 73 | 9 | 2024-08-07T04:45:00Z |  Tool and GitHub action which reports issues when test coverage is below set threshold. |
@@ -42,9 +42,9 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 32k | 3k | 2024-08-07T23:41:39Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 4k | 352 | 2024-08-07T22:26:54Z |  Woodpecker is a community fork of the Drone CI system. |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 416 | 2024-08-07T15:33:18Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [drone/drone](https://github.com/drone/drone) | 32k | 3k | 2024-08-08T22:00:07Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 4k | 352 | 2024-08-08T17:58:03Z |  Woodpecker is a community fork of the Drone CI system. |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 416 | 2024-08-08T13:39:04Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
 | [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) | 73 | 9 | 2024-08-07T04:45:00Z |  Tool and GitHub action which reports issues when test coverage is below set threshold. |
 | [jidicula/go-fuzz-action](https://github.com/jidicula/go-fuzz-action) | 15 | 2 | 2024-08-06T17:36:24Z |  Use Go 1.18's built-in fuzz testing in GitHub Actions. |
 | [gha-common/go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) | 7 | 0 | 2024-08-06T17:36:19Z |  A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free. |
