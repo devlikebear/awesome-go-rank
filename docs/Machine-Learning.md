@@ -7,8 +7,8 @@ Libraries for Machine Learning.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-08-10T13:36:16Z |  General Machine Learning library for Go. |
-| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 763 | 2024-08-09T08:01:03Z |  An offline recommender system backend based on collaborative filtering written in Go. |
-| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 432 | 2024-08-11T00:04:03Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
+| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 763 | 2024-08-11T18:42:38Z |  An offline recommender system backend based on collaborative filtering written in Go. |
+| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 432 | 2024-08-11T12:24:59Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
 | [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 240 | 2024-08-08T10:38:58Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
 | [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 282 | 2024-08-09T09:03:14Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 154 | 2024-08-09T14:21:22Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
@@ -51,8 +51,8 @@ Libraries for Machine Learning.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-08-10T13:36:16Z |  General Machine Learning library for Go. |
-| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 763 | 2024-08-09T08:01:03Z |  An offline recommender system backend based on collaborative filtering written in Go. |
-| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 432 | 2024-08-11T00:04:03Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
+| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 763 | 2024-08-11T18:42:38Z |  An offline recommender system backend based on collaborative filtering written in Go. |
+| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 432 | 2024-08-11T12:24:59Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
 | [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 282 | 2024-08-09T09:03:14Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
 | [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 240 | 2024-08-08T10:38:58Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 154 | 2024-08-09T14:21:22Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
@@ -94,12 +94,12 @@ Libraries for Machine Learning.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 432 | 2024-08-11T00:04:03Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
+| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 763 | 2024-08-11T18:42:38Z |  An offline recommender system backend based on collaborative filtering written in Go. |
+| [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 5k | 432 | 2024-08-11T12:24:59Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
 | [jinyeom/neat](https://github.com/jinyeom/neat) | 72 | 13 | 2024-08-10T17:21:33Z |  Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). |
 | [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2024-08-10T13:36:16Z |  General Machine Learning library for Go. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 154 | 2024-08-09T14:21:22Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
 | [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 282 | 2024-08-09T09:03:14Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
-| [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 8k | 763 | 2024-08-09T08:01:03Z |  An offline recommender system backend based on collaborative filtering written in Go. |
 | [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 240 | 2024-08-08T10:38:58Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
 | [ryanbressler/CloudForest](https://github.com/ryanbressler/CloudForest) | 737 | 92 | 2024-08-07T13:07:24Z |  Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go. |
 | [knights-analytics/hugot](https://github.com/knights-analytics/hugot) | 229 | 10 | 2024-08-07T11:38:24Z |  Huggingface transformer pipelines for golang with onnxruntime. |
