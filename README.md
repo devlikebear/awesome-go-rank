@@ -28,6 +28,7 @@ This is a ranking of GitHub repositories from
 * [Command Line](docs/Command-Line.md)<br/>Libraries for building standard or basic Command Line applications.
 * [Configuration](docs/Configuration.md)<br/>Libraries for configuration parsing.
 * [Continuous Integration](docs/Continuous-Integration.md)<br/>Tools for help with continuous integration.
+* [Data Integration Frameworks](docs/Data-Integration-Frameworks.md)<br/>Frameworks for performing ELT / ETL
 * [Database](docs/Database.md)<br/>Libraries for building and using SQL.
 * [Date and Time](docs/Date-and-Time.md)<br/>Libraries for working with dates and times.
 * [Distributed Systems](docs/Distributed-Systems.md)<br/>Packages that help with building Distributed Systems.
