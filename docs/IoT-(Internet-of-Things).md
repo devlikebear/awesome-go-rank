@@ -7,9 +7,9 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 289 | 2024-08-10T14:20:30Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-08-14T07:08:58Z |  Lightweight data stream processing engine for IoT edge. |
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 113 | 2024-08-14T07:20:03Z |  Kubernetes native IoT development framework. |
-| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-13T23:53:18Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-08-15T09:27:38Z |  Lightweight data stream processing engine for IoT edge. |
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 113 | 2024-08-15T20:19:02Z |  Kubernetes native IoT development framework. |
+| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-15T03:26:37Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 400 | 31 | 2024-08-14T11:50:04Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 263 | 33 | 2024-05-23T13:42:18Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [amimof/huego](https://github.com/amimof/huego) | 249 | 36 | 2024-07-31T15:46:27Z |  An extensive Philips Hue client library for Go. |
@@ -24,10 +24,10 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-08-14T07:08:58Z |  Lightweight data stream processing engine for IoT edge. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-08-15T09:27:38Z |  Lightweight data stream processing engine for IoT edge. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 289 | 2024-08-10T14:20:30Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-13T23:53:18Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 113 | 2024-08-14T07:20:03Z |  Kubernetes native IoT development framework. |
+| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-15T03:26:37Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 113 | 2024-08-15T20:19:02Z |  Kubernetes native IoT development framework. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 230 | 41 | 2024-06-09T19:28:18Z |  Lightweight stream processing engine for IoT. |
 | [amimof/huego](https://github.com/amimof/huego) | 249 | 36 | 2024-07-31T15:46:27Z |  An extensive Philips Hue client library for Go. |
 | [goiot/devices](https://github.com/goiot/devices) | 263 | 33 | 2024-05-23T13:42:18Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
@@ -42,10 +42,10 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 113 | 2024-08-15T20:19:02Z |  Kubernetes native IoT development framework. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-08-15T09:27:38Z |  Lightweight data stream processing engine for IoT edge. |
+| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-15T03:26:37Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 400 | 31 | 2024-08-14T11:50:04Z |  Open-Source Platform for Quantified Self & IoT. |
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 113 | 2024-08-14T07:20:03Z |  Kubernetes native IoT development framework. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-08-14T07:08:58Z |  Lightweight data stream processing engine for IoT edge. |
-| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-13T23:53:18Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 76 | 10 | 2024-08-11T18:16:18Z |  Software package for IoT automation. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 289 | 2024-08-10T14:20:30Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 39 | 17 | 2024-08-09T20:25:42Z |  Industrial IoT Messaging and Device Management Server. |
