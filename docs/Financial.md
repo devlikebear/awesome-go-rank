@@ -8,10 +8,10 @@ Packages for accounting and finance.
 |------------|-------|-------|--------------|-------------|
 | [shopspring/decimal](https://github.com/shopspring/decimal) | 6k | 615 | 2024-08-17T15:10:36Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2024-08-17T08:11:12Z |  Terminal stock watcher and stock position tracker. |
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 144 | 2024-08-15T21:33:42Z |  Implementation of Fowler's Money pattern. |
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 144 | 2024-08-18T20:33:22Z |  Implementation of Fowler's Money pattern. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 1k | 278 | 2024-08-17T12:47:52Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 876 | 73 | 2024-08-09T18:24:22Z |  money and currency formatting for golang. |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 820 | 143 | 2024-08-13T06:39:00Z |  Technical analysis library with advanced market analysis and trading strategies. |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 820 | 144 | 2024-08-13T06:39:00Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 526 | 41 | 2024-08-16T07:16:47Z |  Handles currency amounts, provides currency information and formatting. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 450 | 150 | 2024-08-15T18:16:15Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 420 | 147 | 2024-08-15T19:40:18Z |  Matching Engine for Limit Order Book in Golang. |
@@ -39,8 +39,8 @@ Packages for accounting and finance.
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2024-08-17T08:11:12Z |  Terminal stock watcher and stock position tracker. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 450 | 150 | 2024-08-15T18:16:15Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 420 | 147 | 2024-08-15T19:40:18Z |  Matching Engine for Limit Order Book in Golang. |
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 144 | 2024-08-15T21:33:42Z |  Implementation of Fowler's Money pattern. |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 820 | 143 | 2024-08-13T06:39:00Z |  Technical analysis library with advanced market analysis and trading strategies. |
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 144 | 2024-08-18T20:33:22Z |  Implementation of Fowler's Money pattern. |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 820 | 144 | 2024-08-13T06:39:00Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 876 | 73 | 2024-08-09T18:24:22Z |  money and currency formatting for golang. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 526 | 41 | 2024-08-16T07:16:47Z |  Handles currency amounts, provides currency information and formatting. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 138 | 28 | 2024-08-09T02:39:53Z |  Query OFX servers and/or parse the responses (with example command-line client). |
@@ -62,16 +62,16 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 144 | 2024-08-18T20:33:22Z |  Implementation of Fowler's Money pattern. |
 | [shopspring/decimal](https://github.com/shopspring/decimal) | 6k | 615 | 2024-08-17T15:10:36Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 1k | 278 | 2024-08-17T12:47:52Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 264 | 2024-08-17T08:11:12Z |  Terminal stock watcher and stock position tracker. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 526 | 41 | 2024-08-16T07:16:47Z |  Handles currency amounts, provides currency information and formatting. |
-| [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 144 | 2024-08-15T21:33:42Z |  Implementation of Fowler's Money pattern. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 420 | 147 | 2024-08-15T19:40:18Z |  Matching Engine for Limit Order Book in Golang. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 450 | 150 | 2024-08-15T18:16:15Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 112 | 16 | 2024-08-13T23:53:39Z |  VAT number validation & EU VAT rates. |
 | [nikolaydubina/fpdecimal](https://github.com/nikolaydubina/fpdecimal) | 30 | 2 | 2024-08-13T09:37:40Z |  Fast and precise serialization and arithmetic for small fixed-point decimals |
-| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 820 | 143 | 2024-08-13T06:39:00Z |  Technical analysis library with advanced market analysis and trading strategies. |
+| [sdcoffey/techan](https://github.com/sdcoffey/techan) | 820 | 144 | 2024-08-13T06:39:00Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [govalues/decimal](https://github.com/govalues/decimal) | 58 | 5 | 2024-08-12T11:05:23Z |  Immutable decimal numbers with panic-free arithmetic. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 876 | 73 | 2024-08-09T18:24:22Z |  money and currency formatting for golang. |
 | [jovandeginste/payme](https://github.com/jovandeginste/payme) | 85 | 5 | 2024-08-09T08:33:07Z |  QR code generator (ASCII & PNG) for SEPA payments. |
