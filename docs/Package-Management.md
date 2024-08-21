@@ -6,7 +6,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-08-19T11:31:51Z |  Go dependency tool. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-08-20T09:37:13Z |  Go dependency tool. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 541 | 2024-08-19T21:22:23Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 455 | 2024-08-17T13:49:24Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 398 | 2024-08-13T23:55:44Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
@@ -26,7 +26,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-08-19T11:31:51Z |  Go dependency tool. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-08-20T09:37:13Z |  Go dependency tool. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 541 | 2024-08-19T21:22:23Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 455 | 2024-08-17T13:49:24Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 398 | 2024-08-13T23:55:44Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
@@ -46,8 +46,8 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-08-20T09:37:13Z |  Go dependency tool. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 541 | 2024-08-19T21:22:23Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-08-19T11:31:51Z |  Go dependency tool. |
 | [mattn/gom](https://github.com/mattn/gom) | 1k | 92 | 2024-08-17T13:49:27Z |  Go Manager - bundle for go. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 455 | 2024-08-17T13:49:24Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 308 | 19 | 2024-08-16T17:05:18Z |  Update binaries installed by "go install". |
