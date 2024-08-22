@@ -17,6 +17,7 @@ This is a ranking of GitHub repositories from
 
 ## Table of Contents
 
+* [Actor Model](docs/Actor-Model.md)<br/>Libraries for building actor-based programs.
 * [Artificial Intelligence](docs/Artificial-Intelligence.md)<br/>Libraries for building programs that leverage AI.
 * [Audio and Music](docs/Audio-and-Music.md)<br/>Libraries for manipulating audio.
 * [Authentication and OAuth](docs/Authentication-and-OAuth.md)<br/>Libraries for implementing authentication schemes.
