@@ -13,7 +13,7 @@ Libraries for scientific computing and data analyzing.
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 111 | 2024-07-31T04:26:54Z |  general purpose, graphical tool for dealing with streams of data. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 94 | 2024-08-29T10:53:39Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [paulmach/orb](https://github.com/paulmach/orb) | 883 | 102 | 2024-08-29T15:45:40Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
-| [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 852 | 89 | 2024-08-13T18:58:01Z |  Digital Signal Processing for Go. |
+| [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 853 | 89 | 2024-08-30T18:39:21Z |  Digital Signal Processing for Go. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 772 | 104 | 2024-08-29T06:08:36Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 735 | 77 | 2024-08-15T11:53:35Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 700 | 64 | 2024-08-23T11:55:54Z |  Library of basic graph algorithms. |
@@ -53,7 +53,7 @@ Libraries for scientific computing and data analyzing.
 | [vdobler/chart](https://github.com/vdobler/chart) | 772 | 104 | 2024-08-29T06:08:36Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 883 | 102 | 2024-08-29T15:45:40Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 94 | 2024-08-29T10:53:39Z |  Dataframes for machine-learning and statistics (similar to pandas). |
-| [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 852 | 89 | 2024-08-13T18:58:01Z |  Digital Signal Processing for Go. |
+| [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 853 | 89 | 2024-08-30T18:39:21Z |  Digital Signal Processing for Go. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 735 | 77 | 2024-08-15T11:53:35Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 700 | 64 | 2024-08-23T11:55:54Z |  Library of basic graph algorithms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 433 | 36 | 2024-08-19T15:11:41Z |  Exponentially-weighted moving averages. |
@@ -84,6 +84,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 853 | 89 | 2024-08-30T18:39:21Z |  Digital Signal Processing for Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 168 | 2024-08-29T19:44:10Z |  Statistics package with common functions missing from the Golang standard library. |
 | [gonum/gonum](https://github.com/gonum/gonum) | 7k | 535 | 2024-08-29T19:43:37Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 883 | 102 | 2024-08-29T15:45:40Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
@@ -99,7 +100,6 @@ Libraries for scientific computing and data analyzing.
 | [soniah/evaler](https://github.com/soniah/evaler) | 51 | 17 | 2024-08-17T13:49:21Z |  Simple floating point arithmetic expression evaluator. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 158 | 23 | 2024-08-16T18:44:17Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 735 | 77 | 2024-08-15T11:53:35Z |  Pure Go graph theory library(data structure, algorithm visualization). |
-| [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 852 | 89 | 2024-08-13T18:58:01Z |  Digital Signal Processing for Go. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 112 | 8 | 2024-08-10T19:13:14Z |  State estimation and filtering algorithms in Go. |
 | [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 83 | 21 | 2024-08-09T11:13:23Z |  Weighted PageRank algorithm implemented in Go. |
 | [ThePaw/go-gt](https://github.com/ThePaw/go-gt) | 11 | 2 | 2024-08-06T03:42:36Z |  Graph theory algorithms written in "Go" language. |

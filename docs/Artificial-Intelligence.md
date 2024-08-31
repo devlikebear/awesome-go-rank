@@ -6,26 +6,26 @@ Libraries for building programs that leverage AI.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 87k | 7k | 2024-08-29T23:56:28Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 23k | 2k | 2024-08-29T23:25:27Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 569 | 2024-08-29T22:35:41Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 87k | 7k | 2024-08-30T23:36:58Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 23k | 2k | 2024-08-30T23:21:51Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 571 | 2024-08-30T17:54:53Z |  LangChainGo is a framework for developing applications powered by language models. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 12 | 0 | 2024-08-29T00:00:14Z |  Manage, load-balance, and failover packs of Ollamas |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 87k | 7k | 2024-08-29T23:56:28Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 23k | 2k | 2024-08-29T23:25:27Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 569 | 2024-08-29T22:35:41Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 87k | 7k | 2024-08-30T23:36:58Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 23k | 2k | 2024-08-30T23:21:51Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 571 | 2024-08-30T17:54:53Z |  LangChainGo is a framework for developing applications powered by language models. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 12 | 0 | 2024-08-29T00:00:14Z |  Manage, load-balance, and failover packs of Ollamas |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 87k | 7k | 2024-08-29T23:56:28Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 23k | 2k | 2024-08-29T23:25:27Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 569 | 2024-08-29T22:35:41Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 87k | 7k | 2024-08-30T23:36:58Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 23k | 2k | 2024-08-30T23:21:51Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 571 | 2024-08-30T17:54:53Z |  LangChainGo is a framework for developing applications powered by language models. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 12 | 0 | 2024-08-29T00:00:14Z |  Manage, load-balance, and failover packs of Ollamas |
 
