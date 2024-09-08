@@ -6,7 +6,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-08-30T16:36:11Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-07T10:06:33Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-09-06T08:07:03Z |  Lightweight data stream processing engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 114 | 2024-09-06T06:15:38Z |  Kubernetes native IoT development framework. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-31T19:16:26Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
@@ -16,7 +16,7 @@ Libraries for programming devices of the IoT.
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 230 | 41 | 2024-06-09T19:28:18Z |  Lightweight stream processing engine for IoT. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 79 | 10 | 2024-09-03T18:39:07Z |  Software package for IoT automation. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 63 | 16 | 2024-09-05T02:42:15Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 40 | 17 | 2024-09-06T17:08:58Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 40 | 17 | 2024-09-07T14:52:58Z |  Industrial IoT Messaging and Device Management Server. |
 | [/](https://github.com/vaelen/iot/) | 0 | 0 | 0001-01-01T00:00:00Z |  IoT is a simple framework for implementing a Google IoT Core device. |
 | [/](https://github.com/hybridgroup/gobot/) | 0 | 0 | 0001-01-01T00:00:00Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
 
@@ -25,14 +25,14 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-09-06T08:07:03Z |  Lightweight data stream processing engine for IoT edge. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-08-30T16:36:11Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-07T10:06:33Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-31T19:16:26Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 114 | 2024-09-06T06:15:38Z |  Kubernetes native IoT development framework. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 230 | 41 | 2024-06-09T19:28:18Z |  Lightweight stream processing engine for IoT. |
 | [amimof/huego](https://github.com/amimof/huego) | 249 | 36 | 2024-07-31T15:46:27Z |  An extensive Philips Hue client library for Go. |
 | [goiot/devices](https://github.com/goiot/devices) | 263 | 33 | 2024-05-23T13:42:18Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 400 | 31 | 2024-08-14T11:50:04Z |  Open-Source Platform for Quantified Self & IoT. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 40 | 17 | 2024-09-06T17:08:58Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 40 | 17 | 2024-09-07T14:52:58Z |  Industrial IoT Messaging and Device Management Server. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 63 | 16 | 2024-09-05T02:42:15Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 79 | 10 | 2024-09-03T18:39:07Z |  Software package for IoT automation. |
 | [/](https://github.com/vaelen/iot/) | 0 | 0 | 0001-01-01T00:00:00Z |  IoT is a simple framework for implementing a Google IoT Core device. |
@@ -42,13 +42,13 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 40 | 17 | 2024-09-06T17:08:58Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 40 | 17 | 2024-09-07T14:52:58Z |  Industrial IoT Messaging and Device Management Server. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-07T10:06:33Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-09-06T08:07:03Z |  Lightweight data stream processing engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 114 | 2024-09-06T06:15:38Z |  Kubernetes native IoT development framework. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 63 | 16 | 2024-09-05T02:42:15Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 79 | 10 | 2024-09-03T18:39:07Z |  Software package for IoT automation. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-31T19:16:26Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-08-30T16:36:11Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 400 | 31 | 2024-08-14T11:50:04Z |  Open-Source Platform for Quantified Self & IoT. |
 | [amimof/huego](https://github.com/amimof/huego) | 249 | 36 | 2024-07-31T15:46:27Z |  An extensive Philips Hue client library for Go. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 230 | 41 | 2024-06-09T19:28:18Z |  Lightweight stream processing engine for IoT. |
