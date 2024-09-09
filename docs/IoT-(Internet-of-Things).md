@@ -6,7 +6,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-07T10:06:33Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-08T18:27:59Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-09-06T08:07:03Z |  Lightweight data stream processing engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 114 | 2024-09-06T06:15:38Z |  Kubernetes native IoT development framework. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-31T19:16:26Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
@@ -25,7 +25,7 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-09-06T08:07:03Z |  Lightweight data stream processing engine for IoT edge. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-07T10:06:33Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-08T18:27:59Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-08-31T19:16:26Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 114 | 2024-09-06T06:15:38Z |  Kubernetes native IoT development framework. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 230 | 41 | 2024-06-09T19:28:18Z |  Lightweight stream processing engine for IoT. |
@@ -42,8 +42,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-08T18:27:59Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 40 | 17 | 2024-09-07T14:52:58Z |  Industrial IoT Messaging and Device Management Server. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-09-07T10:06:33Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 408 | 2024-09-06T08:07:03Z |  Lightweight data stream processing engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 114 | 2024-09-06T06:15:38Z |  Kubernetes native IoT development framework. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 63 | 16 | 2024-09-05T02:42:15Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
