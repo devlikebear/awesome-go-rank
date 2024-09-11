@@ -6,24 +6,24 @@ Libraries for parsing and manipulating texts.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [asciimoo/colly](https://github.com/asciimoo/colly) | 23k | 2k | 2024-09-09T23:41:36Z |  Fast and Elegant Scraping Framework for Gophers. |
-| [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 14k | 916 | 2024-09-10T00:02:49Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
-| [mvdan/sh](https://github.com/mvdan/sh) | 7k | 338 | 2024-09-09T11:18:32Z |  Shell parser and formatter. |
+| [asciimoo/colly](https://github.com/asciimoo/colly) | 23k | 2k | 2024-09-10T22:41:01Z |  Fast and Elegant Scraping Framework for Gophers. |
+| [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 14k | 916 | 2024-09-10T16:33:44Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
+| [mvdan/sh](https://github.com/mvdan/sh) | 7k | 338 | 2024-09-10T21:12:48Z |  Shell parser and formatter. |
 | [russross/blackfriday](https://github.com/russross/blackfriday) | 5k | 598 | 2024-09-08T19:54:58Z |  Markdown processor in Go. |
 | [BurntSushi/toml](https://github.com/BurntSushi/toml) | 5k | 527 | 2024-09-06T16:31:28Z |  TOML configuration format (encoder/decoder with reflection). |
-| [dustin/go-humanize](https://github.com/dustin/go-humanize) | 4k | 234 | 2024-09-08T21:31:45Z |  Formatters for time, numbers, and memory size to human readable format. |
-| [yuin/goldmark](https://github.com/yuin/goldmark) | 4k | 254 | 2024-09-09T12:29:59Z |  A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured. |
+| [dustin/go-humanize](https://github.com/dustin/go-humanize) | 4k | 234 | 2024-09-10T03:05:57Z |  Formatters for time, numbers, and memory size to human readable format. |
+| [yuin/goldmark](https://github.com/yuin/goldmark) | 4k | 254 | 2024-09-10T12:52:25Z |  A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured. |
 | [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) | 3k | 176 | 2024-09-09T09:08:35Z |  HTML Sanitizer. |
-| [mmcdole/gofeed](https://github.com/mmcdole/gofeed) | 3k | 208 | 2024-09-08T15:53:56Z |  Parse RSS and Atom feeds in Go. |
+| [mmcdole/gofeed](https://github.com/mmcdole/gofeed) | 3k | 208 | 2024-09-10T16:57:57Z |  Parse RSS and Atom feeds in Go. |
 | [google/go-querystring](https://github.com/google/go-querystring) | 2k | 171 | 2024-09-07T11:15:48Z |  Go library for encoding structs into URL query parameters. |
-| [pelletier/go-toml](https://github.com/pelletier/go-toml) | 2k | 208 | 2024-09-08T18:48:57Z |  Go library for the TOML format with query support and handy cli tools. |
+| [pelletier/go-toml](https://github.com/pelletier/go-toml) | 2k | 209 | 2024-09-10T22:14:37Z |  Go library for the TOML format with query support and handy cli tools. |
 | [olebedev/when](https://github.com/olebedev/when) | 1k | 80 | 2024-08-29T10:01:35Z |  Natural EN and RU language date/time parser with pluggable rules. |
-| [mvdan/xurls](https://github.com/mvdan/xurls) | 1k | 114 | 2024-08-26T15:16:06Z |  Extract urls from text. |
-| [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) | 1k | 26 | 2024-09-08T22:46:23Z |  A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder". |
+| [mvdan/xurls](https://github.com/mvdan/xurls) | 1k | 114 | 2024-09-10T08:57:50Z |  Extract urls from text. |
+| [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) | 1k | 26 | 2024-09-10T13:55:27Z |  A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder". |
 | [mingrammer/commonregex](https://github.com/mingrammer/commonregex) | 894 | 67 | 2024-09-08T17:01:39Z |  A collection of common regular expressions for Go. |
 | [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) | 840 | 82 | 2024-09-09T05:16:56Z |  Convert HTML to Markdown. Even works with entire websites and can be extended through rules. |
-| [antchfx/htmlquery](https://github.com/antchfx/htmlquery) | 723 | 72 | 2024-09-03T11:00:44Z |  An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression. |
-| [slotix/dataflowkit](https://github.com/slotix/dataflowkit) | 655 | 80 | 2024-08-30T19:32:30Z |  Web scraping Framework to turn websites into structured data. |
+| [antchfx/htmlquery](https://github.com/antchfx/htmlquery) | 723 | 73 | 2024-09-03T11:00:44Z |  An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression. |
+| [slotix/dataflowkit](https://github.com/slotix/dataflowkit) | 654 | 80 | 2024-09-10T15:01:09Z |  Web scraping Framework to turn websites into structured data. |
 | [clbanning/mxj](https://github.com/clbanning/mxj) | 620 | 111 | 2024-09-05T18:26:10Z |  Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages. |
 | [mattn/go-runewidth](https://github.com/mattn/go-runewidth) | 608 | 92 | 2024-09-06T14:44:34Z |  Functions to get fixed width of the character or string. |
 | [awalterschulze/gographviz](https://github.com/awalterschulze/gographviz) | 548 | 76 | 2024-09-05T04:26:28Z |  Parses the Graphviz DOT language. |
@@ -33,7 +33,7 @@ Libraries for parsing and manipulating texts.
 | [hedhyw/rex](https://github.com/hedhyw/rex) | 193 | 5 | 2024-08-23T13:39:01Z |  Regular expressions builder. |
 | [yourbasic/radix](https://github.com/yourbasic/radix) | 192 | 11 | 2024-06-03T11:57:11Z |  Fast string sorting algorithm. |
 | [oriser/regroup](https://github.com/oriser/regroup) | 143 | 13 | 2024-06-10T20:10:44Z |  Match regex expression named groups into go struct using struct tags and automatic parsing. |
-| [editorconfig/editorconfig-core-go](https://github.com/editorconfig/editorconfig-core-go) | 141 | 32 | 2024-08-21T14:36:01Z |  Editorconfig file parser and manipulator for Go. |
+| [editorconfig/editorconfig-core-go](https://github.com/editorconfig/editorconfig-core-go) | 141 | 32 | 2024-09-10T12:17:17Z |  Editorconfig file parser and manipulator for Go. |
 | [yassinebenaid/godump](https://github.com/yassinebenaid/godump) | 139 | 2 | 2024-08-28T08:30:37Z |  Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`. |
 | [eduncan911/podcast](https://github.com/eduncan911/podcast) | 132 | 35 | 2024-08-21T00:56:01Z |  iTunes Compliant and RSS 2.0 Podcast Generator in Golang |
 | [gortc/sdp](https://github.com/gortc/sdp) | 113 | 32 | 2024-03-03T16:22:18Z |  SDP: Session Description Protocol [[RFC 4566](https://tools.ietf.org/html/rfc4566)]. |
@@ -44,7 +44,7 @@ Libraries for parsing and manipulating texts.
 | [bzick/tokenizer](https://github.com/bzick/tokenizer) | 91 | 5 | 2024-09-09T13:23:03Z |  Parse any string, slice or infinite buffer to any tokens. |
 | [zach-klippenstein/goregen](https://github.com/zach-klippenstein/goregen) | 90 | 23 | 2024-03-23T02:08:04Z |  Library for generating random strings from regular expressions. |
 | [ockam-network/did](https://github.com/ockam-network/did) | 87 | 21 | 2024-09-03T13:57:02Z |  DID (Decentralized Identifiers) Parser and Stringer in Go. |
-| [Guitarbum722/align](https://github.com/Guitarbum722/align) | 84 | 7 | 2024-08-08T19:34:43Z |  A general purpose application that aligns text. |
+| [Guitarbum722/align](https://github.com/Guitarbum722/align) | 83 | 7 | 2024-09-10T15:01:48Z |  A general purpose application that aligns text. |
 | [ianlopshire/go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) | 80 | 32 | 2024-02-17T12:40:44Z |  Fixed-width text formatting (encoder/decoder with reflection). |
 | [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) | 80 | 10 | 2024-09-09T02:08:23Z |  Simple and lightweight wildcard pattern matching. |
 | [alixaxel/genex](https://github.com/alixaxel/genex) | 77 | 8 | 2024-06-05T04:34:56Z |  Count and expand Regular Expressions into all matching Strings. |
@@ -80,34 +80,34 @@ Libraries for parsing and manipulating texts.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [asciimoo/colly](https://github.com/asciimoo/colly) | 23k | 2k | 2024-09-09T23:41:36Z |  Fast and Elegant Scraping Framework for Gophers. |
-| [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 14k | 916 | 2024-09-10T00:02:49Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
+| [asciimoo/colly](https://github.com/asciimoo/colly) | 23k | 2k | 2024-09-10T22:41:01Z |  Fast and Elegant Scraping Framework for Gophers. |
+| [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 14k | 916 | 2024-09-10T16:33:44Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
 | [russross/blackfriday](https://github.com/russross/blackfriday) | 5k | 598 | 2024-09-08T19:54:58Z |  Markdown processor in Go. |
 | [BurntSushi/toml](https://github.com/BurntSushi/toml) | 5k | 527 | 2024-09-06T16:31:28Z |  TOML configuration format (encoder/decoder with reflection). |
-| [mvdan/sh](https://github.com/mvdan/sh) | 7k | 338 | 2024-09-09T11:18:32Z |  Shell parser and formatter. |
-| [yuin/goldmark](https://github.com/yuin/goldmark) | 4k | 254 | 2024-09-09T12:29:59Z |  A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured. |
-| [dustin/go-humanize](https://github.com/dustin/go-humanize) | 4k | 234 | 2024-09-08T21:31:45Z |  Formatters for time, numbers, and memory size to human readable format. |
-| [mmcdole/gofeed](https://github.com/mmcdole/gofeed) | 3k | 208 | 2024-09-08T15:53:56Z |  Parse RSS and Atom feeds in Go. |
-| [pelletier/go-toml](https://github.com/pelletier/go-toml) | 2k | 208 | 2024-09-08T18:48:57Z |  Go library for the TOML format with query support and handy cli tools. |
+| [mvdan/sh](https://github.com/mvdan/sh) | 7k | 338 | 2024-09-10T21:12:48Z |  Shell parser and formatter. |
+| [yuin/goldmark](https://github.com/yuin/goldmark) | 4k | 254 | 2024-09-10T12:52:25Z |  A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured. |
+| [dustin/go-humanize](https://github.com/dustin/go-humanize) | 4k | 234 | 2024-09-10T03:05:57Z |  Formatters for time, numbers, and memory size to human readable format. |
+| [pelletier/go-toml](https://github.com/pelletier/go-toml) | 2k | 209 | 2024-09-10T22:14:37Z |  Go library for the TOML format with query support and handy cli tools. |
+| [mmcdole/gofeed](https://github.com/mmcdole/gofeed) | 3k | 208 | 2024-09-10T16:57:57Z |  Parse RSS and Atom feeds in Go. |
 | [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) | 3k | 176 | 2024-09-09T09:08:35Z |  HTML Sanitizer. |
 | [google/go-querystring](https://github.com/google/go-querystring) | 2k | 171 | 2024-09-07T11:15:48Z |  Go library for encoding structs into URL query parameters. |
-| [mvdan/xurls](https://github.com/mvdan/xurls) | 1k | 114 | 2024-08-26T15:16:06Z |  Extract urls from text. |
+| [mvdan/xurls](https://github.com/mvdan/xurls) | 1k | 114 | 2024-09-10T08:57:50Z |  Extract urls from text. |
 | [clbanning/mxj](https://github.com/clbanning/mxj) | 620 | 111 | 2024-09-05T18:26:10Z |  Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages. |
 | [mattn/go-runewidth](https://github.com/mattn/go-runewidth) | 608 | 92 | 2024-09-06T14:44:34Z |  Functions to get fixed width of the character or string. |
 | [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) | 840 | 82 | 2024-09-09T05:16:56Z |  Convert HTML to Markdown. Even works with entire websites and can be extended through rules. |
 | [olebedev/when](https://github.com/olebedev/when) | 1k | 80 | 2024-08-29T10:01:35Z |  Natural EN and RU language date/time parser with pluggable rules. |
-| [slotix/dataflowkit](https://github.com/slotix/dataflowkit) | 655 | 80 | 2024-08-30T19:32:30Z |  Web scraping Framework to turn websites into structured data. |
+| [slotix/dataflowkit](https://github.com/slotix/dataflowkit) | 654 | 80 | 2024-09-10T15:01:09Z |  Web scraping Framework to turn websites into structured data. |
 | [adrianmo/go-nmea](https://github.com/adrianmo/go-nmea) | 226 | 77 | 2024-09-09T11:19:42Z |  NMEA parser library for the Go language. |
 | [awalterschulze/gographviz](https://github.com/awalterschulze/gographviz) | 548 | 76 | 2024-09-05T04:26:28Z |  Parses the Graphviz DOT language. |
-| [antchfx/htmlquery](https://github.com/antchfx/htmlquery) | 723 | 72 | 2024-09-03T11:00:44Z |  An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression. |
+| [antchfx/htmlquery](https://github.com/antchfx/htmlquery) | 723 | 73 | 2024-09-03T11:00:44Z |  An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression. |
 | [mingrammer/commonregex](https://github.com/mingrammer/commonregex) | 894 | 67 | 2024-09-08T17:01:39Z |  A collection of common regular expressions for Go. |
 | [eduncan911/podcast](https://github.com/eduncan911/podcast) | 132 | 35 | 2024-08-21T00:56:01Z |  iTunes Compliant and RSS 2.0 Podcast Generator in Golang |
-| [editorconfig/editorconfig-core-go](https://github.com/editorconfig/editorconfig-core-go) | 141 | 32 | 2024-08-21T14:36:01Z |  Editorconfig file parser and manipulator for Go. |
+| [editorconfig/editorconfig-core-go](https://github.com/editorconfig/editorconfig-core-go) | 141 | 32 | 2024-09-10T12:17:17Z |  Editorconfig file parser and manipulator for Go. |
 | [ianlopshire/go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) | 80 | 32 | 2024-02-17T12:40:44Z |  Fixed-width text formatting (encoder/decoder with reflection). |
 | [gortc/sdp](https://github.com/gortc/sdp) | 113 | 32 | 2024-03-03T16:22:18Z |  SDP: Session Description Protocol [[RFC 4566](https://tools.ietf.org/html/rfc4566)]. |
 | [emersion/go-vcard](https://github.com/emersion/go-vcard) | 107 | 31 | 2024-08-30T07:07:59Z |  Parse and format vCard. |
 | [bndr/gotabulate](https://github.com/bndr/gotabulate) | 325 | 31 | 2024-08-27T14:28:24Z |  Easily pretty-print your tabular data with Go. |
-| [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) | 1k | 26 | 2024-09-08T22:46:23Z |  A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder". |
+| [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) | 1k | 26 | 2024-09-10T13:55:27Z |  A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder". |
 | [zach-klippenstein/goregen](https://github.com/zach-klippenstein/goregen) | 90 | 23 | 2024-03-23T02:08:04Z |  Library for generating random strings from regular expressions. |
 | [ockam-network/did](https://github.com/ockam-network/did) | 87 | 21 | 2024-09-03T13:57:02Z |  DID (Decentralized Identifiers) Parser and Stringer in Go. |
 | [andrewstuart/goq](https://github.com/andrewstuart/goq) | 257 | 20 | 2024-08-30T15:19:56Z |  Declarative unmarshalling of HTML using struct tags with jQuery syntax (uses GoQuery). |
@@ -120,7 +120,7 @@ Libraries for parsing and manipulating texts.
 | [sbstjn/allot](https://github.com/sbstjn/allot) | 59 | 8 | 2024-05-31T15:22:00Z |  Placeholder and wildcard text parsing for CLI tools and bots. |
 | [alixaxel/genex](https://github.com/alixaxel/genex) | 77 | 8 | 2024-06-05T04:34:56Z |  Count and expand Regular Expressions into all matching Strings. |
 | [foolin/pagser](https://github.com/foolin/pagser) | 103 | 7 | 2024-07-05T08:54:28Z |  Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags for golang crawler. |
-| [Guitarbum722/align](https://github.com/Guitarbum722/align) | 84 | 7 | 2024-08-08T19:34:43Z |  A general purpose application that aligns text. |
+| [Guitarbum722/align](https://github.com/Guitarbum722/align) | 83 | 7 | 2024-09-10T15:01:48Z |  A general purpose application that aligns text. |
 | [mmalcek/bafi](https://github.com/mmalcek/bafi) | 104 | 6 | 2024-08-31T03:26:59Z |  Universal JSON, BSON, YAML, XML translator to ANY format using templates. |
 | [nproc/parseargs-go](https://github.com/nproc/parseargs-go) | 10 | 6 | 2023-10-21T16:40:53Z |  string argument parser that understands quotes and backslashes. |
 | [striker2000/petrovich](https://github.com/striker2000/petrovich) | 46 | 6 | 2024-06-13T19:36:07Z |  Petrovich is the library which inflects Russian names to given grammatical case. |
@@ -154,21 +154,25 @@ Libraries for parsing and manipulating texts.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 14k | 916 | 2024-09-10T00:02:49Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
-| [asciimoo/colly](https://github.com/asciimoo/colly) | 23k | 2k | 2024-09-09T23:41:36Z |  Fast and Elegant Scraping Framework for Gophers. |
+| [asciimoo/colly](https://github.com/asciimoo/colly) | 23k | 2k | 2024-09-10T22:41:01Z |  Fast and Elegant Scraping Framework for Gophers. |
+| [pelletier/go-toml](https://github.com/pelletier/go-toml) | 2k | 209 | 2024-09-10T22:14:37Z |  Go library for the TOML format with query support and handy cli tools. |
+| [mvdan/sh](https://github.com/mvdan/sh) | 7k | 338 | 2024-09-10T21:12:48Z |  Shell parser and formatter. |
+| [mmcdole/gofeed](https://github.com/mmcdole/gofeed) | 3k | 208 | 2024-09-10T16:57:57Z |  Parse RSS and Atom feeds in Go. |
+| [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 14k | 916 | 2024-09-10T16:33:44Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
+| [Guitarbum722/align](https://github.com/Guitarbum722/align) | 83 | 7 | 2024-09-10T15:01:48Z |  A general purpose application that aligns text. |
+| [slotix/dataflowkit](https://github.com/slotix/dataflowkit) | 654 | 80 | 2024-09-10T15:01:09Z |  Web scraping Framework to turn websites into structured data. |
+| [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) | 1k | 26 | 2024-09-10T13:55:27Z |  A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder". |
+| [yuin/goldmark](https://github.com/yuin/goldmark) | 4k | 254 | 2024-09-10T12:52:25Z |  A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured. |
+| [editorconfig/editorconfig-core-go](https://github.com/editorconfig/editorconfig-core-go) | 141 | 32 | 2024-09-10T12:17:17Z |  Editorconfig file parser and manipulator for Go. |
+| [mvdan/xurls](https://github.com/mvdan/xurls) | 1k | 114 | 2024-09-10T08:57:50Z |  Extract urls from text. |
+| [dustin/go-humanize](https://github.com/dustin/go-humanize) | 4k | 234 | 2024-09-10T03:05:57Z |  Formatters for time, numbers, and memory size to human readable format. |
 | [bzick/tokenizer](https://github.com/bzick/tokenizer) | 91 | 5 | 2024-09-09T13:23:03Z |  Parse any string, slice or infinite buffer to any tokens. |
-| [yuin/goldmark](https://github.com/yuin/goldmark) | 4k | 254 | 2024-09-09T12:29:59Z |  A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured. |
 | [adrianmo/go-nmea](https://github.com/adrianmo/go-nmea) | 226 | 77 | 2024-09-09T11:19:42Z |  NMEA parser library for the Go language. |
-| [mvdan/sh](https://github.com/mvdan/sh) | 7k | 338 | 2024-09-09T11:18:32Z |  Shell parser and formatter. |
 | [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) | 3k | 176 | 2024-09-09T09:08:35Z |  HTML Sanitizer. |
 | [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) | 840 | 82 | 2024-09-09T05:16:56Z |  Convert HTML to Markdown. Even works with entire websites and can be extended through rules. |
 | [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) | 80 | 10 | 2024-09-09T02:08:23Z |  Simple and lightweight wildcard pattern matching. |
-| [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) | 1k | 26 | 2024-09-08T22:46:23Z |  A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder". |
-| [dustin/go-humanize](https://github.com/dustin/go-humanize) | 4k | 234 | 2024-09-08T21:31:45Z |  Formatters for time, numbers, and memory size to human readable format. |
 | [russross/blackfriday](https://github.com/russross/blackfriday) | 5k | 598 | 2024-09-08T19:54:58Z |  Markdown processor in Go. |
-| [pelletier/go-toml](https://github.com/pelletier/go-toml) | 2k | 208 | 2024-09-08T18:48:57Z |  Go library for the TOML format with query support and handy cli tools. |
 | [mingrammer/commonregex](https://github.com/mingrammer/commonregex) | 894 | 67 | 2024-09-08T17:01:39Z |  A collection of common regular expressions for Go. |
-| [mmcdole/gofeed](https://github.com/mmcdole/gofeed) | 3k | 208 | 2024-09-08T15:53:56Z |  Parse RSS and Atom feeds in Go. |
 | [elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld) | 33 | 5 | 2024-09-07T19:04:04Z |  High performance effective top level domains (eTLD) extraction module. |
 | [google/go-querystring](https://github.com/google/go-querystring) | 2k | 171 | 2024-09-07T11:15:48Z |  Go library for encoding structs into URL query parameters. |
 | [BurntSushi/toml](https://github.com/BurntSushi/toml) | 5k | 527 | 2024-09-06T16:31:28Z |  TOML configuration format (encoder/decoder with reflection). |
@@ -179,22 +183,18 @@ Libraries for parsing and manipulating texts.
 | [cyucelen/walker](https://github.com/cyucelen/walker) | 10 | 0 | 2024-09-04T20:11:56Z |  Seamlessly fetch paginated data from any source. Simple and high performance API scraping included. |
 | [codemodus/kace](https://github.com/codemodus/kace) | 20 | 3 | 2024-09-04T20:11:19Z |  Common case conversions covering common initialisms. |
 | [ockam-network/did](https://github.com/ockam-network/did) | 87 | 21 | 2024-09-03T13:57:02Z |  DID (Decentralized Identifiers) Parser and Stringer in Go. |
-| [antchfx/htmlquery](https://github.com/antchfx/htmlquery) | 723 | 72 | 2024-09-03T11:00:44Z |  An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression. |
+| [antchfx/htmlquery](https://github.com/antchfx/htmlquery) | 723 | 73 | 2024-09-03T11:00:44Z |  An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression. |
 | [polera/gonameparts](https://github.com/polera/gonameparts) | 42 | 5 | 2024-09-02T23:59:49Z |  Parses human names into individual name parts. |
 | [mmalcek/bafi](https://github.com/mmalcek/bafi) | 104 | 6 | 2024-08-31T03:26:59Z |  Universal JSON, BSON, YAML, XML translator to ANY format using templates. |
-| [slotix/dataflowkit](https://github.com/slotix/dataflowkit) | 655 | 80 | 2024-08-30T19:32:30Z |  Web scraping Framework to turn websites into structured data. |
 | [andrewstuart/goq](https://github.com/andrewstuart/goq) | 257 | 20 | 2024-08-30T15:19:56Z |  Declarative unmarshalling of HTML using struct tags with jQuery syntax (uses GoQuery). |
 | [emersion/go-vcard](https://github.com/emersion/go-vcard) | 107 | 31 | 2024-08-30T07:07:59Z |  Parse and format vCard. |
 | [olebedev/when](https://github.com/olebedev/when) | 1k | 80 | 2024-08-29T10:01:35Z |  Natural EN and RU language date/time parser with pluggable rules. |
 | [yassinebenaid/godump](https://github.com/yassinebenaid/godump) | 139 | 2 | 2024-08-28T08:30:37Z |  Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`. |
 | [bndr/gotabulate](https://github.com/bndr/gotabulate) | 325 | 31 | 2024-08-27T14:28:24Z |  Easily pretty-print your tabular data with Go. |
-| [mvdan/xurls](https://github.com/mvdan/xurls) | 1k | 114 | 2024-08-26T15:16:06Z |  Extract urls from text. |
 | [hedhyw/rex](https://github.com/hedhyw/rex) | 193 | 5 | 2024-08-23T13:39:01Z |  Regular expressions builder. |
 | [nikolaydubina/htmlyaml](https://github.com/nikolaydubina/htmlyaml) | 4 | 3 | 2024-08-22T08:56:52Z |   Rich rendering of YAML as HTML in Go |
-| [editorconfig/editorconfig-core-go](https://github.com/editorconfig/editorconfig-core-go) | 141 | 32 | 2024-08-21T14:36:01Z |  Editorconfig file parser and manipulator for Go. |
 | [eduncan911/podcast](https://github.com/eduncan911/podcast) | 132 | 35 | 2024-08-21T00:56:01Z |  iTunes Compliant and RSS 2.0 Podcast Generator in Golang |
 | [CalebQ42/bbConvert](https://github.com/CalebQ42/bbConvert) | 12 | 3 | 2024-08-19T18:44:00Z |  Converts bbCode to HTML that allows you to add support for custom bbCode tags. |
-| [Guitarbum722/align](https://github.com/Guitarbum722/align) | 84 | 7 | 2024-08-08T19:34:43Z |  A general purpose application that aligns text. |
 | [bojanz/address](https://github.com/bojanz/address) | 71 | 3 | 2024-07-29T18:45:30Z |  Handles address representation, validation and formatting. |
 | [JoshuaDoes/gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) | 64 | 9 | 2024-07-26T21:20:58Z |  A sanitization-based swear filter for Go. |
 | [zoomio/tagify](https://github.com/zoomio/tagify) | 36 | 2 | 2024-07-18T05:48:51Z |  Produces a set of tags from given source. |
