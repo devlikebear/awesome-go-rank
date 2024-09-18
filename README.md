@@ -56,7 +56,7 @@ This is a ranking of GitHub repositories from
 * [Logging](docs/Logging.md)<br/>Libraries for generating and working with log files.
 * [Machine Learning](docs/Machine-Learning.md)<br/>Libraries for Machine Learning.
 * [Messaging](docs/Messaging.md)<br/>Libraries that implement messaging systems.
-* [Microsoft Office](docs/Microsoft-Office.md)<br/>Libraries for working with Microsoft Excel.
+* [Microsoft Office](docs/Microsoft-Office.md)<br/>Libraries for working with Microsoft Word.
 * [Miscellaneous](docs/Miscellaneous.md)<br/>These libraries were placed here because none of the other categories seemed to fit.
 * [Natural Language Processing](docs/Natural-Language-Processing.md)<br/>Libraries for working with human languages.
 * [Networking](docs/Networking.md)<br/>Libraries for making HTTP requests.
