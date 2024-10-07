@@ -8,7 +8,7 @@ Libraries for scheduling jobs.
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 346 | 2024-10-04T10:26:16Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 84 | 2024-10-05T14:59:11Z |  Simple, zero-dependency scheduling library for Go. |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 2k | 138 | 2024-10-05T22:20:56Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 2k | 138 | 2024-10-06T20:32:44Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2024-09-20T00:59:18Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 62 | 2024-10-01T22:03:55Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [albrow/jobs](https://github.com/albrow/jobs) | 500 | 47 | 2024-09-29T20:25:15Z |  Persistent and flexible background jobs library. |
@@ -31,7 +31,7 @@ Libraries for scheduling jobs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 346 | 2024-10-04T10:26:16Z | . |
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 2k | 138 | 2024-10-05T22:20:56Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 2k | 138 | 2024-10-06T20:32:44Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [uber-go/cadence-client](https://github.com/uber-go/cadence-client) | 345 | 131 | 2024-09-11T05:39:14Z |  A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2024-09-20T00:59:18Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 84 | 2024-10-05T14:59:11Z |  Simple, zero-dependency scheduling library for Go. |
@@ -54,7 +54,7 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 2k | 138 | 2024-10-05T22:20:56Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 2k | 138 | 2024-10-06T20:32:44Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 84 | 2024-10-05T14:59:11Z |  Simple, zero-dependency scheduling library for Go. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 401 | 24 | 2024-10-05T13:00:44Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [datarootsio/cheek](https://github.com/datarootsio/cheek) | 148 | 10 | 2024-10-05T04:42:13Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
