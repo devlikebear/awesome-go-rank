@@ -6,10 +6,10 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [a-h/templ](https://github.com/a-h/templ) | 8k | 265 | 2024-10-10T17:41:36Z |  A HTML templating language that has great developer tooling. |
-| [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 151 | 2024-10-10T11:56:49Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
-| [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 270 | 2024-10-10T11:56:54Z |  Django-like template-engine for Go. |
-| [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 196 | 2024-10-10T21:18:03Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
+| [a-h/templ](https://github.com/a-h/templ) | 8k | 265 | 2024-10-11T18:24:52Z |  A HTML templating language that has great developer tooling. |
+| [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 151 | 2024-10-11T04:20:29Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
+| [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 270 | 2024-10-11T21:41:17Z |  Django-like template-engine for Go. |
+| [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 196 | 2024-10-11T21:25:36Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
 | [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 105 | 2024-10-08T10:48:25Z |  Jet template engine. |
 | [sipin/gorazor](https://github.com/sipin/gorazor) | 857 | 91 | 2024-09-27T14:56:53Z |  Razor view engine for Golang. |
 | [valyala/fasttemplate](https://github.com/valyala/fasttemplate) | 830 | 80 | 2024-10-07T12:25:26Z |  Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/). |
@@ -28,10 +28,10 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 270 | 2024-10-10T11:56:54Z |  Django-like template-engine for Go. |
-| [a-h/templ](https://github.com/a-h/templ) | 8k | 265 | 2024-10-10T17:41:36Z |  A HTML templating language that has great developer tooling. |
-| [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 196 | 2024-10-10T21:18:03Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
-| [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 151 | 2024-10-10T11:56:49Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
+| [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 270 | 2024-10-11T21:41:17Z |  Django-like template-engine for Go. |
+| [a-h/templ](https://github.com/a-h/templ) | 8k | 265 | 2024-10-11T18:24:52Z |  A HTML templating language that has great developer tooling. |
+| [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 196 | 2024-10-11T21:25:36Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
+| [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 151 | 2024-10-11T04:20:29Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 105 | 2024-10-08T10:48:25Z |  Jet template engine. |
 | [aymerick/raymond](https://github.com/aymerick/raymond) | 602 | 99 | 2024-09-03T12:08:38Z |  Complete handlebars implementation in Go. |
 | [sipin/gorazor](https://github.com/sipin/gorazor) | 857 | 91 | 2024-09-27T14:56:53Z |  Razor view engine for Golang. |
@@ -50,11 +50,11 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 196 | 2024-10-10T21:18:03Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
-| [a-h/templ](https://github.com/a-h/templ) | 8k | 265 | 2024-10-10T17:41:36Z |  A HTML templating language that has great developer tooling. |
+| [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 270 | 2024-10-11T21:41:17Z |  Django-like template-engine for Go. |
+| [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 196 | 2024-10-11T21:25:36Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
+| [a-h/templ](https://github.com/a-h/templ) | 8k | 265 | 2024-10-11T18:24:52Z |  A HTML templating language that has great developer tooling. |
+| [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 151 | 2024-10-11T04:20:29Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [foolin/goview](https://github.com/foolin/goview) | 423 | 36 | 2024-10-10T13:12:53Z |  Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application. |
-| [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 270 | 2024-10-10T11:56:54Z |  Django-like template-engine for Go. |
-| [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 151 | 2024-10-10T11:56:49Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [go-sprout/sprout](https://github.com/go-sprout/sprout) | 88 | 3 | 2024-10-09T14:10:35Z |  Useful template functions for Go templates. |
 | [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 105 | 2024-10-08T10:48:25Z |  Jet template engine. |
 | [m1/gospin](https://github.com/m1/gospin) | 59 | 8 | 2024-10-08T02:19:44Z |  Article spinning and spintax/spinning syntax engine, useful for A/B, testing pieces of text/articles and creating more natural conversations. |

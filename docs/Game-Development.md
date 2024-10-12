@@ -6,24 +6,24 @@ Awesome game development libraries.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 11k | 651 | 2024-10-10T23:23:15Z |  dead simple 2D game engine in Go. |
+| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 11k | 651 | 2024-10-11T20:14:20Z |  dead simple 2D game engine in Go. |
 | [name5566/leaf](https://github.com/name5566/leaf) | 5k | 1k | 2024-10-10T20:59:18Z |  Lightweight game server framework. |
-| [faiface/pixel](https://github.com/faiface/pixel) | 4k | 245 | 2024-10-10T03:04:17Z |  Hand-crafted 2D game library in Go. |
-| [lonng/nano](https://github.com/lonng/nano) | 3k | 443 | 2024-10-10T10:26:35Z |  Lightweight, facility, high performance golang based game server framework. |
-| [g3n/engine](https://github.com/g3n/engine) | 3k | 295 | 2024-10-10T12:36:55Z |  Go 3D Game Engine. |
-| [xiaonanln/goworld](https://github.com/xiaonanln/goworld) | 3k | 459 | 2024-10-06T15:23:38Z |  Scalable game server engine, featuring space-entity framework and hot-swapping. |
-| [topfreegames/pitaya](https://github.com/topfreegames/pitaya) | 2k | 479 | 2024-10-09T01:21:27Z |  Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. |
-| [veandco/go-sdl2](https://github.com/veandco/go-sdl2) | 2k | 221 | 2024-10-10T03:00:48Z |  Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/). |
+| [faiface/pixel](https://github.com/faiface/pixel) | 4k | 246 | 2024-10-11T02:54:58Z |  Hand-crafted 2D game library in Go. |
+| [lonng/nano](https://github.com/lonng/nano) | 3k | 443 | 2024-10-11T00:42:03Z |  Lightweight, facility, high performance golang based game server framework. |
+| [g3n/engine](https://github.com/g3n/engine) | 3k | 295 | 2024-10-11T17:13:59Z |  Go 3D Game Engine. |
+| [xiaonanln/goworld](https://github.com/xiaonanln/goworld) | 3k | 458 | 2024-10-06T15:23:38Z |  Scalable game server engine, featuring space-entity framework and hot-swapping. |
+| [topfreegames/pitaya](https://github.com/topfreegames/pitaya) | 2k | 479 | 2024-10-11T13:10:51Z |  Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. |
+| [veandco/go-sdl2](https://github.com/veandco/go-sdl2) | 2k | 221 | 2024-10-11T18:41:29Z |  Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/). |
 | [EngoEngine/engo](https://github.com/EngoEngine/engo) | 2k | 136 | 2024-10-10T12:45:04Z |  Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm. |
-| [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) | 2k | 162 | 2024-10-10T12:33:37Z |  Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming. |
-| [oakmound/oak](https://github.com/oakmound/oak) | 2k | 83 | 2024-10-09T20:15:57Z |  Pure Go game engine. |
+| [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) | 2k | 162 | 2024-10-11T20:11:10Z |  Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming. |
+| [oakmound/oak](https://github.com/oakmound/oak) | 2k | 83 | 2024-10-11T23:24:56Z |  Pure Go game engine. |
 | [JoelOtter/termloop](https://github.com/JoelOtter/termloop) | 1k | 83 | 2024-10-08T08:44:29Z |  Terminal-based game engine for Go, built on top of Termbox. |
 | [xtaci/gonet](https://github.com/xtaci/gonet) | 1k | 296 | 2024-10-10T20:59:58Z |  Game server skeleton implemented with golang. |
 | [azul3d/engine](https://github.com/azul3d/engine) | 615 | 52 | 2024-10-01T08:21:11Z |  3D game engine written in Go. |
 | [beefsack/go-astar](https://github.com/beefsack/go-astar) | 596 | 80 | 2024-09-23T14:28:59Z |  Go implementation of the A\* path finding algorithm. |
 | [ungerik/go3d](https://github.com/ungerik/go3d) | 310 | 49 | 2024-09-21T16:35:16Z |  Performance oriented 2D/3D math package for Go. |
 | [kelindar/tile](https://github.com/kelindar/tile) | 154 | 18 | 2024-10-08T02:37:03Z |  Data-oriented and cache-friendly 2D Grid library (TileMap), includes pathfinding, observers and import/export. |
-| [andygeiss/ecs](https://github.com/andygeiss/ecs) | 119 | 10 | 2024-10-07T11:30:19Z |  Build your own Game-Engine based on the Entity Component System concept in Golang. |
+| [andygeiss/ecs](https://github.com/andygeiss/ecs) | 121 | 10 | 2024-10-11T20:57:55Z |  Build your own Game-Engine based on the Entity Component System concept in Golang. |
 | [gonutz/prototype](https://github.com/gonutz/prototype) | 88 | 10 | 2024-08-31T06:17:27Z |  Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API. |
 | [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) | 37 | 2 | 2023-12-05T01:00:21Z | ). |
 | [s0rg/fantasyname](https://github.com/s0rg/fantasyname) | 33 | 1 | 2024-08-23T22:40:48Z |  Fantasy names generator. |
@@ -34,23 +34,23 @@ Awesome game development libraries.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [name5566/leaf](https://github.com/name5566/leaf) | 5k | 1k | 2024-10-10T20:59:18Z |  Lightweight game server framework. |
-| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 11k | 651 | 2024-10-10T23:23:15Z |  dead simple 2D game engine in Go. |
-| [topfreegames/pitaya](https://github.com/topfreegames/pitaya) | 2k | 479 | 2024-10-09T01:21:27Z |  Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. |
-| [xiaonanln/goworld](https://github.com/xiaonanln/goworld) | 3k | 459 | 2024-10-06T15:23:38Z |  Scalable game server engine, featuring space-entity framework and hot-swapping. |
-| [lonng/nano](https://github.com/lonng/nano) | 3k | 443 | 2024-10-10T10:26:35Z |  Lightweight, facility, high performance golang based game server framework. |
+| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 11k | 651 | 2024-10-11T20:14:20Z |  dead simple 2D game engine in Go. |
+| [topfreegames/pitaya](https://github.com/topfreegames/pitaya) | 2k | 479 | 2024-10-11T13:10:51Z |  Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. |
+| [xiaonanln/goworld](https://github.com/xiaonanln/goworld) | 3k | 458 | 2024-10-06T15:23:38Z |  Scalable game server engine, featuring space-entity framework and hot-swapping. |
+| [lonng/nano](https://github.com/lonng/nano) | 3k | 443 | 2024-10-11T00:42:03Z |  Lightweight, facility, high performance golang based game server framework. |
 | [xtaci/gonet](https://github.com/xtaci/gonet) | 1k | 296 | 2024-10-10T20:59:58Z |  Game server skeleton implemented with golang. |
-| [g3n/engine](https://github.com/g3n/engine) | 3k | 295 | 2024-10-10T12:36:55Z |  Go 3D Game Engine. |
-| [faiface/pixel](https://github.com/faiface/pixel) | 4k | 245 | 2024-10-10T03:04:17Z |  Hand-crafted 2D game library in Go. |
-| [veandco/go-sdl2](https://github.com/veandco/go-sdl2) | 2k | 221 | 2024-10-10T03:00:48Z |  Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/). |
-| [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) | 2k | 162 | 2024-10-10T12:33:37Z |  Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming. |
+| [g3n/engine](https://github.com/g3n/engine) | 3k | 295 | 2024-10-11T17:13:59Z |  Go 3D Game Engine. |
+| [faiface/pixel](https://github.com/faiface/pixel) | 4k | 246 | 2024-10-11T02:54:58Z |  Hand-crafted 2D game library in Go. |
+| [veandco/go-sdl2](https://github.com/veandco/go-sdl2) | 2k | 221 | 2024-10-11T18:41:29Z |  Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/). |
+| [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) | 2k | 162 | 2024-10-11T20:11:10Z |  Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming. |
 | [EngoEngine/engo](https://github.com/EngoEngine/engo) | 2k | 136 | 2024-10-10T12:45:04Z |  Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm. |
-| [oakmound/oak](https://github.com/oakmound/oak) | 2k | 83 | 2024-10-09T20:15:57Z |  Pure Go game engine. |
+| [oakmound/oak](https://github.com/oakmound/oak) | 2k | 83 | 2024-10-11T23:24:56Z |  Pure Go game engine. |
 | [JoelOtter/termloop](https://github.com/JoelOtter/termloop) | 1k | 83 | 2024-10-08T08:44:29Z |  Terminal-based game engine for Go, built on top of Termbox. |
 | [beefsack/go-astar](https://github.com/beefsack/go-astar) | 596 | 80 | 2024-09-23T14:28:59Z |  Go implementation of the A\* path finding algorithm. |
 | [azul3d/engine](https://github.com/azul3d/engine) | 615 | 52 | 2024-10-01T08:21:11Z |  3D game engine written in Go. |
 | [ungerik/go3d](https://github.com/ungerik/go3d) | 310 | 49 | 2024-09-21T16:35:16Z |  Performance oriented 2D/3D math package for Go. |
 | [kelindar/tile](https://github.com/kelindar/tile) | 154 | 18 | 2024-10-08T02:37:03Z |  Data-oriented and cache-friendly 2D Grid library (TileMap), includes pathfinding, observers and import/export. |
-| [andygeiss/ecs](https://github.com/andygeiss/ecs) | 119 | 10 | 2024-10-07T11:30:19Z |  Build your own Game-Engine based on the Entity Component System concept in Golang. |
+| [andygeiss/ecs](https://github.com/andygeiss/ecs) | 121 | 10 | 2024-10-11T20:57:55Z |  Build your own Game-Engine based on the Entity Component System concept in Golang. |
 | [gonutz/prototype](https://github.com/gonutz/prototype) | 88 | 10 | 2024-08-31T06:17:27Z |  Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API. |
 | [harfang3d/harfang-go](https://github.com/harfang3d/harfang-go) | 37 | 2 | 2023-12-05T01:00:21Z | ). |
 | [s0rg/fantasyname](https://github.com/s0rg/fantasyname) | 33 | 1 | 2024-08-23T22:40:48Z |  Fantasy names generator. |
@@ -60,21 +60,21 @@ Awesome game development libraries.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 11k | 651 | 2024-10-10T23:23:15Z |  dead simple 2D game engine in Go. |
+| [oakmound/oak](https://github.com/oakmound/oak) | 2k | 83 | 2024-10-11T23:24:56Z |  Pure Go game engine. |
+| [andygeiss/ecs](https://github.com/andygeiss/ecs) | 121 | 10 | 2024-10-11T20:57:55Z |  Build your own Game-Engine based on the Entity Component System concept in Golang. |
+| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 11k | 651 | 2024-10-11T20:14:20Z |  dead simple 2D game engine in Go. |
+| [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) | 2k | 162 | 2024-10-11T20:11:10Z |  Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming. |
+| [veandco/go-sdl2](https://github.com/veandco/go-sdl2) | 2k | 221 | 2024-10-11T18:41:29Z |  Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/). |
+| [g3n/engine](https://github.com/g3n/engine) | 3k | 295 | 2024-10-11T17:13:59Z |  Go 3D Game Engine. |
+| [topfreegames/pitaya](https://github.com/topfreegames/pitaya) | 2k | 479 | 2024-10-11T13:10:51Z |  Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. |
+| [faiface/pixel](https://github.com/faiface/pixel) | 4k | 246 | 2024-10-11T02:54:58Z |  Hand-crafted 2D game library in Go. |
+| [lonng/nano](https://github.com/lonng/nano) | 3k | 443 | 2024-10-11T00:42:03Z |  Lightweight, facility, high performance golang based game server framework. |
 | [xtaci/gonet](https://github.com/xtaci/gonet) | 1k | 296 | 2024-10-10T20:59:58Z |  Game server skeleton implemented with golang. |
 | [name5566/leaf](https://github.com/name5566/leaf) | 5k | 1k | 2024-10-10T20:59:18Z |  Lightweight game server framework. |
 | [EngoEngine/engo](https://github.com/EngoEngine/engo) | 2k | 136 | 2024-10-10T12:45:04Z |  Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm. |
-| [g3n/engine](https://github.com/g3n/engine) | 3k | 295 | 2024-10-10T12:36:55Z |  Go 3D Game Engine. |
-| [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) | 2k | 162 | 2024-10-10T12:33:37Z |  Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming. |
-| [lonng/nano](https://github.com/lonng/nano) | 3k | 443 | 2024-10-10T10:26:35Z |  Lightweight, facility, high performance golang based game server framework. |
-| [faiface/pixel](https://github.com/faiface/pixel) | 4k | 245 | 2024-10-10T03:04:17Z |  Hand-crafted 2D game library in Go. |
-| [veandco/go-sdl2](https://github.com/veandco/go-sdl2) | 2k | 221 | 2024-10-10T03:00:48Z |  Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/). |
-| [oakmound/oak](https://github.com/oakmound/oak) | 2k | 83 | 2024-10-09T20:15:57Z |  Pure Go game engine. |
-| [topfreegames/pitaya](https://github.com/topfreegames/pitaya) | 2k | 479 | 2024-10-09T01:21:27Z |  Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. |
 | [JoelOtter/termloop](https://github.com/JoelOtter/termloop) | 1k | 83 | 2024-10-08T08:44:29Z |  Terminal-based game engine for Go, built on top of Termbox. |
 | [kelindar/tile](https://github.com/kelindar/tile) | 154 | 18 | 2024-10-08T02:37:03Z |  Data-oriented and cache-friendly 2D Grid library (TileMap), includes pathfinding, observers and import/export. |
-| [andygeiss/ecs](https://github.com/andygeiss/ecs) | 119 | 10 | 2024-10-07T11:30:19Z |  Build your own Game-Engine based on the Entity Component System concept in Golang. |
-| [xiaonanln/goworld](https://github.com/xiaonanln/goworld) | 3k | 459 | 2024-10-06T15:23:38Z |  Scalable game server engine, featuring space-entity framework and hot-swapping. |
+| [xiaonanln/goworld](https://github.com/xiaonanln/goworld) | 3k | 458 | 2024-10-06T15:23:38Z |  Scalable game server engine, featuring space-entity framework and hot-swapping. |
 | [azul3d/engine](https://github.com/azul3d/engine) | 615 | 52 | 2024-10-01T08:21:11Z |  3D game engine written in Go. |
 | [beefsack/go-astar](https://github.com/beefsack/go-astar) | 596 | 80 | 2024-09-23T14:28:59Z |  Go implementation of the A\* path finding algorithm. |
 | [ungerik/go3d](https://github.com/ungerik/go3d) | 310 | 49 | 2024-09-21T16:35:16Z |  Performance oriented 2D/3D math package for Go. |
