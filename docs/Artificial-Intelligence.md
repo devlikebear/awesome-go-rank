@@ -6,9 +6,9 @@ Libraries for building programs that leverage AI.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 93k | 7k | 2024-10-12T23:39:23Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 24k | 2k | 2024-10-12T23:57:02Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 602 | 2024-10-12T15:33:52Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 93k | 7k | 2024-10-14T00:02:05Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 24k | 2k | 2024-10-13T22:20:22Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 604 | 2024-10-13T23:26:40Z |  LangChainGo is a framework for developing applications powered by language models. |
 | [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 239 | 19 | 2024-10-12T22:04:55Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 29 | 0 | 2024-10-07T21:53:26Z |  Manage, load-balance, and failover packs of Ollamas |
 
@@ -16,9 +16,9 @@ Libraries for building programs that leverage AI.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 93k | 7k | 2024-10-12T23:39:23Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 24k | 2k | 2024-10-12T23:57:02Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 602 | 2024-10-12T15:33:52Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 93k | 7k | 2024-10-14T00:02:05Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 24k | 2k | 2024-10-13T22:20:22Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 604 | 2024-10-13T23:26:40Z |  LangChainGo is a framework for developing applications powered by language models. |
 | [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 239 | 19 | 2024-10-12T22:04:55Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 29 | 0 | 2024-10-07T21:53:26Z |  Manage, load-balance, and failover packs of Ollamas |
 
@@ -26,9 +26,9 @@ Libraries for building programs that leverage AI.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 24k | 2k | 2024-10-12T23:57:02Z |  Open Source OpenAI alternative, self-host AI models. |
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 93k | 7k | 2024-10-12T23:39:23Z |  Run large language models locally. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 93k | 7k | 2024-10-14T00:02:05Z |  Run large language models locally. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 604 | 2024-10-13T23:26:40Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 24k | 2k | 2024-10-13T22:20:22Z |  Open Source OpenAI alternative, self-host AI models. |
 | [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 239 | 19 | 2024-10-12T22:04:55Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 4k | 602 | 2024-10-12T15:33:52Z |  LangChainGo is a framework for developing applications powered by language models. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 29 | 0 | 2024-10-07T21:53:26Z |  Manage, load-balance, and failover packs of Ollamas |
 
