@@ -6,9 +6,9 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-10-26T23:18:49Z |  Go dependency tool. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-10-27T10:13:19Z |  Go dependency tool. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 540 | 2024-10-13T23:33:08Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
-| [anchore/syft](https://github.com/anchore/syft) | 6k | 567 | 2024-10-26T17:46:14Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 6k | 568 | 2024-10-27T10:13:37Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 454 | 2024-10-22T22:43:41Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 398 | 2024-10-11T03:06:19Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 208 | 2024-10-25T16:17:22Z |  Go Package Manager. |
@@ -26,8 +26,8 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-10-26T23:18:49Z |  Go dependency tool. |
-| [anchore/syft](https://github.com/anchore/syft) | 6k | 567 | 2024-10-26T17:46:14Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-10-27T10:13:19Z |  Go dependency tool. |
+| [anchore/syft](https://github.com/anchore/syft) | 6k | 568 | 2024-10-27T10:13:37Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 540 | 2024-10-13T23:33:08Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 454 | 2024-10-22T22:43:41Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 398 | 2024-10-11T03:06:19Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
@@ -46,8 +46,8 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-10-26T23:18:49Z |  Go dependency tool. |
-| [anchore/syft](https://github.com/anchore/syft) | 6k | 567 | 2024-10-26T17:46:14Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 6k | 568 | 2024-10-27T10:13:37Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [golang/dep](https://github.com/golang/dep) | 13k | 1k | 2024-10-27T10:13:19Z |  Go dependency tool. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 339 | 17 | 2024-10-26T13:47:55Z |  Update binaries installed by "go install". |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 208 | 2024-10-25T16:17:22Z |  Go Package Manager. |
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 778 | 45 | 2024-10-25T16:03:14Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
