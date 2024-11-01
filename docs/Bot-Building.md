@@ -6,15 +6,15 @@ Libraries for building and working with bots.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Syfaro/telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) | 6k | 895 | 2024-10-30T18:32:42Z |  Simple and clean Telegram bot client. |
-| [tucnak/telebot](https://github.com/tucnak/telebot) | 4k | 463 | 2024-10-30T08:49:05Z |  Telegram bot framework is written in Go. |
-| [olivia-ai/olivia](https://github.com/olivia-ai/olivia) | 4k | 351 | 2024-10-25T18:47:13Z |  A chatbot built with an artificial neural network. |
-| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 64 | 2024-10-30T21:08:45Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
+| [Syfaro/telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) | 6k | 895 | 2024-10-31T18:40:49Z |  Simple and clean Telegram bot client. |
+| [tucnak/telebot](https://github.com/tucnak/telebot) | 4k | 463 | 2024-10-31T20:33:16Z |  Telegram bot framework is written in Go. |
+| [olivia-ai/olivia](https://github.com/olivia-ai/olivia) | 4k | 351 | 2024-10-31T01:26:11Z |  A chatbot built with an artificial neural network. |
+| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 64 | 2024-10-31T19:47:55Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
 | [stellar/kelp](https://github.com/stellar/kelp) | 1k | 260 | 2024-10-27T18:17:57Z |  official trading and market-making bot for the [Stellar](https://www.stellar.org/) DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges and custom trading strategies. |
 | [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) | 1k | 243 | 2024-10-30T07:47:56Z |  A golang implementation of a console-based trading bot for cryptocurrency exchanges. |
 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | 826 | 195 | 2024-10-16T10:34:31Z |  IRC, Slack & Telegram bot written in Go. |
-| [go-telegram/bot](https://github.com/go-telegram/bot) | 721 | 64 | 2024-10-30T17:56:28Z |  Zero-dependencies Telegram Bot library with additional UI components |
-| [mymmrac/telego](https://github.com/mymmrac/telego) | 549 | 42 | 2024-10-30T20:26:26Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
+| [go-telegram/bot](https://github.com/go-telegram/bot) | 723 | 64 | 2024-10-31T15:39:54Z |  Zero-dependencies Telegram Bot library with additional UI components |
+| [mymmrac/telego](https://github.com/mymmrac/telego) | 551 | 42 | 2024-10-31T20:02:44Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
 | [NicoNex/echotron](https://github.com/NicoNex/echotron) | 372 | 26 | 2024-10-28T19:00:11Z |  An elegant and concurrent library for Telegram Bots in Go. |
 | [gempir/go-twitch-irc](https://github.com/gempir/go-twitch-irc) | 357 | 59 | 2024-10-04T01:00:09Z |  Library to write bots for twitch.tv chat |
 | [yanzay/tbot](https://github.com/yanzay/tbot) | 356 | 55 | 2024-10-26T06:29:13Z |  Telegram bot server with API similar to net/http. |
@@ -37,18 +37,18 @@ Libraries for building and working with bots.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Syfaro/telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) | 6k | 895 | 2024-10-30T18:32:42Z |  Simple and clean Telegram bot client. |
-| [tucnak/telebot](https://github.com/tucnak/telebot) | 4k | 463 | 2024-10-30T08:49:05Z |  Telegram bot framework is written in Go. |
-| [olivia-ai/olivia](https://github.com/olivia-ai/olivia) | 4k | 351 | 2024-10-25T18:47:13Z |  A chatbot built with an artificial neural network. |
+| [Syfaro/telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) | 6k | 895 | 2024-10-31T18:40:49Z |  Simple and clean Telegram bot client. |
+| [tucnak/telebot](https://github.com/tucnak/telebot) | 4k | 463 | 2024-10-31T20:33:16Z |  Telegram bot framework is written in Go. |
+| [olivia-ai/olivia](https://github.com/olivia-ai/olivia) | 4k | 351 | 2024-10-31T01:26:11Z |  A chatbot built with an artificial neural network. |
 | [stellar/kelp](https://github.com/stellar/kelp) | 1k | 260 | 2024-10-27T18:17:57Z |  official trading and market-making bot for the [Stellar](https://www.stellar.org/) DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges and custom trading strategies. |
 | [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) | 1k | 243 | 2024-10-30T07:47:56Z |  A golang implementation of a console-based trading bot for cryptocurrency exchanges. |
 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | 826 | 195 | 2024-10-16T10:34:31Z |  IRC, Slack & Telegram bot written in Go. |
-| [go-telegram/bot](https://github.com/go-telegram/bot) | 721 | 64 | 2024-10-30T17:56:28Z |  Zero-dependencies Telegram Bot library with additional UI components |
-| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 64 | 2024-10-30T21:08:45Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
+| [go-telegram/bot](https://github.com/go-telegram/bot) | 723 | 64 | 2024-10-31T15:39:54Z |  Zero-dependencies Telegram Bot library with additional UI components |
+| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 64 | 2024-10-31T19:47:55Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
 | [gempir/go-twitch-irc](https://github.com/gempir/go-twitch-irc) | 357 | 59 | 2024-10-04T01:00:09Z |  Library to write bots for twitch.tv chat |
 | [yanzay/tbot](https://github.com/yanzay/tbot) | 356 | 55 | 2024-10-26T06:29:13Z |  Telegram bot server with API similar to net/http. |
 | [innogames/slack-bot](https://github.com/innogames/slack-bot) | 182 | 43 | 2024-10-29T19:15:41Z |  Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github... |
-| [mymmrac/telego](https://github.com/mymmrac/telego) | 549 | 42 | 2024-10-30T20:26:26Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
+| [mymmrac/telego](https://github.com/mymmrac/telego) | 551 | 42 | 2024-10-31T20:02:44Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
 | [ezeoleaf/larry](https://github.com/ezeoleaf/larry) | 162 | 29 | 2024-10-30T22:18:31Z |  Larry 🐦 is a really simple Twitter bot generator that tweets random repositories from Github built in Go. |
 | [NicoNex/echotron](https://github.com/NicoNex/echotron) | 372 | 26 | 2024-10-28T19:00:11Z |  An elegant and concurrent library for Telegram Bots in Go. |
 | [sbstjn/hanu](https://github.com/sbstjn/hanu) | 155 | 25 | 2024-08-29T03:27:52Z |  Framework for writing Slack bots. |
@@ -68,12 +68,13 @@ Libraries for building and working with bots.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [tucnak/telebot](https://github.com/tucnak/telebot) | 4k | 463 | 2024-10-31T20:33:16Z |  Telegram bot framework is written in Go. |
+| [mymmrac/telego](https://github.com/mymmrac/telego) | 551 | 42 | 2024-10-31T20:02:44Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
+| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 64 | 2024-10-31T19:47:55Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
+| [Syfaro/telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) | 6k | 895 | 2024-10-31T18:40:49Z |  Simple and clean Telegram bot client. |
+| [go-telegram/bot](https://github.com/go-telegram/bot) | 723 | 64 | 2024-10-31T15:39:54Z |  Zero-dependencies Telegram Bot library with additional UI components |
+| [olivia-ai/olivia](https://github.com/olivia-ai/olivia) | 4k | 351 | 2024-10-31T01:26:11Z |  A chatbot built with an artificial neural network. |
 | [ezeoleaf/larry](https://github.com/ezeoleaf/larry) | 162 | 29 | 2024-10-30T22:18:31Z |  Larry 🐦 is a really simple Twitter bot generator that tweets random repositories from Github built in Go. |
-| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 64 | 2024-10-30T21:08:45Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
-| [mymmrac/telego](https://github.com/mymmrac/telego) | 549 | 42 | 2024-10-30T20:26:26Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
-| [Syfaro/telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) | 6k | 895 | 2024-10-30T18:32:42Z |  Simple and clean Telegram bot client. |
-| [go-telegram/bot](https://github.com/go-telegram/bot) | 721 | 64 | 2024-10-30T17:56:28Z |  Zero-dependencies Telegram Bot library with additional UI components |
-| [tucnak/telebot](https://github.com/tucnak/telebot) | 4k | 463 | 2024-10-30T08:49:05Z |  Telegram bot framework is written in Go. |
 | [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) | 1k | 243 | 2024-10-30T07:47:56Z |  A golang implementation of a console-based trading bot for cryptocurrency exchanges. |
 | [nikepan/govkbot](https://github.com/nikepan/govkbot) | 51 | 5 | 2024-10-30T01:32:19Z |  Simple Go [VK](https://vk.com) bot library. |
 | [innogames/slack-bot](https://github.com/innogames/slack-bot) | 182 | 43 | 2024-10-29T19:15:41Z |  Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github... |
@@ -85,7 +86,6 @@ Libraries for building and working with bots.
 | [zhulik/margelet](https://github.com/zhulik/margelet) | 87 | 15 | 2024-10-26T06:28:25Z |  Framework for building Telegram bots. |
 | [onrik/micha](https://github.com/onrik/micha) | 31 | 6 | 2024-10-26T06:25:51Z |  Go Library for Telegram bot api. |
 | [mr-linch/go-tg](https://github.com/mr-linch/go-tg) | 104 | 11 | 2024-10-26T06:08:24Z |  Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included. |
-| [olivia-ai/olivia](https://github.com/olivia-ai/olivia) | 4k | 351 | 2024-10-25T18:47:13Z |  A chatbot built with an artificial neural network. |
 | [slack-io/slacker](https://github.com/slack-io/slacker) | 41 | 13 | 2024-10-19T09:06:15Z |  Easy to use framework to create Slack bots. |
 | [oklahomer/go-sarah](https://github.com/oklahomer/go-sarah) | 262 | 16 | 2024-10-18T19:40:24Z |  Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more. |
 | [go-chat-bot/bot](https://github.com/go-chat-bot/bot) | 826 | 195 | 2024-10-16T10:34:31Z |  IRC, Slack & Telegram bot written in Go. |
