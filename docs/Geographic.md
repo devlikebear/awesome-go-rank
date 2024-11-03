@@ -11,7 +11,7 @@ Geographic tools and servers
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 656 | 104 | 2024-10-31T10:59:57Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 617 | 130 | 2024-10-23T02:53:47Z |  A library provides spatial data and geometric algorithms. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 375 | 48 | 2024-10-14T11:10:56Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
-| [uber/h3-go](https://github.com/uber/h3-go) | 314 | 60 | 2024-10-30T14:26:02Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
+| [uber/h3-go](https://github.com/uber/h3-go) | 315 | 60 | 2024-11-02T01:06:40Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 137 | 27 | 2024-10-28T06:28:26Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 131 | 19 | 2024-10-25T07:48:21Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [wroge/wgs84](https://github.com/wroge/wgs84) | 128 | 17 | 2024-11-01T07:43:18Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
@@ -31,7 +31,7 @@ Geographic tools and servers
 | [golang/geo](https://github.com/golang/geo) | 2k | 181 | 2024-10-31T08:19:09Z |  S2 geometry library in Go. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 617 | 130 | 2024-10-23T02:53:47Z |  A library provides spatial data and geometric algorithms. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 656 | 104 | 2024-10-31T10:59:57Z |  A simple Go-based server for map tiles stored in mbtiles format. |
-| [uber/h3-go](https://github.com/uber/h3-go) | 314 | 60 | 2024-10-30T14:26:02Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
+| [uber/h3-go](https://github.com/uber/h3-go) | 315 | 60 | 2024-11-02T01:06:40Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 375 | 48 | 2024-10-14T11:10:56Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 137 | 27 | 2024-10-28T06:28:26Z |  Go wrapper for GDAL. |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 91 | 23 | 2024-10-21T19:47:57Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
@@ -48,11 +48,11 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [uber/h3-go](https://github.com/uber/h3-go) | 315 | 60 | 2024-11-02T01:06:40Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 9k | 569 | 2024-11-01T17:53:28Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [wroge/wgs84](https://github.com/wroge/wgs84) | 128 | 17 | 2024-11-01T07:43:18Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 656 | 104 | 2024-10-31T10:59:57Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [golang/geo](https://github.com/golang/geo) | 2k | 181 | 2024-10-31T08:19:09Z |  S2 geometry library in Go. |
-| [uber/h3-go](https://github.com/uber/h3-go) | 314 | 60 | 2024-10-30T14:26:02Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 4 | 0 | 2024-10-29T18:20:23Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [maguro/pbf](https://github.com/maguro/pbf) | 48 | 7 | 2024-10-29T02:30:30Z |  OpenStreetMap PBF golang encoder/decoder. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 137 | 27 | 2024-10-28T06:28:26Z |  Go wrapper for GDAL. |
