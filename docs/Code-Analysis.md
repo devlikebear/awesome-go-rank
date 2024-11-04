@@ -6,8 +6,8 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 23k | 2k | 2024-11-02T22:47:59Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 16k | 1k | 2024-11-02T21:13:14Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 23k | 2k | 2024-11-03T21:13:05Z | . |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 16k | 1k | 2024-11-03T21:51:28Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
 | [mgechev/revive](https://github.com/mgechev/revive) | 5k | 280 | 2024-11-02T17:38:33Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2024-11-02T14:10:51Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 173 | 2024-11-01T09:54:31Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
@@ -35,7 +35,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [Checkmarx/chainjacking](https://github.com/Checkmarx/chainjacking) | 56 | 15 | 2024-10-09T00:52:41Z |  Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack. |
 | [sashamelentyev/usestdlibvars](https://github.com/sashamelentyev/usestdlibvars) | 43 | 5 | 2024-06-28T18:09:30Z |  A linter that detect the possibility to use variables/constants from the Go standard library. |
 | [firstrow/go-outdated](https://github.com/firstrow/go-outdated) | 43 | 2 | 2024-07-16T09:05:15Z |  Console application that displays outdated packages. |
-| [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 11 | 2 | 2023-11-04T03:47:21Z |  iFood API SDK. |
+| [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 12 | 2 | 2024-11-03T02:38:05Z |  iFood API SDK. |
 | [Crocmagnon/fatcontext](https://github.com/Crocmagnon/fatcontext) | 9 | 2 | 2024-11-02T08:32:30Z |  Fatcontext detects nested contexts in loops or function literals. |
 | [/](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 0 | 0 | 0001-01-01T00:00:00Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
 
@@ -43,8 +43,8 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 23k | 2k | 2024-11-02T22:47:59Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 16k | 1k | 2024-11-02T21:13:14Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 23k | 2k | 2024-11-03T21:13:05Z | . |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 16k | 1k | 2024-11-03T21:51:28Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
 | [mgechev/revive](https://github.com/mgechev/revive) | 5k | 280 | 2024-11-02T17:38:33Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 173 | 2024-11-01T09:54:31Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2024-11-02T14:10:51Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
@@ -72,7 +72,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [sashamelentyev/usestdlibvars](https://github.com/sashamelentyev/usestdlibvars) | 43 | 5 | 2024-06-28T18:09:30Z |  A linter that detect the possibility to use variables/constants from the Go standard library. |
 | [asty-org/asty](https://github.com/asty-org/asty) | 81 | 3 | 2024-10-15T02:44:26Z |  Converts golang AST to JSON and JSON to AST. |
 | [firstrow/go-outdated](https://github.com/firstrow/go-outdated) | 43 | 2 | 2024-07-16T09:05:15Z |  Console application that displays outdated packages. |
-| [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 11 | 2 | 2023-11-04T03:47:21Z |  iFood API SDK. |
+| [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 12 | 2 | 2024-11-03T02:38:05Z |  iFood API SDK. |
 | [Crocmagnon/fatcontext](https://github.com/Crocmagnon/fatcontext) | 9 | 2 | 2024-11-02T08:32:30Z |  Fatcontext detects nested contexts in loops or function literals. |
 | [/](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 0 | 0 | 0001-01-01T00:00:00Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
 
@@ -80,8 +80,9 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 23k | 2k | 2024-11-02T22:47:59Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 16k | 1k | 2024-11-02T21:13:14Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 16k | 1k | 2024-11-03T21:51:28Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 23k | 2k | 2024-11-03T21:13:05Z | . |
+| [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 12 | 2 | 2024-11-03T02:38:05Z |  iFood API SDK. |
 | [mgechev/revive](https://github.com/mgechev/revive) | 5k | 280 | 2024-11-02T17:38:33Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 137 | 2024-11-02T14:10:51Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [Crocmagnon/fatcontext](https://github.com/Crocmagnon/fatcontext) | 9 | 2 | 2024-11-02T08:32:30Z |  Fatcontext detects nested contexts in loops or function literals. |
@@ -109,7 +110,6 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [sashamelentyev/usestdlibvars](https://github.com/sashamelentyev/usestdlibvars) | 43 | 5 | 2024-06-28T18:09:30Z |  A linter that detect the possibility to use variables/constants from the Go standard library. |
 | [surullabs/lint](https://github.com/surullabs/lint) | 67 | 9 | 2024-06-05T11:43:35Z |  Run linters as part of go test. |
 | [qiniu/checkstyle](https://github.com/qiniu/checkstyle) | 129 | 17 | 2024-03-19T11:16:00Z |  checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments. |
-| [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 11 | 2 | 2023-11-04T03:47:21Z |  iFood API SDK. |
 | [mccoyst/validate](https://github.com/mccoyst/validate) | 61 | 14 | 2023-08-03T03:50:25Z |  Automatically validates struct fields with tags. |
 | [/](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 0 | 0 | 0001-01-01T00:00:00Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
 
