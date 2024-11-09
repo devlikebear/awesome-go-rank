@@ -78,5 +78,6 @@ This is a ranking of GitHub repositories from
 * [Version Control](docs/Version-Control.md)<br/>Libraries for version control.
 * [Video](docs/Video.md)<br/>Libraries for manipulating video.
 * [Web Frameworks](docs/Web-Frameworks.md)<br/>Full stack web frameworks.
+* [Workflow Frameworks](docs/Workflow-Frameworks.md)<br/>Libraries for creating Workflows.
 * [XML](docs/XML.md)<br/>Libraries and tools for manipulating XML.
 * [Zero Trust](docs/Zero-Trust.md)<br/>Libraries and tools to implement Zero Trust architectures.
