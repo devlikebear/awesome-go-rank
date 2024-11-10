@@ -6,11 +6,11 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-11-05T10:10:50Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-11-09T19:28:39Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 413 | 2024-11-08T09:46:24Z |  Lightweight data stream processing engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 117 | 2024-11-08T01:21:45Z |  Kubernetes native IoT development framework. |
-| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 285 | 2024-11-03T01:31:24Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [rulego/rulego](https://github.com/rulego/rulego) | 846 | 78 | 2024-11-08T19:38:39Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
+| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 285 | 2024-11-09T15:17:14Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
+| [rulego/rulego](https://github.com/rulego/rulego) | 847 | 78 | 2024-11-09T14:55:20Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 406 | 31 | 2024-10-29T07:32:29Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 263 | 33 | 2024-10-22T14:53:15Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [amimof/huego](https://github.com/amimof/huego) | 250 | 36 | 2024-09-14T16:57:33Z |  An extensive Philips Hue client library for Go. |
@@ -26,10 +26,10 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 413 | 2024-11-08T09:46:24Z |  Lightweight data stream processing engine for IoT edge. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-11-05T10:10:50Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 285 | 2024-11-03T01:31:24Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-11-09T19:28:39Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 285 | 2024-11-09T15:17:14Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 117 | 2024-11-08T01:21:45Z |  Kubernetes native IoT development framework. |
-| [rulego/rulego](https://github.com/rulego/rulego) | 846 | 78 | 2024-11-08T19:38:39Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
+| [rulego/rulego](https://github.com/rulego/rulego) | 847 | 78 | 2024-11-09T14:55:20Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 231 | 42 | 2024-10-14T15:07:35Z |  Lightweight stream processing engine for IoT. |
 | [amimof/huego](https://github.com/amimof/huego) | 250 | 36 | 2024-09-14T16:57:33Z |  An extensive Philips Hue client library for Go. |
 | [goiot/devices](https://github.com/goiot/devices) | 263 | 33 | 2024-10-22T14:53:15Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
@@ -44,12 +44,12 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [rulego/rulego](https://github.com/rulego/rulego) | 846 | 78 | 2024-11-08T19:38:39Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-11-09T19:28:39Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 285 | 2024-11-09T15:17:14Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
+| [rulego/rulego](https://github.com/rulego/rulego) | 847 | 78 | 2024-11-09T14:55:20Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 413 | 2024-11-08T09:46:24Z |  Lightweight data stream processing engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 117 | 2024-11-08T01:21:45Z |  Kubernetes native IoT development framework. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 86 | 11 | 2024-11-06T13:09:44Z |  Software package for IoT automation. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 288 | 2024-11-05T10:10:50Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [paypal/gatt](https://github.com/paypal/gatt) | 1k | 285 | 2024-11-03T01:31:24Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 406 | 31 | 2024-10-29T07:32:29Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 263 | 33 | 2024-10-22T14:53:15Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 231 | 42 | 2024-10-14T15:07:35Z |  Lightweight stream processing engine for IoT. |
