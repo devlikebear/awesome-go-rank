@@ -6,9 +6,9 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 6k | 744 | 2024-11-12T13:49:29Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 6k | 744 | 2024-11-13T10:01:42Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 334 | 2024-11-12T08:01:14Z |  gaining advanced insights from Git repository history. |
-| [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 315 | 2024-10-23T10:01:26Z |  Go bindings for libgit2. |
+| [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 315 | 2024-11-13T10:16:02Z |  Go bindings for libgit2. |
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 102 | 5 | 2024-10-03T18:57:02Z |  Per-repo and shared Git hooks with version control and auto update. |
 | [sourcegraph/go-vcs](https://github.com/sourcegraph/go-vcs) | 79 | 20 | 2024-11-06T11:54:29Z |  manipulate and inspect VCS repositories in Go. |
 | [jfrog/froggit-go](https://github.com/jfrog/froggit-go) | 45 | 17 | 2024-11-12T00:14:20Z |  Froggit-Go is a Go library, allowing to perform actions on VCS providers. |
@@ -18,9 +18,9 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 6k | 744 | 2024-11-12T13:49:29Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 6k | 744 | 2024-11-13T10:01:42Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 334 | 2024-11-12T08:01:14Z |  gaining advanced insights from Git repository history. |
-| [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 315 | 2024-10-23T10:01:26Z |  Go bindings for libgit2. |
+| [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 315 | 2024-11-13T10:16:02Z |  Go bindings for libgit2. |
 | [sourcegraph/go-vcs](https://github.com/sourcegraph/go-vcs) | 79 | 20 | 2024-11-06T11:54:29Z |  manipulate and inspect VCS repositories in Go. |
 | [jfrog/froggit-go](https://github.com/jfrog/froggit-go) | 45 | 17 | 2024-11-12T00:14:20Z |  Froggit-Go is a Go library, allowing to perform actions on VCS providers. |
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 102 | 5 | 2024-10-03T18:57:02Z |  Per-repo and shared Git hooks with version control and auto update. |
@@ -30,11 +30,11 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 6k | 744 | 2024-11-12T13:49:29Z |  highly extensible Git implementation in pure Go. |
+| [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 315 | 2024-11-13T10:16:02Z |  Go bindings for libgit2. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 6k | 744 | 2024-11-13T10:01:42Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 334 | 2024-11-12T08:01:14Z |  gaining advanced insights from Git repository history. |
 | [jfrog/froggit-go](https://github.com/jfrog/froggit-go) | 45 | 17 | 2024-11-12T00:14:20Z |  Froggit-Go is a Go library, allowing to perform actions on VCS providers. |
 | [beyang/hgo](https://github.com/beyang/hgo) | 16 | 4 | 2024-11-06T11:54:43Z |  Hgo is a collection of Go packages providing read-access to local Mercurial repositories. |
 | [sourcegraph/go-vcs](https://github.com/sourcegraph/go-vcs) | 79 | 20 | 2024-11-06T11:54:29Z |  manipulate and inspect VCS repositories in Go. |
-| [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 315 | 2024-10-23T10:01:26Z |  Go bindings for libgit2. |
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 102 | 5 | 2024-10-03T18:57:02Z |  Per-repo and shared Git hooks with version control and auto update. |
 
