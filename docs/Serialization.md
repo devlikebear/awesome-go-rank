@@ -6,10 +6,10 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-11-17T18:10:21Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
-| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2024-11-18T05:05:10Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 675 | 2024-11-18T17:12:46Z |  Go library for decoding generic map values into native Go structures. |
-| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 808 | 2024-11-18T08:21:26Z |  Protocol Buffers for Go with Gadgets. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-11-19T11:30:35Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2024-11-19T16:50:19Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 675 | 2024-11-19T14:57:12Z |  Go library for decoding generic map values into native Go structures. |
+| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 807 | 2024-11-18T08:21:26Z |  Protocol Buffers for Go with Gadgets. |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 295 | 2024-11-17T14:15:26Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 942 | 62 | 2024-11-16T04:37:47Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 745 | 53 | 2024-11-10T07:28:59Z |  Code generation for the Colfer binary format. |
@@ -25,7 +25,7 @@ Libraries and tools for binary serialization.
 | [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) | 23 | 4 | 2024-08-13T03:37:50Z |  Convert slices, maps or any other unknown value across different types at run-time, no matter what. |
 | [raszia/gotiny](https://github.com/raszia/gotiny) | 20 | 3 | 2024-09-30T19:13:20Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
 | [vimeda/pletter](https://github.com/vimeda/pletter) | 19 | 3 | 2023-08-22T11:20:27Z |  A standard way to wrap a proto message for message brokers. |
-| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 15 | 0 | 2024-11-18T16:15:32Z |  High level and rich functionalities CSV serialization/deserialization library. |
+| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 16 | 0 | 2024-11-19T06:37:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
 | [huydang284/fixedwidth](https://github.com/huydang284/fixedwidth) | 9 | 2 | 2024-09-02T14:06:26Z |  Fixed-width text formatting (UTF-8 supported). |
 | [recolude/unitpacking](https://github.com/recolude/unitpacking) | 6 | 1 | 2024-05-17T17:06:33Z |  Library to pack unit vectors into as fewest bytes as possible. |
 
@@ -33,10 +33,10 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2024-11-18T05:05:10Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-11-17T18:10:21Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
-| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 808 | 2024-11-18T08:21:26Z |  Protocol Buffers for Go with Gadgets. |
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 675 | 2024-11-18T17:12:46Z |  Go library for decoding generic map values into native Go structures. |
+| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2024-11-19T16:50:19Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-11-19T11:30:35Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 807 | 2024-11-18T08:21:26Z |  Protocol Buffers for Go with Gadgets. |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 675 | 2024-11-19T14:57:12Z |  Go library for decoding generic map values into native Go structures. |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 295 | 2024-11-17T14:15:26Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 942 | 62 | 2024-11-16T04:37:47Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 739 | 61 | 2024-11-17T17:30:43Z |  Small, safe, and easy CBOR encoding and decoding library. |
@@ -54,17 +54,17 @@ Libraries and tools for binary serialization.
 | [vimeda/pletter](https://github.com/vimeda/pletter) | 19 | 3 | 2023-08-22T11:20:27Z |  A standard way to wrap a proto message for message brokers. |
 | [huydang284/fixedwidth](https://github.com/huydang284/fixedwidth) | 9 | 2 | 2024-09-02T14:06:26Z |  Fixed-width text formatting (UTF-8 supported). |
 | [recolude/unitpacking](https://github.com/recolude/unitpacking) | 6 | 1 | 2024-05-17T17:06:33Z |  Library to pack unit vectors into as fewest bytes as possible. |
-| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 15 | 0 | 2024-11-18T16:15:32Z |  High level and rich functionalities CSV serialization/deserialization library. |
+| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 16 | 0 | 2024-11-19T06:37:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 675 | 2024-11-18T17:12:46Z |  Go library for decoding generic map values into native Go structures. |
-| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 15 | 0 | 2024-11-18T16:15:32Z |  High level and rich functionalities CSV serialization/deserialization library. |
-| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 808 | 2024-11-18T08:21:26Z |  Protocol Buffers for Go with Gadgets. |
-| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2024-11-18T05:05:10Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-11-17T18:10:21Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2024-11-19T16:50:19Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | 8k | 675 | 2024-11-19T14:57:12Z |  Go library for decoding generic map values into native Go structures. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 13k | 1k | 2024-11-19T11:30:35Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 16 | 0 | 2024-11-19T06:37:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
+| [gogo/protobuf](https://github.com/gogo/protobuf) | 6k | 807 | 2024-11-18T08:21:26Z |  Protocol Buffers for Go with Gadgets. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 739 | 61 | 2024-11-17T17:30:43Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 295 | 2024-11-17T14:15:26Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [32leaves/bel](https://github.com/32leaves/bel) | 42 | 10 | 2024-11-17T05:12:21Z |  Generate TypeScript interfaces from Go structs/interfaces. Useful for JSON RPC. |
