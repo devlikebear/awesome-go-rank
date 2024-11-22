@@ -6,13 +6,13 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 6k | 871 | 2024-11-20T20:45:57Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 6k | 872 | 2024-11-21T10:16:13Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 225 | 2024-11-20T10:38:24Z |  .NET LINQ-like query methods for Go. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 159 | 2024-11-20T18:23:24Z |  Generate arbitrary Go code without templates. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 159 | 2024-11-21T02:43:27Z |  Generate arbitrary Go code without templates. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 43 | 2024-11-20T15:46:19Z |  Derives functions from input types |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 1k | 82 | 2024-11-17T17:54:15Z |  Generate decorators for Go interfaces using simple templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 758 | 56 | 2024-11-20T01:39:37Z |  Code generation for enums from code comments. |
-| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 531 | 48 | 2024-11-19T09:36:04Z |  Generate converters by defining an interface. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 757 | 56 | 2024-11-21T21:18:57Z |  Code generation for enums from code comments. |
+| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 532 | 48 | 2024-11-21T06:19:33Z |  Generate converters by defining an interface. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 423 | 32 | 2024-10-25T21:15:22Z |  Command line tool for generating interface definitions. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 356 | 22 | 2024-11-14T07:36:41Z |  Generate type-to-type and type-based code without reflection. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 44 | 6 | 2024-11-15T07:52:24Z |  Feature rich type-to-type copy code generator. |
@@ -23,12 +23,12 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 6k | 871 | 2024-11-20T20:45:57Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 6k | 872 | 2024-11-21T10:16:13Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 225 | 2024-11-20T10:38:24Z |  .NET LINQ-like query methods for Go. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 159 | 2024-11-20T18:23:24Z |  Generate arbitrary Go code without templates. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 159 | 2024-11-21T02:43:27Z |  Generate arbitrary Go code without templates. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 1k | 82 | 2024-11-17T17:54:15Z |  Generate decorators for Go interfaces using simple templates. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 758 | 56 | 2024-11-20T01:39:37Z |  Code generation for enums from code comments. |
-| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 531 | 48 | 2024-11-19T09:36:04Z |  Generate converters by defining an interface. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 757 | 56 | 2024-11-21T21:18:57Z |  Code generation for enums from code comments. |
+| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 532 | 48 | 2024-11-21T06:19:33Z |  Generate converters by defining an interface. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 43 | 2024-11-20T15:46:19Z |  Derives functions from input types |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 423 | 32 | 2024-10-25T21:15:22Z |  Command line tool for generating interface definitions. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 356 | 22 | 2024-11-14T07:36:41Z |  Generate type-to-type and type-based code without reflection. |
@@ -40,12 +40,12 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 6k | 871 | 2024-11-20T20:45:57Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
-| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 159 | 2024-11-20T18:23:24Z |  Generate arbitrary Go code without templates. |
+| [abice/go-enum](https://github.com/abice/go-enum) | 757 | 56 | 2024-11-21T21:18:57Z |  Code generation for enums from code comments. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 6k | 872 | 2024-11-21T10:16:13Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 532 | 48 | 2024-11-21T06:19:33Z |  Generate converters by defining an interface. |
+| [dave/jennifer](https://github.com/dave/jennifer) | 3k | 159 | 2024-11-21T02:43:27Z |  Generate arbitrary Go code without templates. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 43 | 2024-11-20T15:46:19Z |  Derives functions from input types |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 225 | 2024-11-20T10:38:24Z |  .NET LINQ-like query methods for Go. |
-| [abice/go-enum](https://github.com/abice/go-enum) | 758 | 56 | 2024-11-20T01:39:37Z |  Code generation for enums from code comments. |
-| [jmattheis/goverter](https://github.com/jmattheis/goverter) | 531 | 48 | 2024-11-19T09:36:04Z |  Generate converters by defining an interface. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 1k | 82 | 2024-11-17T17:54:15Z |  Generate decorators for Go interfaces using simple templates. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 44 | 6 | 2024-11-15T07:52:24Z |  Feature rich type-to-type copy code generator. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 356 | 22 | 2024-11-14T07:36:41Z |  Generate type-to-type and type-based code without reflection. |
