@@ -6,13 +6,13 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-20T15:22:28Z | . |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-20T01:03:08Z |  Simple, zero-dependency scheduling library for Go. |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2024-11-21T03:53:15Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-22T08:27:57Z | . |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-22T07:42:51Z |  Simple, zero-dependency scheduling library for Go. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-11-22T19:45:11Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-11-15T07:16:40Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 450 | 54 | 2024-11-11T11:20:36Z |  Cronjobs scheduling made easy. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 416 | 25 | 2024-11-19T19:31:45Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
-| [fieldryand/goflow](https://github.com/fieldryand/goflow) | 390 | 31 | 2024-11-21T22:34:02Z |  A simple but powerful DAG scheduler and dashboard. |
+| [fieldryand/goflow](https://github.com/fieldryand/goflow) | 391 | 31 | 2024-11-22T18:52:23Z |  A simple but powerful DAG scheduler and dashboard. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 303 | 23 | 2024-11-11T11:32:23Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 232 | 15 | 2024-11-20T04:10:23Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [datarootsio/cheek](https://github.com/datarootsio/cheek) | 164 | 11 | 2024-11-21T08:49:09Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
@@ -26,12 +26,12 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-20T15:22:28Z | . |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2024-11-21T03:53:15Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-20T01:03:08Z |  Simple, zero-dependency scheduling library for Go. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-22T08:27:57Z | . |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-11-22T19:45:11Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-22T07:42:51Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-11-15T07:16:40Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 450 | 54 | 2024-11-11T11:20:36Z |  Cronjobs scheduling made easy. |
-| [fieldryand/goflow](https://github.com/fieldryand/goflow) | 390 | 31 | 2024-11-21T22:34:02Z |  A simple but powerful DAG scheduler and dashboard. |
+| [fieldryand/goflow](https://github.com/fieldryand/goflow) | 391 | 31 | 2024-11-22T18:52:23Z |  A simple but powerful DAG scheduler and dashboard. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 416 | 25 | 2024-11-19T19:31:45Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 303 | 23 | 2024-11-11T11:32:23Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 157 | 16 | 2024-11-21T17:27:07Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
@@ -46,13 +46,13 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fieldryand/goflow](https://github.com/fieldryand/goflow) | 390 | 31 | 2024-11-21T22:34:02Z |  A simple but powerful DAG scheduler and dashboard. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-11-22T19:45:11Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [fieldryand/goflow](https://github.com/fieldryand/goflow) | 391 | 31 | 2024-11-22T18:52:23Z |  A simple but powerful DAG scheduler and dashboard. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-22T08:27:57Z | . |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-22T07:42:51Z |  Simple, zero-dependency scheduling library for Go. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 157 | 16 | 2024-11-21T17:27:07Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [datarootsio/cheek](https://github.com/datarootsio/cheek) | 164 | 11 | 2024-11-21T08:49:09Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2024-11-21T03:53:15Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-20T15:22:28Z | . |
 | [rk/go-cron](https://github.com/rk/go-cron) | 232 | 15 | 2024-11-20T04:10:23Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-20T01:03:08Z |  Simple, zero-dependency scheduling library for Go. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 416 | 25 | 2024-11-19T19:31:45Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-11-15T07:16:40Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 303 | 23 | 2024-11-11T11:32:23Z |  An easy to use in-process scheduler for recurring tasks in Go. |
