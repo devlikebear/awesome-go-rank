@@ -6,26 +6,26 @@ Libraries for building actor-based programs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 5k | 522 | 2024-11-23T18:02:26Z |  Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin. |
-| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 4k | 143 | 2024-11-23T18:02:10Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
-| [anthdm/hollywood](https://github.com/anthdm/hollywood) | 1k | 103 | 2024-11-24T08:55:07Z |  Blazingly fast and light-weight Actor engine written in Golang. |
-| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 189 | 13 | 2024-11-24T23:03:58Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
+| [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 5k | 522 | 2024-11-25T14:18:14Z |  Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin. |
+| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 4k | 143 | 2024-11-25T14:07:09Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
+| [anthdm/hollywood](https://github.com/anthdm/hollywood) | 1k | 103 | 2024-11-25T14:06:55Z |  Blazingly fast and light-weight Actor engine written in Golang. |
+| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 190 | 13 | 2024-11-25T14:30:57Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 5k | 522 | 2024-11-23T18:02:26Z |  Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin. |
-| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 4k | 143 | 2024-11-23T18:02:10Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
-| [anthdm/hollywood](https://github.com/anthdm/hollywood) | 1k | 103 | 2024-11-24T08:55:07Z |  Blazingly fast and light-weight Actor engine written in Golang. |
-| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 189 | 13 | 2024-11-24T23:03:58Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
+| [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 5k | 522 | 2024-11-25T14:18:14Z |  Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin. |
+| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 4k | 143 | 2024-11-25T14:07:09Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
+| [anthdm/hollywood](https://github.com/anthdm/hollywood) | 1k | 103 | 2024-11-25T14:06:55Z |  Blazingly fast and light-weight Actor engine written in Golang. |
+| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 190 | 13 | 2024-11-25T14:30:57Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 189 | 13 | 2024-11-24T23:03:58Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
-| [anthdm/hollywood](https://github.com/anthdm/hollywood) | 1k | 103 | 2024-11-24T08:55:07Z |  Blazingly fast and light-weight Actor engine written in Golang. |
-| [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 5k | 522 | 2024-11-23T18:02:26Z |  Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin. |
-| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 4k | 143 | 2024-11-23T18:02:10Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
+| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 190 | 13 | 2024-11-25T14:30:57Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
+| [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 5k | 522 | 2024-11-25T14:18:14Z |  Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin. |
+| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 4k | 143 | 2024-11-25T14:07:09Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
+| [anthdm/hollywood](https://github.com/anthdm/hollywood) | 1k | 103 | 2024-11-25T14:06:55Z |  Blazingly fast and light-weight Actor engine written in Golang. |
 
