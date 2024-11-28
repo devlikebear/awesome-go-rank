@@ -6,7 +6,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 242 | 2024-11-26T23:41:41Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 242 | 2024-11-27T15:10:14Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 234 | 2024-11-26T08:10:51Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 166 | 2024-11-22T06:37:59Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 777 | 56 | 2024-11-13T08:02:15Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
@@ -33,7 +33,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 242 | 2024-11-26T23:41:41Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 242 | 2024-11-27T15:10:14Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 234 | 2024-11-26T08:10:51Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 166 | 2024-11-22T06:37:59Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 777 | 56 | 2024-11-13T08:02:15Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
@@ -60,7 +60,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 242 | 2024-11-26T23:41:41Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 242 | 2024-11-27T15:10:14Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2024-11-26T19:12:09Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 102 | 7 | 2024-11-26T16:17:44Z |  Convert string to duration. Support time.Duration returned string and more. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 234 | 2024-11-26T08:10:51Z |  Now is a time toolkit for golang. |
