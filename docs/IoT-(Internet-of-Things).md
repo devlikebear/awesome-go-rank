@@ -6,8 +6,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2024-11-24T07:14:38Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 417 | 2024-11-29T08:10:59Z |  Lightweight data stream processing engine for IoT edge. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2024-11-30T08:27:21Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 417 | 2024-11-30T17:24:13Z |  Lightweight data stream processing engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 120 | 2024-11-29T12:08:29Z |  Kubernetes native IoT development framework. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-11-27T20:51:59Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 891 | 85 | 2024-11-29T09:37:35Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
@@ -25,8 +25,8 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 417 | 2024-11-29T08:10:59Z |  Lightweight data stream processing engine for IoT edge. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2024-11-24T07:14:38Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 417 | 2024-11-30T17:24:13Z |  Lightweight data stream processing engine for IoT edge. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2024-11-30T08:27:21Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-11-27T20:51:59Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 120 | 2024-11-29T12:08:29Z |  Kubernetes native IoT development framework. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 891 | 85 | 2024-11-29T09:37:35Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
@@ -44,11 +44,11 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 417 | 2024-11-30T17:24:13Z |  Lightweight data stream processing engine for IoT edge. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2024-11-30T08:27:21Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 120 | 2024-11-29T12:08:29Z |  Kubernetes native IoT development framework. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 891 | 85 | 2024-11-29T09:37:35Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 1k | 417 | 2024-11-29T08:10:59Z |  Lightweight data stream processing engine for IoT edge. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 284 | 2024-11-27T20:51:59Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2024-11-24T07:14:38Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 43 | 18 | 2024-11-23T08:41:33Z |  Industrial IoT Messaging and Device Management Server. |
 | [goiot/devices](https://github.com/goiot/devices) | 264 | 33 | 2024-11-21T07:59:38Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 407 | 31 | 2024-11-12T17:51:29Z |  Open-Source Platform for Quantified Self & IoT. |
