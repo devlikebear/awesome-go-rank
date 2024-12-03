@@ -6,9 +6,9 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-30T20:20:40Z | . |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-12-02T03:38:23Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-30T07:19:19Z |  Simple, zero-dependency scheduling library for Go. |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-11-30T10:19:56Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-12-02T17:13:01Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-11-30T10:19:28Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 450 | 54 | 2024-11-11T11:20:36Z |  Cronjobs scheduling made easy. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 422 | 25 | 2024-11-29T02:05:08Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
@@ -26,8 +26,8 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-30T20:20:40Z | . |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-11-30T10:19:56Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-12-02T03:38:23Z | . |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-12-02T17:13:01Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-30T07:19:19Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-11-30T10:19:28Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 450 | 54 | 2024-11-11T11:20:36Z |  Cronjobs scheduling made easy. |
@@ -46,8 +46,8 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-11-30T20:20:40Z | . |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-11-30T10:19:56Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-12-02T17:13:01Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2024-12-02T03:38:23Z | . |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-11-30T10:19:28Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 85 | 2024-11-30T07:19:19Z |  Simple, zero-dependency scheduling library for Go. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 422 | 25 | 2024-11-29T02:05:08Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
