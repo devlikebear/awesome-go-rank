@@ -6,9 +6,9 @@ Libraries for validation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [colinhacks/zod](https://github.com/colinhacks/zod) | 34k | 1k | 2024-12-07T22:39:14Z | inspired schema builder for runtime value parsing and validation. |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | 34k | 1k | 2024-12-08T20:53:46Z | inspired schema builder for runtime value parsing and validation. |
 | [hapijs/joi](https://github.com/hapijs/joi) | 21k | 2k | 2024-12-06T17:46:37Z | . |
-| [go-playground/validator](https://github.com/go-playground/validator) | 17k | 1k | 2024-12-07T10:06:53Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
+| [go-playground/validator](https://github.com/go-playground/validator) | 17k | 1k | 2024-12-08T21:05:39Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 558 | 2024-12-07T02:47:35Z |  Validators and sanitizers for strings, numerics, slices and structs. |
 | [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 4k | 224 | 2024-12-05T16:39:14Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
 | [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) | 1k | 124 | 2024-12-05T07:12:04Z |  Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. |
@@ -27,8 +27,8 @@ Libraries for validation.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [hapijs/joi](https://github.com/hapijs/joi) | 21k | 2k | 2024-12-06T17:46:37Z | . |
-| [go-playground/validator](https://github.com/go-playground/validator) | 17k | 1k | 2024-12-07T10:06:53Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | 34k | 1k | 2024-12-07T22:39:14Z | inspired schema builder for runtime value parsing and validation. |
+| [go-playground/validator](https://github.com/go-playground/validator) | 17k | 1k | 2024-12-08T21:05:39Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | 34k | 1k | 2024-12-08T20:53:46Z | inspired schema builder for runtime value parsing and validation. |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 558 | 2024-12-07T02:47:35Z |  Validators and sanitizers for strings, numerics, slices and structs. |
 | [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 4k | 224 | 2024-12-05T16:39:14Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
 | [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) | 1k | 124 | 2024-12-05T07:12:04Z |  Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. |
@@ -46,9 +46,9 @@ Libraries for validation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [colinhacks/zod](https://github.com/colinhacks/zod) | 34k | 1k | 2024-12-07T22:39:14Z | inspired schema builder for runtime value parsing and validation. |
+| [go-playground/validator](https://github.com/go-playground/validator) | 17k | 1k | 2024-12-08T21:05:39Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | 34k | 1k | 2024-12-08T20:53:46Z | inspired schema builder for runtime value parsing and validation. |
 | [guiferpa/gody](https://github.com/guiferpa/gody) | 91 | 6 | 2024-12-07T22:34:53Z |  :balloon: A lightweight struct validator for Go. |
-| [go-playground/validator](https://github.com/go-playground/validator) | 17k | 1k | 2024-12-07T10:06:53Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 558 | 2024-12-07T02:47:35Z |  Validators and sanitizers for strings, numerics, slices and structs. |
 | [hapijs/joi](https://github.com/hapijs/joi) | 21k | 2k | 2024-12-06T17:46:37Z | . |
 | [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 4k | 224 | 2024-12-05T16:39:14Z |  Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
