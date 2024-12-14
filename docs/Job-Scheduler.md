@@ -6,8 +6,8 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 343 | 2024-12-10T17:11:45Z | . |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 86 | 2024-12-12T06:07:37Z |  Simple, zero-dependency scheduling library for Go. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 343 | 2024-12-13T09:44:05Z | . |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 86 | 2024-12-13T13:06:47Z |  Simple, zero-dependency scheduling library for Go. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-12-06T14:01:55Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-12-12T14:13:49Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 450 | 54 | 2024-11-11T11:20:36Z |  Cronjobs scheduling made easy. |
@@ -26,9 +26,9 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 343 | 2024-12-10T17:11:45Z | . |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 343 | 2024-12-13T09:44:05Z | . |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 98 | 2024-12-06T14:01:55Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 86 | 2024-12-12T06:07:37Z |  Simple, zero-dependency scheduling library for Go. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 86 | 2024-12-13T13:06:47Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-12-12T14:13:49Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 450 | 54 | 2024-11-11T11:20:36Z |  Cronjobs scheduling made easy. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 396 | 32 | 2024-12-08T14:22:54Z |  A simple but powerful DAG scheduler and dashboard. |
@@ -46,11 +46,11 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 86 | 2024-12-13T13:06:47Z |  Simple, zero-dependency scheduling library for Go. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 343 | 2024-12-13T09:44:05Z | . |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 304 | 24 | 2024-12-12T15:23:40Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 63 | 2024-12-12T14:13:49Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 86 | 2024-12-12T06:07:37Z |  Simple, zero-dependency scheduling library for Go. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 160 | 16 | 2024-12-11T18:56:12Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 343 | 2024-12-10T17:11:45Z | . |
 | [datarootsio/cheek](https://github.com/datarootsio/cheek) | 166 | 13 | 2024-12-10T12:53:34Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 55 | 11 | 2024-12-10T00:34:13Z |  Job scheduler library with database support |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 396 | 32 | 2024-12-08T14:22:54Z |  A simple but powerful DAG scheduler and dashboard. |
