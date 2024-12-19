@@ -7,7 +7,7 @@ Unofficial libraries for package and dependency management.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 542 | 2024-12-17T11:09:31Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
-| [anchore/syft](https://github.com/anchore/syft) | 6k | 585 | 2024-12-17T13:05:38Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 6k | 585 | 2024-12-18T22:30:35Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 454 | 2024-12-06T22:26:12Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 398 | 2024-12-14T03:13:39Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 207 | 2024-11-28T16:27:12Z |  Go Package Manager. |
@@ -24,7 +24,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 6k | 585 | 2024-12-17T13:05:38Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 6k | 585 | 2024-12-18T22:30:35Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 542 | 2024-12-17T11:09:31Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [tools/godep](https://github.com/tools/godep) | 6k | 454 | 2024-12-06T22:26:12Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 398 | 2024-12-14T03:13:39Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
@@ -42,7 +42,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 6k | 585 | 2024-12-17T13:05:38Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 6k | 585 | 2024-12-18T22:30:35Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 542 | 2024-12-17T11:09:31Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 355 | 17 | 2024-12-15T04:48:46Z |  Update binaries installed by "go install". |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 398 | 2024-12-14T03:13:39Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |

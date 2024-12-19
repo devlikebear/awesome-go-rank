@@ -6,8 +6,8 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 14k | 862 | 2024-12-17T15:11:37Z |  Get a JSON value with one line of code. |
-| [Jeffail/gabs](https://github.com/Jeffail/gabs) | 3k | 203 | 2024-12-15T07:10:43Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 15k | 860 | 2024-12-18T20:59:07Z |  Get a JSON value with one line of code. |
+| [Jeffail/gabs](https://github.com/Jeffail/gabs) | 3k | 202 | 2024-12-15T07:10:43Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 209 | 2024-12-15T02:09:53Z |  Automatically generate Go (golang) struct definitions from example JSON. |
 | [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 138 | 2024-12-11T08:55:28Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 864 | 49 | 2024-12-14T05:25:18Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
@@ -48,9 +48,9 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 14k | 862 | 2024-12-17T15:11:37Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 15k | 860 | 2024-12-18T20:59:07Z |  Get a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 209 | 2024-12-15T02:09:53Z |  Automatically generate Go (golang) struct definitions from example JSON. |
-| [Jeffail/gabs](https://github.com/Jeffail/gabs) | 3k | 203 | 2024-12-15T07:10:43Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
+| [Jeffail/gabs](https://github.com/Jeffail/gabs) | 3k | 202 | 2024-12-15T07:10:43Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
 | [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 138 | 2024-12-11T08:55:28Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 283 | 54 | 2024-11-19T18:05:10Z |  API for arbitrary transformation of JSON documents. |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 864 | 49 | 2024-12-14T05:25:18Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
@@ -90,9 +90,9 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 14k | 862 | 2024-12-17T15:11:37Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 15k | 860 | 2024-12-18T20:59:07Z |  Get a JSON value with one line of code. |
 | [spyzhov/ajson](https://github.com/spyzhov/ajson) | 250 | 23 | 2024-12-15T13:58:59Z |  Abstract JSON for golang with JSONPath support. |
-| [Jeffail/gabs](https://github.com/Jeffail/gabs) | 3k | 203 | 2024-12-15T07:10:43Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
+| [Jeffail/gabs](https://github.com/Jeffail/gabs) | 3k | 202 | 2024-12-15T07:10:43Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 209 | 2024-12-15T02:09:53Z |  Automatically generate Go (golang) struct definitions from example JSON. |
 | [wI2L/jettison](https://github.com/wI2L/jettison) | 176 | 13 | 2024-12-14T17:39:55Z |  Fast and flexible JSON encoder for Go. |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 864 | 49 | 2024-12-14T05:25:18Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
