@@ -6,11 +6,11 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/tile38](https://github.com/tidwall/tile38) | 9k | 574 | 2024-12-18T20:20:42Z |  Geolocation DB with spatial index and realtime geofencing. |
-| [golang/geo](https://github.com/golang/geo) | 2k | 181 | 2024-12-13T09:25:04Z |  S2 geometry library in Go. |
+| [tidwall/tile38](https://github.com/tidwall/tile38) | 9k | 574 | 2024-12-19T04:10:53Z |  Geolocation DB with spatial index and realtime geofencing. |
+| [golang/geo](https://github.com/golang/geo) | 2k | 182 | 2024-12-19T13:34:56Z |  S2 geometry library in Go. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 663 | 107 | 2024-12-18T11:38:00Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 618 | 130 | 2024-11-18T09:01:38Z |  A library provides spatial data and geometric algorithms. |
-| [paulmach/osm](https://github.com/paulmach/osm) | 380 | 48 | 2024-12-14T11:00:37Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
+| [paulmach/osm](https://github.com/paulmach/osm) | 381 | 48 | 2024-12-19T10:43:32Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 322 | 60 | 2024-12-13T16:21:49Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 143 | 29 | 2024-12-16T14:33:00Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 134 | 19 | 2024-11-11T16:43:53Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
@@ -27,12 +27,12 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/tile38](https://github.com/tidwall/tile38) | 9k | 574 | 2024-12-18T20:20:42Z |  Geolocation DB with spatial index and realtime geofencing. |
-| [golang/geo](https://github.com/golang/geo) | 2k | 181 | 2024-12-13T09:25:04Z |  S2 geometry library in Go. |
+| [tidwall/tile38](https://github.com/tidwall/tile38) | 9k | 574 | 2024-12-19T04:10:53Z |  Geolocation DB with spatial index and realtime geofencing. |
+| [golang/geo](https://github.com/golang/geo) | 2k | 182 | 2024-12-19T13:34:56Z |  S2 geometry library in Go. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 618 | 130 | 2024-11-18T09:01:38Z |  A library provides spatial data and geometric algorithms. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 663 | 107 | 2024-12-18T11:38:00Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 322 | 60 | 2024-12-13T16:21:49Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
-| [paulmach/osm](https://github.com/paulmach/osm) | 380 | 48 | 2024-12-14T11:00:37Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
+| [paulmach/osm](https://github.com/paulmach/osm) | 381 | 48 | 2024-12-19T10:43:32Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 143 | 29 | 2024-12-16T14:33:00Z |  Go wrapper for GDAL. |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 91 | 24 | 2024-10-21T19:47:57Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 134 | 19 | 2024-11-11T16:43:53Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
@@ -48,12 +48,12 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/tile38](https://github.com/tidwall/tile38) | 9k | 574 | 2024-12-18T20:20:42Z |  Geolocation DB with spatial index and realtime geofencing. |
+| [golang/geo](https://github.com/golang/geo) | 2k | 182 | 2024-12-19T13:34:56Z |  S2 geometry library in Go. |
+| [paulmach/osm](https://github.com/paulmach/osm) | 381 | 48 | 2024-12-19T10:43:32Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
+| [tidwall/tile38](https://github.com/tidwall/tile38) | 9k | 574 | 2024-12-19T04:10:53Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 663 | 107 | 2024-12-18T11:38:00Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 143 | 29 | 2024-12-16T14:33:00Z |  Go wrapper for GDAL. |
-| [paulmach/osm](https://github.com/paulmach/osm) | 380 | 48 | 2024-12-14T11:00:37Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 322 | 60 | 2024-12-13T16:21:49Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
-| [golang/geo](https://github.com/golang/geo) | 2k | 181 | 2024-12-13T09:25:04Z |  S2 geometry library in Go. |
 | [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 30 | 11 | 2024-11-27T13:23:01Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
 | [maguro/pbf](https://github.com/maguro/pbf) | 47 | 7 | 2024-11-22T03:03:05Z |  OpenStreetMap PBF golang encoder/decoder. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 618 | 130 | 2024-11-18T09:01:38Z |  A library provides spatial data and geometric algorithms. |
