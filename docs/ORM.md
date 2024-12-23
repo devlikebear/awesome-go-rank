@@ -6,9 +6,9 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 37k | 4k | 2024-12-21T22:13:28Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
-| [facebook/ent](https://github.com/facebook/ent) | 16k | 934 | 2024-12-21T16:39:14Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 7k | 550 | 2024-12-20T04:44:48Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 37k | 4k | 2024-12-22T21:52:50Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [facebook/ent](https://github.com/facebook/ent) | 16k | 935 | 2024-12-22T21:52:29Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 7k | 550 | 2024-12-22T11:55:07Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
 | [uptrace/bun](https://github.com/uptrace/bun) | 4k | 233 | 2024-12-21T20:53:10Z |  SQL-first Golang ORM. Successor of go-pg. |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 372 | 2024-12-18T01:51:25Z |  Go Relational Persistence, ORM-ish library for Go. |
 | [upper/db](https://github.com/upper/db) | 4k | 236 | 2024-12-15T02:13:51Z |  Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. |
@@ -35,9 +35,9 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 37k | 4k | 2024-12-21T22:13:28Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
-| [facebook/ent](https://github.com/facebook/ent) | 16k | 934 | 2024-12-21T16:39:14Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 7k | 550 | 2024-12-20T04:44:48Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 37k | 4k | 2024-12-22T21:52:50Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [facebook/ent](https://github.com/facebook/ent) | 16k | 935 | 2024-12-22T21:52:29Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 7k | 550 | 2024-12-22T11:55:07Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 372 | 2024-12-18T01:51:25Z |  Go Relational Persistence, ORM-ish library for Go. |
 | [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 361 | 2024-12-21T19:24:04Z |  Mysql database to golang gorm struct. |
 | [gobuffalo/pop](https://github.com/gobuffalo/pop) | 1k | 246 | 2024-12-21T02:39:01Z |  Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. |
@@ -64,15 +64,15 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 37k | 4k | 2024-12-21T22:13:28Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [go-gorm/gorm](https://github.com/go-gorm/gorm) | 37k | 4k | 2024-12-22T21:52:50Z |  The fantastic ORM library for Golang, aims to be developer friendly. |
+| [facebook/ent](https://github.com/facebook/ent) | 16k | 935 | 2024-12-22T21:52:29Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
+| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 7k | 550 | 2024-12-22T11:55:07Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
 | [uptrace/bun](https://github.com/uptrace/bun) | 4k | 233 | 2024-12-21T20:53:10Z |  SQL-first Golang ORM. Successor of go-pg. |
 | [xxjwxc/gormt](https://github.com/xxjwxc/gormt) | 2k | 361 | 2024-12-21T19:24:04Z |  Mysql database to golang gorm struct. |
-| [facebook/ent](https://github.com/facebook/ent) | 16k | 934 | 2024-12-21T16:39:14Z |  An entity framework for Go. Simple, yet powerful ORM for modeling and querying data. |
 | [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) | 2k | 102 | 2024-12-21T14:21:37Z |  Prisma Client Go, Typesafe database access for Go. |
 | [albrow/zoom](https://github.com/albrow/zoom) | 308 | 25 | 2024-12-21T07:41:11Z |  Blazing-fast datastore and querying engine built on Redis. |
 | [stephenafamo/bob](https://github.com/stephenafamo/bob) | 832 | 45 | 2024-12-21T05:42:22Z |  SQL query builder and ORM/Factory generator for Go. Successor of SQLBoiler. |
 | [gobuffalo/pop](https://github.com/gobuffalo/pop) | 1k | 246 | 2024-12-21T02:39:01Z |  Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. |
-| [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) | 7k | 550 | 2024-12-20T04:44:48Z |  ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. |
 | [rushteam/gosql](https://github.com/rushteam/gosql) | 178 | 22 | 2024-12-20T04:08:04Z |  A easy ORM for mysql. |
 | [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | 1k | 123 | 2024-12-19T15:21:49Z |  A flexible and powerful SQL string builder library plus a zero-config ORM. |
 | [go-gorp/gorp](https://github.com/go-gorp/gorp) | 4k | 372 | 2024-12-18T01:51:25Z |  Go Relational Persistence, ORM-ish library for Go. |
