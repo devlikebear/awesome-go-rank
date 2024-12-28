@@ -6,9 +6,9 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 244 | 2024-12-26T13:02:14Z |  A simple, semantic and developer-friendly golang package for datetime. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-12-25T11:02:34Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 168 | 2024-12-25T19:49:15Z |  Parse date's without knowing format in advance. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 244 | 2024-12-27T09:04:25Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-12-27T12:39:24Z |  Now is a time toolkit for golang. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 168 | 2024-12-27T06:50:35Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 776 | 56 | 2024-12-18T10:11:52Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 496 | 49 | 2024-12-01T15:37:49Z |  Time duration formatting library for Go. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 207 | 26 | 2024-12-21T23:16:56Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
@@ -33,9 +33,9 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 244 | 2024-12-26T13:02:14Z |  A simple, semantic and developer-friendly golang package for datetime. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-12-25T11:02:34Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 168 | 2024-12-25T19:49:15Z |  Parse date's without knowing format in advance. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 244 | 2024-12-27T09:04:25Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-12-27T12:39:24Z |  Now is a time toolkit for golang. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 168 | 2024-12-27T06:50:35Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 776 | 56 | 2024-12-18T10:11:52Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 496 | 49 | 2024-12-01T15:37:49Z |  Time duration formatting library for Go. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 207 | 26 | 2024-12-21T23:16:56Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
@@ -60,11 +60,11 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 244 | 2024-12-26T13:02:14Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-12-27T12:39:24Z |  Now is a time toolkit for golang. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 5k | 244 | 2024-12-27T09:04:25Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 168 | 2024-12-27T06:50:35Z |  Parse date's without knowing format in advance. |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 24 | 2 | 2024-12-25T22:55:14Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 168 | 2024-12-25T19:49:15Z |  Parse date's without knowing format in advance. |
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2024-12-25T18:11:03Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2024-12-25T11:02:34Z |  Now is a time toolkit for golang. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 153 | 17 | 2024-12-23T15:32:03Z |  Calculate the sunrise and sunset times for a given location. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 207 | 26 | 2024-12-21T23:16:56Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
 | [bykof/gostradamus](https://github.com/bykof/gostradamus) | 204 | 6 | 2024-12-20T09:53:44Z |  A Go package for working with dates. |
