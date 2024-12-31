@@ -16,7 +16,7 @@ Libraries for working with forms.
 | [sonh/qs](https://github.com/sonh/qs) | 76 | 5 | 2024-09-07T10:31:25Z |  Go module for encoding structs into URL query parameters. |
 | [robfig/bind](https://github.com/robfig/bind) | 31 | 6 | 2024-11-15T02:09:01Z |  Bind form data to any Go values. |
 | [tomwright/queryparam](https://github.com/tomwright/queryparam) | 19 | 5 | 2023-10-29T08:49:21Z |  Decode `url.Values` into usable struct values of standard or custom types. |
-| [cinar/checker](https://github.com/cinar/checker) | 12 | 1 | 2024-12-29T20:34:56Z |  Checker helps validating user input through rules defined in struct tags or directly through functions. |
+| [cinar/checker](https://github.com/cinar/checker) | 18 | 1 | 2024-12-31T00:02:26Z |  Checker helps validating user input through rules defined in struct tags or directly through functions. |
 | [bdjimmy/gbind](https://github.com/bdjimmy/gbind) | 10 | 1 | 2024-11-15T02:53:56Z |  Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation |
 
 ### Ranked by Forks
@@ -33,15 +33,15 @@ Libraries for working with forms.
 | [robfig/bind](https://github.com/robfig/bind) | 31 | 6 | 2024-11-15T02:09:01Z |  Bind form data to any Go values. |
 | [sonh/qs](https://github.com/sonh/qs) | 76 | 5 | 2024-09-07T10:31:25Z |  Go module for encoding structs into URL query parameters. |
 | [tomwright/queryparam](https://github.com/tomwright/queryparam) | 19 | 5 | 2023-10-29T08:49:21Z |  Decode `url.Values` into usable struct values of standard or custom types. |
-| [cinar/checker](https://github.com/cinar/checker) | 12 | 1 | 2024-12-29T20:34:56Z |  Checker helps validating user input through rules defined in struct tags or directly through functions. |
+| [cinar/checker](https://github.com/cinar/checker) | 18 | 1 | 2024-12-31T00:02:26Z |  Checker helps validating user input through rules defined in struct tags or directly through functions. |
 | [bdjimmy/gbind](https://github.com/bdjimmy/gbind) | 10 | 1 | 2024-11-15T02:53:56Z |  Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [cinar/checker](https://github.com/cinar/checker) | 18 | 1 | 2024-12-31T00:02:26Z |  Checker helps validating user input through rules defined in struct tags or directly through functions. |
 | [go-playground/form](https://github.com/go-playground/form) | 787 | 44 | 2024-12-29T21:35:19Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
-| [cinar/checker](https://github.com/cinar/checker) | 12 | 1 | 2024-12-29T20:34:56Z |  Checker helps validating user input through rules defined in struct tags or directly through functions. |
 | [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 155 | 2024-12-28T03:48:17Z |  CSRF protection for Go web applications & services. |
 | [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 126 | 2024-12-25T22:29:07Z |  CSRF protection middleware for Go. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 325 | 23 | 2024-12-23T15:35:03Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
