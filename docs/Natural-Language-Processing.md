@@ -6,16 +6,16 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-10T05:43:26Z | which a Chinese word splitting algorithm. |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-11T13:14:27Z | which a Chinese word splitting algorithm. |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-09T17:09:32Z | . |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 166 | 2025-01-03T21:45:54Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
 | [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-06T01:46:22Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
-| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 86 | 2025-01-09T03:15:16Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
+| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 87 | 2025-01-11T16:55:43Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 197 | 2025-01-10T10:14:48Z |  CN Hanzi to Hanyu Pinyin converter. |
-| [gosimple/slug](https://github.com/gosimple/slug) | 1k | 110 | 2025-01-10T20:14:42Z |  URL-friendly slugify with multiple languages support. |
-| [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) | 1k | 67 | 2025-01-08T14:17:49Z |  An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text. |
-| [ikawaha/kagome](https://github.com/ikawaha/kagome) | 839 | 55 | 2025-01-10T16:02:20Z |  JP morphological analyzer written in pure Go. |
-| [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 644 | 66 | 2025-01-10T16:29:39Z |  Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). |
+| [gosimple/slug](https://github.com/gosimple/slug) | 1k | 111 | 2025-01-10T20:14:42Z |  URL-friendly slugify with multiple languages support. |
+| [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) | 1k | 67 | 2025-01-11T02:57:49Z |  An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text. |
+| [ikawaha/kagome](https://github.com/ikawaha/kagome) | 840 | 55 | 2025-01-11T03:20:24Z |  JP morphological analyzer written in pure Go. |
+| [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 644 | 65 | 2025-01-10T16:29:39Z |  Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). |
 | [james-bowman/nlp](https://github.com/james-bowman/nlp) | 451 | 45 | 2025-01-04T22:32:57Z |  Go Natural Language Processing library supporting LSA (Latent Semantic Analysis). |
 | [leonelquinteros/gotext](https://github.com/leonelquinteros/gotext) | 442 | 57 | 2025-01-01T23:54:30Z |  GNU gettext utilities for Go. |
 | [neurosnap/sentences](https://github.com/neurosnap/sentences) | 442 | 39 | 2024-12-21T04:00:44Z |  Sentence tokenizer: converts text into a list of sentences. |
@@ -59,17 +59,17 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-10T05:43:26Z | which a Chinese word splitting algorithm. |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-11T13:14:27Z | which a Chinese word splitting algorithm. |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-09T17:09:32Z | . |
 | [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-06T01:46:22Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 197 | 2025-01-10T10:14:48Z |  CN Hanzi to Hanyu Pinyin converter. |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 166 | 2025-01-03T21:45:54Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
-| [gosimple/slug](https://github.com/gosimple/slug) | 1k | 110 | 2025-01-10T20:14:42Z |  URL-friendly slugify with multiple languages support. |
-| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 86 | 2025-01-09T03:15:16Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
-| [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) | 1k | 67 | 2025-01-08T14:17:49Z |  An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text. |
-| [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 644 | 66 | 2025-01-10T16:29:39Z |  Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). |
+| [gosimple/slug](https://github.com/gosimple/slug) | 1k | 111 | 2025-01-10T20:14:42Z |  URL-friendly slugify with multiple languages support. |
+| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 87 | 2025-01-11T16:55:43Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
+| [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) | 1k | 67 | 2025-01-11T02:57:49Z |  An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text. |
+| [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 644 | 65 | 2025-01-10T16:29:39Z |  Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). |
 | [leonelquinteros/gotext](https://github.com/leonelquinteros/gotext) | 442 | 57 | 2025-01-01T23:54:30Z |  GNU gettext utilities for Go. |
-| [ikawaha/kagome](https://github.com/ikawaha/kagome) | 839 | 55 | 2025-01-10T16:02:20Z |  JP morphological analyzer written in pure Go. |
+| [ikawaha/kagome](https://github.com/ikawaha/kagome) | 840 | 55 | 2025-01-11T03:20:24Z |  JP morphological analyzer written in pure Go. |
 | [james-bowman/nlp](https://github.com/james-bowman/nlp) | 451 | 45 | 2025-01-04T22:32:57Z |  Go Natural Language Processing library supporting LSA (Latent Semantic Analysis). |
 | [neurosnap/sentences](https://github.com/neurosnap/sentences) | 442 | 39 | 2024-12-21T04:00:44Z |  Sentence tokenizer: converts text into a list of sentences. |
 | [Shixzie/nlp](https://github.com/Shixzie/nlp) | 388 | 32 | 2024-12-25T07:03:54Z |  Extract values from strings and fill your structs with nlp. |
@@ -112,15 +112,15 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gosimple/slug](https://github.com/gosimple/slug) | 1k | 110 | 2025-01-10T20:14:42Z |  URL-friendly slugify with multiple languages support. |
+| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 87 | 2025-01-11T16:55:43Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-11T13:14:27Z | which a Chinese word splitting algorithm. |
+| [ikawaha/kagome](https://github.com/ikawaha/kagome) | 840 | 55 | 2025-01-11T03:20:24Z |  JP morphological analyzer written in pure Go. |
+| [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) | 1k | 67 | 2025-01-11T02:57:49Z |  An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text. |
+| [gosimple/slug](https://github.com/gosimple/slug) | 1k | 111 | 2025-01-10T20:14:42Z |  URL-friendly slugify with multiple languages support. |
 | [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) | 133 | 19 | 2025-01-10T20:14:31Z |  ASCII transliterations of Unicode text. |
-| [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 644 | 66 | 2025-01-10T16:29:39Z |  Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). |
-| [ikawaha/kagome](https://github.com/ikawaha/kagome) | 839 | 55 | 2025-01-10T16:02:20Z |  JP morphological analyzer written in pure Go. |
+| [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) | 644 | 65 | 2025-01-10T16:29:39Z |  Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 197 | 2025-01-10T10:14:48Z |  CN Hanzi to Hanyu Pinyin converter. |
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-10T05:43:26Z | which a Chinese word splitting algorithm. |
 | [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-09T17:09:32Z | . |
-| [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 86 | 2025-01-09T03:15:16Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
-| [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) | 1k | 67 | 2025-01-08T14:17:49Z |  An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text. |
 | [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 49 | 6 | 2025-01-08T06:38:38Z |  Transliterate Cyrillic → Latin in every possible way. |
 | [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-06T01:46:22Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [james-bowman/nlp](https://github.com/james-bowman/nlp) | 451 | 45 | 2025-01-04T22:32:57Z |  Go Natural Language Processing library supporting LSA (Latent Semantic Analysis). |
