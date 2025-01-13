@@ -13,7 +13,7 @@ Libraries for programming devices of the IoT.
 | [rulego/rulego](https://github.com/rulego/rulego) | 945 | 95 | 2025-01-11T12:59:28Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 407 | 31 | 2024-11-12T17:51:29Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 264 | 33 | 2024-12-20T04:07:02Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
-| [amimof/huego](https://github.com/amimof/huego) | 251 | 36 | 2024-12-15T12:50:57Z |  An extensive Philips Hue client library for Go. |
+| [amimof/huego](https://github.com/amimof/huego) | 251 | 36 | 2025-01-12T19:25:20Z |  An extensive Philips Hue client library for Go. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 231 | 42 | 2024-10-14T15:07:35Z |  Lightweight stream processing engine for IoT. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 87 | 13 | 2025-01-03T21:45:49Z |  Software package for IoT automation. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 64 | 16 | 2024-09-14T16:56:57Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
@@ -31,7 +31,7 @@ Libraries for programming devices of the IoT.
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 121 | 2025-01-10T07:54:34Z |  Kubernetes native IoT development framework. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 945 | 95 | 2025-01-11T12:59:28Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 231 | 42 | 2024-10-14T15:07:35Z |  Lightweight stream processing engine for IoT. |
-| [amimof/huego](https://github.com/amimof/huego) | 251 | 36 | 2024-12-15T12:50:57Z |  An extensive Philips Hue client library for Go. |
+| [amimof/huego](https://github.com/amimof/huego) | 251 | 36 | 2025-01-12T19:25:20Z |  An extensive Philips Hue client library for Go. |
 | [goiot/devices](https://github.com/goiot/devices) | 264 | 33 | 2024-12-20T04:07:02Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 407 | 31 | 2024-11-12T17:51:29Z |  Open-Source Platform for Quantified Self & IoT. |
 | [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 44 | 18 | 2024-12-07T03:56:14Z |  Industrial IoT Messaging and Device Management Server. |
@@ -44,6 +44,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [amimof/huego](https://github.com/amimof/huego) | 251 | 36 | 2025-01-12T19:25:20Z |  An extensive Philips Hue client library for Go. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 945 | 95 | 2025-01-11T12:59:28Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 121 | 2025-01-10T07:54:34Z |  Kubernetes native IoT development framework. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 285 | 2025-01-09T10:21:37Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
@@ -51,7 +52,6 @@ Libraries for programming devices of the IoT.
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 287 | 2025-01-08T03:57:36Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 87 | 13 | 2025-01-03T21:45:49Z |  Software package for IoT automation. |
 | [goiot/devices](https://github.com/goiot/devices) | 264 | 33 | 2024-12-20T04:07:02Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
-| [amimof/huego](https://github.com/amimof/huego) | 251 | 36 | 2024-12-15T12:50:57Z |  An extensive Philips Hue client library for Go. |
 | [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 44 | 18 | 2024-12-07T03:56:14Z |  Industrial IoT Messaging and Device Management Server. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 407 | 31 | 2024-11-12T17:51:29Z |  Open-Source Platform for Quantified Self & IoT. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 231 | 42 | 2024-10-14T15:07:35Z |  Lightweight stream processing engine for IoT. |
