@@ -22,12 +22,12 @@ Libraries for working with dates and times.
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 24 | 2 | 2024-12-25T22:55:14Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
 | [GuilhermeCaruso/kair](https://github.com/GuilhermeCaruso/kair) | 24 | 6 | 2024-06-23T06:09:32Z |  Date and Time - Golang Formatting Library. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 16 | 7 | 2025-01-16T10:23:36Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2025-01-17T19:03:14Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2025-01-20T18:40:26Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 13 | 5 | 2024-11-25T18:09:04Z |  C99-compatible strftime formatter. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2022-09-26T09:53:28Z |  Ruby-compatible Strftime function. |
 | [stoewer/go-week](https://github.com/stoewer/go-week) | 9 | 8 | 2023-11-10T03:06:21Z |  An efficient package to work with ISO8601 week dates. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-12-04T02:43:04Z |  A simple datetime parse pkg. |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 2 | 0 | 2025-01-15T16:50:38Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 2 | 0 | 2025-01-20T03:20:53Z |  A simple, semantic and developer-friendly golang package for datetime. |
 
 ### Ranked by Forks
 
@@ -52,21 +52,21 @@ Libraries for working with dates and times.
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 13 | 5 | 2024-11-25T18:09:04Z |  C99-compatible strftime formatter. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2022-09-26T09:53:28Z |  Ruby-compatible Strftime function. |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 24 | 2 | 2024-12-25T22:55:14Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2025-01-17T19:03:14Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2025-01-20T18:40:26Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-12-04T02:43:04Z |  A simple datetime parse pkg. |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 2 | 0 | 2025-01-15T16:50:38Z |  A simple, semantic and developer-friendly golang package for datetime. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 2 | 0 | 2025-01-20T03:20:53Z |  A simple, semantic and developer-friendly golang package for datetime. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2025-01-20T18:40:26Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [golang-module/carbon](https://github.com/golang-module/carbon) | 2 | 0 | 2025-01-20T03:20:53Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 4k | 233 | 2025-01-19T18:42:06Z |  Now is a time toolkit for golang. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 777 | 56 | 2025-01-19T13:41:44Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 152 | 17 | 2025-01-19T09:59:26Z |  Calculate the sunrise and sunset times for a given location. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2025-01-17T19:03:14Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [rickb777/date](https://github.com/rickb777/date) | 136 | 24 | 2025-01-16T23:11:37Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 16 | 7 | 2025-01-16T10:23:36Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
-| [golang-module/carbon](https://github.com/golang-module/carbon) | 2 | 0 | 2025-01-15T16:50:38Z |  A simple, semantic and developer-friendly golang package for datetime. |
 | [relvacode/iso8601](https://github.com/relvacode/iso8601) | 148 | 18 | 2025-01-14T13:53:49Z |  Efficiently parse ISO8601 date-times without regex. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 210 | 26 | 2025-01-13T13:19:11Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 169 | 2025-01-13T02:06:45Z |  Parse date's without knowing format in advance. |
