@@ -6,10 +6,10 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-20T15:51:14Z | which a Chinese word splitting algorithm. |
-| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-20T20:13:27Z | . |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-21T11:53:15Z | which a Chinese word splitting algorithm. |
+| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-21T12:08:41Z | . |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 166 | 2025-01-03T21:45:54Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
-| [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-20T10:48:36Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
+| [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-21T04:06:15Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 87 | 2025-01-19T18:10:05Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 197 | 2025-01-18T08:51:42Z |  CN Hanzi to Hanyu Pinyin converter. |
 | [gosimple/slug](https://github.com/gosimple/slug) | 1k | 111 | 2025-01-20T08:56:29Z |  URL-friendly slugify with multiple languages support. |
@@ -33,7 +33,7 @@ Libraries for working with human languages.
 | [endeveit/guesslanguage](https://github.com/endeveit/guesslanguage) | 58 | 5 | 2024-02-22T18:28:58Z |  Functions to determine the natural language of a unicode text. |
 | [danieldk/go2vec](https://github.com/danieldk/go2vec) | 56 | 6 | 2024-07-28T16:08:30Z |  Reader and utility functions for word2vec embeddings. |
 | [dchest/stemmer](https://github.com/dchest/stemmer) | 53 | 7 | 2024-11-04T21:05:27Z |  Stemmer packages for Go programming language. Includes English and German stemmers. |
-| [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 49 | 6 | 2025-01-08T06:38:38Z |  Transliterate Cyrillic → Latin in every possible way. |
+| [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 50 | 6 | 2025-01-21T06:51:10Z |  Transliterate Cyrillic → Latin in every possible way. |
 | [zhenjl/porter2](https://github.com/zhenjl/porter2) | 47 | 6 | 2024-12-06T04:32:10Z |  Really fast Porter 2 stemmer. |
 | [jonreiter/govader](https://github.com/jonreiter/govader) | 44 | 7 | 2024-12-02T03:18:11Z | . |
 | [alexsergivan/transliterator](https://github.com/alexsergivan/transliterator) | 44 | 10 | 2024-12-02T18:00:46Z |  Provides one-way string transliteration with supporting of language-specific transliteration rules. |
@@ -59,9 +59,9 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-20T15:51:14Z | which a Chinese word splitting algorithm. |
-| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-20T20:13:27Z | . |
-| [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-20T10:48:36Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-21T11:53:15Z | which a Chinese word splitting algorithm. |
+| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-21T12:08:41Z | . |
+| [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-21T04:06:15Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) | 2k | 197 | 2025-01-18T08:51:42Z |  CN Hanzi to Hanyu Pinyin converter. |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 166 | 2025-01-03T21:45:54Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
 | [gosimple/slug](https://github.com/gosimple/slug) | 1k | 111 | 2025-01-20T08:56:29Z |  URL-friendly slugify with multiple languages support. |
@@ -92,7 +92,7 @@ Libraries for working with human languages.
 | [rjohnsondev/golibstemmer](https://github.com/rjohnsondev/golibstemmer) | 20 | 6 | 2022-09-27T08:50:18Z |  Go bindings for the snowball libstemmer library including porter 2. |
 | [danieldk/go2vec](https://github.com/danieldk/go2vec) | 56 | 6 | 2024-07-28T16:08:30Z |  Reader and utility functions for word2vec embeddings. |
 | [zhenjl/porter2](https://github.com/zhenjl/porter2) | 47 | 6 | 2024-12-06T04:32:10Z |  Really fast Porter 2 stemmer. |
-| [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 49 | 6 | 2025-01-08T06:38:38Z |  Transliterate Cyrillic → Latin in every possible way. |
+| [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 50 | 6 | 2025-01-21T06:51:10Z |  Transliterate Cyrillic → Latin in every possible way. |
 | [goodsign/snowball](https://github.com/goodsign/snowball) | 38 | 5 | 2024-06-26T03:49:25Z |  Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/). |
 | [endeveit/guesslanguage](https://github.com/endeveit/guesslanguage) | 58 | 5 | 2024-02-22T18:28:58Z |  Functions to determine the natural language of a unicode text. |
 | [endeveit/enca](https://github.com/endeveit/enca) | 16 | 5 | 2023-11-01T21:11:39Z |  Minimal cgo bindings for [libenca](https://cihar.com/software/enca/), which detects character encodings. |
@@ -112,10 +112,11 @@ Libraries for working with human languages.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-20T20:13:27Z | . |
+| [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) | 5k | 1k | 2025-01-21T12:08:41Z | . |
+| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-21T11:53:15Z | which a Chinese word splitting algorithm. |
+| [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 50 | 6 | 2025-01-21T06:51:10Z |  Transliterate Cyrillic → Latin in every possible way. |
+| [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-21T04:06:15Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [leonelquinteros/gotext](https://github.com/leonelquinteros/gotext) | 445 | 57 | 2025-01-20T18:53:24Z |  GNU gettext utilities for Go. |
-| [fxsjy/jieba](https://github.com/fxsjy/jieba) | 34k | 7k | 2025-01-20T15:51:14Z | which a Chinese word splitting algorithm. |
-| [go-ego/gse](https://github.com/go-ego/gse) | 3k | 216 | 2025-01-20T10:48:36Z |  Go efficient text segmentation; support english, chinese, japanese and other. |
 | [gosimple/slug](https://github.com/gosimple/slug) | 1k | 111 | 2025-01-20T08:56:29Z |  URL-friendly slugify with multiple languages support. |
 | [nlpodyssey/spago](https://github.com/nlpodyssey/spago) | 2k | 87 | 2025-01-19T18:10:05Z |  Self-contained Machine Learning and Natural Language Processing library in Go. |
 | [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) | 1k | 67 | 2025-01-19T18:09:52Z |  An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text. |
@@ -125,7 +126,6 @@ Libraries for working with human languages.
 | [agonopol/go-stem](https://github.com/agonopol/go-stem) | 82 | 15 | 2025-01-14T20:37:16Z |  Implementation of the porter stemming algorithm. |
 | [rylans/getlang](https://github.com/rylans/getlang) | 172 | 21 | 2025-01-13T07:47:32Z |  Fast natural language detection package. |
 | [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) | 133 | 19 | 2025-01-10T20:14:31Z |  ASCII transliterations of Unicode text. |
-| [mehanizm/iuliia-go](https://github.com/mehanizm/iuliia-go) | 49 | 6 | 2025-01-08T06:38:38Z |  Transliterate Cyrillic → Latin in every possible way. |
 | [james-bowman/nlp](https://github.com/james-bowman/nlp) | 451 | 45 | 2025-01-04T22:32:57Z |  Go Natural Language Processing library supporting LSA (Latent Semantic Analysis). |
 | [jdkato/prose](https://github.com/jdkato/prose) | 3k | 166 | 2025-01-03T21:45:54Z |  Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. English only. |
 | [afjoseph/RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 118 | 19 | 2025-01-02T00:55:11Z |  Go port of the Rapid Automatic Keyword Extraction Algorithm (RAKE). |
