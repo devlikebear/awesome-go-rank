@@ -17,7 +17,7 @@ Libraries for programming devices of the IoT.
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 231 | 42 | 2024-10-14T15:07:35Z |  Lightweight stream processing engine for IoT. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 87 | 13 | 2025-01-03T21:45:49Z |  Software package for IoT automation. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 64 | 16 | 2024-09-14T16:56:57Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 44 | 18 | 2024-12-07T03:56:14Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 44 | 19 | 2024-12-07T03:56:14Z |  Industrial IoT Messaging and Device Management Server. |
 | [/](https://github.com/vaelen/iot/) | 0 | 0 | 0001-01-01T00:00:00Z |  IoT is a simple framework for implementing a Google IoT Core device. |
 | [/](https://github.com/hybridgroup/gobot/) | 0 | 0 | 0001-01-01T00:00:00Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
 
@@ -34,7 +34,7 @@ Libraries for programming devices of the IoT.
 | [amimof/huego](https://github.com/amimof/huego) | 252 | 36 | 2025-01-20T15:32:53Z |  An extensive Philips Hue client library for Go. |
 | [goiot/devices](https://github.com/goiot/devices) | 264 | 33 | 2024-12-20T04:07:02Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 407 | 31 | 2024-11-12T17:51:29Z |  Open-Source Platform for Quantified Self & IoT. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 44 | 18 | 2024-12-07T03:56:14Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 44 | 19 | 2024-12-07T03:56:14Z |  Industrial IoT Messaging and Device Management Server. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 64 | 16 | 2024-09-14T16:56:57Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 87 | 13 | 2025-01-03T21:45:49Z |  Software package for IoT automation. |
 | [/](https://github.com/vaelen/iot/) | 0 | 0 | 0001-01-01T00:00:00Z |  IoT is a simple framework for implementing a Google IoT Core device. |
@@ -52,7 +52,7 @@ Libraries for programming devices of the IoT.
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 285 | 2025-01-18T07:36:57Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 87 | 13 | 2025-01-03T21:45:49Z |  Software package for IoT automation. |
 | [goiot/devices](https://github.com/goiot/devices) | 264 | 33 | 2024-12-20T04:07:02Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
-| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 44 | 18 | 2024-12-07T03:56:14Z |  Industrial IoT Messaging and Device Management Server. |
+| [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 44 | 19 | 2024-12-07T03:56:14Z |  Industrial IoT Messaging and Device Management Server. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 407 | 31 | 2024-11-12T17:51:29Z |  Open-Source Platform for Quantified Self & IoT. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 231 | 42 | 2024-10-14T15:07:35Z |  Lightweight stream processing engine for IoT. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 64 | 16 | 2024-09-14T16:56:57Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
