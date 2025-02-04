@@ -6,20 +6,20 @@ Frameworks for performing ELT / ETL
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 8k | 854 | 2025-02-02T11:19:07Z |  A message streaming bridge between a range of protocols. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 8k | 852 | 2025-02-03T09:33:18Z |  A message streaming bridge between a range of protocols. |
 | [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 999 | 74 | 2025-02-01T18:57:17Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 8k | 854 | 2025-02-02T11:19:07Z |  A message streaming bridge between a range of protocols. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 8k | 852 | 2025-02-03T09:33:18Z |  A message streaming bridge between a range of protocols. |
 | [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 999 | 74 | 2025-02-01T18:57:17Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 8k | 854 | 2025-02-02T11:19:07Z |  A message streaming bridge between a range of protocols. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 8k | 852 | 2025-02-03T09:33:18Z |  A message streaming bridge between a range of protocols. |
 | [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 999 | 74 | 2025-02-01T18:57:17Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
 

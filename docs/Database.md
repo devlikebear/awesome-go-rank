@@ -6,44 +6,44 @@ Libraries for building and using SQL.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 57k | 9k | 2025-02-03T00:01:30Z |  Monitoring system and time series database. |
-| [pingcap/tidb](https://github.com/pingcap/tidb) | 38k | 6k | 2025-02-02T18:40:43Z |  TiDB is a distributed SQL database. Inspired by the design of Google F1. |
-| [google/leveldb](https://github.com/google/leveldb) | 37k | 8k | 2025-02-02T22:47:21Z | key/value database in Go. |
-| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 32k | 3k | 2025-02-02T23:49:58Z |  Milvus is a vector database for embedding management, analytics and search. |
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 30k | 4k | 2025-02-02T18:18:07Z |  Scalable, Geo-Replicated, Transactional Datastore. |
-| [influxdb/influxdb](https://github.com/influxdb/influxdb) | 29k | 4k | 2025-02-02T21:29:00Z |  Scalable datastore for metrics, events, and real-time analytics. |
-| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | 21k | 2k | 2025-02-02T17:36:02Z |  Scalable, Distributed, Low Latency, High Throughput Graph Database. |
-| [youtube/vitess](https://github.com/youtube/vitess) | 19k | 2k | 2025-02-02T20:52:42Z |  vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services. |
-| [dolthub/dolt](https://github.com/dolthub/dolt) | 18k | 531 | 2025-02-02T14:24:50Z |  Dolt – It's Git for Data. |
-| [rqlite/rqlite](https://github.com/rqlite/rqlite) | 16k | 735 | 2025-02-02T23:38:23Z |  The lightweight, distributed, relational database built on SQLite. |
-| [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 16k | 1k | 2025-02-02T13:26:49Z |  Database migrations. CLI and Golang library. |
-| [dgraph-io/badger](https://github.com/dgraph-io/badger) | 14k | 1k | 2025-02-02T18:28:13Z |  Fast key-value store in Go. |
-| [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) | 14k | 833 | 2025-02-02T22:21:52Z |  Generate type-safe code from SQL. |
-| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 13k | 1k | 2025-02-02T16:06:55Z |  fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL. |
-| [golang/groupcache](https://github.com/golang/groupcache) | 13k | 1k | 2025-02-01T11:59:52Z |  Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. |
-| [bytebase/bytebase](https://github.com/bytebase/bytebase) | 12k | 765 | 2025-02-02T05:22:09Z |  Safe database schema change and version control for DevOps teams. |
-| [sosedoff/pgweb](https://github.com/sosedoff/pgweb) | 9k | 751 | 2025-02-01T16:05:07Z |  Web-based PostgreSQL database browser. |
-| [codenotary/immudb](https://github.com/codenotary/immudb) | 9k | 345 | 2025-02-01T04:05:16Z |  immudb is a lightweight, high-speed immutable database for systems and applications written in Go. |
-| [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | 8k | 653 | 2025-02-02T05:02:47Z |  An embedded key/value database for Go. |
-| [allegro/bigcache](https://github.com/allegro/bigcache) | 8k | 602 | 2025-01-31T10:59:57Z |  Efficient key/value cache for gigabytes of data. |
-| [pressly/goose](https://github.com/pressly/goose) | 8k | 542 | 2025-02-02T22:21:46Z |  Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. |
-| [Masterminds/squirrel](https://github.com/Masterminds/squirrel) | 7k | 473 | 2025-02-02T09:43:43Z |  Go library that helps you build SQL queries. |
-| [ariga/atlas](https://github.com/ariga/atlas) | 6k | 278 | 2025-02-02T23:17:47Z |  A Database Toolkit. A CLI designed to help companies better work with their data. |
-| [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) | 6k | 381 | 2025-02-02T21:49:50Z |   A high performance memory-bound Go cache. |
-| [amacneil/dbmate](https://github.com/amacneil/dbmate) | 6k | 280 | 2025-02-02T12:44:13Z |  A lightweight, framework-agnostic database migration tool. |
-| [cockroachdb/pebble](https://github.com/cockroachdb/pebble) | 5k | 480 | 2025-02-02T13:10:59Z |  RocksDB/LevelDB inspired key-value database in Go. |
-| [roseduan/rosedb](https://github.com/roseduan/rosedb) | 5k | 640 | 2025-01-31T12:52:46Z |  An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset. |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 57k | 9k | 2025-02-04T00:03:02Z |  Monitoring system and time series database. |
+| [pingcap/tidb](https://github.com/pingcap/tidb) | 38k | 6k | 2025-02-03T22:44:45Z |  TiDB is a distributed SQL database. Inspired by the design of Google F1. |
+| [google/leveldb](https://github.com/google/leveldb) | 37k | 8k | 2025-02-03T23:19:42Z | key/value database in Go. |
+| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 32k | 3k | 2025-02-03T21:28:27Z |  Milvus is a vector database for embedding management, analytics and search. |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 30k | 4k | 2025-02-03T23:52:55Z |  Scalable, Geo-Replicated, Transactional Datastore. |
+| [influxdb/influxdb](https://github.com/influxdb/influxdb) | 29k | 4k | 2025-02-03T22:48:39Z |  Scalable datastore for metrics, events, and real-time analytics. |
+| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | 21k | 2k | 2025-02-03T22:55:30Z |  Scalable, Distributed, Low Latency, High Throughput Graph Database. |
+| [youtube/vitess](https://github.com/youtube/vitess) | 19k | 2k | 2025-02-03T23:20:53Z |  vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services. |
+| [dolthub/dolt](https://github.com/dolthub/dolt) | 18k | 532 | 2025-02-03T23:02:56Z |  Dolt – It's Git for Data. |
+| [rqlite/rqlite](https://github.com/rqlite/rqlite) | 16k | 735 | 2025-02-03T16:24:26Z |  The lightweight, distributed, relational database built on SQLite. |
+| [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 16k | 1k | 2025-02-03T13:27:36Z |  Database migrations. CLI and Golang library. |
+| [dgraph-io/badger](https://github.com/dgraph-io/badger) | 14k | 1k | 2025-02-03T23:56:24Z |  Fast key-value store in Go. |
+| [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) | 14k | 834 | 2025-02-03T20:06:23Z |  Generate type-safe code from SQL. |
+| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 13k | 1k | 2025-02-03T23:11:35Z |  fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL. |
+| [golang/groupcache](https://github.com/golang/groupcache) | 13k | 1k | 2025-02-03T09:12:00Z |  Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. |
+| [bytebase/bytebase](https://github.com/bytebase/bytebase) | 12k | 765 | 2025-02-03T21:13:03Z |  Safe database schema change and version control for DevOps teams. |
+| [sosedoff/pgweb](https://github.com/sosedoff/pgweb) | 9k | 751 | 2025-02-03T16:32:49Z |  Web-based PostgreSQL database browser. |
+| [codenotary/immudb](https://github.com/codenotary/immudb) | 9k | 344 | 2025-02-01T04:05:16Z |  immudb is a lightweight, high-speed immutable database for systems and applications written in Go. |
+| [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | 8k | 653 | 2025-02-03T16:18:52Z |  An embedded key/value database for Go. |
+| [allegro/bigcache](https://github.com/allegro/bigcache) | 8k | 602 | 2025-02-03T10:42:54Z |  Efficient key/value cache for gigabytes of data. |
+| [pressly/goose](https://github.com/pressly/goose) | 8k | 545 | 2025-02-03T21:34:39Z |  Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. |
+| [Masterminds/squirrel](https://github.com/Masterminds/squirrel) | 7k | 473 | 2025-02-03T14:15:54Z |  Go library that helps you build SQL queries. |
+| [ariga/atlas](https://github.com/ariga/atlas) | 6k | 278 | 2025-02-03T23:08:39Z |  A Database Toolkit. A CLI designed to help companies better work with their data. |
+| [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) | 6k | 381 | 2025-02-03T15:08:16Z |   A high performance memory-bound Go cache. |
+| [amacneil/dbmate](https://github.com/amacneil/dbmate) | 6k | 280 | 2025-02-03T09:15:18Z |  A lightweight, framework-agnostic database migration tool. |
+| [cockroachdb/pebble](https://github.com/cockroachdb/pebble) | 5k | 480 | 2025-02-03T23:51:48Z |  RocksDB/LevelDB inspired key-value database in Go. |
+| [roseduan/rosedb](https://github.com/roseduan/rosedb) | 5k | 640 | 2025-02-03T10:19:35Z |  An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset. |
 | [siddontang/go-mysql](https://github.com/siddontang/go-mysql) | 5k | 1k | 2025-02-02T11:30:45Z |  Go toolset to handle MySQL protocol and replication. |
-| [tidwall/buntdb](https://github.com/tidwall/buntdb) | 5k | 291 | 2025-01-29T16:44:58Z |  Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support. |
-| [prest/prest](https://github.com/prest/prest) | 4k | 287 | 2025-02-01T08:52:10Z |  Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new. |
+| [tidwall/buntdb](https://github.com/tidwall/buntdb) | 5k | 290 | 2025-02-03T17:16:16Z |  Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support. |
+| [prest/prest](https://github.com/prest/prest) | 4k | 287 | 2025-02-03T12:54:43Z |  Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new. |
 | [siddontang/ledisdb](https://github.com/siddontang/ledisdb) | 4k | 437 | 2025-01-17T13:55:15Z |  Ledisdb is a high performance NoSQL like Redis based on LevelDB. |
-| [knq/xo](https://github.com/knq/xo) | 4k | 319 | 2025-02-02T22:06:04Z |  Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server. |
+| [knq/xo](https://github.com/knq/xo) | 4k | 319 | 2025-02-03T22:37:09Z |  Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server. |
 | [nalgeon/redka](https://github.com/nalgeon/redka) | 4k | 102 | 2025-02-02T11:58:16Z |  Redis re-implemented with SQLite. |
-| [hdt3213/godis](https://github.com/hdt3213/godis) | 4k | 578 | 2025-02-02T10:43:28Z |  A Golang implemented high-performance Redis server and cluster. |
+| [hdt3213/godis](https://github.com/hdt3213/godis) | 4k | 578 | 2025-02-03T11:10:28Z |  A Golang implemented high-performance Redis server and cluster. |
 | [xujiajun/nutsdb](https://github.com/xujiajun/nutsdb) | 3k | 339 | 2025-02-02T22:32:56Z |  Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set. |
-| [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) | 3k | 281 | 2025-02-01T20:01:54Z |  Database migration tool. Allows embedding migrations into the application using go-bindata. |
+| [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) | 3k | 281 | 2025-02-03T15:59:56Z |  Database migration tool. Allows embedding migrations into the application using go-bindata. |
 | [lindb/lindb](https://github.com/lindb/lindb) | 3k | 284 | 2025-01-31T11:00:36Z |  LinDB is a scalable, high performance, high availability distributed time series database. |
-| [go-jet/jet](https://github.com/go-jet/jet) | 3k | 128 | 2025-02-02T14:33:35Z |  Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure. |
+| [go-jet/jet](https://github.com/go-jet/jet) | 3k | 128 | 2025-02-03T16:44:54Z |  Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure. |
 | [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) | 3k | 259 | 2025-01-22T02:13:11Z |  Your NoSQL database powered by Golang. |
 | [bluele/gcache](https://github.com/bluele/gcache) | 3k | 274 | 2025-01-23T14:07:14Z |  Cache library with support for expirable Cache, LFU, LRU and ARC. |
 | [eko/gocache](https://github.com/eko/gocache) | 3k | 201 | 2025-02-01T22:10:44Z |  A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more. |
@@ -51,26 +51,26 @@ Libraries for building and using SQL.
 | [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) | 2k | 178 | 2025-02-01T17:13:51Z |  fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead. |
 | [muesli/cache2go](https://github.com/muesli/cache2go) | 2k | 514 | 2025-01-24T04:36:22Z |  In-memory key:value cache which supports automatic invalidation based on timeouts. |
 | [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) | 2k | 181 | 2025-02-01T21:30:00Z |  Fast k/v database compatible with lsm and b+tree. |
-| [maypok86/otter](https://github.com/maypok86/otter) | 2k | 46 | 2025-02-02T16:30:46Z |  A high performance lockless cache for Go. Many times faster than Ristretto and friends. |
+| [maypok86/otter](https://github.com/maypok86/otter) | 2k | 46 | 2025-02-03T09:41:06Z |  A high performance lockless cache for Go. Many times faster than Ristretto and friends. |
 | [didi/gendry](https://github.com/didi/gendry) | 2k | 194 | 2025-01-26T09:16:39Z |  Non-invasive SQL builder and powerful data binder. |
 | [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) | 2k | 147 | 2025-02-01T06:13:50Z |  CovenantSQL is a SQL database on blockchain. |
 | [kelindar/column](https://github.com/kelindar/column) | 1k | 61 | 2025-01-31T19:31:19Z |  High-performance, columnar, embeddable in-memory store with bitmap indexing and transactions. |
-| [peterbourgon/diskv](https://github.com/peterbourgon/diskv) | 1k | 102 | 2025-02-01T22:04:11Z |  Home-grown disk-backed key-value store. |
+| [peterbourgon/diskv](https://github.com/peterbourgon/diskv) | 1k | 102 | 2025-02-03T06:30:40Z |  Home-grown disk-backed key-value store. |
 | [akrylysov/pogreb](https://github.com/akrylysov/pogreb) | 1k | 93 | 2025-02-01T20:59:49Z |  Embedded key-value store for read-heavy workloads. |
 | [Vertamedia/chproxy](https://github.com/Vertamedia/chproxy) | 1k | 264 | 2025-02-02T12:07:01Z |  HTTP proxy for ClickHouse database. |
-| [skeema/skeema](https://github.com/skeema/skeema) | 1k | 101 | 2025-02-02T20:51:04Z |  Pure-SQL schema management system for MySQL, with support for sharding and external online schema change tools. |
-| [paranoidguy/databunker](https://github.com/paranoidguy/databunker) | 1k | 80 | 2025-01-31T17:55:37Z |  Personally identifiable information (PII) storage service built to comply with GDPR and CCPA. |
+| [skeema/skeema](https://github.com/skeema/skeema) | 1k | 101 | 2025-02-03T22:20:54Z |  Pure-SQL schema management system for MySQL, with support for sharding and external online schema change tools. |
+| [paranoidguy/databunker](https://github.com/paranoidguy/databunker) | 1k | 80 | 2025-02-03T18:21:30Z |  Personally identifiable information (PII) storage service built to comply with GDPR and CCPA. |
 | [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) | 1k | 66 | 2025-01-31T07:15:56Z |  Advanced scheduling for PostgreSQL. |
 | [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) | 1k | 48 | 2025-02-01T03:57:19Z |  High-performance embedded Object Database (NoSQL) with Go API. |
 | [go-gormigrate/gormigrate](https://github.com/go-gormigrate/gormigrate) | 1k | 101 | 2025-01-28T08:15:29Z |  Database schema migration helper for Gorm ORM. |
 | [krotik/eliasdb](https://github.com/krotik/eliasdb) | 1k | 50 | 2025-01-19T15:40:47Z |  Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language. |
-| [jellydator/ttlcache](https://github.com/jellydator/ttlcache) | 997 | 124 | 2025-01-30T14:09:09Z |  An in-memory cache with item expiration and generics. |
+| [jellydator/ttlcache](https://github.com/jellydator/ttlcache) | 998 | 124 | 2025-02-03T10:00:09Z |  An in-memory cache with item expiration and generics. |
 | [couchbase/moss](https://github.com/couchbase/moss) | 996 | 62 | 2025-02-02T06:03:17Z |  Moss is a simple LSM key-value storage engine written in 100% Go. |
 | [linkedin/goavro](https://github.com/linkedin/goavro) | 996 | 222 | 2025-02-02T10:52:59Z |  A Go package that encodes and decodes Avro data. |
 | [gchaincl/dotsql](https://github.com/gchaincl/dotsql) | 745 | 53 | 2025-01-31T10:58:20Z |  Go library that helps you keep sql files in one place and use them with ease. |
 | [ostafen/clover](https://github.com/ostafen/clover) | 716 | 57 | 2025-02-01T16:04:00Z |  A lightweight document-oriented NoSQL database written in pure Golang. |
 | [go-ozzo/ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) | 640 | 95 | 2025-01-11T15:03:33Z |  Powerful data retrieval methods as well as DB-agnostic query building capabilities. |
-| [viccon/sturdyc](https://github.com/viccon/sturdyc) | 616 | 21 | 2025-01-31T11:02:11Z |  A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant. |
+| [viccon/sturdyc](https://github.com/viccon/sturdyc) | 617 | 21 | 2025-02-03T09:47:42Z |  A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant. |
 | [nikepan/clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) | 479 | 88 | 2025-01-31T11:00:12Z |  Collects small inserts and sends big requests to ClickHouse servers. |
 | [HDT3213/rdb](https://github.com/HDT3213/rdb) | 460 | 98 | 2025-02-01T07:36:35Z |  Redis RDB file parser for secondary development and memory analysis. |
 | [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) | 441 | 27 | 2025-01-31T23:47:19Z |  Embeddable Distributed in-memory data store compatible with Redis clients. |
@@ -83,7 +83,7 @@ Libraries for building and using SQL.
 | [wesql/wescale](https://github.com/wesql/wescale) | 284 | 12 | 2025-01-30T10:15:54Z |  WeScale is a database proxy designed to enhance the scalability, performance, security, and resilience of your applications. |
 | [elgris/sqrl](https://github.com/elgris/sqrl) | 280 | 39 | 2025-01-29T14:31:18Z |  SQL query builder, fork of Squirrel with improved performance. |
 | [chrislusf/vasto](https://github.com/chrislusf/vasto) | 261 | 30 | 2024-10-06T07:01:01Z |  A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption. |
-| [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) | 233 | 20 | 2025-01-31T11:01:23Z |  Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases. |
+| [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) | 234 | 20 | 2025-02-03T12:07:39Z |  Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases. |
 | [elastic/go-freelru](https://github.com/elastic/go-freelru) | 220 | 14 | 2025-01-22T07:28:07Z | A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration. |
 | [naughtygopher/pocache](https://github.com/naughtygopher/pocache) | 218 | 5 | 2025-02-02T01:06:18Z |  Pocache is a minimal cache package which focuses on a preemptive optimistic caching strategy. |
 | [fern4lvarez/piladb](https://github.com/fern4lvarez/piladb) | 206 | 22 | 2024-10-25T15:49:20Z |  Lightweight RESTful database engine based on stack data structures. |
@@ -140,50 +140,50 @@ Libraries for building and using SQL.
 | [yuseferi/gocache](https://github.com/yuseferi/gocache) | 9 | 0 | 2024-10-08T20:33:28Z |  A data race free Go ache library with high performance and auto pruge functionality |
 | [rafaelespinoza/godfish](https://github.com/rafaelespinoza/godfish) | 8 | 1 | 2024-12-13T05:12:17Z |  Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3. |
 | [go-the-way/sg](https://github.com/go-the-way/sg) | 6 | 0 | 2024-05-10T21:55:52Z |  A SQL Gen for generating standard SQLs(supports: CRUD) written in Go. |
-| [Jacobbrewer1/patcher](https://github.com/Jacobbrewer1/patcher) | 3 | 1 | 2025-01-31T12:19:31Z |  Powerful SQL Query builder that automatically generates SQL queries from structs. |
+| [Jacobbrewer1/patcher](https://github.com/Jacobbrewer1/patcher) | 3 | 1 | 2025-02-03T12:44:41Z |  Powerful SQL Query builder that automatically generates SQL queries from structs. |
 | [/](https://github.com/gobuffalo/pop/tree/master/soda) | 0 | 0 | 0001-01-01T00:00:00Z |  Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 57k | 9k | 2025-02-03T00:01:30Z |  Monitoring system and time series database. |
-| [google/leveldb](https://github.com/google/leveldb) | 37k | 8k | 2025-02-02T22:47:21Z | key/value database in Go. |
-| [pingcap/tidb](https://github.com/pingcap/tidb) | 38k | 6k | 2025-02-02T18:40:43Z |  TiDB is a distributed SQL database. Inspired by the design of Google F1. |
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 30k | 4k | 2025-02-02T18:18:07Z |  Scalable, Geo-Replicated, Transactional Datastore. |
-| [influxdb/influxdb](https://github.com/influxdb/influxdb) | 29k | 4k | 2025-02-02T21:29:00Z |  Scalable datastore for metrics, events, and real-time analytics. |
-| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 32k | 3k | 2025-02-02T23:49:58Z |  Milvus is a vector database for embedding management, analytics and search. |
-| [youtube/vitess](https://github.com/youtube/vitess) | 19k | 2k | 2025-02-02T20:52:42Z |  vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services. |
-| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | 21k | 2k | 2025-02-02T17:36:02Z |  Scalable, Distributed, Low Latency, High Throughput Graph Database. |
-| [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 16k | 1k | 2025-02-02T13:26:49Z |  Database migrations. CLI and Golang library. |
-| [golang/groupcache](https://github.com/golang/groupcache) | 13k | 1k | 2025-02-01T11:59:52Z |  Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. |
-| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 13k | 1k | 2025-02-02T16:06:55Z |  fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL. |
-| [dgraph-io/badger](https://github.com/dgraph-io/badger) | 14k | 1k | 2025-02-02T18:28:13Z |  Fast key-value store in Go. |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 57k | 9k | 2025-02-04T00:03:02Z |  Monitoring system and time series database. |
+| [google/leveldb](https://github.com/google/leveldb) | 37k | 8k | 2025-02-03T23:19:42Z | key/value database in Go. |
+| [pingcap/tidb](https://github.com/pingcap/tidb) | 38k | 6k | 2025-02-03T22:44:45Z |  TiDB is a distributed SQL database. Inspired by the design of Google F1. |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 30k | 4k | 2025-02-03T23:52:55Z |  Scalable, Geo-Replicated, Transactional Datastore. |
+| [influxdb/influxdb](https://github.com/influxdb/influxdb) | 29k | 4k | 2025-02-03T22:48:39Z |  Scalable datastore for metrics, events, and real-time analytics. |
+| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 32k | 3k | 2025-02-03T21:28:27Z |  Milvus is a vector database for embedding management, analytics and search. |
+| [youtube/vitess](https://github.com/youtube/vitess) | 19k | 2k | 2025-02-03T23:20:53Z |  vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services. |
+| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | 21k | 2k | 2025-02-03T22:55:30Z |  Scalable, Distributed, Low Latency, High Throughput Graph Database. |
+| [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 16k | 1k | 2025-02-03T13:27:36Z |  Database migrations. CLI and Golang library. |
+| [golang/groupcache](https://github.com/golang/groupcache) | 13k | 1k | 2025-02-03T09:12:00Z |  Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. |
+| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 13k | 1k | 2025-02-03T23:11:35Z |  fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL. |
+| [dgraph-io/badger](https://github.com/dgraph-io/badger) | 14k | 1k | 2025-02-03T23:56:24Z |  Fast key-value store in Go. |
 | [siddontang/go-mysql](https://github.com/siddontang/go-mysql) | 5k | 1k | 2025-02-02T11:30:45Z |  Go toolset to handle MySQL protocol and replication. |
-| [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) | 14k | 833 | 2025-02-02T22:21:52Z |  Generate type-safe code from SQL. |
-| [bytebase/bytebase](https://github.com/bytebase/bytebase) | 12k | 765 | 2025-02-02T05:22:09Z |  Safe database schema change and version control for DevOps teams. |
-| [sosedoff/pgweb](https://github.com/sosedoff/pgweb) | 9k | 751 | 2025-02-01T16:05:07Z |  Web-based PostgreSQL database browser. |
-| [rqlite/rqlite](https://github.com/rqlite/rqlite) | 16k | 735 | 2025-02-02T23:38:23Z |  The lightweight, distributed, relational database built on SQLite. |
-| [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | 8k | 653 | 2025-02-02T05:02:47Z |  An embedded key/value database for Go. |
-| [roseduan/rosedb](https://github.com/roseduan/rosedb) | 5k | 640 | 2025-01-31T12:52:46Z |  An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset. |
-| [allegro/bigcache](https://github.com/allegro/bigcache) | 8k | 602 | 2025-01-31T10:59:57Z |  Efficient key/value cache for gigabytes of data. |
-| [hdt3213/godis](https://github.com/hdt3213/godis) | 4k | 578 | 2025-02-02T10:43:28Z |  A Golang implemented high-performance Redis server and cluster. |
-| [pressly/goose](https://github.com/pressly/goose) | 8k | 542 | 2025-02-02T22:21:46Z |  Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. |
-| [dolthub/dolt](https://github.com/dolthub/dolt) | 18k | 531 | 2025-02-02T14:24:50Z |  Dolt – It's Git for Data. |
+| [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) | 14k | 834 | 2025-02-03T20:06:23Z |  Generate type-safe code from SQL. |
+| [bytebase/bytebase](https://github.com/bytebase/bytebase) | 12k | 765 | 2025-02-03T21:13:03Z |  Safe database schema change and version control for DevOps teams. |
+| [sosedoff/pgweb](https://github.com/sosedoff/pgweb) | 9k | 751 | 2025-02-03T16:32:49Z |  Web-based PostgreSQL database browser. |
+| [rqlite/rqlite](https://github.com/rqlite/rqlite) | 16k | 735 | 2025-02-03T16:24:26Z |  The lightweight, distributed, relational database built on SQLite. |
+| [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | 8k | 653 | 2025-02-03T16:18:52Z |  An embedded key/value database for Go. |
+| [roseduan/rosedb](https://github.com/roseduan/rosedb) | 5k | 640 | 2025-02-03T10:19:35Z |  An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset. |
+| [allegro/bigcache](https://github.com/allegro/bigcache) | 8k | 602 | 2025-02-03T10:42:54Z |  Efficient key/value cache for gigabytes of data. |
+| [hdt3213/godis](https://github.com/hdt3213/godis) | 4k | 578 | 2025-02-03T11:10:28Z |  A Golang implemented high-performance Redis server and cluster. |
+| [pressly/goose](https://github.com/pressly/goose) | 8k | 545 | 2025-02-03T21:34:39Z |  Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. |
+| [dolthub/dolt](https://github.com/dolthub/dolt) | 18k | 532 | 2025-02-03T23:02:56Z |  Dolt – It's Git for Data. |
 | [muesli/cache2go](https://github.com/muesli/cache2go) | 2k | 514 | 2025-01-24T04:36:22Z |  In-memory key:value cache which supports automatic invalidation based on timeouts. |
-| [cockroachdb/pebble](https://github.com/cockroachdb/pebble) | 5k | 480 | 2025-02-02T13:10:59Z |  RocksDB/LevelDB inspired key-value database in Go. |
-| [Masterminds/squirrel](https://github.com/Masterminds/squirrel) | 7k | 473 | 2025-02-02T09:43:43Z |  Go library that helps you build SQL queries. |
+| [cockroachdb/pebble](https://github.com/cockroachdb/pebble) | 5k | 480 | 2025-02-03T23:51:48Z |  RocksDB/LevelDB inspired key-value database in Go. |
+| [Masterminds/squirrel](https://github.com/Masterminds/squirrel) | 7k | 473 | 2025-02-03T14:15:54Z |  Go library that helps you build SQL queries. |
 | [siddontang/ledisdb](https://github.com/siddontang/ledisdb) | 4k | 437 | 2025-01-17T13:55:15Z |  Ledisdb is a high performance NoSQL like Redis based on LevelDB. |
-| [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) | 6k | 381 | 2025-02-02T21:49:50Z |   A high performance memory-bound Go cache. |
-| [codenotary/immudb](https://github.com/codenotary/immudb) | 9k | 345 | 2025-02-01T04:05:16Z |  immudb is a lightweight, high-speed immutable database for systems and applications written in Go. |
+| [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) | 6k | 381 | 2025-02-03T15:08:16Z |   A high performance memory-bound Go cache. |
+| [codenotary/immudb](https://github.com/codenotary/immudb) | 9k | 344 | 2025-02-01T04:05:16Z |  immudb is a lightweight, high-speed immutable database for systems and applications written in Go. |
 | [xujiajun/nutsdb](https://github.com/xujiajun/nutsdb) | 3k | 339 | 2025-02-02T22:32:56Z |  Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set. |
-| [knq/xo](https://github.com/knq/xo) | 4k | 319 | 2025-02-02T22:06:04Z |  Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server. |
-| [tidwall/buntdb](https://github.com/tidwall/buntdb) | 5k | 291 | 2025-01-29T16:44:58Z |  Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support. |
-| [prest/prest](https://github.com/prest/prest) | 4k | 287 | 2025-02-01T08:52:10Z |  Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new. |
+| [knq/xo](https://github.com/knq/xo) | 4k | 319 | 2025-02-03T22:37:09Z |  Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server. |
+| [tidwall/buntdb](https://github.com/tidwall/buntdb) | 5k | 290 | 2025-02-03T17:16:16Z |  Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support. |
+| [prest/prest](https://github.com/prest/prest) | 4k | 287 | 2025-02-03T12:54:43Z |  Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new. |
 | [lindb/lindb](https://github.com/lindb/lindb) | 3k | 284 | 2025-01-31T11:00:36Z |  LinDB is a scalable, high performance, high availability distributed time series database. |
-| [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) | 3k | 281 | 2025-02-01T20:01:54Z |  Database migration tool. Allows embedding migrations into the application using go-bindata. |
-| [amacneil/dbmate](https://github.com/amacneil/dbmate) | 6k | 280 | 2025-02-02T12:44:13Z |  A lightweight, framework-agnostic database migration tool. |
-| [ariga/atlas](https://github.com/ariga/atlas) | 6k | 278 | 2025-02-02T23:17:47Z |  A Database Toolkit. A CLI designed to help companies better work with their data. |
+| [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) | 3k | 281 | 2025-02-03T15:59:56Z |  Database migration tool. Allows embedding migrations into the application using go-bindata. |
+| [amacneil/dbmate](https://github.com/amacneil/dbmate) | 6k | 280 | 2025-02-03T09:15:18Z |  A lightweight, framework-agnostic database migration tool. |
+| [ariga/atlas](https://github.com/ariga/atlas) | 6k | 278 | 2025-02-03T23:08:39Z |  A Database Toolkit. A CLI designed to help companies better work with their data. |
 | [bluele/gcache](https://github.com/bluele/gcache) | 3k | 274 | 2025-01-23T14:07:14Z |  Cache library with support for expirable Cache, LFU, LRU and ARC. |
 | [Vertamedia/chproxy](https://github.com/Vertamedia/chproxy) | 1k | 264 | 2025-02-02T12:07:01Z |  HTTP proxy for ClickHouse database. |
 | [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) | 3k | 259 | 2025-01-22T02:13:11Z |  Your NoSQL database powered by Golang. |
@@ -194,18 +194,18 @@ Libraries for building and using SQL.
 | [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) | 2k | 181 | 2025-02-01T21:30:00Z |  Fast k/v database compatible with lsm and b+tree. |
 | [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) | 2k | 178 | 2025-02-01T17:13:51Z |  fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead. |
 | [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) | 2k | 147 | 2025-02-01T06:13:50Z |  CovenantSQL is a SQL database on blockchain. |
-| [go-jet/jet](https://github.com/go-jet/jet) | 3k | 128 | 2025-02-02T14:33:35Z |  Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure. |
-| [jellydator/ttlcache](https://github.com/jellydator/ttlcache) | 997 | 124 | 2025-01-30T14:09:09Z |  An in-memory cache with item expiration and generics. |
-| [peterbourgon/diskv](https://github.com/peterbourgon/diskv) | 1k | 102 | 2025-02-01T22:04:11Z |  Home-grown disk-backed key-value store. |
+| [go-jet/jet](https://github.com/go-jet/jet) | 3k | 128 | 2025-02-03T16:44:54Z |  Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure. |
+| [jellydator/ttlcache](https://github.com/jellydator/ttlcache) | 998 | 124 | 2025-02-03T10:00:09Z |  An in-memory cache with item expiration and generics. |
+| [peterbourgon/diskv](https://github.com/peterbourgon/diskv) | 1k | 102 | 2025-02-03T06:30:40Z |  Home-grown disk-backed key-value store. |
 | [nalgeon/redka](https://github.com/nalgeon/redka) | 4k | 102 | 2025-02-02T11:58:16Z |  Redis re-implemented with SQLite. |
-| [skeema/skeema](https://github.com/skeema/skeema) | 1k | 101 | 2025-02-02T20:51:04Z |  Pure-SQL schema management system for MySQL, with support for sharding and external online schema change tools. |
+| [skeema/skeema](https://github.com/skeema/skeema) | 1k | 101 | 2025-02-03T22:20:54Z |  Pure-SQL schema management system for MySQL, with support for sharding and external online schema change tools. |
 | [go-gormigrate/gormigrate](https://github.com/go-gormigrate/gormigrate) | 1k | 101 | 2025-01-28T08:15:29Z |  Database schema migration helper for Gorm ORM. |
 | [HDT3213/rdb](https://github.com/HDT3213/rdb) | 460 | 98 | 2025-02-01T07:36:35Z |  Redis RDB file parser for secondary development and memory analysis. |
 | [go-ozzo/ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) | 640 | 95 | 2025-01-11T15:03:33Z |  Powerful data retrieval methods as well as DB-agnostic query building capabilities. |
 | [akrylysov/pogreb](https://github.com/akrylysov/pogreb) | 1k | 93 | 2025-02-01T20:59:49Z |  Embedded key-value store for read-heavy workloads. |
 | [nikepan/clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) | 479 | 88 | 2025-01-31T11:00:12Z |  Collects small inserts and sends big requests to ClickHouse servers. |
 | [jmhodges/levigo](https://github.com/jmhodges/levigo) | 415 | 82 | 2024-10-29T21:42:28Z |  Levigo is a Go wrapper for LevelDB. |
-| [paranoidguy/databunker](https://github.com/paranoidguy/databunker) | 1k | 80 | 2025-01-31T17:55:37Z |  Personally identifiable information (PII) storage service built to comply with GDPR and CCPA. |
+| [paranoidguy/databunker](https://github.com/paranoidguy/databunker) | 1k | 80 | 2025-02-03T18:21:30Z |  Personally identifiable information (PII) storage service built to comply with GDPR and CCPA. |
 | [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) | 1k | 66 | 2025-01-31T07:15:56Z |  Advanced scheduling for PostgreSQL. |
 | [couchbase/moss](https://github.com/couchbase/moss) | 996 | 62 | 2025-02-02T06:03:17Z |  Moss is a simple LSM key-value storage engine written in 100% Go. |
 | [kelindar/column](https://github.com/kelindar/column) | 1k | 61 | 2025-01-31T19:31:19Z |  High-performance, columnar, embeddable in-memory store with bitmap indexing and transactions. |
@@ -213,7 +213,7 @@ Libraries for building and using SQL.
 | [gchaincl/dotsql](https://github.com/gchaincl/dotsql) | 745 | 53 | 2025-01-31T10:58:20Z |  Go library that helps you keep sql files in one place and use them with ease. |
 | [krotik/eliasdb](https://github.com/krotik/eliasdb) | 1k | 50 | 2025-01-19T15:40:47Z |  Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language. |
 | [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) | 1k | 48 | 2025-02-01T03:57:19Z |  High-performance embedded Object Database (NoSQL) with Go API. |
-| [maypok86/otter](https://github.com/maypok86/otter) | 2k | 46 | 2025-02-02T16:30:46Z |  A high performance lockless cache for Go. Many times faster than Ristretto and friends. |
+| [maypok86/otter](https://github.com/maypok86/otter) | 2k | 46 | 2025-02-03T09:41:06Z |  A high performance lockless cache for Go. Many times faster than Ristretto and friends. |
 | [elgris/sqrl](https://github.com/elgris/sqrl) | 280 | 39 | 2025-01-29T14:31:18Z |  SQL query builder, fork of Squirrel with improved performance. |
 | [recoilme/pudge](https://github.com/recoilme/pudge) | 369 | 34 | 2025-01-31T17:51:17Z |  Fast and simple key/value store written using Go's standard library. |
 | [GuiaBolso/darwin](https://github.com/GuiaBolso/darwin) | 145 | 33 | 2025-01-14T17:58:33Z |  Database schema evolution library for Go. |
@@ -227,10 +227,10 @@ Libraries for building and using SQL.
 | [akyoto/cache](https://github.com/akyoto/cache) | 188 | 22 | 2025-01-13T09:35:43Z |  In-memory key:value store with expiration time, 0 dependencies, <100 LoC, 100% coverage. |
 | [robinjoseph08/go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) | 84 | 22 | 2025-01-03T00:37:19Z |  A Go package to help write migrations with go-pg/pg. |
 | [fern4lvarez/piladb](https://github.com/fern4lvarez/piladb) | 206 | 22 | 2024-10-25T15:49:20Z |  Lightweight RESTful database engine based on stack data structures. |
-| [viccon/sturdyc](https://github.com/viccon/sturdyc) | 616 | 21 | 2025-01-31T11:02:11Z |  A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant. |
+| [viccon/sturdyc](https://github.com/viccon/sturdyc) | 617 | 21 | 2025-02-03T09:47:42Z |  A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant. |
 | [rocketlaunchr/dbq](https://github.com/rocketlaunchr/dbq) | 405 | 21 | 2025-01-11T17:48:52Z |  Zero boilerplate database operations for Go. |
 | [iwanbk/bcache](https://github.com/iwanbk/bcache) | 157 | 20 | 2024-12-15T14:10:21Z |  Eventually consistent distributed in-memory cache Go library. |
-| [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) | 233 | 20 | 2025-01-31T11:01:23Z |  Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases. |
+| [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) | 234 | 20 | 2025-02-03T12:07:39Z |  Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases. |
 | [sj14/dbbench](https://github.com/sj14/dbbench) | 104 | 19 | 2025-01-31T15:54:34Z |  Database benchmarking tool with support for several databases and scripts. |
 | [lopezator/migrator](https://github.com/lopezator/migrator) | 172 | 19 | 2024-12-28T22:43:11Z |  Dead simple Go database migration library. |
 | [Yiling-J/theine-go](https://github.com/Yiling-J/theine-go) | 286 | 18 | 2025-02-02T17:04:06Z |  High performance, near optimal in-memory cache with proactive TTL expiration and generics. |
@@ -277,7 +277,7 @@ Libraries for building and using SQL.
 | [rafaelespinoza/godfish](https://github.com/rafaelespinoza/godfish) | 8 | 1 | 2024-12-13T05:12:17Z |  Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3. |
 | [motrboat/hotcoal](https://github.com/motrboat/hotcoal) | 22 | 1 | 2024-11-24T11:22:43Z |  Secure your handcrafted SQL against injection. |
 | [Kachit/gorm-seeder](https://github.com/Kachit/gorm-seeder) | 13 | 1 | 2024-01-30T11:33:09Z |  Simple database seeder for Gorm ORM. |
-| [Jacobbrewer1/patcher](https://github.com/Jacobbrewer1/patcher) | 3 | 1 | 2025-01-31T12:19:31Z |  Powerful SQL Query builder that automatically generates SQL queries from structs. |
+| [Jacobbrewer1/patcher](https://github.com/Jacobbrewer1/patcher) | 3 | 1 | 2025-02-03T12:44:41Z |  Powerful SQL Query builder that automatically generates SQL queries from structs. |
 | [no-src/nscache](https://github.com/no-src/nscache) | 11 | 0 | 2024-12-03T01:22:18Z |  A Go caching framework that supports multiple data source drivers. |
 | [twharmon/dynago](https://github.com/twharmon/dynago) | 12 | 0 | 2024-03-26T11:56:26Z |  Simplify working with AWS DynamoDB. |
 | [yuseferi/gocache](https://github.com/yuseferi/gocache) | 9 | 0 | 2024-10-08T20:33:28Z |  A data race free Go ache library with high performance and auto pruge functionality |
@@ -288,70 +288,72 @@ Libraries for building and using SQL.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 57k | 9k | 2025-02-03T00:01:30Z |  Monitoring system and time series database. |
-| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 32k | 3k | 2025-02-02T23:49:58Z |  Milvus is a vector database for embedding management, analytics and search. |
-| [rqlite/rqlite](https://github.com/rqlite/rqlite) | 16k | 735 | 2025-02-02T23:38:23Z |  The lightweight, distributed, relational database built on SQLite. |
-| [ariga/atlas](https://github.com/ariga/atlas) | 6k | 278 | 2025-02-02T23:17:47Z |  A Database Toolkit. A CLI designed to help companies better work with their data. |
-| [google/leveldb](https://github.com/google/leveldb) | 37k | 8k | 2025-02-02T22:47:21Z | key/value database in Go. |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 57k | 9k | 2025-02-04T00:03:02Z |  Monitoring system and time series database. |
+| [dgraph-io/badger](https://github.com/dgraph-io/badger) | 14k | 1k | 2025-02-03T23:56:24Z |  Fast key-value store in Go. |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 30k | 4k | 2025-02-03T23:52:55Z |  Scalable, Geo-Replicated, Transactional Datastore. |
+| [cockroachdb/pebble](https://github.com/cockroachdb/pebble) | 5k | 480 | 2025-02-03T23:51:48Z |  RocksDB/LevelDB inspired key-value database in Go. |
+| [youtube/vitess](https://github.com/youtube/vitess) | 19k | 2k | 2025-02-03T23:20:53Z |  vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services. |
+| [google/leveldb](https://github.com/google/leveldb) | 37k | 8k | 2025-02-03T23:19:42Z | key/value database in Go. |
+| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 13k | 1k | 2025-02-03T23:11:35Z |  fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL. |
+| [ariga/atlas](https://github.com/ariga/atlas) | 6k | 278 | 2025-02-03T23:08:39Z |  A Database Toolkit. A CLI designed to help companies better work with their data. |
+| [dolthub/dolt](https://github.com/dolthub/dolt) | 18k | 532 | 2025-02-03T23:02:56Z |  Dolt – It's Git for Data. |
+| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | 21k | 2k | 2025-02-03T22:55:30Z |  Scalable, Distributed, Low Latency, High Throughput Graph Database. |
+| [influxdb/influxdb](https://github.com/influxdb/influxdb) | 29k | 4k | 2025-02-03T22:48:39Z |  Scalable datastore for metrics, events, and real-time analytics. |
+| [pingcap/tidb](https://github.com/pingcap/tidb) | 38k | 6k | 2025-02-03T22:44:45Z |  TiDB is a distributed SQL database. Inspired by the design of Google F1. |
+| [knq/xo](https://github.com/knq/xo) | 4k | 319 | 2025-02-03T22:37:09Z |  Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server. |
+| [skeema/skeema](https://github.com/skeema/skeema) | 1k | 101 | 2025-02-03T22:20:54Z |  Pure-SQL schema management system for MySQL, with support for sharding and external online schema change tools. |
+| [pressly/goose](https://github.com/pressly/goose) | 8k | 545 | 2025-02-03T21:34:39Z |  Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. |
+| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 32k | 3k | 2025-02-03T21:28:27Z |  Milvus is a vector database for embedding management, analytics and search. |
+| [bytebase/bytebase](https://github.com/bytebase/bytebase) | 12k | 765 | 2025-02-03T21:13:03Z |  Safe database schema change and version control for DevOps teams. |
+| [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) | 14k | 834 | 2025-02-03T20:06:23Z |  Generate type-safe code from SQL. |
+| [paranoidguy/databunker](https://github.com/paranoidguy/databunker) | 1k | 80 | 2025-02-03T18:21:30Z |  Personally identifiable information (PII) storage service built to comply with GDPR and CCPA. |
+| [tidwall/buntdb](https://github.com/tidwall/buntdb) | 5k | 290 | 2025-02-03T17:16:16Z |  Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support. |
+| [go-jet/jet](https://github.com/go-jet/jet) | 3k | 128 | 2025-02-03T16:44:54Z |  Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure. |
+| [sosedoff/pgweb](https://github.com/sosedoff/pgweb) | 9k | 751 | 2025-02-03T16:32:49Z |  Web-based PostgreSQL database browser. |
+| [rqlite/rqlite](https://github.com/rqlite/rqlite) | 16k | 735 | 2025-02-03T16:24:26Z |  The lightweight, distributed, relational database built on SQLite. |
+| [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | 8k | 653 | 2025-02-03T16:18:52Z |  An embedded key/value database for Go. |
+| [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) | 3k | 281 | 2025-02-03T15:59:56Z |  Database migration tool. Allows embedding migrations into the application using go-bindata. |
+| [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) | 6k | 381 | 2025-02-03T15:08:16Z |   A high performance memory-bound Go cache. |
+| [Masterminds/squirrel](https://github.com/Masterminds/squirrel) | 7k | 473 | 2025-02-03T14:15:54Z |  Go library that helps you build SQL queries. |
+| [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 16k | 1k | 2025-02-03T13:27:36Z |  Database migrations. CLI and Golang library. |
+| [prest/prest](https://github.com/prest/prest) | 4k | 287 | 2025-02-03T12:54:43Z |  Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new. |
+| [Jacobbrewer1/patcher](https://github.com/Jacobbrewer1/patcher) | 3 | 1 | 2025-02-03T12:44:41Z |  Powerful SQL Query builder that automatically generates SQL queries from structs. |
+| [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) | 234 | 20 | 2025-02-03T12:07:39Z |  Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases. |
+| [hdt3213/godis](https://github.com/hdt3213/godis) | 4k | 578 | 2025-02-03T11:10:28Z |  A Golang implemented high-performance Redis server and cluster. |
+| [allegro/bigcache](https://github.com/allegro/bigcache) | 8k | 602 | 2025-02-03T10:42:54Z |  Efficient key/value cache for gigabytes of data. |
+| [roseduan/rosedb](https://github.com/roseduan/rosedb) | 5k | 640 | 2025-02-03T10:19:35Z |  An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset. |
+| [jellydator/ttlcache](https://github.com/jellydator/ttlcache) | 998 | 124 | 2025-02-03T10:00:09Z |  An in-memory cache with item expiration and generics. |
+| [viccon/sturdyc](https://github.com/viccon/sturdyc) | 617 | 21 | 2025-02-03T09:47:42Z |  A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant. |
+| [maypok86/otter](https://github.com/maypok86/otter) | 2k | 46 | 2025-02-03T09:41:06Z |  A high performance lockless cache for Go. Many times faster than Ristretto and friends. |
+| [amacneil/dbmate](https://github.com/amacneil/dbmate) | 6k | 280 | 2025-02-03T09:15:18Z |  A lightweight, framework-agnostic database migration tool. |
+| [golang/groupcache](https://github.com/golang/groupcache) | 13k | 1k | 2025-02-03T09:12:00Z |  Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. |
+| [peterbourgon/diskv](https://github.com/peterbourgon/diskv) | 1k | 102 | 2025-02-03T06:30:40Z |  Home-grown disk-backed key-value store. |
 | [xujiajun/nutsdb](https://github.com/xujiajun/nutsdb) | 3k | 339 | 2025-02-02T22:32:56Z |  Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set. |
-| [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) | 14k | 833 | 2025-02-02T22:21:52Z |  Generate type-safe code from SQL. |
-| [pressly/goose](https://github.com/pressly/goose) | 8k | 542 | 2025-02-02T22:21:46Z |  Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. |
-| [knq/xo](https://github.com/knq/xo) | 4k | 319 | 2025-02-02T22:06:04Z |  Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server. |
-| [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) | 6k | 381 | 2025-02-02T21:49:50Z |   A high performance memory-bound Go cache. |
-| [influxdb/influxdb](https://github.com/influxdb/influxdb) | 29k | 4k | 2025-02-02T21:29:00Z |  Scalable datastore for metrics, events, and real-time analytics. |
-| [youtube/vitess](https://github.com/youtube/vitess) | 19k | 2k | 2025-02-02T20:52:42Z |  vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services. |
-| [skeema/skeema](https://github.com/skeema/skeema) | 1k | 101 | 2025-02-02T20:51:04Z |  Pure-SQL schema management system for MySQL, with support for sharding and external online schema change tools. |
-| [pingcap/tidb](https://github.com/pingcap/tidb) | 38k | 6k | 2025-02-02T18:40:43Z |  TiDB is a distributed SQL database. Inspired by the design of Google F1. |
-| [dgraph-io/badger](https://github.com/dgraph-io/badger) | 14k | 1k | 2025-02-02T18:28:13Z |  Fast key-value store in Go. |
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 30k | 4k | 2025-02-02T18:18:07Z |  Scalable, Geo-Replicated, Transactional Datastore. |
-| [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | 21k | 2k | 2025-02-02T17:36:02Z |  Scalable, Distributed, Low Latency, High Throughput Graph Database. |
 | [Yiling-J/theine-go](https://github.com/Yiling-J/theine-go) | 286 | 18 | 2025-02-02T17:04:06Z |  High performance, near optimal in-memory cache with proactive TTL expiration and generics. |
-| [maypok86/otter](https://github.com/maypok86/otter) | 2k | 46 | 2025-02-02T16:30:46Z |  A high performance lockless cache for Go. Many times faster than Ristretto and friends. |
-| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 13k | 1k | 2025-02-02T16:06:55Z |  fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL. |
-| [go-jet/jet](https://github.com/go-jet/jet) | 3k | 128 | 2025-02-02T14:33:35Z |  Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure. |
-| [dolthub/dolt](https://github.com/dolthub/dolt) | 18k | 531 | 2025-02-02T14:24:50Z |  Dolt – It's Git for Data. |
-| [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 16k | 1k | 2025-02-02T13:26:49Z |  Database migrations. CLI and Golang library. |
-| [cockroachdb/pebble](https://github.com/cockroachdb/pebble) | 5k | 480 | 2025-02-02T13:10:59Z |  RocksDB/LevelDB inspired key-value database in Go. |
-| [amacneil/dbmate](https://github.com/amacneil/dbmate) | 6k | 280 | 2025-02-02T12:44:13Z |  A lightweight, framework-agnostic database migration tool. |
 | [Vertamedia/chproxy](https://github.com/Vertamedia/chproxy) | 1k | 264 | 2025-02-02T12:07:01Z |  HTTP proxy for ClickHouse database. |
 | [nalgeon/redka](https://github.com/nalgeon/redka) | 4k | 102 | 2025-02-02T11:58:16Z |  Redis re-implemented with SQLite. |
 | [siddontang/go-mysql](https://github.com/siddontang/go-mysql) | 5k | 1k | 2025-02-02T11:30:45Z |  Go toolset to handle MySQL protocol and replication. |
 | [linkedin/goavro](https://github.com/linkedin/goavro) | 996 | 222 | 2025-02-02T10:52:59Z |  A Go package that encodes and decodes Avro data. |
-| [hdt3213/godis](https://github.com/hdt3213/godis) | 4k | 578 | 2025-02-02T10:43:28Z |  A Golang implemented high-performance Redis server and cluster. |
-| [Masterminds/squirrel](https://github.com/Masterminds/squirrel) | 7k | 473 | 2025-02-02T09:43:43Z |  Go library that helps you build SQL queries. |
 | [doug-martin/goqu](https://github.com/doug-martin/goqu) | 2k | 213 | 2025-02-02T07:31:14Z |  Idiomatic SQL builder and query library. |
 | [couchbase/moss](https://github.com/couchbase/moss) | 996 | 62 | 2025-02-02T06:03:17Z |  Moss is a simple LSM key-value storage engine written in 100% Go. |
-| [bytebase/bytebase](https://github.com/bytebase/bytebase) | 12k | 765 | 2025-02-02T05:22:09Z |  Safe database schema change and version control for DevOps teams. |
-| [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | 8k | 653 | 2025-02-02T05:02:47Z |  An embedded key/value database for Go. |
 | [naughtygopher/pocache](https://github.com/naughtygopher/pocache) | 218 | 5 | 2025-02-02T01:06:18Z |  Pocache is a minimal cache package which focuses on a preemptive optimistic caching strategy. |
 | [viney-shih/go-cache](https://github.com/viney-shih/go-cache) | 145 | 11 | 2025-02-02T01:00:41Z |  A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern. |
 | [eko/gocache](https://github.com/eko/gocache) | 3k | 201 | 2025-02-01T22:10:44Z |  A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more. |
-| [peterbourgon/diskv](https://github.com/peterbourgon/diskv) | 1k | 102 | 2025-02-01T22:04:11Z |  Home-grown disk-backed key-value store. |
 | [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) | 2k | 181 | 2025-02-01T21:30:00Z |  Fast k/v database compatible with lsm and b+tree. |
 | [akrylysov/pogreb](https://github.com/akrylysov/pogreb) | 1k | 93 | 2025-02-01T20:59:49Z |  Embedded key-value store for read-heavy workloads. |
-| [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate) | 3k | 281 | 2025-02-01T20:01:54Z |  Database migration tool. Allows embedding migrations into the application using go-bindata. |
 | [sunary/sqlize](https://github.com/sunary/sqlize) | 115 | 13 | 2025-02-01T18:57:20Z |  Database migration generator. Allows generate sql migration from model and existing sql by differ them. |
 | [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) | 2k | 178 | 2025-02-01T17:13:51Z |  fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead. |
-| [sosedoff/pgweb](https://github.com/sosedoff/pgweb) | 9k | 751 | 2025-02-01T16:05:07Z |  Web-based PostgreSQL database browser. |
 | [ostafen/clover](https://github.com/ostafen/clover) | 716 | 57 | 2025-02-01T16:04:00Z |  A lightweight document-oriented NoSQL database written in pure Golang. |
-| [golang/groupcache](https://github.com/golang/groupcache) | 13k | 1k | 2025-02-01T11:59:52Z |  Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. |
-| [prest/prest](https://github.com/prest/prest) | 4k | 287 | 2025-02-01T08:52:10Z |  Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new. |
 | [HDT3213/rdb](https://github.com/HDT3213/rdb) | 460 | 98 | 2025-02-01T07:36:35Z |  Redis RDB file parser for secondary development and memory analysis. |
 | [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) | 2k | 147 | 2025-02-01T06:13:50Z |  CovenantSQL is a SQL database on blockchain. |
-| [codenotary/immudb](https://github.com/codenotary/immudb) | 9k | 345 | 2025-02-01T04:05:16Z |  immudb is a lightweight, high-speed immutable database for systems and applications written in Go. |
+| [codenotary/immudb](https://github.com/codenotary/immudb) | 9k | 344 | 2025-02-01T04:05:16Z |  immudb is a lightweight, high-speed immutable database for systems and applications written in Go. |
 | [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) | 1k | 48 | 2025-02-01T03:57:19Z |  High-performance embedded Object Database (NoSQL) with Go API. |
 | [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) | 441 | 27 | 2025-01-31T23:47:19Z |  Embeddable Distributed in-memory data store compatible with Redis clients. |
 | [kelindar/column](https://github.com/kelindar/column) | 1k | 61 | 2025-01-31T19:31:19Z |  High-performance, columnar, embeddable in-memory store with bitmap indexing and transactions. |
-| [paranoidguy/databunker](https://github.com/paranoidguy/databunker) | 1k | 80 | 2025-01-31T17:55:37Z |  Personally identifiable information (PII) storage service built to comply with GDPR and CCPA. |
 | [recoilme/pudge](https://github.com/recoilme/pudge) | 369 | 34 | 2025-01-31T17:51:17Z |  Fast and simple key/value store written using Go's standard library. |
 | [sj14/dbbench](https://github.com/sj14/dbbench) | 104 | 19 | 2025-01-31T15:54:34Z |  Database benchmarking tool with support for several databases and scripts. |
-| [roseduan/rosedb](https://github.com/roseduan/rosedb) | 5k | 640 | 2025-01-31T12:52:46Z |  An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset. |
-| [Jacobbrewer1/patcher](https://github.com/Jacobbrewer1/patcher) | 3 | 1 | 2025-01-31T12:19:31Z |  Powerful SQL Query builder that automatically generates SQL queries from structs. |
-| [viccon/sturdyc](https://github.com/viccon/sturdyc) | 616 | 21 | 2025-01-31T11:02:11Z |  A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant. |
-| [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) | 233 | 20 | 2025-01-31T11:01:23Z |  Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases. |
 | [lindb/lindb](https://github.com/lindb/lindb) | 3k | 284 | 2025-01-31T11:00:36Z |  LinDB is a scalable, high performance, high availability distributed time series database. |
 | [nikepan/clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) | 479 | 88 | 2025-01-31T11:00:12Z |  Collects small inserts and sends big requests to ClickHouse servers. |
-| [allegro/bigcache](https://github.com/allegro/bigcache) | 8k | 602 | 2025-01-31T10:59:57Z |  Efficient key/value cache for gigabytes of data. |
 | [galeone/igor](https://github.com/galeone/igor) | 126 | 4 | 2025-01-31T10:59:56Z |  Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax. |
 | [gchaincl/dotsql](https://github.com/gchaincl/dotsql) | 745 | 53 | 2025-01-31T10:58:20Z |  Go library that helps you keep sql files in one place and use them with ease. |
 | [bokwoon95/go-structured-query](https://github.com/bokwoon95/go-structured-query) | 198 | 11 | 2025-01-31T07:36:40Z |  Type-safe SQL builder and struct mapper for Go. |
@@ -359,9 +361,7 @@ Libraries for building and using SQL.
 | [faabiosr/cachego](https://github.com/faabiosr/cachego) | 370 | 23 | 2025-01-31T05:39:48Z |  Golang Cache component for multiple drivers. |
 | [OrlovEvgeny/go-mcache](https://github.com/OrlovEvgeny/go-mcache) | 98 | 16 | 2025-01-30T22:23:02Z |  Fast in-memory key:value store/cache library. Pointer caches. |
 | [liweiyi88/onedump](https://github.com/liweiyi88/onedump) | 132 | 11 | 2025-01-30T17:51:50Z |  Database backup from different drivers to different destinations with one command and configuration. |
-| [jellydator/ttlcache](https://github.com/jellydator/ttlcache) | 997 | 124 | 2025-01-30T14:09:09Z |  An in-memory cache with item expiration and generics. |
 | [wesql/wescale](https://github.com/wesql/wescale) | 284 | 12 | 2025-01-30T10:15:54Z |  WeScale is a database proxy designed to enhance the scalability, performance, security, and resilience of your applications. |
-| [tidwall/buntdb](https://github.com/tidwall/buntdb) | 5k | 291 | 2025-01-29T16:44:58Z |  Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support. |
 | [elgris/sqrl](https://github.com/elgris/sqrl) | 280 | 39 | 2025-01-29T14:31:18Z |  SQL query builder, fork of Squirrel with improved performance. |
 | [cristalhq/builq](https://github.com/cristalhq/builq) | 91 | 3 | 2025-01-29T14:31:09Z |  Easily build SQL queries in Go. |
 | [lqs/sqlingo](https://github.com/lqs/sqlingo) | 420 | 28 | 2025-01-29T14:10:44Z |  A lightweight DSL to build SQL in Go. |
