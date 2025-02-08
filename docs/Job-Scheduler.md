@@ -15,7 +15,7 @@ Libraries for scheduling jobs.
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 419 | 33 | 2025-02-06T18:04:02Z |  A simple but powerful DAG scheduler and dashboard. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 308 | 25 | 2025-01-30T02:41:33Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 235 | 15 | 2025-01-13T12:01:32Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
-| [datarootsio/cheek](https://github.com/datarootsio/cheek) | 171 | 13 | 2025-02-06T17:44:41Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
+| [datarootsio/cheek](https://github.com/datarootsio/cheek) | 172 | 13 | 2025-02-07T02:44:46Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 165 | 16 | 2025-02-03T03:15:41Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 105 | 13 | 2025-01-19T19:43:41Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 55 | 11 | 2024-12-10T00:34:13Z |  Job scheduler library with database support |
@@ -36,7 +36,7 @@ Libraries for scheduling jobs.
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 308 | 25 | 2025-01-30T02:41:33Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 165 | 16 | 2025-02-03T03:15:41Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 235 | 15 | 2025-01-13T12:01:32Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
-| [datarootsio/cheek](https://github.com/datarootsio/cheek) | 171 | 13 | 2025-02-06T17:44:41Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
+| [datarootsio/cheek](https://github.com/datarootsio/cheek) | 172 | 13 | 2025-02-07T02:44:46Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 105 | 13 | 2025-01-19T19:43:41Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 55 | 11 | 2024-12-10T00:34:13Z |  Job scheduler library with database support |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 16 | 3 | 2024-04-29T15:17:45Z |  A ticker implementation to support cron schedules. |
@@ -46,8 +46,8 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [datarootsio/cheek](https://github.com/datarootsio/cheek) | 172 | 13 | 2025-02-07T02:44:46Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 419 | 33 | 2025-02-06T18:04:02Z |  A simple but powerful DAG scheduler and dashboard. |
-| [datarootsio/cheek](https://github.com/datarootsio/cheek) | 171 | 13 | 2025-02-06T17:44:41Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 87 | 2025-02-06T15:17:01Z |  Simple, zero-dependency scheduling library for Go. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 343 | 2025-02-05T06:03:23Z | . |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 165 | 16 | 2025-02-03T03:15:41Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
