@@ -6,9 +6,9 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 508 | 2025-02-07T18:07:17Z |  PDF processor. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 509 | 2025-02-08T17:15:51Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 516 | 2025-02-07T17:49:59Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 4k | 149 | 2025-02-07T07:44:12Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 4k | 149 | 2025-02-08T20:58:06Z |  Disk usage analyzer with console interface. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 107 | 2025-02-06T22:44:32Z | . |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 153 | 2025-02-07T17:14:38Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 916 | 129 | 2025-01-20T08:05:17Z |  File system event notification library with simple API, similar to os/signal. |
@@ -37,9 +37,9 @@ Libraries for handling files and file systems.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 516 | 2025-02-07T17:49:59Z |  FileSystem Abstraction System for Go. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 508 | 2025-02-07T18:07:17Z |  PDF processor. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 509 | 2025-02-08T17:15:51Z |  PDF processor. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 153 | 2025-02-07T17:14:38Z |  A package to convert an HTML template to a PDF file. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 4k | 149 | 2025-02-07T07:44:12Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 4k | 149 | 2025-02-08T20:58:06Z |  Disk usage analyzer with console interface. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 916 | 129 | 2025-01-20T08:05:17Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 740 | 115 | 2025-02-07T11:55:09Z |  Copy directory recursively. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 107 | 2025-02-06T22:44:32Z | . |
@@ -66,11 +66,11 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 508 | 2025-02-07T18:07:17Z |  PDF processor. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 4k | 149 | 2025-02-08T20:58:06Z |  Disk usage analyzer with console interface. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 509 | 2025-02-08T17:15:51Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 516 | 2025-02-07T17:49:59Z |  FileSystem Abstraction System for Go. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 153 | 2025-02-07T17:14:38Z |  A package to convert an HTML template to a PDF file. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 740 | 115 | 2025-02-07T11:55:09Z |  Copy directory recursively. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 4k | 149 | 2025-02-07T07:44:12Z |  Disk usage analyzer with console interface. |
 | [no-src/gofs](https://github.com/no-src/gofs) | 493 | 38 | 2025-02-07T04:27:27Z |  A cross-platform real-time file synchronization tool out of the box. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 107 | 2025-02-06T22:44:32Z | . |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 259 | 45 | 2025-02-06T15:01:24Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
