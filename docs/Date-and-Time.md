@@ -6,8 +6,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 235 | 2025-03-14T09:54:41Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 170 | 2025-03-13T20:45:46Z |  Parse date's without knowing format in advance. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 235 | 2025-03-15T18:08:54Z |  Now is a time toolkit for golang. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 170 | 2025-03-15T02:45:34Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 782 | 55 | 2025-03-13T02:20:45Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 498 | 48 | 2025-03-04T10:37:33Z |  Time duration formatting library for Go. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 214 | 26 | 2025-03-02T17:39:19Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
@@ -33,8 +33,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 235 | 2025-03-14T09:54:41Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 170 | 2025-03-13T20:45:46Z |  Parse date's without knowing format in advance. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 235 | 2025-03-15T18:08:54Z |  Now is a time toolkit for golang. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 170 | 2025-03-15T02:45:34Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 782 | 55 | 2025-03-13T02:20:45Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 498 | 48 | 2025-03-04T10:37:33Z |  Time duration formatting library for Go. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 214 | 26 | 2025-03-02T17:39:19Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
@@ -60,11 +60,11 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 235 | 2025-03-15T18:08:54Z |  Now is a time toolkit for golang. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 170 | 2025-03-15T02:45:34Z |  Parse date's without knowing format in advance. |
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2025-03-14T18:42:25Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [bykof/gostradamus](https://github.com/bykof/gostradamus) | 206 | 6 | 2025-03-14T18:02:37Z |  A Go package for working with dates. |
 | [relvacode/iso8601](https://github.com/relvacode/iso8601) | 151 | 18 | 2025-03-14T14:30:51Z |  Efficiently parse ISO8601 date-times without regex. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 235 | 2025-03-14T09:54:41Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 170 | 2025-03-13T20:45:46Z |  Parse date's without knowing format in advance. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 162 | 18 | 2025-03-13T11:19:00Z |  Calculate the sunrise and sunset times for a given location. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 782 | 55 | 2025-03-13T02:20:45Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 111 | 8 | 2025-03-12T14:26:01Z |  Convert string to duration. Support time.Duration returned string and more. |
