@@ -10,7 +10,7 @@ Libraries for handling errors.
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 67 | 2025-03-10T17:46:37Z |  Go error library with error portability over the network. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 2k | 53 | 2025-03-15T23:20:53Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 30 | 2025-03-11T07:58:10Z |  A feature rich error package with stack traces, composition of errors and more. |
-| [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-15T19:28:34Z |  Package for representing a list of errors as a single error. |
+| [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-16T21:22:55Z |  Package for representing a list of errors as a single error. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 1k | 40 | 2025-03-15T16:41:48Z |  Golang errors with stack trace and source fragments. |
 | [samber/oops](https://github.com/samber/oops) | 598 | 20 | 2025-03-14T07:38:13Z |  Error handling with context, stack trace and source fragments. |
 | [snwfdhmp/errlog](https://github.com/snwfdhmp/errlog) | 460 | 20 | 2025-02-24T06:09:59Z |  Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place. |
@@ -30,7 +30,7 @@ Libraries for handling errors.
 | [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-03-15T23:20:14Z |  Go (golang) package for representing a list of errors as a single error. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 67 | 2025-03-10T17:46:37Z |  Go error library with error portability over the network. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 2k | 53 | 2025-03-15T23:20:53Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
-| [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-15T19:28:34Z |  Package for representing a list of errors as a single error. |
+| [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-16T21:22:55Z |  Package for representing a list of errors as a single error. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 1k | 40 | 2025-03-15T16:41:48Z |  Golang errors with stack trace and source fragments. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 30 | 2025-03-11T07:58:10Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [samber/oops](https://github.com/samber/oops) | 598 | 20 | 2025-03-14T07:38:13Z |  Error handling with context, stack trace and source fragments. |
@@ -48,9 +48,9 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-16T21:22:55Z |  Package for representing a list of errors as a single error. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 2k | 53 | 2025-03-15T23:20:53Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-03-15T23:20:14Z |  Go (golang) package for representing a list of errors as a single error. |
-| [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-15T19:28:34Z |  Package for representing a list of errors as a single error. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 1k | 40 | 2025-03-15T16:41:48Z |  Golang errors with stack trace and source fragments. |
 | [samber/oops](https://github.com/samber/oops) | 598 | 20 | 2025-03-14T07:38:13Z |  Error handling with context, stack trace and source fragments. |
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 174 | 6 | 2025-03-12T05:14:16Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
