@@ -46,7 +46,7 @@ This is a ranking of GitHub repositories from
 * [Game Development](docs/Game-Development.md)<br/>Awesome game development libraries.
 * [Generators](docs/Generators.md)<br/>Tools that generate Go code.
 * [Geographic](docs/Geographic.md)<br/>Geographic tools and servers
-* [Go Compilers](docs/Go-Compilers.md)<br/>Tools for compiling Go to other languages.
+* [Go Compilers](docs/Go-Compilers.md)<br/>Tools for compiling Go to other languages and vice-versa.
 * [Goroutines](docs/Goroutines.md)<br/>Tools for managing and working with Goroutines.
 * [Hardware](docs/Hardware.md)<br/>Libraries, tools, and tutorials for interacting with hardware.
 * [Images](docs/Images.md)<br/>Libraries for manipulating images.
