@@ -12,7 +12,7 @@ Libraries for handling errors.
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 30 | 2025-03-21T00:11:16Z |  A feature rich error package with stack traces, composition of errors and more. |
 | [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-26T15:59:48Z |  Package for representing a list of errors as a single error. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 1k | 40 | 2025-03-23T14:45:02Z |  Golang errors with stack trace and source fragments. |
-| [samber/oops](https://github.com/samber/oops) | 612 | 21 | 2025-03-26T14:58:56Z |  Error handling with context, stack trace and source fragments. |
+| [samber/oops](https://github.com/samber/oops) | 615 | 21 | 2025-03-27T21:34:00Z |  Error handling with context, stack trace and source fragments. |
 | [snwfdhmp/errlog](https://github.com/snwfdhmp/errlog) | 460 | 20 | 2025-02-24T06:09:59Z |  Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place. |
 | [emperror/emperror](https://github.com/emperror/emperror) | 352 | 17 | 2025-03-25T10:37:03Z |  Error handling tools and best practices for Go libraries and applications. |
 | [emperror/errors](https://github.com/emperror/errors) | 198 | 14 | 2025-02-25T23:00:52Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
@@ -33,7 +33,7 @@ Libraries for handling errors.
 | [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-26T15:59:48Z |  Package for representing a list of errors as a single error. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 1k | 40 | 2025-03-23T14:45:02Z |  Golang errors with stack trace and source fragments. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 30 | 2025-03-21T00:11:16Z |  A feature rich error package with stack traces, composition of errors and more. |
-| [samber/oops](https://github.com/samber/oops) | 612 | 21 | 2025-03-26T14:58:56Z |  Error handling with context, stack trace and source fragments. |
+| [samber/oops](https://github.com/samber/oops) | 615 | 21 | 2025-03-27T21:34:00Z |  Error handling with context, stack trace and source fragments. |
 | [snwfdhmp/errlog](https://github.com/snwfdhmp/errlog) | 460 | 20 | 2025-02-24T06:09:59Z |  Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place. |
 | [emperror/emperror](https://github.com/emperror/emperror) | 352 | 17 | 2025-03-25T10:37:03Z |  Error handling tools and best practices for Go libraries and applications. |
 | [emperror/errors](https://github.com/emperror/errors) | 198 | 14 | 2025-02-25T23:00:52Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
@@ -48,9 +48,9 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [samber/oops](https://github.com/samber/oops) | 615 | 21 | 2025-03-27T21:34:00Z |  Error handling with context, stack trace and source fragments. |
 | [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-03-26T19:51:03Z |  Go (golang) package for representing a list of errors as a single error. |
 | [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-03-26T15:59:48Z |  Package for representing a list of errors as a single error. |
-| [samber/oops](https://github.com/samber/oops) | 612 | 21 | 2025-03-26T14:58:56Z |  Error handling with context, stack trace and source fragments. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 67 | 2025-03-26T13:57:56Z |  Go error library with error portability over the network. |
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 175 | 7 | 2025-03-26T00:02:12Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
 | [emperror/emperror](https://github.com/emperror/emperror) | 352 | 17 | 2025-03-25T10:37:03Z |  Error handling tools and best practices for Go libraries and applications. |
