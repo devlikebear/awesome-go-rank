@@ -7,10 +7,10 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 289 | 2025-04-08T16:58:09Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 425 | 2025-04-08T02:36:22Z |  Lightweight data stream processing engine for IoT edge. |
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 122 | 2025-04-08T16:58:43Z |  Kubernetes native IoT development framework. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 425 | 2025-04-09T19:20:30Z |  Lightweight data stream processing engine for IoT edge. |
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 122 | 2025-04-09T02:43:22Z |  Kubernetes native IoT development framework. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 286 | 2025-03-19T06:46:47Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [rulego/rulego](https://github.com/rulego/rulego) | 1k | 101 | 2025-04-08T03:13:04Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
+| [rulego/rulego](https://github.com/rulego/rulego) | 1k | 101 | 2025-04-09T06:12:33Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 412 | 32 | 2025-03-26T21:15:13Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 265 | 31 | 2025-03-28T16:45:45Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [amimof/huego](https://github.com/amimof/huego) | 252 | 36 | 2025-01-20T15:32:53Z |  An extensive Philips Hue client library for Go. |
@@ -25,11 +25,11 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 425 | 2025-04-08T02:36:22Z |  Lightweight data stream processing engine for IoT edge. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 425 | 2025-04-09T19:20:30Z |  Lightweight data stream processing engine for IoT edge. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 289 | 2025-04-08T16:58:09Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 286 | 2025-03-19T06:46:47Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 122 | 2025-04-08T16:58:43Z |  Kubernetes native IoT development framework. |
-| [rulego/rulego](https://github.com/rulego/rulego) | 1k | 101 | 2025-04-08T03:13:04Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 122 | 2025-04-09T02:43:22Z |  Kubernetes native IoT development framework. |
+| [rulego/rulego](https://github.com/rulego/rulego) | 1k | 101 | 2025-04-09T06:12:33Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 231 | 42 | 2024-10-14T15:07:35Z |  Lightweight stream processing engine for IoT. |
 | [amimof/huego](https://github.com/amimof/huego) | 252 | 36 | 2025-01-20T15:32:53Z |  An extensive Philips Hue client library for Go. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 412 | 32 | 2025-03-26T21:15:13Z |  Open-Source Platform for Quantified Self & IoT. |
@@ -44,11 +44,11 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 122 | 2025-04-08T16:58:43Z |  Kubernetes native IoT development framework. |
+| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 425 | 2025-04-09T19:20:30Z |  Lightweight data stream processing engine for IoT edge. |
+| [rulego/rulego](https://github.com/rulego/rulego) | 1k | 101 | 2025-04-09T06:12:33Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 122 | 2025-04-09T02:43:22Z |  Kubernetes native IoT development framework. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 88 | 13 | 2025-04-08T16:58:12Z |  Software package for IoT automation. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 289 | 2025-04-08T16:58:09Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
-| [rulego/rulego](https://github.com/rulego/rulego) | 1k | 101 | 2025-04-08T03:13:04Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
-| [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 425 | 2025-04-08T02:36:22Z |  Lightweight data stream processing engine for IoT edge. |
 | [Mainflux/mainflux](https://github.com/Mainflux/mainflux) | 49 | 19 | 2025-04-01T12:25:35Z |  Industrial IoT Messaging and Device Management Server. |
 | [goiot/devices](https://github.com/goiot/devices) | 265 | 31 | 2025-03-28T16:45:45Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 412 | 32 | 2025-03-26T21:15:13Z |  Open-Source Platform for Quantified Self & IoT. |
