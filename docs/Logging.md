@@ -6,13 +6,13 @@ Libraries for generating and working with log files.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z | logger. |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z |  Structured logger for Go. |
-| [uber-go/zap](https://github.com/uber-go/zap) | 23k | 1k | 2025-04-09T21:30:28Z |  Fast, structured, leveled logging in Go. |
-| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 943 | 2025-04-09T06:57:58Z | , great for CLI tools and applications. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-09T23:18:07Z |  Zero-allocation JSON logger. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-09T23:18:07Z | , etc). |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z | logger. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z |  Structured logger for Go. |
+| [uber-go/zap](https://github.com/uber-go/zap) | 23k | 1k | 2025-04-10T16:19:33Z |  Fast, structured, leveled logging in Go. |
+| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 943 | 2025-04-10T17:58:25Z | , great for CLI tools and applications. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-10T21:37:01Z |  Zero-allocation JSON logger. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-10T21:37:01Z | , etc). |
 | [davecgh/go-spew](https://github.com/davecgh/go-spew) | 6k | 373 | 2025-04-08T19:32:08Z |  Implements a deep pretty printer for Go data structures to aid in debugging. |
 | [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 5k | 612 | 2025-04-09T16:45:35Z |  Simple rolling logger, implements io.WriteCloser. |
 | [golang/glog](https://github.com/golang/glog) | 4k | 910 | 2025-04-09T02:18:40Z |  Leveled execution logs for Go. |
@@ -21,12 +21,12 @@ Libraries for generating and working with log files.
 | [cihub/seelog](https://github.com/cihub/seelog) | 2k | 244 | 2025-04-03T02:15:09Z |  Logging functionality with flexible dispatching, filtering, and formatting. |
 | [apex/log](https://github.com/apex/log) | 1k | 114 | 2025-04-05T16:35:53Z |  Structured logging package for Go. |
 | [inconshreveable/log15](https://github.com/inconshreveable/log15) | 1k | 147 | 2025-04-03T06:49:06Z |  Simple, powerful logging for Go. |
-| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | 958 | 226 | 2025-04-09T07:40:35Z |  Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring. |
+| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | 959 | 227 | 2025-04-10T09:07:15Z |  Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring. |
 | [lmittmann/tint](https://github.com/lmittmann/tint) | 920 | 48 | 2025-04-09T14:12:33Z |  A slog.Handler that writes tinted logs. |
 | [phuslu/log](https://github.com/phuslu/log) | 743 | 47 | 2025-04-06T19:43:54Z |  High performance structured logging. |
 | [samber/slog-multi](https://github.com/samber/slog-multi) | 462 | 21 | 2025-04-06T10:35:41Z |  Chain of slog.Handler (pipeline, fanout...). |
+| [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) | 445 | 9 | 2025-04-10T22:20:40Z |  A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods. |
 | [gookit/slog](https://github.com/gookit/slog) | 443 | 27 | 2025-04-07T13:38:35Z |  Lightweight, configurable, extensible logger for Go. |
-| [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) | 441 | 9 | 2025-04-09T18:06:26Z |  A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods. |
 | [francoispqt/onelog](https://github.com/francoispqt/onelog) | 413 | 17 | 2025-03-04T10:14:41Z |  Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the lowest allocation. |
 | [henvic/httpretty](https://github.com/henvic/httpretty) | 408 | 16 | 2025-03-29T05:46:27Z |  Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest). |
 | [hashicorp/logutils](https://github.com/hashicorp/logutils) | 368 | 33 | 2025-02-08T22:13:42Z |  Utilities for slightly better logging in Go (Golang) extending the standard logger. |
@@ -73,19 +73,19 @@ Libraries for generating and working with log files.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z |  Structured logger for Go. |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z | logger. |
-| [uber-go/zap](https://github.com/uber-go/zap) | 23k | 1k | 2025-04-09T21:30:28Z |  Fast, structured, leveled logging in Go. |
-| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 943 | 2025-04-09T06:57:58Z | , great for CLI tools and applications. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z |  Structured logger for Go. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z | logger. |
+| [uber-go/zap](https://github.com/uber-go/zap) | 23k | 1k | 2025-04-10T16:19:33Z |  Fast, structured, leveled logging in Go. |
+| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 943 | 2025-04-10T17:58:25Z | , great for CLI tools and applications. |
 | [golang/glog](https://github.com/golang/glog) | 4k | 910 | 2025-04-09T02:18:40Z |  Leveled execution logs for Go. |
 | [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 5k | 612 | 2025-04-09T16:45:35Z |  Simple rolling logger, implements io.WriteCloser. |
-| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-09T23:18:07Z | , etc). |
-| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-09T23:18:07Z |  Zero-allocation JSON logger. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-10T21:37:01Z | , etc). |
+| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-10T21:37:01Z |  Zero-allocation JSON logger. |
 | [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 506 | 2025-04-09T09:48:42Z |  Go package striving to emulate the features of the BSD tail program. |
 | [davecgh/go-spew](https://github.com/davecgh/go-spew) | 6k | 373 | 2025-04-08T19:32:08Z |  Implements a deep pretty printer for Go data structures to aid in debugging. |
 | [cihub/seelog](https://github.com/cihub/seelog) | 2k | 244 | 2025-04-03T02:15:09Z |  Logging functionality with flexible dispatching, filtering, and formatting. |
-| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | 958 | 226 | 2025-04-09T07:40:35Z |  Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring. |
+| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | 959 | 227 | 2025-04-10T09:07:15Z |  Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring. |
 | [inconshreveable/log15](https://github.com/inconshreveable/log15) | 1k | 147 | 2025-04-03T06:49:06Z |  Simple, powerful logging for Go. |
 | [apex/log](https://github.com/apex/log) | 1k | 114 | 2025-04-05T16:35:53Z |  Structured logging package for Go. |
 | [k0kubun/pp](https://github.com/k0kubun/pp) | 2k | 102 | 2025-04-08T14:54:59Z |  Colored pretty printer for Go language. |
@@ -100,17 +100,17 @@ Libraries for generating and working with log files.
 | [samber/slog-multi](https://github.com/samber/slog-multi) | 462 | 21 | 2025-04-06T10:35:41Z |  Chain of slog.Handler (pipeline, fanout...). |
 | [ian-kent/go-log](https://github.com/ian-kent/go-log) | 43 | 21 | 2024-06-13T21:18:10Z |  Log4j implementation in Go. |
 | [simukti/sqldb-logger](https://github.com/simukti/sqldb-logger) | 368 | 20 | 2025-04-08T16:58:31Z |  A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage. |
-| [siddontang/go-log](https://github.com/siddontang/go-log) | 35 | 19 | 2024-12-01T22:14:58Z |  Log lib supports level and multi handlers. |
-| [go-playground/log](https://github.com/go-playground/log) | 295 | 19 | 2025-04-03T02:18:05Z |  Simple, configurable and scalable Structured Logging for Go. |
 | [jbrodriguez/mlog](https://github.com/jbrodriguez/mlog) | 33 | 19 | 2024-11-21T20:26:17Z |  Simple logging module for go, with 5 levels, an optional rotating logfile feature and stdout/stderr output. |
-| [francoispqt/onelog](https://github.com/francoispqt/onelog) | 413 | 17 | 2025-03-04T10:14:41Z |  Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the lowest allocation. |
+| [go-playground/log](https://github.com/go-playground/log) | 295 | 19 | 2025-04-03T02:18:05Z |  Simple, configurable and scalable Structured Logging for Go. |
+| [siddontang/go-log](https://github.com/siddontang/go-log) | 35 | 19 | 2024-12-01T22:14:58Z |  Log lib supports level and multi handlers. |
 | [kpango/glg](https://github.com/kpango/glg) | 190 | 17 | 2025-03-20T04:13:17Z |  glg is simple and fast leveled logging library for Go. |
+| [francoispqt/onelog](https://github.com/francoispqt/onelog) | 413 | 17 | 2025-03-04T10:14:41Z |  Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the lowest allocation. |
 | [azer/logger](https://github.com/azer/logger) | 156 | 16 | 2025-02-17T13:10:09Z |  Minimalistic logging library for Go. |
 | [henvic/httpretty](https://github.com/henvic/httpretty) | 408 | 16 | 2025-03-29T05:46:27Z |  Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest). |
 | [chzyer/logex](https://github.com/chzyer/logex) | 43 | 13 | 2024-01-03T14:11:41Z |  Golang log lib, supports tracking and level, wrap by standard log lib. |
 | [rs/xlog](https://github.com/rs/xlog) | 138 | 12 | 2025-03-01T14:57:44Z |  Structured logger for `net/context` aware HTTP handlers with flexible dispatching. |
 | [gyozatech/noodlog](https://github.com/gyozatech/noodlog) | 43 | 9 | 2025-03-26T14:15:11Z |  Parametrized JSON logging library which lets you obfuscate sensitive data and marshal any kind of content. No more printed pointers instead of values, nor escape chars for the JSON strings. |
-| [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) | 441 | 9 | 2025-04-09T18:06:26Z |  A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods. |
+| [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) | 445 | 9 | 2025-04-10T22:20:40Z |  A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods. |
 | [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) | 56 | 8 | 2024-01-03T14:14:32Z |  Simple writer that rotate log files automatically based on current date and time, like cronolog. |
 | [amoghe/distillog](https://github.com/amoghe/distillog) | 31 | 7 | 2024-04-17T07:58:33Z |  distilled levelled logging (think of it as stdlib + log levels). |
 | [subchen/go-log](https://github.com/subchen/go-log) | 14 | 7 | 2023-04-28T08:50:54Z |  Simple and configurable Logging in Go, with level, formatters and writers. |
@@ -140,19 +140,19 @@ Libraries for generating and working with log files.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-09T23:18:07Z | , etc). |
-| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-09T23:18:07Z |  Zero-allocation JSON logger. |
-| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z |  Structured logger for Go. |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z | logger. |
-| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-09T23:02:48Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
-| [uber-go/zap](https://github.com/uber-go/zap) | 23k | 1k | 2025-04-09T21:30:28Z |  Fast, structured, leveled logging in Go. |
+| [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) | 445 | 9 | 2025-04-10T22:20:40Z |  A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods. |
+| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-10T21:37:01Z | , etc). |
+| [rs/zerolog](https://github.com/rs/zerolog) | 11k | 588 | 2025-04-10T21:37:01Z |  Zero-allocation JSON logger. |
+| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 943 | 2025-04-10T17:58:25Z | , great for CLI tools and applications. |
+| [uber-go/zap](https://github.com/uber-go/zap) | 23k | 1k | 2025-04-10T16:19:33Z |  Fast, structured, leveled logging in Go. |
+| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | 959 | 227 | 2025-04-10T09:07:15Z |  Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring. |
+| [Sirupsen/logrus](https://github.com/Sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z |  Structured logger for Go. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z | logger. |
+| [sirupsen/logrus](https://github.com/sirupsen/logrus) | 25k | 2k | 2025-04-10T09:06:10Z | plug-in to send errors to a [Loggly](https://www.loggly.com/). |
 | [samber/slog-formatter](https://github.com/samber/slog-formatter) | 166 | 4 | 2025-04-09T19:24:21Z |  Common formatters for slog and helpers to build your own. |
-| [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) | 441 | 9 | 2025-04-09T18:06:26Z |  A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods. |
 | [natefinch/lumberjack](https://github.com/natefinch/lumberjack) | 5k | 612 | 2025-04-09T16:45:35Z |  Simple rolling logger, implements io.WriteCloser. |
 | [lmittmann/tint](https://github.com/lmittmann/tint) | 920 | 48 | 2025-04-09T14:12:33Z |  A slog.Handler that writes tinted logs. |
 | [hpcloud/tail](https://github.com/hpcloud/tail) | 3k | 506 | 2025-04-09T09:48:42Z |  Go package striving to emulate the features of the BSD tail program. |
-| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | 958 | 226 | 2025-04-09T07:40:35Z |  Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring. |
-| [visionmedia/debug](https://github.com/visionmedia/debug) | 11k | 943 | 2025-04-09T06:57:58Z | , great for CLI tools and applications. |
 | [golang/glog](https://github.com/golang/glog) | 4k | 910 | 2025-04-09T02:18:40Z |  Leveled execution logs for Go. |
 | [davecgh/go-spew](https://github.com/davecgh/go-spew) | 6k | 373 | 2025-04-08T19:32:08Z |  Implements a deep pretty printer for Go data structures to aid in debugging. |
 | [simukti/sqldb-logger](https://github.com/simukti/sqldb-logger) | 368 | 20 | 2025-04-08T16:58:31Z |  A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage. |
