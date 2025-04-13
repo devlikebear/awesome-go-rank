@@ -6,7 +6,7 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-04-11T22:05:43Z |  Go (golang) package for representing a list of errors as a single error. |
+| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-04-12T22:53:55Z |  Go (golang) package for representing a list of errors as a single error. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 67 | 2025-04-11T04:43:00Z |  Go error library with error portability over the network. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 2k | 54 | 2025-04-11T16:55:13Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 30 | 2025-04-11T09:54:02Z |  A feature rich error package with stack traces, composition of errors and more. |
@@ -27,7 +27,7 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-04-11T22:05:43Z |  Go (golang) package for representing a list of errors as a single error. |
+| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-04-12T22:53:55Z |  Go (golang) package for representing a list of errors as a single error. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 67 | 2025-04-11T04:43:00Z |  Go error library with error portability over the network. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 2k | 54 | 2025-04-11T16:55:13Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-04-11T16:53:15Z |  Package for representing a list of errors as a single error. |
@@ -48,7 +48,7 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-04-11T22:05:43Z |  Go (golang) package for representing a list of errors as a single error. |
+| [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 129 | 2025-04-12T22:53:55Z |  Go (golang) package for representing a list of errors as a single error. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 2k | 54 | 2025-04-11T16:55:13Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [uber-go/multierr](https://github.com/uber-go/multierr) | 1k | 44 | 2025-04-11T16:53:15Z |  Package for representing a list of errors as a single error. |
 | [samber/oops](https://github.com/samber/oops) | 630 | 21 | 2025-04-11T10:48:53Z |  Error handling with context, stack trace and source fragments. |
