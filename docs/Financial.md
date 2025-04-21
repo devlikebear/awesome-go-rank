@@ -13,7 +13,7 @@ Packages for accounting and finance.
 | [formancehq/ledger](https://github.com/formancehq/ledger) | 952 | 112 | 2025-04-19T11:17:59Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 890 | 71 | 2025-04-08T21:02:14Z |  money and currency formatting for golang. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 858 | 148 | 2025-04-19T19:58:07Z |  Technical analysis library with advanced market analysis and trading strategies. |
-| [bojanz/currency](https://github.com/bojanz/currency) | 582 | 48 | 2025-03-29T01:35:21Z |  Handles currency amounts, provides currency information and formatting. |
+| [bojanz/currency](https://github.com/bojanz/currency) | 583 | 48 | 2025-04-20T08:40:51Z |  Handles currency amounts, provides currency information and formatting. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 483 | 162 | 2025-04-17T16:38:00Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 479 | 164 | 2025-04-15T06:17:49Z |  Matching Engine for Limit Order Book in Golang. |
 | [alpeb/go-finance](https://github.com/alpeb/go-finance) | 180 | 23 | 2025-04-06T02:07:24Z |  Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. |
@@ -45,7 +45,7 @@ Packages for accounting and finance.
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 858 | 148 | 2025-04-19T19:58:07Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [formancehq/ledger](https://github.com/formancehq/ledger) | 952 | 112 | 2025-04-19T11:17:59Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 890 | 71 | 2025-04-08T21:02:14Z |  money and currency formatting for golang. |
-| [bojanz/currency](https://github.com/bojanz/currency) | 582 | 48 | 2025-03-29T01:35:21Z |  Handles currency amounts, provides currency information and formatting. |
+| [bojanz/currency](https://github.com/bojanz/currency) | 583 | 48 | 2025-04-20T08:40:51Z |  Handles currency amounts, provides currency information and formatting. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 142 | 29 | 2025-03-15T18:23:10Z |  Query OFX servers and/or parse the responses (with example command-line client). |
 | [alpeb/go-finance](https://github.com/alpeb/go-finance) | 180 | 23 | 2025-04-06T02:07:24Z |  Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. |
 | [BoltApp/sleet](https://github.com/BoltApp/sleet) | 140 | 22 | 2025-01-09T15:20:24Z |  One unified interface for multiple Payment Service Providers (PsP) to process online payment. |
@@ -66,6 +66,7 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [bojanz/currency](https://github.com/bojanz/currency) | 583 | 48 | 2025-04-20T08:40:51Z |  Handles currency amounts, provides currency information and formatting. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 858 | 148 | 2025-04-19T19:58:07Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 154 | 2025-04-19T13:39:33Z |  Implementation of Fowler's Money pattern. |
 | [formancehq/ledger](https://github.com/formancehq/ledger) | 952 | 112 | 2025-04-19T11:17:59Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
@@ -81,7 +82,6 @@ Packages for accounting and finance.
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 890 | 71 | 2025-04-08T21:02:14Z |  money and currency formatting for golang. |
 | [alpeb/go-finance](https://github.com/alpeb/go-finance) | 180 | 23 | 2025-04-06T02:07:24Z |  Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. |
 | [govalues/money](https://github.com/govalues/money) | 34 | 6 | 2025-04-03T20:54:44Z |  Immutable monetary amounts and exchange rates with panic-free arithmetic. |
-| [bojanz/currency](https://github.com/bojanz/currency) | 582 | 48 | 2025-03-29T01:35:21Z |  Handles currency amounts, provides currency information and formatting. |
 | [claygod/transaction](https://github.com/claygod/transaction) | 134 | 16 | 2025-03-19T06:28:19Z |  Embedded transactional database of accounts, running in multithreaded mode. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 142 | 29 | 2025-03-15T18:23:10Z |  Query OFX servers and/or parse the responses (with example command-line client). |
 | [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 112 | 16 | 2025-02-19T12:40:56Z |  VAT number validation & EU VAT rates. |
