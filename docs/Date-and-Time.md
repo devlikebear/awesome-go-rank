@@ -6,8 +6,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 255 | 2025-04-25T09:28:25Z |  A simple, semantic and developer-friendly time package for golang. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 234 | 2025-04-25T00:48:15Z |  Now is a time toolkit for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 255 | 2025-04-26T02:12:18Z |  A simple, semantic and developer-friendly time package for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 234 | 2025-04-26T09:01:53Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 172 | 2025-04-25T15:13:55Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 785 | 55 | 2025-04-19T04:29:23Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 500 | 48 | 2025-04-20T13:26:18Z |  Time duration formatting library for Go. |
@@ -33,8 +33,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 255 | 2025-04-25T09:28:25Z |  A simple, semantic and developer-friendly time package for golang. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 234 | 2025-04-25T00:48:15Z |  Now is a time toolkit for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 255 | 2025-04-26T02:12:18Z |  A simple, semantic and developer-friendly time package for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 234 | 2025-04-26T09:01:53Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 172 | 2025-04-25T15:13:55Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 785 | 55 | 2025-04-19T04:29:23Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 500 | 48 | 2025-04-20T13:26:18Z |  Time duration formatting library for Go. |
@@ -60,11 +60,11 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 234 | 2025-04-26T09:01:53Z |  Now is a time toolkit for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 255 | 2025-04-26T02:12:18Z |  A simple, semantic and developer-friendly time package for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 172 | 2025-04-25T15:13:55Z |  Parse date's without knowing format in advance. |
 | [wlbr/feiertage](https://github.com/wlbr/feiertage) | 49 | 8 | 2025-04-25T11:19:23Z |  Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving... |
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 255 | 2025-04-25T09:28:25Z |  A simple, semantic and developer-friendly time package for golang. |
 | [rickb777/date](https://github.com/rickb777/date) | 138 | 24 | 2025-04-25T01:23:54Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 234 | 2025-04-25T00:48:15Z |  Now is a time toolkit for golang. |
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 13 | 1 | 2025-04-21T18:15:38Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 500 | 48 | 2025-04-20T13:26:18Z |  Time duration formatting library for Go. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 785 | 55 | 2025-04-19T04:29:23Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
