@@ -6,7 +6,7 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 525 | 2025-04-27T23:09:38Z |  PDF processor. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 525 | 2025-04-28T14:18:44Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 528 | 2025-04-27T11:06:40Z |  FileSystem Abstraction System for Go. |
 | [dundee/gdu](https://github.com/dundee/gdu) | 4k | 156 | 2025-04-27T23:58:34Z |  Disk usage analyzer with console interface. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 111 | 2025-04-27T15:02:20Z | . |
@@ -25,7 +25,7 @@ Libraries for handling files and file systems.
 | [qmuntal/opc](https://github.com/qmuntal/opc) | 75 | 8 | 2024-02-28T03:36:32Z |  Load Open Packaging Conventions (OPC) files for Go. |
 | [adelowo/gulter](https://github.com/adelowo/gulter) | 65 | 1 | 2025-04-10T16:28:52Z |  A simple HTTP middleware to automatically handle all your file upload needs |
 | [xis/baraka](https://github.com/xis/baraka) | 60 | 6 | 2025-02-14T12:17:31Z |  A library to process http file uploads easily. |
-| [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 47 | 23 | 2025-02-25T13:02:19Z |  Load gtfs files in go. |
+| [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 47 | 24 | 2025-02-25T13:02:19Z |  Load gtfs files in go. |
 | [homedepot/flop](https://github.com/homedepot/flop) | 34 | 11 | 2025-04-21T09:34:57Z |  File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html). |
 | [1set/gut](https://github.com/1set/gut) | 26 | 9 | 2025-02-09T20:57:45Z |  Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links. |
 | [dastoori/higgs](https://github.com/dastoori/higgs) | 24 | 4 | 2024-09-20T01:03:35Z |  A tiny cross-platform Go library to hide/unhide files and directories. |
@@ -37,7 +37,7 @@ Libraries for handling files and file systems.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 528 | 2025-04-27T11:06:40Z |  FileSystem Abstraction System for Go. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 525 | 2025-04-27T23:09:38Z |  PDF processor. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 525 | 2025-04-28T14:18:44Z |  PDF processor. |
 | [dundee/gdu](https://github.com/dundee/gdu) | 4k | 156 | 2025-04-27T23:58:34Z |  Disk usage analyzer with console interface. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 155 | 2025-04-25T22:47:55Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 917 | 130 | 2025-04-24T22:05:36Z |  File system event notification library with simple API, similar to os/signal. |
@@ -49,7 +49,7 @@ Libraries for handling files and file systems.
 | [viant/afs](https://github.com/viant/afs) | 326 | 37 | 2025-04-22T16:17:31Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 334 | 35 | 2025-04-25T06:54:08Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 125 | 33 | 2025-03-31T23:57:52Z |  Load csv file using tag. |
-| [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 47 | 23 | 2025-02-25T13:02:19Z |  Load gtfs files in go. |
+| [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 47 | 24 | 2025-02-25T13:02:19Z |  Load gtfs files in go. |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 110 | 16 | 2025-04-23T01:42:36Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 117 | 15 | 2025-04-17T14:01:09Z |  Read and write [parquet](https://parquet.apache.org) files. |
 | [homedepot/flop](https://github.com/homedepot/flop) | 34 | 11 | 2025-04-21T09:34:57Z |  File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html). |
@@ -66,8 +66,8 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 525 | 2025-04-28T14:18:44Z |  PDF processor. |
 | [dundee/gdu](https://github.com/dundee/gdu) | 4k | 156 | 2025-04-27T23:58:34Z |  Disk usage analyzer with console interface. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 7k | 525 | 2025-04-27T23:09:38Z |  PDF processor. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 111 | 2025-04-27T15:02:20Z | . |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 528 | 2025-04-27T11:06:40Z |  FileSystem Abstraction System for Go. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 155 | 2025-04-25T22:47:55Z |  A package to convert an HTML template to a PDF file. |
@@ -84,7 +84,7 @@ Libraries for handling files and file systems.
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 117 | 15 | 2025-04-17T14:01:09Z |  Read and write [parquet](https://parquet.apache.org) files. |
 | [adelowo/gulter](https://github.com/adelowo/gulter) | 65 | 1 | 2025-04-10T16:28:52Z |  A simple HTTP middleware to automatically handle all your file upload needs |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 125 | 33 | 2025-03-31T23:57:52Z |  Load csv file using tag. |
-| [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 47 | 23 | 2025-02-25T13:02:19Z |  Load gtfs files in go. |
+| [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 47 | 24 | 2025-02-25T13:02:19Z |  Load gtfs files in go. |
 | [xis/baraka](https://github.com/xis/baraka) | 60 | 6 | 2025-02-14T12:17:31Z |  A library to process http file uploads easily. |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 273 | 44 | 2025-02-12T06:37:53Z |  A package for reading and creating ISO9660 disk images |
 | [1set/gut](https://github.com/1set/gut) | 26 | 9 | 2025-02-09T20:57:45Z |  Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links. |
