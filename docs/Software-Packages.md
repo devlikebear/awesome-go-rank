@@ -6,49 +6,49 @@ Where to discover new Go libraries.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 115k | 40k | 2025-04-29T23:24:30Z |  Container Cluster Manager from Google. |
-| [moby/moby](https://github.com/moby/moby) | 70k | 19k | 2025-04-29T19:49:08Z |  Collaborative project for the container ecosystem to assemble container-based systems. |
-| [containous/traefik](https://github.com/containous/traefik) | 54k | 5k | 2025-04-29T21:48:38Z |  Reverse proxy and load balancer with support for multiple backends. |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 48k | 6k | 2025-04-29T20:49:29Z |  Fork of Gogs, entirely community driven. |
-| [kubernetes/minikube](https://github.com/kubernetes/minikube) | 30k | 5k | 2025-04-29T15:29:39Z |  Run Kubernetes locally. |
-| [schollz/croc](https://github.com/schollz/croc) | 30k | 1k | 2025-04-29T23:15:21Z |  Easily and securely send files or folders from one computer to another. |
-| [k3s-io/k3s](https://github.com/k3s-io/k3s) | 29k | 2k | 2025-04-29T15:30:05Z |  Lightweight Kubernetes. |
-| [restic/restic](https://github.com/restic/restic) | 28k | 2k | 2025-04-29T22:54:49Z |  De-duplicating backup program. |
-| [grafana/k6](https://github.com/grafana/k6) | 27k | 1k | 2025-04-29T22:58:01Z |  A modern load testing tool, using Go and JavaScript. |
-| [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) | 24k | 2k | 2025-04-29T23:02:04Z |  Fast, Simple and Scalable Distributed File System with O(1) disk seek. |
-| [tsenart/vegeta](https://github.com/tsenart/vegeta) | 24k | 1k | 2025-04-29T16:17:37Z |  HTTP load testing tool and library. It's over 9000! |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 115k | 40k | 2025-04-30T23:58:54Z |  Container Cluster Manager from Google. |
+| [moby/moby](https://github.com/moby/moby) | 70k | 19k | 2025-04-30T21:54:26Z |  Collaborative project for the container ecosystem to assemble container-based systems. |
+| [containous/traefik](https://github.com/containous/traefik) | 54k | 5k | 2025-04-30T21:05:51Z |  Reverse proxy and load balancer with support for multiple backends. |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 48k | 6k | 2025-04-30T22:14:08Z |  Fork of Gogs, entirely community driven. |
+| [kubernetes/minikube](https://github.com/kubernetes/minikube) | 30k | 5k | 2025-04-30T19:32:38Z |  Run Kubernetes locally. |
+| [schollz/croc](https://github.com/schollz/croc) | 30k | 1k | 2025-04-30T23:13:46Z |  Easily and securely send files or folders from one computer to another. |
+| [k3s-io/k3s](https://github.com/k3s-io/k3s) | 29k | 2k | 2025-04-30T19:52:36Z |  Lightweight Kubernetes. |
+| [restic/restic](https://github.com/restic/restic) | 28k | 2k | 2025-04-30T19:30:16Z |  De-duplicating backup program. |
+| [grafana/k6](https://github.com/grafana/k6) | 27k | 1k | 2025-04-30T15:11:19Z |  A modern load testing tool, using Go and JavaScript. |
+| [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) | 24k | 2k | 2025-04-30T22:23:34Z |  Fast, Simple and Scalable Distributed File System with O(1) disk seek. |
+| [tsenart/vegeta](https://github.com/tsenart/vegeta) | 24k | 1k | 2025-04-30T22:36:13Z |  HTTP load testing tool and library. It's over 9000! |
 | [buger/gor](https://github.com/buger/gor) | 19k | 55 | 2025-04-29T16:16:23Z |  Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time. |
-| [rakyll/hey](https://github.com/rakyll/hey) | 19k | 1k | 2025-04-29T22:58:27Z |  Hey is a tiny program that sends some load to a web application. |
-| [mitchellh/packer](https://github.com/mitchellh/packer) | 15k | 3k | 2025-04-29T16:21:26Z |  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. |
-| [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 14k | 2k | 2025-04-29T22:53:22Z |  Kubernetes IN Docker - local clusters for testing Kubernetes. |
-| [juicedata/juicefs](https://github.com/juicedata/juicefs) | 12k | 1k | 2025-04-29T14:36:52Z |  Distributed POSIX file system built on top of Redis and AWS S3. |
-| [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | 11k | 491 | 2025-04-29T07:12:24Z |  API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes. |
-| [shopify/toxiproxy](https://github.com/shopify/toxiproxy) | 11k | 462 | 2025-04-29T07:02:56Z |  Proxy to simulate network and system conditions for automated tests. |
-| [moovweb/gvm](https://github.com/moovweb/gvm) | 11k | 564 | 2025-04-29T11:17:25Z |  GVM provides an interface to manage Go versions. |
-| [tylertreat/Comcast](https://github.com/tylertreat/Comcast) | 10k | 385 | 2025-04-29T19:17:10Z |  Simulate bad network connections. |
-| [flannel-io/flannel](https://github.com/flannel-io/flannel) | 9k | 3k | 2025-04-29T19:29:10Z |  Flannel is a network fabric for containers, designed for Kubernetes. |
+| [rakyll/hey](https://github.com/rakyll/hey) | 19k | 1k | 2025-04-30T17:30:22Z |  Hey is a tiny program that sends some load to a web application. |
+| [mitchellh/packer](https://github.com/mitchellh/packer) | 15k | 3k | 2025-04-30T10:48:20Z |  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. |
+| [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 14k | 2k | 2025-04-30T15:44:25Z |  Kubernetes IN Docker - local clusters for testing Kubernetes. |
+| [juicedata/juicefs](https://github.com/juicedata/juicefs) | 12k | 1k | 2025-04-30T22:23:35Z |  Distributed POSIX file system built on top of Redis and AWS S3. |
+| [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | 11k | 491 | 2025-04-30T02:39:15Z |  API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes. |
+| [shopify/toxiproxy](https://github.com/shopify/toxiproxy) | 11k | 462 | 2025-04-30T17:27:25Z |  Proxy to simulate network and system conditions for automated tests. |
+| [moovweb/gvm](https://github.com/moovweb/gvm) | 11k | 564 | 2025-04-30T03:48:13Z |  GVM provides an interface to manage Go versions. |
+| [tylertreat/Comcast](https://github.com/tylertreat/Comcast) | 10k | 385 | 2025-04-30T16:49:50Z |  Simulate bad network connections. |
+| [flannel-io/flannel](https://github.com/flannel-io/flannel) | 9k | 3k | 2025-04-30T15:44:17Z |  Flannel is a network fabric for containers, designed for Kubernetes. |
 | [ddosify/ddosify](https://github.com/ddosify/ddosify) | 8k | 384 | 2025-04-23T13:31:36Z |  High-performance load testing tool, written in Golang. |
 | [kelseyhightower/confd](https://github.com/kelseyhightower/confd) | 8k | 1k | 2025-04-29T17:50:35Z |  Manage local application configuration files using templates and data from etcd or consul. |
-| [google/ko](https://github.com/google/ko) | 8k | 416 | 2025-04-29T23:59:52Z |  Command line tool for building and deploying Go applications on Kubernetes |
+| [google/ko](https://github.com/google/ko) | 8k | 416 | 2025-04-30T12:59:48Z |  Command line tool for building and deploying Go applications on Kubernetes |
 | [visualfc/liteide](https://github.com/visualfc/liteide) | 8k | 975 | 2025-04-29T15:29:09Z |  LiteIDE is a simple, open source, cross-platform Go IDE. |
-| [boyter/scc](https://github.com/boyter/scc) | 7k | 278 | 2025-04-29T08:10:48Z |  Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates. |
+| [boyter/scc](https://github.com/boyter/scc) | 7k | 278 | 2025-04-30T08:48:05Z |  Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates. |
 | [odeke-em/drive](https://github.com/odeke-em/drive) | 7k | 429 | 2025-04-29T18:23:42Z |  Google Drive client for the commandline. |
-| [kubevela/kubevela](https://github.com/kubevela/kubevela) | 7k | 929 | 2025-04-29T03:36:35Z |  Cloud native application delivery. |
-| [bitfield/script](https://github.com/bitfield/script) | 7k | 334 | 2025-04-29T20:26:50Z |  Making it easy to write shell-like scripts in Go for DevOps and system administration tasks. |
-| [codesenberg/bombardier](https://github.com/codesenberg/bombardier) | 6k | 324 | 2025-04-29T16:16:18Z |  Fast cross-platform HTTP benchmarking tool. |
-| [k3d-io/k3d](https://github.com/k3d-io/k3d) | 6k | 481 | 2025-04-29T15:19:21Z |  Little helper to run CNCF's k3s in Docker. |
-| [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) | 6k | 2k | 2025-04-29T18:25:42Z |  Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops. |
-| [fogleman/nes](https://github.com/fogleman/nes) | 6k | 525 | 2025-04-29T07:35:59Z |  Nintendo Entertainment System (NES) emulator written in Go. |
-| [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) | 5k | 343 | 2025-04-28T22:04:16Z |  A cross-platform network and cloud backup tool based on the idea of lock-free deduplication. |
-| [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 5k | 235 | 2025-04-29T12:27:41Z |  Fast and lightweight DNS proxy as ad-blocker for local network with many features. |
+| [kubevela/kubevela](https://github.com/kubevela/kubevela) | 7k | 929 | 2025-04-30T08:43:31Z |  Cloud native application delivery. |
+| [bitfield/script](https://github.com/bitfield/script) | 7k | 334 | 2025-04-30T16:58:06Z |  Making it easy to write shell-like scripts in Go for DevOps and system administration tasks. |
+| [codesenberg/bombardier](https://github.com/codesenberg/bombardier) | 6k | 324 | 2025-04-30T23:08:29Z |  Fast cross-platform HTTP benchmarking tool. |
+| [k3d-io/k3d](https://github.com/k3d-io/k3d) | 6k | 481 | 2025-04-30T18:07:22Z |  Little helper to run CNCF's k3s in Docker. |
+| [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) | 6k | 2k | 2025-04-30T14:07:51Z |  Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops. |
+| [fogleman/nes](https://github.com/fogleman/nes) | 6k | 525 | 2025-04-30T10:34:00Z |  Nintendo Entertainment System (NES) emulator written in Go. |
+| [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) | 5k | 343 | 2025-04-30T21:04:41Z |  A cross-platform network and cloud backup tool based on the idea of lock-free deduplication. |
+| [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 5k | 235 | 2025-04-30T17:27:41Z |  Fast and lightweight DNS proxy as ad-blocker for local network with many features. |
 | [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) | 5k | 243 | 2025-04-25T08:56:12Z |  Build powerful pipelines in any programming language. |
-| [fleetdm/fleet](https://github.com/fleetdm/fleet) | 5k | 558 | 2025-04-29T22:53:57Z |  Lightweight, programmable telemetry for servers and workstations. |
-| [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4k | 293 | 2025-04-29T16:13:23Z |  Pomerium is an identity-aware access proxy. |
-| [taubyte/tau](https://github.com/taubyte/tau) | 4k | 120 | 2025-04-29T21:12:12Z |  Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. |
+| [fleetdm/fleet](https://github.com/fleetdm/fleet) | 5k | 558 | 2025-04-30T22:53:58Z |  Lightweight, programmable telemetry for servers and workstations. |
+| [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4k | 293 | 2025-04-30T13:05:40Z |  Pomerium is an identity-aware access proxy. |
+| [taubyte/tau](https://github.com/taubyte/tau) | 4k | 120 | 2025-04-30T16:26:18Z |  Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. |
 | [bosun-monitor/bosun](https://github.com/bosun-monitor/bosun) | 3k | 492 | 2025-04-22T06:31:39Z |  Time Series Alerting Framework. |
 | [peak/s5cmd](https://github.com/peak/s5cmd) | 3k | 259 | 2025-04-29T06:58:45Z |  Blazing fast S3 and local filesystem execution tool. |
 | [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) | 3k | 234 | 2025-04-27T21:20:10Z |  Command Line Network Diagnostic tool written in Go. |
-| [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) | 3k | 207 | 2025-04-29T07:19:45Z |  KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. |
+| [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) | 3k | 207 | 2025-04-30T14:18:07Z |  KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. |
 | [aptly-dev/aptly](https://github.com/aptly-dev/aptly) | 3k | 382 | 2025-04-29T11:09:24Z |  aptly is a Debian repository management tool. |
 | [Humpheh/goboy](https://github.com/Humpheh/goboy) | 3k | 123 | 2025-04-25T03:11:18Z |  Nintendo Game Boy Color emulator written in Go. |
 | [pressly/sup](https://github.com/pressly/sup) | 2k | 178 | 2025-04-16T08:04:33Z |  Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers. |
@@ -57,28 +57,28 @@ Where to discover new Go libraries.
 | [ajvb/kala](https://github.com/ajvb/kala) | 2k | 188 | 2025-04-29T01:51:54Z |  Simplistic, modern, and performant job scheduler. |
 | [go-sonic/sonic](https://github.com/go-sonic/sonic) | 2k | 254 | 2025-04-29T12:11:16Z |  Sonic is a Go Blogging Platform. Simple and Powerful. |
 | [gocircuit/circuit](https://github.com/gocircuit/circuit) | 2k | 154 | 2025-04-11T10:02:44Z |  Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications. |
-| [Forceu/gokapi](https://github.com/Forceu/gokapi) | 2k | 78 | 2025-04-28T11:12:37Z |  Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload. |
-| [mkchoi212/fac](https://github.com/mkchoi212/fac) | 2k | 50 | 2025-04-28T00:07:43Z |  Command-line user interface to fix git merge conflicts. |
-| [gabrie30/ghorg](https://github.com/gabrie30/ghorg) | 2k | 175 | 2025-04-28T23:42:13Z |  Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket. |
+| [Forceu/gokapi](https://github.com/Forceu/gokapi) | 2k | 78 | 2025-04-30T19:48:37Z |  Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload. |
+| [mkchoi212/fac](https://github.com/mkchoi212/fac) | 2k | 50 | 2025-04-30T07:06:20Z |  Command-line user interface to fix git merge conflicts. |
+| [gabrie30/ghorg](https://github.com/gabrie30/ghorg) | 2k | 175 | 2025-04-30T22:08:52Z |  Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket. |
 | [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) | 2k | 46 | 2025-04-28T06:24:59Z |  Portal is a quick and easy command-line file transfer utility from any computer to another. |
 | [sanathp/statusok](https://github.com/sanathp/statusok) | 2k | 198 | 2025-04-18T12:00:22Z |  Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected. |
 | [crufter/borg](https://github.com/crufter/borg) | 2k | 57 | 2025-04-26T04:52:26Z |  Terminal based search engine for bash snippets. |
 | [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) | 2k | 181 | 2025-04-29T09:39:42Z |  Enable your Go applications to self update. |
-| [root-gg/plik](https://github.com/root-gg/plik) | 2k | 169 | 2025-04-28T15:20:51Z |  Plik is a temporary file upload system (Wetransfer like) in Go. |
-| [yusufcanb/tlm](https://github.com/yusufcanb/tlm) | 1k | 48 | 2025-04-26T18:58:39Z |  Local cli copilot, powered by CodeLLaMa |
-| [msoap/shell2http](https://github.com/msoap/shell2http) | 1k | 139 | 2025-04-26T00:39:05Z |  Executing shell commands via http server (for prototyping or remote control). |
-| [ovh/utask](https://github.com/ovh/utask) | 1k | 87 | 2025-04-27T06:36:04Z |  Automation engine that models and executes business processes declared in yaml. |
-| [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) | 1k | 166 | 2025-04-28T18:40:42Z |  A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications. |
+| [root-gg/plik](https://github.com/root-gg/plik) | 2k | 169 | 2025-04-30T03:03:43Z |  Plik is a temporary file upload system (Wetransfer like) in Go. |
+| [yusufcanb/tlm](https://github.com/yusufcanb/tlm) | 1k | 48 | 2025-04-30T23:01:36Z |  Local cli copilot, powered by CodeLLaMa |
+| [msoap/shell2http](https://github.com/msoap/shell2http) | 1k | 139 | 2025-04-30T00:37:59Z |  Executing shell commands via http server (for prototyping or remote control). |
+| [ovh/utask](https://github.com/ovh/utask) | 1k | 87 | 2025-04-30T18:09:28Z |  Automation engine that models and executes business processes declared in yaml. |
+| [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) | 1k | 166 | 2025-04-30T07:45:59Z |  A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications. |
 | [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r) | 1k | 181 | 2025-03-08T16:02:08Z |  Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3. |
 | [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) | 1k | 62 | 2025-04-29T14:17:05Z |  KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network. |
 | [VerizonDigital/vflow](https://github.com/VerizonDigital/vflow) | 1k | 230 | 2025-04-29T12:56:49Z |  High-performance, scalable and reliable IPFIX, sFlow and Netflow collector. |
-| [KusionStack/kusion](https://github.com/KusionStack/kusion) | 1k | 89 | 2025-04-28T18:46:27Z |  A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach. |
+| [KusionStack/kusion](https://github.com/KusionStack/kusion) | 1k | 89 | 2025-04-30T00:16:59Z |  A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach. |
 | [pointlander/peg](https://github.com/pointlander/peg) | 1k | 122 | 2025-04-22T01:59:51Z |  Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator. |
 | [abahmed/kwatch](https://github.com/abahmed/kwatch) | 972 | 75 | 2025-04-25T22:10:19Z |  Monitor & detect crashes in your Kubernetes(K8s) cluster instantly. |
 | [TimothyYe/skm](https://github.com/TimothyYe/skm) | 972 | 51 | 2025-04-20T12:07:17Z |  SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily! |
-| [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) | 913 | 152 | 2025-04-29T13:49:30Z |  Manage BareMetal Servers from Command Line (as easily as with Docker). |
+| [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) | 913 | 152 | 2025-04-30T13:01:52Z |  Manage BareMetal Servers from Command Line (as easily as with Docker). |
 | [shurcooL/Go-Package-Store](https://github.com/shurcooL/Go-Package-Store) | 897 | 28 | 2025-04-17T02:20:43Z |  App that displays updates for the Go packages in your GOPATH. |
-| [janpfeifer/gonb](https://github.com/janpfeifer/gonb) | 837 | 43 | 2025-04-27T23:47:49Z |  Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab). |
+| [janpfeifer/gonb](https://github.com/janpfeifer/gonb) | 839 | 43 | 2025-04-30T15:01:55Z |  Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab). |
 | [rogerwelin/cassowary](https://github.com/rogerwelin/cassowary) | 793 | 37 | 2025-04-29T13:14:13Z |  Modern cross-platform HTTP load-testing tool written in Go. |
 | [ekkinox/yai](https://github.com/ekkinox/yai) | 783 | 47 | 2025-04-29T16:29:57Z |  AI powered terminal assistant. |
 | [jeffail/leaps](https://github.com/jeffail/leaps) | 754 | 55 | 2025-03-07T20:03:07Z |  Pair programming service using Operational Transforms. |
@@ -98,7 +98,7 @@ Where to discover new Go libraries.
 | [bengadbois/pewpew](https://github.com/bengadbois/pewpew) | 430 | 38 | 2025-04-28T10:27:21Z |  Flexible HTTP command line stress tester. |
 | [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) | 403 | 77 | 2025-04-11T07:30:43Z |  Jenkins CLI allows you manage your Jenkins as an easy way. |
 | [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) | 392 | 28 | 2025-04-28T13:04:40Z |  Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash. |
-| [edwingeng/hotswap](https://github.com/edwingeng/hotswap) | 390 | 44 | 2025-04-27T02:03:48Z |  A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure. |
+| [edwingeng/hotswap](https://github.com/edwingeng/hotswap) | 391 | 44 | 2025-04-30T07:21:23Z |  A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure. |
 | [thestrukture/ide](https://github.com/thestrukture/ide) | 360 | 20 | 2024-12-16T19:42:55Z |  Browser accessible IDE. Designed for Go with Go. |
 | [oxyno-zeta/s3-proxy](https://github.com/oxyno-zeta/s3-proxy) | 345 | 38 | 2025-04-29T15:57:50Z |  S3 Proxy with GET, PUT and DELETE methods and authentication (OpenID Connect and Basic Auth). |
 | [ivanilves/lstags](https://github.com/ivanilves/lstags) | 338 | 26 | 2025-03-30T05:03:02Z |  Tool and API to sync Docker images across different registries. |
@@ -111,11 +111,11 @@ Where to discover new Go libraries.
 | [wellington/wellington](https://github.com/wellington/wellington) | 302 | 15 | 2025-03-27T23:16:54Z |  Sass project management tool, extends the language with sprite functions (like Compass). |
 | [rafael-santiago/cherry](https://github.com/rafael-santiago/cherry) | 301 | 41 | 2025-01-01T13:40:26Z |  Tiny webchat server in Go. |
 | [xwjdsh/manssh](https://github.com/xwjdsh/manssh) | 299 | 27 | 2024-12-18T15:42:05Z |  manssh is a command line tool for managing your ssh alias config easily. |
-| [s0rg/crawley](https://github.com/s0rg/crawley) | 293 | 16 | 2025-04-26T13:52:02Z |  Web scraper/crawler for cli. |
+| [s0rg/crawley](https://github.com/s0rg/crawley) | 295 | 16 | 2025-04-30T16:27:54Z |  Web scraper/crawler for cli. |
 | [dikhan/terraform-provider-openapi](https://github.com/dikhan/terraform-provider-openapi) | 277 | 48 | 2025-04-23T02:53:27Z |  Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed. |
 | [liudng/dogo](https://github.com/liudng/dogo) | 273 | 46 | 2025-04-11T10:06:48Z |  Monitoring changes in the source file and automatically compile and run (restart). |
 | [mehrdadrad/tcpdog](https://github.com/mehrdadrad/tcpdog) | 259 | 22 | 2025-04-29T17:26:26Z |  eBPF based TCP observability. |
-| [marwanhawari/stew](https://github.com/marwanhawari/stew) | 251 | 14 | 2025-04-28T15:22:31Z |  An independent package manager for compiled binaries. |
+| [marwanhawari/stew](https://github.com/marwanhawari/stew) | 253 | 14 | 2025-04-30T07:53:44Z |  An independent package manager for compiled binaries. |
 | [sirnewton01/godbg](https://github.com/sirnewton01/godbg) | 228 | 26 | 2024-09-18T09:23:02Z |  Web-based gdb front-end application. |
 | [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) | 223 | 17 | 2025-04-23T02:51:18Z |  abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs. |
 | [dave/blast](https://github.com/dave/blast) | 220 | 13 | 2025-04-23T02:51:42Z |  A simple tool for API load testing and batch jobs. |
@@ -157,71 +157,71 @@ Where to discover new Go libraries.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 115k | 40k | 2025-04-29T23:24:30Z |  Container Cluster Manager from Google. |
-| [moby/moby](https://github.com/moby/moby) | 70k | 19k | 2025-04-29T19:49:08Z |  Collaborative project for the container ecosystem to assemble container-based systems. |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 48k | 6k | 2025-04-29T20:49:29Z |  Fork of Gogs, entirely community driven. |
-| [containous/traefik](https://github.com/containous/traefik) | 54k | 5k | 2025-04-29T21:48:38Z |  Reverse proxy and load balancer with support for multiple backends. |
-| [kubernetes/minikube](https://github.com/kubernetes/minikube) | 30k | 5k | 2025-04-29T15:29:39Z |  Run Kubernetes locally. |
-| [mitchellh/packer](https://github.com/mitchellh/packer) | 15k | 3k | 2025-04-29T16:21:26Z |  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. |
-| [flannel-io/flannel](https://github.com/flannel-io/flannel) | 9k | 3k | 2025-04-29T19:29:10Z |  Flannel is a network fabric for containers, designed for Kubernetes. |
-| [k3s-io/k3s](https://github.com/k3s-io/k3s) | 29k | 2k | 2025-04-29T15:30:05Z |  Lightweight Kubernetes. |
-| [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) | 24k | 2k | 2025-04-29T23:02:04Z |  Fast, Simple and Scalable Distributed File System with O(1) disk seek. |
-| [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) | 6k | 2k | 2025-04-29T18:25:42Z |  Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops. |
-| [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 14k | 2k | 2025-04-29T22:53:22Z |  Kubernetes IN Docker - local clusters for testing Kubernetes. |
-| [restic/restic](https://github.com/restic/restic) | 28k | 2k | 2025-04-29T22:54:49Z |  De-duplicating backup program. |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 115k | 40k | 2025-04-30T23:58:54Z |  Container Cluster Manager from Google. |
+| [moby/moby](https://github.com/moby/moby) | 70k | 19k | 2025-04-30T21:54:26Z |  Collaborative project for the container ecosystem to assemble container-based systems. |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 48k | 6k | 2025-04-30T22:14:08Z |  Fork of Gogs, entirely community driven. |
+| [containous/traefik](https://github.com/containous/traefik) | 54k | 5k | 2025-04-30T21:05:51Z |  Reverse proxy and load balancer with support for multiple backends. |
+| [kubernetes/minikube](https://github.com/kubernetes/minikube) | 30k | 5k | 2025-04-30T19:32:38Z |  Run Kubernetes locally. |
+| [mitchellh/packer](https://github.com/mitchellh/packer) | 15k | 3k | 2025-04-30T10:48:20Z |  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. |
+| [flannel-io/flannel](https://github.com/flannel-io/flannel) | 9k | 3k | 2025-04-30T15:44:17Z |  Flannel is a network fabric for containers, designed for Kubernetes. |
+| [k3s-io/k3s](https://github.com/k3s-io/k3s) | 29k | 2k | 2025-04-30T19:52:36Z |  Lightweight Kubernetes. |
+| [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) | 24k | 2k | 2025-04-30T22:23:34Z |  Fast, Simple and Scalable Distributed File System with O(1) disk seek. |
+| [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) | 6k | 2k | 2025-04-30T14:07:51Z |  Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops. |
+| [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 14k | 2k | 2025-04-30T15:44:25Z |  Kubernetes IN Docker - local clusters for testing Kubernetes. |
+| [restic/restic](https://github.com/restic/restic) | 28k | 2k | 2025-04-30T19:30:16Z |  De-duplicating backup program. |
 | [kelseyhightower/confd](https://github.com/kelseyhightower/confd) | 8k | 1k | 2025-04-29T17:50:35Z |  Manage local application configuration files using templates and data from etcd or consul. |
-| [tsenart/vegeta](https://github.com/tsenart/vegeta) | 24k | 1k | 2025-04-29T16:17:37Z |  HTTP load testing tool and library. It's over 9000! |
-| [grafana/k6](https://github.com/grafana/k6) | 27k | 1k | 2025-04-29T22:58:01Z |  A modern load testing tool, using Go and JavaScript. |
-| [rakyll/hey](https://github.com/rakyll/hey) | 19k | 1k | 2025-04-29T22:58:27Z |  Hey is a tiny program that sends some load to a web application. |
-| [schollz/croc](https://github.com/schollz/croc) | 30k | 1k | 2025-04-29T23:15:21Z |  Easily and securely send files or folders from one computer to another. |
-| [juicedata/juicefs](https://github.com/juicedata/juicefs) | 12k | 1k | 2025-04-29T14:36:52Z |  Distributed POSIX file system built on top of Redis and AWS S3. |
+| [tsenart/vegeta](https://github.com/tsenart/vegeta) | 24k | 1k | 2025-04-30T22:36:13Z |  HTTP load testing tool and library. It's over 9000! |
+| [grafana/k6](https://github.com/grafana/k6) | 27k | 1k | 2025-04-30T15:11:19Z |  A modern load testing tool, using Go and JavaScript. |
+| [rakyll/hey](https://github.com/rakyll/hey) | 19k | 1k | 2025-04-30T17:30:22Z |  Hey is a tiny program that sends some load to a web application. |
+| [schollz/croc](https://github.com/schollz/croc) | 30k | 1k | 2025-04-30T23:13:46Z |  Easily and securely send files or folders from one computer to another. |
+| [juicedata/juicefs](https://github.com/juicedata/juicefs) | 12k | 1k | 2025-04-30T22:23:35Z |  Distributed POSIX file system built on top of Redis and AWS S3. |
 | [visualfc/liteide](https://github.com/visualfc/liteide) | 8k | 975 | 2025-04-29T15:29:09Z |  LiteIDE is a simple, open source, cross-platform Go IDE. |
-| [kubevela/kubevela](https://github.com/kubevela/kubevela) | 7k | 929 | 2025-04-29T03:36:35Z |  Cloud native application delivery. |
-| [moovweb/gvm](https://github.com/moovweb/gvm) | 11k | 564 | 2025-04-29T11:17:25Z |  GVM provides an interface to manage Go versions. |
-| [fleetdm/fleet](https://github.com/fleetdm/fleet) | 5k | 558 | 2025-04-29T22:53:57Z |  Lightweight, programmable telemetry for servers and workstations. |
-| [fogleman/nes](https://github.com/fogleman/nes) | 6k | 525 | 2025-04-29T07:35:59Z |  Nintendo Entertainment System (NES) emulator written in Go. |
+| [kubevela/kubevela](https://github.com/kubevela/kubevela) | 7k | 929 | 2025-04-30T08:43:31Z |  Cloud native application delivery. |
+| [moovweb/gvm](https://github.com/moovweb/gvm) | 11k | 564 | 2025-04-30T03:48:13Z |  GVM provides an interface to manage Go versions. |
+| [fleetdm/fleet](https://github.com/fleetdm/fleet) | 5k | 558 | 2025-04-30T22:53:58Z |  Lightweight, programmable telemetry for servers and workstations. |
+| [fogleman/nes](https://github.com/fogleman/nes) | 6k | 525 | 2025-04-30T10:34:00Z |  Nintendo Entertainment System (NES) emulator written in Go. |
 | [bosun-monitor/bosun](https://github.com/bosun-monitor/bosun) | 3k | 492 | 2025-04-22T06:31:39Z |  Time Series Alerting Framework. |
-| [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | 11k | 491 | 2025-04-29T07:12:24Z |  API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes. |
-| [k3d-io/k3d](https://github.com/k3d-io/k3d) | 6k | 481 | 2025-04-29T15:19:21Z |  Little helper to run CNCF's k3s in Docker. |
-| [shopify/toxiproxy](https://github.com/shopify/toxiproxy) | 11k | 462 | 2025-04-29T07:02:56Z |  Proxy to simulate network and system conditions for automated tests. |
+| [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | 11k | 491 | 2025-04-30T02:39:15Z |  API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes. |
+| [k3d-io/k3d](https://github.com/k3d-io/k3d) | 6k | 481 | 2025-04-30T18:07:22Z |  Little helper to run CNCF's k3s in Docker. |
+| [shopify/toxiproxy](https://github.com/shopify/toxiproxy) | 11k | 462 | 2025-04-30T17:27:25Z |  Proxy to simulate network and system conditions for automated tests. |
 | [odeke-em/drive](https://github.com/odeke-em/drive) | 7k | 429 | 2025-04-29T18:23:42Z |  Google Drive client for the commandline. |
-| [google/ko](https://github.com/google/ko) | 8k | 416 | 2025-04-29T23:59:52Z |  Command line tool for building and deploying Go applications on Kubernetes |
-| [tylertreat/Comcast](https://github.com/tylertreat/Comcast) | 10k | 385 | 2025-04-29T19:17:10Z |  Simulate bad network connections. |
+| [google/ko](https://github.com/google/ko) | 8k | 416 | 2025-04-30T12:59:48Z |  Command line tool for building and deploying Go applications on Kubernetes |
+| [tylertreat/Comcast](https://github.com/tylertreat/Comcast) | 10k | 385 | 2025-04-30T16:49:50Z |  Simulate bad network connections. |
 | [ddosify/ddosify](https://github.com/ddosify/ddosify) | 8k | 384 | 2025-04-23T13:31:36Z |  High-performance load testing tool, written in Golang. |
 | [aptly-dev/aptly](https://github.com/aptly-dev/aptly) | 3k | 382 | 2025-04-29T11:09:24Z |  aptly is a Debian repository management tool. |
-| [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) | 5k | 343 | 2025-04-28T22:04:16Z |  A cross-platform network and cloud backup tool based on the idea of lock-free deduplication. |
-| [bitfield/script](https://github.com/bitfield/script) | 7k | 334 | 2025-04-29T20:26:50Z |  Making it easy to write shell-like scripts in Go for DevOps and system administration tasks. |
-| [codesenberg/bombardier](https://github.com/codesenberg/bombardier) | 6k | 324 | 2025-04-29T16:16:18Z |  Fast cross-platform HTTP benchmarking tool. |
-| [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4k | 293 | 2025-04-29T16:13:23Z |  Pomerium is an identity-aware access proxy. |
-| [boyter/scc](https://github.com/boyter/scc) | 7k | 278 | 2025-04-29T08:10:48Z |  Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates. |
+| [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) | 5k | 343 | 2025-04-30T21:04:41Z |  A cross-platform network and cloud backup tool based on the idea of lock-free deduplication. |
+| [bitfield/script](https://github.com/bitfield/script) | 7k | 334 | 2025-04-30T16:58:06Z |  Making it easy to write shell-like scripts in Go for DevOps and system administration tasks. |
+| [codesenberg/bombardier](https://github.com/codesenberg/bombardier) | 6k | 324 | 2025-04-30T23:08:29Z |  Fast cross-platform HTTP benchmarking tool. |
+| [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4k | 293 | 2025-04-30T13:05:40Z |  Pomerium is an identity-aware access proxy. |
+| [boyter/scc](https://github.com/boyter/scc) | 7k | 278 | 2025-04-30T08:48:05Z |  Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates. |
 | [peak/s5cmd](https://github.com/peak/s5cmd) | 3k | 259 | 2025-04-29T06:58:45Z |  Blazing fast S3 and local filesystem execution tool. |
 | [go-sonic/sonic](https://github.com/go-sonic/sonic) | 2k | 254 | 2025-04-29T12:11:16Z |  Sonic is a Go Blogging Platform. Simple and Powerful. |
 | [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) | 5k | 243 | 2025-04-25T08:56:12Z |  Build powerful pipelines in any programming language. |
-| [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 5k | 235 | 2025-04-29T12:27:41Z |  Fast and lightweight DNS proxy as ad-blocker for local network with many features. |
+| [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 5k | 235 | 2025-04-30T17:27:41Z |  Fast and lightweight DNS proxy as ad-blocker for local network with many features. |
 | [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) | 3k | 234 | 2025-04-27T21:20:10Z |  Command Line Network Diagnostic tool written in Go. |
 | [VerizonDigital/vflow](https://github.com/VerizonDigital/vflow) | 1k | 230 | 2025-04-29T12:56:49Z |  High-performance, scalable and reliable IPFIX, sFlow and Netflow collector. |
 | [documize/community](https://github.com/documize/community) | 2k | 220 | 2025-04-26T21:31:31Z |  Modern wiki software that integrates data from SaaS tools. |
-| [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) | 3k | 207 | 2025-04-29T07:19:45Z |  KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. |
+| [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) | 3k | 207 | 2025-04-30T14:18:07Z |  KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. |
 | [sanathp/statusok](https://github.com/sanathp/statusok) | 2k | 198 | 2025-04-18T12:00:22Z |  Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected. |
 | [ajvb/kala](https://github.com/ajvb/kala) | 2k | 188 | 2025-04-29T01:51:54Z |  Simplistic, modern, and performant job scheduler. |
 | [rlmcpherson/s3gof3r](https://github.com/rlmcpherson/s3gof3r) | 1k | 181 | 2025-03-08T16:02:08Z |  Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3. |
 | [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) | 2k | 181 | 2025-04-29T09:39:42Z |  Enable your Go applications to self update. |
 | [pressly/sup](https://github.com/pressly/sup) | 2k | 178 | 2025-04-16T08:04:33Z |  Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers. |
-| [gabrie30/ghorg](https://github.com/gabrie30/ghorg) | 2k | 175 | 2025-04-28T23:42:13Z |  Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket. |
-| [root-gg/plik](https://github.com/root-gg/plik) | 2k | 169 | 2025-04-28T15:20:51Z |  Plik is a temporary file upload system (Wetransfer like) in Go. |
-| [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) | 1k | 166 | 2025-04-28T18:40:42Z |  A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications. |
+| [gabrie30/ghorg](https://github.com/gabrie30/ghorg) | 2k | 175 | 2025-04-30T22:08:52Z |  Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket. |
+| [root-gg/plik](https://github.com/root-gg/plik) | 2k | 169 | 2025-04-30T03:03:43Z |  Plik is a temporary file upload system (Wetransfer like) in Go. |
+| [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) | 1k | 166 | 2025-04-30T07:45:59Z |  A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications. |
 | [gocircuit/circuit](https://github.com/gocircuit/circuit) | 2k | 154 | 2025-04-11T10:02:44Z |  Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications. |
-| [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) | 913 | 152 | 2025-04-29T13:49:30Z |  Manage BareMetal Servers from Command Line (as easily as with Docker). |
-| [msoap/shell2http](https://github.com/msoap/shell2http) | 1k | 139 | 2025-04-26T00:39:05Z |  Executing shell commands via http server (for prototyping or remote control). |
+| [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) | 913 | 152 | 2025-04-30T13:01:52Z |  Manage BareMetal Servers from Command Line (as easily as with Docker). |
+| [msoap/shell2http](https://github.com/msoap/shell2http) | 1k | 139 | 2025-04-30T00:37:59Z |  Executing shell commands via http server (for prototyping or remote control). |
 | [Humpheh/goboy](https://github.com/Humpheh/goboy) | 3k | 123 | 2025-04-25T03:11:18Z |  Nintendo Game Boy Color emulator written in Go. |
 | [yunabe/lgo](https://github.com/yunabe/lgo) | 2k | 123 | 2025-04-25T00:37:44Z |  Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility. |
 | [pointlander/peg](https://github.com/pointlander/peg) | 1k | 122 | 2025-04-22T01:59:51Z |  Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator. |
-| [taubyte/tau](https://github.com/taubyte/tau) | 4k | 120 | 2025-04-29T21:12:12Z |  Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. |
+| [taubyte/tau](https://github.com/taubyte/tau) | 4k | 120 | 2025-04-30T16:26:18Z |  Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. |
 | [meloalright/guora](https://github.com/meloalright/guora) | 675 | 103 | 2025-04-26T13:40:47Z |  A self-hosted Quora like web application written in Go. |
-| [KusionStack/kusion](https://github.com/KusionStack/kusion) | 1k | 89 | 2025-04-28T18:46:27Z |  A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach. |
-| [ovh/utask](https://github.com/ovh/utask) | 1k | 87 | 2025-04-27T06:36:04Z |  Automation engine that models and executes business processes declared in yaml. |
+| [KusionStack/kusion](https://github.com/KusionStack/kusion) | 1k | 89 | 2025-04-30T00:16:59Z |  A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach. |
+| [ovh/utask](https://github.com/ovh/utask) | 1k | 87 | 2025-04-30T18:09:28Z |  Automation engine that models and executes business processes declared in yaml. |
 | [xuri/aurora](https://github.com/xuri/aurora) | 601 | 82 | 2025-04-01T21:42:18Z |  Cross-platform web-based Beanstalkd queue server console. |
-| [Forceu/gokapi](https://github.com/Forceu/gokapi) | 2k | 78 | 2025-04-28T11:12:37Z |  Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload. |
+| [Forceu/gokapi](https://github.com/Forceu/gokapi) | 2k | 78 | 2025-04-30T19:48:37Z |  Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload. |
 | [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) | 403 | 77 | 2025-04-11T07:30:43Z |  Jenkins CLI allows you manage your Jenkins as an easy way. |
 | [Sioro-Neoku/go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) | 474 | 76 | 2025-03-08T16:02:17Z |  Video streaming torrent client. |
 | [abahmed/kwatch](https://github.com/abahmed/kwatch) | 972 | 75 | 2025-04-25T22:10:19Z |  Monitor & detect crashes in your Kubernetes(K8s) cluster instantly. |
@@ -234,17 +234,17 @@ Where to discover new Go libraries.
 | [buger/gor](https://github.com/buger/gor) | 19k | 55 | 2025-04-29T16:16:23Z |  Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time. |
 | [jeffail/leaps](https://github.com/jeffail/leaps) | 754 | 55 | 2025-03-07T20:03:07Z |  Pair programming service using Operational Transforms. |
 | [TimothyYe/skm](https://github.com/TimothyYe/skm) | 972 | 51 | 2025-04-20T12:07:17Z |  SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily! |
-| [mkchoi212/fac](https://github.com/mkchoi212/fac) | 2k | 50 | 2025-04-28T00:07:43Z |  Command-line user interface to fix git merge conflicts. |
+| [mkchoi212/fac](https://github.com/mkchoi212/fac) | 2k | 50 | 2025-04-30T07:06:20Z |  Command-line user interface to fix git merge conflicts. |
 | [Antonito/gfile](https://github.com/Antonito/gfile) | 752 | 50 | 2025-04-26T23:05:47Z |  Securely transfer files between two computers, without any third party, over WebRTC. |
 | [goccmack/gocc](https://github.com/goccmack/gocc) | 636 | 49 | 2025-04-27T02:36:42Z |  Gocc is a compiler kit for Go written in Go. |
 | [dikhan/terraform-provider-openapi](https://github.com/dikhan/terraform-provider-openapi) | 277 | 48 | 2025-04-23T02:53:27Z |  Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed. |
-| [yusufcanb/tlm](https://github.com/yusufcanb/tlm) | 1k | 48 | 2025-04-26T18:58:39Z |  Local cli copilot, powered by CodeLLaMa |
+| [yusufcanb/tlm](https://github.com/yusufcanb/tlm) | 1k | 48 | 2025-04-30T23:01:36Z |  Local cli copilot, powered by CodeLLaMa |
 | [ekkinox/yai](https://github.com/ekkinox/yai) | 783 | 47 | 2025-04-29T16:29:57Z |  AI powered terminal assistant. |
 | [liudng/dogo](https://github.com/liudng/dogo) | 273 | 46 | 2025-04-11T10:06:48Z |  Monitoring changes in the source file and automatically compile and run (restart). |
 | [kool-dev/kool](https://github.com/kool-dev/kool) | 679 | 46 | 2025-04-03T06:00:35Z |  Command line tool for managing Docker environments as an easy way. |
 | [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) | 2k | 46 | 2025-04-28T06:24:59Z |  Portal is a quick and easy command-line file transfer utility from any computer to another. |
-| [edwingeng/hotswap](https://github.com/edwingeng/hotswap) | 390 | 44 | 2025-04-27T02:03:48Z |  A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure. |
-| [janpfeifer/gonb](https://github.com/janpfeifer/gonb) | 837 | 43 | 2025-04-27T23:47:49Z |  Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab). |
+| [edwingeng/hotswap](https://github.com/edwingeng/hotswap) | 391 | 44 | 2025-04-30T07:21:23Z |  A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure. |
+| [janpfeifer/gonb](https://github.com/janpfeifer/gonb) | 839 | 43 | 2025-04-30T15:01:55Z |  Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab). |
 | [rafael-santiago/cherry](https://github.com/rafael-santiago/cherry) | 301 | 41 | 2025-01-01T13:40:26Z |  Tiny webchat server in Go. |
 | [ahmetalpbalkan/govvv](https://github.com/ahmetalpbalkan/govvv) | 538 | 40 | 2025-03-11T16:44:23Z |  “go build” wrapper to easily add version information into Go binaries. |
 | [bengadbois/pewpew](https://github.com/bengadbois/pewpew) | 430 | 38 | 2025-04-28T10:27:21Z |  Flexible HTTP command line stress tester. |
@@ -276,9 +276,9 @@ Where to discover new Go libraries.
 | [moshebe/gebug](https://github.com/moshebe/gebug) | 635 | 17 | 2025-04-14T03:46:38Z |  A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly. |
 | [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) | 223 | 17 | 2025-04-23T02:51:18Z |  abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs. |
 | [appleboy/drone-jenkins](https://github.com/appleboy/drone-jenkins) | 39 | 17 | 2024-10-25T21:31:35Z |  Trigger downstream Jenkins jobs using a binary, docker or Drone CI. |
-| [s0rg/crawley](https://github.com/s0rg/crawley) | 293 | 16 | 2025-04-26T13:52:02Z |  Web scraper/crawler for cli. |
+| [s0rg/crawley](https://github.com/s0rg/crawley) | 295 | 16 | 2025-04-30T16:27:54Z |  Web scraper/crawler for cli. |
 | [wellington/wellington](https://github.com/wellington/wellington) | 302 | 15 | 2025-03-27T23:16:54Z |  Sass project management tool, extends the language with sprite functions (like Compass). |
-| [marwanhawari/stew](https://github.com/marwanhawari/stew) | 251 | 14 | 2025-04-28T15:22:31Z |  An independent package manager for compiled binaries. |
+| [marwanhawari/stew](https://github.com/marwanhawari/stew) | 253 | 14 | 2025-04-30T07:53:44Z |  An independent package manager for compiled binaries. |
 | [ostrost/ostent](https://github.com/ostrost/ostent) | 180 | 14 | 2024-12-10T02:24:27Z |  collects and displays system metrics and optionally relays to Graphite and/or InfluxDB. |
 | [dnnrly/httpref](https://github.com/dnnrly/httpref) | 39 | 13 | 2025-02-26T03:35:13Z |  httpref is a handy CLI reference for HTTP methods, status codes, headers, and TCP and UDP ports. |
 | [dave/blast](https://github.com/dave/blast) | 220 | 13 | 2025-04-23T02:51:42Z |  A simple tool for API load testing and batch jobs. |
@@ -308,83 +308,83 @@ Where to discover new Go libraries.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [google/ko](https://github.com/google/ko) | 8k | 416 | 2025-04-29T23:59:52Z |  Command line tool for building and deploying Go applications on Kubernetes |
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 115k | 40k | 2025-04-29T23:24:30Z |  Container Cluster Manager from Google. |
-| [schollz/croc](https://github.com/schollz/croc) | 30k | 1k | 2025-04-29T23:15:21Z |  Easily and securely send files or folders from one computer to another. |
-| [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) | 24k | 2k | 2025-04-29T23:02:04Z |  Fast, Simple and Scalable Distributed File System with O(1) disk seek. |
-| [rakyll/hey](https://github.com/rakyll/hey) | 19k | 1k | 2025-04-29T22:58:27Z |  Hey is a tiny program that sends some load to a web application. |
-| [grafana/k6](https://github.com/grafana/k6) | 27k | 1k | 2025-04-29T22:58:01Z |  A modern load testing tool, using Go and JavaScript. |
-| [restic/restic](https://github.com/restic/restic) | 28k | 2k | 2025-04-29T22:54:49Z |  De-duplicating backup program. |
-| [fleetdm/fleet](https://github.com/fleetdm/fleet) | 5k | 558 | 2025-04-29T22:53:57Z |  Lightweight, programmable telemetry for servers and workstations. |
-| [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 14k | 2k | 2025-04-29T22:53:22Z |  Kubernetes IN Docker - local clusters for testing Kubernetes. |
-| [containous/traefik](https://github.com/containous/traefik) | 54k | 5k | 2025-04-29T21:48:38Z |  Reverse proxy and load balancer with support for multiple backends. |
-| [taubyte/tau](https://github.com/taubyte/tau) | 4k | 120 | 2025-04-29T21:12:12Z |  Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 48k | 6k | 2025-04-29T20:49:29Z |  Fork of Gogs, entirely community driven. |
-| [bitfield/script](https://github.com/bitfield/script) | 7k | 334 | 2025-04-29T20:26:50Z |  Making it easy to write shell-like scripts in Go for DevOps and system administration tasks. |
-| [moby/moby](https://github.com/moby/moby) | 70k | 19k | 2025-04-29T19:49:08Z |  Collaborative project for the container ecosystem to assemble container-based systems. |
-| [flannel-io/flannel](https://github.com/flannel-io/flannel) | 9k | 3k | 2025-04-29T19:29:10Z |  Flannel is a network fabric for containers, designed for Kubernetes. |
-| [tylertreat/Comcast](https://github.com/tylertreat/Comcast) | 10k | 385 | 2025-04-29T19:17:10Z |  Simulate bad network connections. |
-| [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) | 6k | 2k | 2025-04-29T18:25:42Z |  Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops. |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 115k | 40k | 2025-04-30T23:58:54Z |  Container Cluster Manager from Google. |
+| [schollz/croc](https://github.com/schollz/croc) | 30k | 1k | 2025-04-30T23:13:46Z |  Easily and securely send files or folders from one computer to another. |
+| [codesenberg/bombardier](https://github.com/codesenberg/bombardier) | 6k | 324 | 2025-04-30T23:08:29Z |  Fast cross-platform HTTP benchmarking tool. |
+| [yusufcanb/tlm](https://github.com/yusufcanb/tlm) | 1k | 48 | 2025-04-30T23:01:36Z |  Local cli copilot, powered by CodeLLaMa |
+| [fleetdm/fleet](https://github.com/fleetdm/fleet) | 5k | 558 | 2025-04-30T22:53:58Z |  Lightweight, programmable telemetry for servers and workstations. |
+| [tsenart/vegeta](https://github.com/tsenart/vegeta) | 24k | 1k | 2025-04-30T22:36:13Z |  HTTP load testing tool and library. It's over 9000! |
+| [juicedata/juicefs](https://github.com/juicedata/juicefs) | 12k | 1k | 2025-04-30T22:23:35Z |  Distributed POSIX file system built on top of Redis and AWS S3. |
+| [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) | 24k | 2k | 2025-04-30T22:23:34Z |  Fast, Simple and Scalable Distributed File System with O(1) disk seek. |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 48k | 6k | 2025-04-30T22:14:08Z |  Fork of Gogs, entirely community driven. |
+| [gabrie30/ghorg](https://github.com/gabrie30/ghorg) | 2k | 175 | 2025-04-30T22:08:52Z |  Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket. |
+| [moby/moby](https://github.com/moby/moby) | 70k | 19k | 2025-04-30T21:54:26Z |  Collaborative project for the container ecosystem to assemble container-based systems. |
+| [containous/traefik](https://github.com/containous/traefik) | 54k | 5k | 2025-04-30T21:05:51Z |  Reverse proxy and load balancer with support for multiple backends. |
+| [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) | 5k | 343 | 2025-04-30T21:04:41Z |  A cross-platform network and cloud backup tool based on the idea of lock-free deduplication. |
+| [k3s-io/k3s](https://github.com/k3s-io/k3s) | 29k | 2k | 2025-04-30T19:52:36Z |  Lightweight Kubernetes. |
+| [Forceu/gokapi](https://github.com/Forceu/gokapi) | 2k | 78 | 2025-04-30T19:48:37Z |  Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload. |
+| [kubernetes/minikube](https://github.com/kubernetes/minikube) | 30k | 5k | 2025-04-30T19:32:38Z |  Run Kubernetes locally. |
+| [restic/restic](https://github.com/restic/restic) | 28k | 2k | 2025-04-30T19:30:16Z |  De-duplicating backup program. |
+| [ovh/utask](https://github.com/ovh/utask) | 1k | 87 | 2025-04-30T18:09:28Z |  Automation engine that models and executes business processes declared in yaml. |
+| [k3d-io/k3d](https://github.com/k3d-io/k3d) | 6k | 481 | 2025-04-30T18:07:22Z |  Little helper to run CNCF's k3s in Docker. |
+| [rakyll/hey](https://github.com/rakyll/hey) | 19k | 1k | 2025-04-30T17:30:22Z |  Hey is a tiny program that sends some load to a web application. |
+| [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 5k | 235 | 2025-04-30T17:27:41Z |  Fast and lightweight DNS proxy as ad-blocker for local network with many features. |
+| [shopify/toxiproxy](https://github.com/shopify/toxiproxy) | 11k | 462 | 2025-04-30T17:27:25Z |  Proxy to simulate network and system conditions for automated tests. |
+| [bitfield/script](https://github.com/bitfield/script) | 7k | 334 | 2025-04-30T16:58:06Z |  Making it easy to write shell-like scripts in Go for DevOps and system administration tasks. |
+| [tylertreat/Comcast](https://github.com/tylertreat/Comcast) | 10k | 385 | 2025-04-30T16:49:50Z |  Simulate bad network connections. |
+| [s0rg/crawley](https://github.com/s0rg/crawley) | 295 | 16 | 2025-04-30T16:27:54Z |  Web scraper/crawler for cli. |
+| [taubyte/tau](https://github.com/taubyte/tau) | 4k | 120 | 2025-04-30T16:26:18Z |  Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. |
+| [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 14k | 2k | 2025-04-30T15:44:25Z |  Kubernetes IN Docker - local clusters for testing Kubernetes. |
+| [flannel-io/flannel](https://github.com/flannel-io/flannel) | 9k | 3k | 2025-04-30T15:44:17Z |  Flannel is a network fabric for containers, designed for Kubernetes. |
+| [grafana/k6](https://github.com/grafana/k6) | 27k | 1k | 2025-04-30T15:11:19Z |  A modern load testing tool, using Go and JavaScript. |
+| [janpfeifer/gonb](https://github.com/janpfeifer/gonb) | 839 | 43 | 2025-04-30T15:01:55Z |  Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab). |
+| [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) | 3k | 207 | 2025-04-30T14:18:07Z |  KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. |
+| [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) | 6k | 2k | 2025-04-30T14:07:51Z |  Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like Flux and Flagger for end-to-end testing and workshops. |
+| [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4k | 293 | 2025-04-30T13:05:40Z |  Pomerium is an identity-aware access proxy. |
+| [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) | 913 | 152 | 2025-04-30T13:01:52Z |  Manage BareMetal Servers from Command Line (as easily as with Docker). |
+| [google/ko](https://github.com/google/ko) | 8k | 416 | 2025-04-30T12:59:48Z |  Command line tool for building and deploying Go applications on Kubernetes |
+| [mitchellh/packer](https://github.com/mitchellh/packer) | 15k | 3k | 2025-04-30T10:48:20Z |  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. |
+| [fogleman/nes](https://github.com/fogleman/nes) | 6k | 525 | 2025-04-30T10:34:00Z |  Nintendo Entertainment System (NES) emulator written in Go. |
+| [boyter/scc](https://github.com/boyter/scc) | 7k | 278 | 2025-04-30T08:48:05Z |  Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates. |
+| [kubevela/kubevela](https://github.com/kubevela/kubevela) | 7k | 929 | 2025-04-30T08:43:31Z |  Cloud native application delivery. |
+| [marwanhawari/stew](https://github.com/marwanhawari/stew) | 253 | 14 | 2025-04-30T07:53:44Z |  An independent package manager for compiled binaries. |
+| [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) | 1k | 166 | 2025-04-30T07:45:59Z |  A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications. |
+| [edwingeng/hotswap](https://github.com/edwingeng/hotswap) | 391 | 44 | 2025-04-30T07:21:23Z |  A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure. |
+| [mkchoi212/fac](https://github.com/mkchoi212/fac) | 2k | 50 | 2025-04-30T07:06:20Z |  Command-line user interface to fix git merge conflicts. |
+| [moovweb/gvm](https://github.com/moovweb/gvm) | 11k | 564 | 2025-04-30T03:48:13Z |  GVM provides an interface to manage Go versions. |
+| [root-gg/plik](https://github.com/root-gg/plik) | 2k | 169 | 2025-04-30T03:03:43Z |  Plik is a temporary file upload system (Wetransfer like) in Go. |
+| [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | 11k | 491 | 2025-04-30T02:39:15Z |  API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes. |
+| [msoap/shell2http](https://github.com/msoap/shell2http) | 1k | 139 | 2025-04-30T00:37:59Z |  Executing shell commands via http server (for prototyping or remote control). |
+| [KusionStack/kusion](https://github.com/KusionStack/kusion) | 1k | 89 | 2025-04-30T00:16:59Z |  A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach. |
 | [odeke-em/drive](https://github.com/odeke-em/drive) | 7k | 429 | 2025-04-29T18:23:42Z |  Google Drive client for the commandline. |
 | [kelseyhightower/confd](https://github.com/kelseyhightower/confd) | 8k | 1k | 2025-04-29T17:50:35Z |  Manage local application configuration files using templates and data from etcd or consul. |
 | [mehrdadrad/tcpdog](https://github.com/mehrdadrad/tcpdog) | 259 | 22 | 2025-04-29T17:26:26Z |  eBPF based TCP observability. |
 | [ekkinox/yai](https://github.com/ekkinox/yai) | 783 | 47 | 2025-04-29T16:29:57Z |  AI powered terminal assistant. |
-| [mitchellh/packer](https://github.com/mitchellh/packer) | 15k | 3k | 2025-04-29T16:21:26Z |  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. |
-| [tsenart/vegeta](https://github.com/tsenart/vegeta) | 24k | 1k | 2025-04-29T16:17:37Z |  HTTP load testing tool and library. It's over 9000! |
 | [buger/gor](https://github.com/buger/gor) | 19k | 55 | 2025-04-29T16:16:23Z |  Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time. |
-| [codesenberg/bombardier](https://github.com/codesenberg/bombardier) | 6k | 324 | 2025-04-29T16:16:18Z |  Fast cross-platform HTTP benchmarking tool. |
-| [pomerium/pomerium](https://github.com/pomerium/pomerium) | 4k | 293 | 2025-04-29T16:13:23Z |  Pomerium is an identity-aware access proxy. |
 | [oxyno-zeta/s3-proxy](https://github.com/oxyno-zeta/s3-proxy) | 345 | 38 | 2025-04-29T15:57:50Z |  S3 Proxy with GET, PUT and DELETE methods and authentication (OpenID Connect and Basic Auth). |
-| [k3s-io/k3s](https://github.com/k3s-io/k3s) | 29k | 2k | 2025-04-29T15:30:05Z |  Lightweight Kubernetes. |
-| [kubernetes/minikube](https://github.com/kubernetes/minikube) | 30k | 5k | 2025-04-29T15:29:39Z |  Run Kubernetes locally. |
 | [visualfc/liteide](https://github.com/visualfc/liteide) | 8k | 975 | 2025-04-29T15:29:09Z |  LiteIDE is a simple, open source, cross-platform Go IDE. |
-| [k3d-io/k3d](https://github.com/k3d-io/k3d) | 6k | 481 | 2025-04-29T15:19:21Z |  Little helper to run CNCF's k3s in Docker. |
-| [juicedata/juicefs](https://github.com/juicedata/juicefs) | 12k | 1k | 2025-04-29T14:36:52Z |  Distributed POSIX file system built on top of Redis and AWS S3. |
 | [balerter/balerter](https://github.com/balerter/balerter) | 304 | 18 | 2025-04-29T14:25:07Z |  A self-hosted script-based alerting manager. |
 | [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) | 1k | 62 | 2025-04-29T14:17:05Z |  KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network. |
-| [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) | 913 | 152 | 2025-04-29T13:49:30Z |  Manage BareMetal Servers from Command Line (as easily as with Docker). |
 | [rogerwelin/cassowary](https://github.com/rogerwelin/cassowary) | 793 | 37 | 2025-04-29T13:14:13Z |  Modern cross-platform HTTP load-testing tool written in Go. |
 | [VerizonDigital/vflow](https://github.com/VerizonDigital/vflow) | 1k | 230 | 2025-04-29T12:56:49Z |  High-performance, scalable and reliable IPFIX, sFlow and Netflow collector. |
-| [0xERR0R/blocky](https://github.com/0xERR0R/blocky) | 5k | 235 | 2025-04-29T12:27:41Z |  Fast and lightweight DNS proxy as ad-blocker for local network with many features. |
 | [go-sonic/sonic](https://github.com/go-sonic/sonic) | 2k | 254 | 2025-04-29T12:11:16Z |  Sonic is a Go Blogging Platform. Simple and Powerful. |
-| [moovweb/gvm](https://github.com/moovweb/gvm) | 11k | 564 | 2025-04-29T11:17:25Z |  GVM provides an interface to manage Go versions. |
 | [aptly-dev/aptly](https://github.com/aptly-dev/aptly) | 3k | 382 | 2025-04-29T11:09:24Z |  aptly is a Debian repository management tool. |
 | [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) | 2k | 181 | 2025-04-29T09:39:42Z |  Enable your Go applications to self update. |
-| [boyter/scc](https://github.com/boyter/scc) | 7k | 278 | 2025-04-29T08:10:48Z |  Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates. |
-| [fogleman/nes](https://github.com/fogleman/nes) | 6k | 525 | 2025-04-29T07:35:59Z |  Nintendo Entertainment System (NES) emulator written in Go. |
-| [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) | 3k | 207 | 2025-04-29T07:19:45Z |  KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. |
-| [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | 11k | 491 | 2025-04-29T07:12:24Z |  API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes. |
-| [shopify/toxiproxy](https://github.com/shopify/toxiproxy) | 11k | 462 | 2025-04-29T07:02:56Z |  Proxy to simulate network and system conditions for automated tests. |
 | [peak/s5cmd](https://github.com/peak/s5cmd) | 3k | 259 | 2025-04-29T06:58:45Z |  Blazing fast S3 and local filesystem execution tool. |
-| [kubevela/kubevela](https://github.com/kubevela/kubevela) | 7k | 929 | 2025-04-29T03:36:35Z |  Cloud native application delivery. |
 | [ajvb/kala](https://github.com/ajvb/kala) | 2k | 188 | 2025-04-29T01:51:54Z |  Simplistic, modern, and performant job scheduler. |
-| [gabrie30/ghorg](https://github.com/gabrie30/ghorg) | 2k | 175 | 2025-04-28T23:42:13Z |  Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket. |
-| [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) | 5k | 343 | 2025-04-28T22:04:16Z |  A cross-platform network and cloud backup tool based on the idea of lock-free deduplication. |
-| [KusionStack/kusion](https://github.com/KusionStack/kusion) | 1k | 89 | 2025-04-28T18:46:27Z |  A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach. |
-| [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) | 1k | 166 | 2025-04-28T18:40:42Z |  A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications. |
 | [chapar-rest/chapar](https://github.com/chapar-rest/chapar) | 557 | 33 | 2025-04-28T17:04:02Z |  Chapar is a a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols. |
-| [marwanhawari/stew](https://github.com/marwanhawari/stew) | 251 | 14 | 2025-04-28T15:22:31Z |  An independent package manager for compiled binaries. |
-| [root-gg/plik](https://github.com/root-gg/plik) | 2k | 169 | 2025-04-28T15:20:51Z |  Plik is a temporary file upload system (Wetransfer like) in Go. |
 | [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) | 392 | 28 | 2025-04-28T13:04:40Z |  Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash. |
-| [Forceu/gokapi](https://github.com/Forceu/gokapi) | 2k | 78 | 2025-04-28T11:12:37Z |  Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload. |
 | [bengadbois/pewpew](https://github.com/bengadbois/pewpew) | 430 | 38 | 2025-04-28T10:27:21Z |  Flexible HTTP command line stress tester. |
 | [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) | 2k | 46 | 2025-04-28T06:24:59Z |  Portal is a quick and easy command-line file transfer utility from any computer to another. |
 | [alajmo/sake](https://github.com/alajmo/sake) | 689 | 22 | 2025-04-28T04:47:54Z |  sake is a command runner for local and remote hosts. |
-| [mkchoi212/fac](https://github.com/mkchoi212/fac) | 2k | 50 | 2025-04-28T00:07:43Z |  Command-line user interface to fix git merge conflicts. |
-| [janpfeifer/gonb](https://github.com/janpfeifer/gonb) | 837 | 43 | 2025-04-27T23:47:49Z |  Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab). |
 | [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) | 3k | 234 | 2025-04-27T21:20:10Z |  Command Line Network Diagnostic tool written in Go. |
 | [ddosify/alaz](https://github.com/ddosify/alaz) | 684 | 33 | 2025-04-27T15:54:35Z |  Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring. |
-| [ovh/utask](https://github.com/ovh/utask) | 1k | 87 | 2025-04-27T06:36:04Z |  Automation engine that models and executes business processes declared in yaml. |
 | [appleboy/drone-scp](https://github.com/appleboy/drone-scp) | 149 | 32 | 2025-04-27T03:43:54Z |  Copy files and artifacts via SSH using a binary, docker or Drone CI. |
 | [goccmack/gocc](https://github.com/goccmack/gocc) | 636 | 49 | 2025-04-27T02:36:42Z |  Gocc is a compiler kit for Go written in Go. |
-| [edwingeng/hotswap](https://github.com/edwingeng/hotswap) | 390 | 44 | 2025-04-27T02:03:48Z |  A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure. |
 | [Antonito/gfile](https://github.com/Antonito/gfile) | 752 | 50 | 2025-04-26T23:05:47Z |  Securely transfer files between two computers, without any third party, over WebRTC. |
 | [documize/community](https://github.com/documize/community) | 2k | 220 | 2025-04-26T21:31:31Z |  Modern wiki software that integrates data from SaaS tools. |
-| [yusufcanb/tlm](https://github.com/yusufcanb/tlm) | 1k | 48 | 2025-04-26T18:58:39Z |  Local cli copilot, powered by CodeLLaMa |
-| [s0rg/crawley](https://github.com/s0rg/crawley) | 293 | 16 | 2025-04-26T13:52:02Z |  Web scraper/crawler for cli. |
 | [meloalright/guora](https://github.com/meloalright/guora) | 675 | 103 | 2025-04-26T13:40:47Z |  A self-hosted Quora like web application written in Go. |
 | [crufter/borg](https://github.com/crufter/borg) | 2k | 57 | 2025-04-26T04:52:26Z |  Terminal based search engine for bash snippets. |
-| [msoap/shell2http](https://github.com/msoap/shell2http) | 1k | 139 | 2025-04-26T00:39:05Z |  Executing shell commands via http server (for prototyping or remote control). |
 | [abahmed/kwatch](https://github.com/abahmed/kwatch) | 972 | 75 | 2025-04-25T22:10:19Z |  Monitor & detect crashes in your Kubernetes(K8s) cluster instantly. |
 | [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) | 5k | 243 | 2025-04-25T08:56:12Z |  Build powerful pipelines in any programming language. |
 | [Humpheh/goboy](https://github.com/Humpheh/goboy) | 3k | 123 | 2025-04-25T03:11:18Z |  Nintendo Game Boy Color emulator written in Go. |
