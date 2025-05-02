@@ -17,7 +17,7 @@ Libraries for scientific computing and data analyzing.
 | [vdobler/chart](https://github.com/vdobler/chart) | 775 | 106 | 2025-04-26T14:15:04Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 739 | 76 | 2025-02-15T01:42:03Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 724 | 65 | 2025-04-24T09:36:21Z |  Library of basic graph algorithms. |
-| [bebop/poly](https://github.com/bebop/poly) | 696 | 73 | 2025-04-25T05:52:01Z |  A Go package for engineering organisms. |
+| [bebop/poly](https://github.com/bebop/poly) | 697 | 73 | 2025-05-01T02:34:05Z |  A Go package for engineering organisms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 444 | 36 | 2025-04-23T13:45:56Z |  Exponentially-weighted moving averages. |
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 409 | 16 | 2025-03-19T08:00:12Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 237 | 37 | 2025-04-24T09:35:50Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
@@ -57,7 +57,7 @@ Libraries for scientific computing and data analyzing.
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 98 | 2025-04-30T19:30:09Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 875 | 86 | 2025-04-09T17:26:37Z |  Digital Signal Processing for Go. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 739 | 76 | 2025-02-15T01:42:03Z |  Pure Go graph theory library(data structure, algorithm visualization). |
-| [bebop/poly](https://github.com/bebop/poly) | 696 | 73 | 2025-04-25T05:52:01Z |  A Go package for engineering organisms. |
+| [bebop/poly](https://github.com/bebop/poly) | 697 | 73 | 2025-05-01T02:34:05Z |  A Go package for engineering organisms. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 724 | 65 | 2025-04-24T09:36:21Z |  Library of basic graph algorithms. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 237 | 37 | 2025-04-24T09:35:50Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 444 | 36 | 2025-04-23T13:45:56Z |  Exponentially-weighted moving averages. |
@@ -88,6 +88,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [bebop/poly](https://github.com/bebop/poly) | 697 | 73 | 2025-05-01T02:34:05Z |  A Go package for engineering organisms. |
 | [keilerkonzept/topk](https://github.com/keilerkonzept/topk) | 10 | 1 | 2025-04-30T22:20:13Z |  Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 98 | 2025-04-30T19:30:09Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 146 | 2025-04-30T18:03:43Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
@@ -97,7 +98,6 @@ Libraries for scientific computing and data analyzing.
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 78 | 8 | 2025-04-28T03:40:47Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 169 | 2025-04-27T09:22:59Z |  Statistics package with common functions missing from the Golang standard library. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 775 | 106 | 2025-04-26T14:15:04Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
-| [bebop/poly](https://github.com/bebop/poly) | 696 | 73 | 2025-04-25T05:52:01Z |  A Go package for engineering organisms. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 724 | 65 | 2025-04-24T09:36:21Z |  Library of basic graph algorithms. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 237 | 37 | 2025-04-24T09:35:50Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 444 | 36 | 2025-04-23T13:45:56Z |  Exponentially-weighted moving averages. |
