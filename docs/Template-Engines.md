@@ -6,7 +6,7 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [a-h/templ](https://github.com/a-h/templ) | 9k | 307 | 2025-05-01T22:42:03Z |  A HTML templating language that has great developer tooling. |
+| [a-h/templ](https://github.com/a-h/templ) | 9k | 307 | 2025-05-02T23:55:44Z |  A HTML templating language that has great developer tooling. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 150 | 2025-05-01T13:06:38Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 279 | 2025-04-26T15:02:12Z |  Django-like template-engine for Go. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 230 | 2025-05-01T11:46:44Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
@@ -26,7 +26,7 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [a-h/templ](https://github.com/a-h/templ) | 9k | 307 | 2025-05-01T22:42:03Z |  A HTML templating language that has great developer tooling. |
+| [a-h/templ](https://github.com/a-h/templ) | 9k | 307 | 2025-05-02T23:55:44Z |  A HTML templating language that has great developer tooling. |
 | [flosch/pongo2](https://github.com/flosch/pongo2) | 3k | 279 | 2025-04-26T15:02:12Z |  Django-like template-engine for Go. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 230 | 2025-05-01T11:46:44Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 150 | 2025-05-01T13:06:38Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
@@ -46,7 +46,7 @@ Libraries and tools for templating and lexing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [a-h/templ](https://github.com/a-h/templ) | 9k | 307 | 2025-05-01T22:42:03Z |  A HTML templating language that has great developer tooling. |
+| [a-h/templ](https://github.com/a-h/templ) | 9k | 307 | 2025-05-02T23:55:44Z |  A HTML templating language that has great developer tooling. |
 | [CloudyKit/jet](https://github.com/CloudyKit/jet) | 1k | 113 | 2025-05-01T19:37:15Z |  Jet template engine. |
 | [valyala/quicktemplate](https://github.com/valyala/quicktemplate) | 3k | 150 | 2025-05-01T13:06:38Z |  Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it. |
 | [johnfercher/maroto](https://github.com/johnfercher/maroto) | 2k | 230 | 2025-05-01T11:46:44Z |  A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. |
