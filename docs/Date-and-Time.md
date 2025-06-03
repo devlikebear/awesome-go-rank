@@ -8,7 +8,7 @@ Libraries for working with dates and times.
 |------------|-------|-------|--------------|-------------|
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-05-30T01:16:53Z |  A simple, semantic and developer-friendly time package for golang. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2025-05-28T09:41:10Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2025-05-29T07:55:45Z |  Parse date's without knowing format in advance. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2025-06-02T13:31:47Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 785 | 55 | 2025-04-19T04:29:23Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 502 | 48 | 2025-05-28T10:39:13Z |  Time duration formatting library for Go. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 221 | 25 | 2025-05-27T08:43:13Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
@@ -23,7 +23,7 @@ Libraries for working with dates and times.
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 29 | 2 | 2025-04-10T09:39:37Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
 | [GuilhermeCaruso/kair](https://github.com/GuilhermeCaruso/kair) | 24 | 6 | 2024-06-23T06:09:32Z |  Date and Time - Golang Formatting Library. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 17 | 7 | 2025-01-24T12:58:38Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 14 | 2 | 2025-05-29T21:12:46Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 14 | 2 | 2025-06-02T18:28:04Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 13 | 5 | 2024-11-25T18:09:04Z |  C99-compatible strftime formatter. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2022-09-26T09:53:28Z |  Ruby-compatible Strftime function. |
 | [stoewer/go-week](https://github.com/stoewer/go-week) | 10 | 8 | 2025-03-19T02:15:15Z |  An efficient package to work with ISO8601 week dates. |
@@ -35,7 +35,7 @@ Libraries for working with dates and times.
 |------------|-------|-------|--------------|-------------|
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-05-30T01:16:53Z |  A simple, semantic and developer-friendly time package for golang. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2025-05-28T09:41:10Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2025-05-29T07:55:45Z |  Parse date's without knowing format in advance. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2025-06-02T13:31:47Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 785 | 55 | 2025-04-19T04:29:23Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 502 | 48 | 2025-05-28T10:39:13Z |  Time duration formatting library for Go. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 221 | 25 | 2025-05-27T08:43:13Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
@@ -53,16 +53,16 @@ Libraries for working with dates and times.
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 13 | 5 | 2024-11-25T18:09:04Z |  C99-compatible strftime formatter. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2022-09-26T09:53:28Z |  Ruby-compatible Strftime function. |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 29 | 2 | 2025-04-10T09:39:37Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 14 | 2 | 2025-05-29T21:12:46Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 14 | 2 | 2025-06-02T18:28:04Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-12-04T02:43:04Z |  A simple datetime parse pkg. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 14 | 2 | 2025-06-02T18:28:04Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2025-06-02T13:31:47Z |  Parse date's without knowing format in advance. |
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-05-30T01:16:53Z |  A simple, semantic and developer-friendly time package for golang. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 14 | 2 | 2025-05-29T21:12:46Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2025-05-29T07:55:45Z |  Parse date's without knowing format in advance. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 502 | 48 | 2025-05-28T10:39:13Z |  Time duration formatting library for Go. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2025-05-28T09:41:10Z |  Now is a time toolkit for golang. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 166 | 20 | 2025-05-27T23:33:34Z |  Calculate the sunrise and sunset times for a given location. |
