@@ -6,7 +6,7 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 642 | 2025-06-27T08:19:49Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 642 | 2025-06-28T12:36:41Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 284 | 2025-06-27T23:46:35Z |  Terminal stock watcher and stock position tracker. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 156 | 2025-06-27T15:50:54Z |  Implementation of Fowler's Money pattern. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 1k | 321 | 2025-06-27T14:00:44Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
@@ -36,7 +36,7 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 642 | 2025-06-27T08:19:49Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 642 | 2025-06-28T12:36:41Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 1k | 321 | 2025-06-27T14:00:44Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 284 | 2025-06-27T23:46:35Z |  Terminal stock watcher and stock position tracker. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 496 | 165 | 2025-06-27T14:03:15Z |  Matching Engine for Limit Order Book in Golang. |
@@ -66,6 +66,7 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 642 | 2025-06-28T12:36:41Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 5k | 284 | 2025-06-27T23:46:35Z |  Terminal stock watcher and stock position tracker. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 490 | 164 | 2025-06-27T20:08:36Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 156 | 2025-06-27T15:50:54Z |  Implementation of Fowler's Money pattern. |
@@ -73,7 +74,6 @@ Packages for accounting and finance.
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 496 | 165 | 2025-06-27T14:03:15Z |  Matching Engine for Limit Order Book in Golang. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 1k | 321 | 2025-06-27T14:00:44Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [formancehq/ledger](https://github.com/formancehq/ledger) | 984 | 116 | 2025-06-27T09:38:38Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 642 | 2025-06-27T08:19:49Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 593 | 48 | 2025-06-25T15:59:27Z |  Handles currency amounts, provides currency information and formatting. |
 | [quagmt/udecimal](https://github.com/quagmt/udecimal) | 149 | 10 | 2025-06-25T03:18:19Z |  High performance, high precision, zero allocation fixed-point decimal library for financial applications. |
 | [govalues/decimal](https://github.com/govalues/decimal) | 170 | 17 | 2025-06-23T19:37:47Z |  Immutable decimal numbers with panic-free arithmetic. |
