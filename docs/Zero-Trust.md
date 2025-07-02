@@ -6,8 +6,8 @@ Libraries and tools to implement Zero Trust architectures.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sigstore/cosign](https://github.com/sigstore/cosign) | 5k | 597 | 2025-06-30T20:48:30Z |  Container Signing, Verification and Storage in an OCI registry. |
-| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 513 | 2025-06-30T14:51:47Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
+| [sigstore/cosign](https://github.com/sigstore/cosign) | 5k | 597 | 2025-07-01T15:48:39Z |  Container Signing, Verification and Storage in an OCI registry. |
+| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 513 | 2025-07-01T19:31:16Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
 | [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 139 | 52 | 2025-06-22T14:18:45Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
 | [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault) | 89 | 12 | 2025-06-30T15:14:43Z |  Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication. |
 | [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) | 39 | 6 | 2025-06-25T19:50:11Z |  |
@@ -16,8 +16,8 @@ Libraries and tools to implement Zero Trust architectures.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sigstore/cosign](https://github.com/sigstore/cosign) | 5k | 597 | 2025-06-30T20:48:30Z |  Container Signing, Verification and Storage in an OCI registry. |
-| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 513 | 2025-06-30T14:51:47Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
+| [sigstore/cosign](https://github.com/sigstore/cosign) | 5k | 597 | 2025-07-01T15:48:39Z |  Container Signing, Verification and Storage in an OCI registry. |
+| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 513 | 2025-07-01T19:31:16Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
 | [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 139 | 52 | 2025-06-22T14:18:45Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
 | [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault) | 89 | 12 | 2025-06-30T15:14:43Z |  Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication. |
 | [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) | 39 | 6 | 2025-06-25T19:50:11Z |  |
@@ -26,9 +26,9 @@ Libraries and tools to implement Zero Trust architectures.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [sigstore/cosign](https://github.com/sigstore/cosign) | 5k | 597 | 2025-06-30T20:48:30Z |  Container Signing, Verification and Storage in an OCI registry. |
+| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 513 | 2025-07-01T19:31:16Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
+| [sigstore/cosign](https://github.com/sigstore/cosign) | 5k | 597 | 2025-07-01T15:48:39Z |  Container Signing, Verification and Storage in an OCI registry. |
 | [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault) | 89 | 12 | 2025-06-30T15:14:43Z |  Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication. |
-| [spiffe/spire](https://github.com/spiffe/spire) | 2k | 513 | 2025-06-30T14:51:47Z |  SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. |
 | [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) | 39 | 6 | 2025-06-25T19:50:11Z |  |
 | [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) | 139 | 52 | 2025-06-22T14:18:45Z |  Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation. |
 
