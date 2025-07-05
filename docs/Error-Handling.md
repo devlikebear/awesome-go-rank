@@ -17,7 +17,7 @@ Libraries for handling errors.
 | [emperror/emperror](https://github.com/emperror/emperror) | 358 | 17 | 2025-06-30T07:36:45Z |  Error handling tools and best practices for Go libraries and applications. |
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 284 | 8 | 2025-06-28T04:04:28Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
 | [emperror/errors](https://github.com/emperror/errors) | 200 | 14 | 2025-05-22T04:29:59Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
-| [naughtygopher/errors](https://github.com/naughtygopher/errors) | 72 | 5 | 2025-07-03T11:17:07Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
+| [naughtygopher/errors](https://github.com/naughtygopher/errors) | 72 | 5 | 2025-07-04T07:18:37Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
 | [rbrahul/exception](https://github.com/rbrahul/exception) | 37 | 3 | 2025-04-30T19:41:45Z |  A simple utility package for exception handling with try-catch in Golang. |
 | [SonicRoshan/falcon](https://github.com/SonicRoshan/falcon) | 11 | 1 | 2024-07-31T18:50:48Z |  A Simple Yet Highly Powerful Package For Error Handling. |
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 7 | 1 | 2023-08-29T00:07:32Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
@@ -39,7 +39,7 @@ Libraries for handling errors.
 | [emperror/emperror](https://github.com/emperror/emperror) | 358 | 17 | 2025-06-30T07:36:45Z |  Error handling tools and best practices for Go libraries and applications. |
 | [emperror/errors](https://github.com/emperror/errors) | 200 | 14 | 2025-05-22T04:29:59Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 284 | 8 | 2025-06-28T04:04:28Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
-| [naughtygopher/errors](https://github.com/naughtygopher/errors) | 72 | 5 | 2025-07-03T11:17:07Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
+| [naughtygopher/errors](https://github.com/naughtygopher/errors) | 72 | 5 | 2025-07-04T07:18:37Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
 | [rbrahul/exception](https://github.com/rbrahul/exception) | 37 | 3 | 2025-04-30T19:41:45Z |  A simple utility package for exception handling with try-catch in Golang. |
 | [SonicRoshan/falcon](https://github.com/SonicRoshan/falcon) | 11 | 1 | 2024-07-31T18:50:48Z |  A Simple Yet Highly Powerful Package For Error Handling. |
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 7 | 1 | 2023-08-29T00:07:32Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
@@ -50,7 +50,7 @@ Libraries for handling errors.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [naughtygopher/errors](https://github.com/naughtygopher/errors) | 72 | 5 | 2025-07-03T11:17:07Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
+| [naughtygopher/errors](https://github.com/naughtygopher/errors) | 72 | 5 | 2025-07-04T07:18:37Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 68 | 2025-07-03T04:05:51Z |  Go error library with error portability over the network. |
 | [samber/oops](https://github.com/samber/oops) | 703 | 24 | 2025-07-02T22:02:37Z |  Error handling with context, stack trace and source fragments. |
 | [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 2k | 130 | 2025-07-01T11:16:52Z |  Go (golang) package for representing a list of errors as a single error. |
