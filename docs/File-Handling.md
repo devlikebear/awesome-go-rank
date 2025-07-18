@@ -6,11 +6,11 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 72k | 3k | 2025-07-16T23:50:25Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 542 | 2025-07-16T20:20:21Z |  PDF processor. |
-| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2025-07-15T00:36:32Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 164 | 2025-07-16T12:58:24Z |  Disk usage analyzer with console interface. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 114 | 2025-07-16T20:30:57Z | . |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 72k | 3k | 2025-07-17T23:15:47Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 543 | 2025-07-17T20:46:59Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2025-07-17T13:03:04Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 164 | 2025-07-17T11:20:03Z |  Disk usage analyzer with console interface. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 114 | 2025-07-17T17:20:03Z | . |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 155 | 2025-07-09T10:02:09Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 915 | 131 | 2025-07-15T05:04:58Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 761 | 115 | 2025-06-10T02:14:25Z |  Copy directory recursively. |
@@ -37,14 +37,14 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 72k | 3k | 2025-07-16T23:50:25Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 542 | 2025-07-16T20:20:21Z |  PDF processor. |
-| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2025-07-15T00:36:32Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 164 | 2025-07-16T12:58:24Z |  Disk usage analyzer with console interface. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 72k | 3k | 2025-07-17T23:15:47Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 543 | 2025-07-17T20:46:59Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2025-07-17T13:03:04Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 164 | 2025-07-17T11:20:03Z |  Disk usage analyzer with console interface. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 155 | 2025-07-09T10:02:09Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 915 | 131 | 2025-07-15T05:04:58Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 761 | 115 | 2025-06-10T02:14:25Z |  Copy directory recursively. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 114 | 2025-07-16T20:30:57Z | . |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 114 | 2025-07-17T17:20:03Z | . |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 269 | 47 | 2025-07-07T11:23:16Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 275 | 43 | 2025-06-23T22:10:50Z |  A package for reading and creating ISO9660 disk images |
 | [no-src/gofs](https://github.com/no-src/gofs) | 511 | 38 | 2025-07-14T04:11:30Z |  A cross-platform real-time file synchronization tool out of the box. |
@@ -68,13 +68,13 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 72k | 3k | 2025-07-16T23:50:25Z | ). |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 114 | 2025-07-16T20:30:57Z | . |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 542 | 2025-07-16T20:20:21Z |  PDF processor. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 164 | 2025-07-16T12:58:24Z |  Disk usage analyzer with console interface. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 72k | 3k | 2025-07-17T23:15:47Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 543 | 2025-07-17T20:46:59Z |  PDF processor. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 114 | 2025-07-17T17:20:03Z | . |
+| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2025-07-17T13:03:04Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 164 | 2025-07-17T11:20:03Z |  Disk usage analyzer with console interface. |
 | [viant/afs](https://github.com/viant/afs) | 338 | 37 | 2025-07-15T17:43:19Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 915 | 131 | 2025-07-15T05:04:58Z |  File system event notification library with simple API, similar to os/signal. |
-| [spf13/afero](https://github.com/spf13/afero) | 6k | 534 | 2025-07-15T00:36:32Z |  FileSystem Abstraction System for Go. |
 | [no-src/gofs](https://github.com/no-src/gofs) | 511 | 38 | 2025-07-14T04:11:30Z |  A cross-platform real-time file synchronization tool out of the box. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 345 | 35 | 2025-07-13T18:07:09Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 118 | 14 | 2025-07-12T22:59:45Z |  Read and write [parquet](https://parquet.apache.org) files. |
