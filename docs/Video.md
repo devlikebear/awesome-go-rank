@@ -8,12 +8,12 @@ Libraries for manipulating video.
 |------------|-------|-------|--------------|-------------|
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 361 | 2025-07-22T14:19:46Z |  Comprehensive Go bindings for FFmpeg. |
 | [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 329 | 2025-07-16T11:20:32Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
-| [3d0c/gmf](https://github.com/3d0c/gmf) | 916 | 168 | 2025-07-22T04:32:28Z |  Go bindings for FFmpeg av\* libraries. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 808 | 233 | 2025-07-22T04:35:16Z |  Pure Go RTSP server and client library. |
+| [3d0c/gmf](https://github.com/3d0c/gmf) | 917 | 168 | 2025-07-23T13:24:01Z |  Go bindings for FFmpeg av\* libraries. |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 809 | 233 | 2025-07-23T15:55:55Z |  Pure Go RTSP server and client library. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 648 | 116 | 2025-07-22T04:32:39Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 578 | 54 | 2025-07-22T11:21:03Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 539 | 100 | 2025-07-21T06:04:51Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
-| [asticode/go-astiav](https://github.com/asticode/go-astiav) | 526 | 62 | 2025-07-17T13:50:09Z |  Better C bindings for ffmpeg in GO. |
+| [asticode/go-astiav](https://github.com/asticode/go-astiav) | 527 | 62 | 2025-07-23T16:00:10Z |  Better C bindings for ffmpeg in GO. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 475 | 54 | 2025-07-21T01:31:50Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 85 | 16 | 2025-06-22T09:22:41Z |  Video capture library for Linux, written in Go. |
 | [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 35 | 11 | 2025-07-16T11:20:49Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
@@ -25,11 +25,11 @@ Libraries for manipulating video.
 |------------|-------|-------|--------------|-------------|
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 361 | 2025-07-22T14:19:46Z |  Comprehensive Go bindings for FFmpeg. |
 | [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 329 | 2025-07-16T11:20:32Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 808 | 233 | 2025-07-22T04:35:16Z |  Pure Go RTSP server and client library. |
-| [3d0c/gmf](https://github.com/3d0c/gmf) | 916 | 168 | 2025-07-22T04:32:28Z |  Go bindings for FFmpeg av\* libraries. |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 809 | 233 | 2025-07-23T15:55:55Z |  Pure Go RTSP server and client library. |
+| [3d0c/gmf](https://github.com/3d0c/gmf) | 917 | 168 | 2025-07-23T13:24:01Z |  Go bindings for FFmpeg av\* libraries. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 648 | 116 | 2025-07-22T04:32:39Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 539 | 100 | 2025-07-21T06:04:51Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
-| [asticode/go-astiav](https://github.com/asticode/go-astiav) | 526 | 62 | 2025-07-17T13:50:09Z |  Better C bindings for ffmpeg in GO. |
+| [asticode/go-astiav](https://github.com/asticode/go-astiav) | 527 | 62 | 2025-07-23T16:00:10Z |  Better C bindings for ffmpeg in GO. |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 578 | 54 | 2025-07-22T11:21:03Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 475 | 54 | 2025-07-21T01:31:50Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 85 | 16 | 2025-06-22T09:22:41Z |  Video capture library for Linux, written in Go. |
@@ -40,14 +40,14 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [asticode/go-astiav](https://github.com/asticode/go-astiav) | 527 | 62 | 2025-07-23T16:00:10Z |  Better C bindings for ffmpeg in GO. |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 809 | 233 | 2025-07-23T15:55:55Z |  Pure Go RTSP server and client library. |
+| [3d0c/gmf](https://github.com/3d0c/gmf) | 917 | 168 | 2025-07-23T13:24:01Z |  Go bindings for FFmpeg av\* libraries. |
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 361 | 2025-07-22T14:19:46Z |  Comprehensive Go bindings for FFmpeg. |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 578 | 54 | 2025-07-22T11:21:03Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 808 | 233 | 2025-07-22T04:35:16Z |  Pure Go RTSP server and client library. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 648 | 116 | 2025-07-22T04:32:39Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
-| [3d0c/gmf](https://github.com/3d0c/gmf) | 916 | 168 | 2025-07-22T04:32:28Z |  Go bindings for FFmpeg av\* libraries. |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 539 | 100 | 2025-07-21T06:04:51Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 475 | 54 | 2025-07-21T01:31:50Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
-| [asticode/go-astiav](https://github.com/asticode/go-astiav) | 526 | 62 | 2025-07-17T13:50:09Z |  Better C bindings for ffmpeg in GO. |
 | [etherlabsio/go-m3u8](https://github.com/etherlabsio/go-m3u8) | 35 | 11 | 2025-07-16T11:20:49Z |  Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility. |
 | [grafov/m3u8](https://github.com/grafov/m3u8) | 1k | 329 | 2025-07-16T11:20:32Z |  Parser and generator library of M3U8 playlists for Apple HLS. |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 85 | 16 | 2025-06-22T09:22:41Z |  Video capture library for Linux, written in Go. |
