@@ -6,8 +6,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-07-22T17:34:06Z |  A simple, semantic and developer-friendly time package for golang. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 240 | 2025-07-23T21:22:56Z |  Now is a time toolkit for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-07-24T07:07:47Z |  A simple, semantic and developer-friendly time package for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 240 | 2025-07-24T07:02:38Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 175 | 2025-07-22T18:37:33Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 783 | 55 | 2025-07-20T19:04:53Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 504 | 48 | 2025-06-30T21:24:23Z |  Time duration formatting library for Go. |
@@ -33,8 +33,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-07-22T17:34:06Z |  A simple, semantic and developer-friendly time package for golang. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 240 | 2025-07-23T21:22:56Z |  Now is a time toolkit for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-07-24T07:07:47Z |  A simple, semantic and developer-friendly time package for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 240 | 2025-07-24T07:02:38Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 175 | 2025-07-22T18:37:33Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 783 | 55 | 2025-07-20T19:04:53Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 504 | 48 | 2025-06-30T21:24:23Z |  Time duration formatting library for Go. |
@@ -60,11 +60,11 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 240 | 2025-07-23T21:22:56Z |  Now is a time toolkit for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-07-24T07:07:47Z |  A simple, semantic and developer-friendly time package for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 240 | 2025-07-24T07:02:38Z |  Now is a time toolkit for golang. |
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 15 | 2 | 2025-07-23T18:07:46Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 226 | 25 | 2025-07-23T16:21:45Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 175 | 2025-07-22T18:37:33Z |  Parse date's without knowing format in advance. |
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 257 | 2025-07-22T17:34:06Z |  A simple, semantic and developer-friendly time package for golang. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 783 | 55 | 2025-07-20T19:04:53Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 116 | 9 | 2025-07-20T00:21:21Z |  Convert string to duration. Support time.Duration returned string and more. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 169 | 22 | 2025-07-14T12:04:38Z |  Calculate the sunrise and sunset times for a given location. |
