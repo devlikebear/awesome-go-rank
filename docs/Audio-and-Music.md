@@ -6,7 +6,7 @@ Libraries for manipulating audio.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 145 | 2025-07-25T10:39:10Z |  A low-level library to play sound on multiple platforms. |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 145 | 2025-07-26T21:42:23Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 782 | 102 | 2025-07-25T16:19:21Z |  Go bindings for the PortAudio audio I/O library. |
 | [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 378 | 40 | 2025-07-24T17:04:19Z |  Native Go Audio Processing Library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 350 | 55 | 2025-07-25T01:33:23Z |  ID3 decoding and encoding library for Go. |
@@ -20,7 +20,7 @@ Libraries for manipulating audio.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 145 | 2025-07-25T10:39:10Z |  A low-level library to play sound on multiple platforms. |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 145 | 2025-07-26T21:42:23Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 782 | 102 | 2025-07-25T16:19:21Z |  Go bindings for the PortAudio audio I/O library. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 342 | 60 | 2025-07-12T17:33:36Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 350 | 55 | 2025-07-25T01:33:23Z |  ID3 decoding and encoding library for Go. |
@@ -34,8 +34,8 @@ Libraries for manipulating audio.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 145 | 2025-07-26T21:42:23Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 782 | 102 | 2025-07-25T16:19:21Z |  Go bindings for the PortAudio audio I/O library. |
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 145 | 2025-07-25T10:39:10Z |  A low-level library to play sound on multiple platforms. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 336 | 47 | 2025-07-25T01:55:20Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 350 | 55 | 2025-07-25T01:33:23Z |  ID3 decoding and encoding library for Go. |
 | [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 378 | 40 | 2025-07-24T17:04:19Z |  Native Go Audio Processing Library. |

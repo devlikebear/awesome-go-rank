@@ -6,10 +6,10 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 21k | 880 | 2025-07-25T22:14:21Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 13k | 705 | 2025-07-25T22:30:24Z |  simple "Make" alternative. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 21k | 880 | 2025-07-26T23:01:43Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 13k | 707 | 2025-07-26T17:28:28Z |  simple "Make" alternative. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2025-07-01T19:49:21Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
-| [magefile/mage](https://github.com/magefile/mage) | 4k | 268 | 2025-07-25T21:13:42Z |  Mage is a make/rake-like build tool using Go. |
+| [magefile/mage](https://github.com/magefile/mage) | 4k | 268 | 2025-07-26T16:22:28Z |  Mage is a make/rake-like build tool using Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2025-07-24T16:25:00Z |  Modern Make. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 30 | 2025-07-25T07:27:21Z |  Task runner with README.md defined tasks, executable markdown. |
 | [goyek/goyek](https://github.com/goyek/goyek) | 630 | 31 | 2025-07-13T15:57:27Z |  Create build pipelines in Go. |
@@ -23,9 +23,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 21k | 880 | 2025-07-25T22:14:21Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 13k | 705 | 2025-07-25T22:30:24Z |  simple "Make" alternative. |
-| [magefile/mage](https://github.com/magefile/mage) | 4k | 268 | 2025-07-25T21:13:42Z |  Mage is a make/rake-like build tool using Go. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 21k | 880 | 2025-07-26T23:01:43Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 13k | 707 | 2025-07-26T17:28:28Z |  simple "Make" alternative. |
+| [magefile/mage](https://github.com/magefile/mage) | 4k | 268 | 2025-07-26T16:22:28Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2025-07-01T19:49:21Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2025-07-24T16:25:00Z |  Modern Make. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 314 | 40 | 2025-07-23T22:16:10Z |  Concurrent task runner. |
@@ -40,9 +40,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 13k | 705 | 2025-07-25T22:30:24Z |  simple "Make" alternative. |
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 21k | 880 | 2025-07-25T22:14:21Z |  Air - Live reload for Go apps. |
-| [magefile/mage](https://github.com/magefile/mage) | 4k | 268 | 2025-07-25T21:13:42Z |  Mage is a make/rake-like build tool using Go. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 21k | 880 | 2025-07-26T23:01:43Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 13k | 707 | 2025-07-26T17:28:28Z |  simple "Make" alternative. |
+| [magefile/mage](https://github.com/magefile/mage) | 4k | 268 | 2025-07-26T16:22:28Z |  Mage is a make/rake-like build tool using Go. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 30 | 2025-07-25T07:27:21Z |  Task runner with README.md defined tasks, executable markdown. |
 | [maxclaus/gaper](https://github.com/maxclaus/gaper) | 83 | 6 | 2025-07-24T18:02:11Z |  Builds and restarts a Go project when it crashes or some watched file changes. |
 | [GuilhermeCaruso/anko](https://github.com/GuilhermeCaruso/anko) | 43 | 2 | 2025-07-24T18:01:58Z |  Simple application watcher for multiple programming languages. |
