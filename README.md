@@ -20,7 +20,7 @@ This is a ranking of GitHub repositories from
 * [Actor Model](docs/Actor-Model.md)<br/>Libraries for building actor-based programs.
 * [Artificial Intelligence](docs/Artificial-Intelligence.md)<br/>Libraries for building programs that leverage AI.
 * [Audio and Music](docs/Audio-and-Music.md)<br/>Libraries for manipulating audio.
-* [Authentication and OAuth](docs/Authentication-and-OAuth.md)<br/>Libraries for implementing authentication schemes.
+* [Authentication and Authorization](docs/Authentication-and-Authorization.md)<br/>Libraries for implementing authentication and authorization.
 * [Blockchain](docs/Blockchain.md)<br/>Tools for building blockchains.
 * [Bot Building](docs/Bot-Building.md)<br/>Libraries for building and working with bots.
 * [Build Automation](docs/Build-Automation.md)<br/>Libraries and tools help with build automation.
