@@ -6,10 +6,10 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 569 | 2025-08-06T13:08:46Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 569 | 2025-08-07T06:55:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 170 | 2025-08-04T15:42:55Z |  Statistics package with common functions missing from the Golang standard library. |
-| [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-08-06T10:17:45Z |  gonum/plot provides an API for building and drawing plots in Go. |
-| [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 146 | 2025-07-31T11:14:45Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
+| [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-08-07T13:25:52Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 147 | 2025-07-31T11:14:45Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 106 | 2025-08-06T04:30:38Z |  general purpose, graphical tool for dealing with streams of data. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2025-08-06T09:15:40Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 114 | 2025-08-04T09:57:47Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
@@ -47,10 +47,10 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 569 | 2025-08-06T13:08:46Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-08-06T10:17:45Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 569 | 2025-08-07T06:55:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-08-07T13:25:52Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 170 | 2025-08-04T15:42:55Z |  Statistics package with common functions missing from the Golang standard library. |
-| [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 146 | 2025-07-31T11:14:45Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
+| [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 147 | 2025-07-31T11:14:45Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 114 | 2025-08-04T09:57:47Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 774 | 107 | 2025-07-24T06:36:31Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 106 | 2025-08-06T04:30:38Z |  general purpose, graphical tool for dealing with streams of data. |
@@ -88,9 +88,9 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-08-07T13:25:52Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 569 | 2025-08-07T06:55:31Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 449 | 37 | 2025-08-06T14:18:22Z |  Exponentially-weighted moving averages. |
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 569 | 2025-08-06T13:08:46Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-08-06T10:17:45Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2025-08-06T09:15:40Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 106 | 2025-08-06T04:30:38Z |  general purpose, graphical tool for dealing with streams of data. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 732 | 65 | 2025-08-05T11:05:49Z |  Library of basic graph algorithms. |
@@ -98,7 +98,7 @@ Libraries for scientific computing and data analyzing.
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 114 | 2025-08-04T09:57:47Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 742 | 76 | 2025-08-04T03:54:22Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 886 | 86 | 2025-08-01T14:28:24Z |  Digital Signal Processing for Go. |
-| [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 146 | 2025-07-31T11:14:45Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
+| [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 147 | 2025-07-31T11:14:45Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 89 | 10 | 2025-07-30T02:14:45Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [keilerkonzept/topk](https://github.com/keilerkonzept/topk) | 15 | 2 | 2025-07-28T13:58:04Z |  Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm. |
 | [bebop/poly](https://github.com/bebop/poly) | 709 | 71 | 2025-07-28T10:14:09Z |  A Go package for engineering organisms. |
