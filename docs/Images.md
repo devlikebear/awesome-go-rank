@@ -6,7 +6,7 @@ Libraries for manipulating images.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 7k | 895 | 2025-08-08T09:25:15Z |  Go package for computer vision using OpenCV 3.3+. |
+| [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 7k | 895 | 2025-08-09T18:27:06Z |  Go package for computer vision using OpenCV 3.3+. |
 | [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 477 | 2025-08-08T22:40:33Z |  Fast and simple HTTP microservice for image resizing. |
 | [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 463 | 2025-08-08T14:03:05Z |  Simple Go image processing package. |
 | [fogleman/gg](https://github.com/fogleman/gg) | 5k | 373 | 2025-08-08T06:45:13Z |  2D rendering in pure Go. |
@@ -55,7 +55,7 @@ Libraries for manipulating images.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 7k | 895 | 2025-08-08T09:25:15Z |  Go package for computer vision using OpenCV 3.3+. |
+| [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 7k | 895 | 2025-08-09T18:27:06Z |  Go package for computer vision using OpenCV 3.3+. |
 | [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 477 | 2025-08-08T22:40:33Z |  Fast and simple HTTP microservice for image resizing. |
 | [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 463 | 2025-08-08T14:03:05Z |  Simple Go image processing package. |
 | [sensepost/gowitness](https://github.com/sensepost/gowitness) | 4k | 398 | 2025-08-06T08:44:02Z |  Screenshoting webpages using go and headless chrome on command line. |
@@ -104,11 +104,11 @@ Libraries for manipulating images.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 7k | 895 | 2025-08-09T18:27:06Z |  Go package for computer vision using OpenCV 3.3+. |
 | [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) | 272 | 38 | 2025-08-08T22:50:47Z |  Library for encode and decode webp pictures, using libwebp. |
 | [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 477 | 2025-08-08T22:40:33Z |  Fast and simple HTTP microservice for image resizing. |
 | [cshum/imagor](https://github.com/cshum/imagor) | 4k | 148 | 2025-08-08T14:50:06Z |  Fast, secure image processing server and Go library, using libvips. |
 | [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 463 | 2025-08-08T14:03:05Z |  Simple Go image processing package. |
-| [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 7k | 895 | 2025-08-08T09:25:15Z |  Go package for computer vision using OpenCV 3.3+. |
 | [thoas/picfit](https://github.com/thoas/picfit) | 2k | 187 | 2025-08-08T09:06:10Z |  An image resizing server written in Go. |
 | [auyer/steganography](https://github.com/auyer/steganography) | 341 | 47 | 2025-08-08T08:29:34Z |  Pure Go Library for LSB steganography. |
 | [fogleman/gg](https://github.com/fogleman/gg) | 5k | 373 | 2025-08-08T06:45:13Z |  2D rendering in pure Go. |
