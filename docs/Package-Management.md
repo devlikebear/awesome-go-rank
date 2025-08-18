@@ -6,9 +6,9 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 536 | 2025-08-14T13:26:18Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
-| [anchore/syft](https://github.com/anchore/syft) | 7k | 688 | 2025-08-16T18:27:24Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
-| [tools/godep](https://github.com/tools/godep) | 6k | 451 | 2025-08-03T11:21:40Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 536 | 2025-08-17T09:51:47Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [anchore/syft](https://github.com/anchore/syft) | 7k | 688 | 2025-08-17T02:38:45Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [tools/godep](https://github.com/tools/godep) | 6k | 451 | 2025-08-17T21:11:00Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 391 | 2025-08-15T07:09:20Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 206 | 2025-08-15T06:16:08Z |  Go Package Manager. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2025-08-03T11:21:55Z |  Barebones dependency manager for Go. |
@@ -24,9 +24,9 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 7k | 688 | 2025-08-16T18:27:24Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 536 | 2025-08-14T13:26:18Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
-| [tools/godep](https://github.com/tools/godep) | 6k | 451 | 2025-08-03T11:21:40Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
+| [anchore/syft](https://github.com/anchore/syft) | 7k | 688 | 2025-08-17T02:38:45Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 536 | 2025-08-17T09:51:47Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [tools/godep](https://github.com/tools/godep) | 6k | 451 | 2025-08-17T21:11:00Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 391 | 2025-08-15T07:09:20Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 206 | 2025-08-15T06:16:08Z |  Go Package Manager. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2025-08-03T11:21:55Z |  Barebones dependency manager for Go. |
@@ -42,15 +42,15 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 7k | 688 | 2025-08-16T18:27:24Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [tools/godep](https://github.com/tools/godep) | 6k | 451 | 2025-08-17T21:11:00Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
+| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 536 | 2025-08-17T09:51:47Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
+| [anchore/syft](https://github.com/anchore/syft) | 7k | 688 | 2025-08-17T02:38:45Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 439 | 19 | 2025-08-16T07:01:26Z |  Update binaries installed by "go install". |
 | [kardianos/govendor](https://github.com/kardianos/govendor) | 5k | 391 | 2025-08-15T07:09:20Z |  Go Package Manager. Go vendor tool that works with the standard vendor file. |
 | [gpmgo/gopm](https://github.com/gpmgo/gopm) | 2k | 206 | 2025-08-15T06:16:08Z |  Go Package Manager. |
-| [Masterminds/glide](https://github.com/Masterminds/glide) | 8k | 536 | 2025-08-14T13:26:18Z |  Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 166 | 32 | 2025-08-13T11:14:53Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [nitrous-io/goop](https://github.com/nitrous-io/goop) | 774 | 45 | 2025-08-03T11:22:28Z |  Simple dependency manager for Go (golang), inspired by Bundler. |
 | [pote/gpm](https://github.com/pote/gpm) | 1k | 51 | 2025-08-03T11:21:55Z |  Barebones dependency manager for Go. |
-| [tools/godep](https://github.com/tools/godep) | 6k | 451 | 2025-08-03T11:21:40Z |  dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. |
 | [lucasepe/modgv](https://github.com/lucasepe/modgv) | 493 | 21 | 2025-07-18T08:35:57Z |  Converts 'go mod graph' output into Graphviz's DOT language. |
 | [lunny/gop](https://github.com/lunny/gop) | 48 | 6 | 2025-04-02T08:00:09Z |  Build and manage your Go applications out of GOPATH. |
 | [DamnWidget/VenGO](https://github.com/DamnWidget/VenGO) | 126 | 11 | 2025-02-26T03:36:17Z |  create and manage exportable isolated go virtual environments. |
