@@ -8,7 +8,7 @@ Libraries for manipulating audio.
 |------------|-------|-------|--------------|-------------|
 | [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 148 | 2025-08-18T06:02:04Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 786 | 102 | 2025-08-16T05:51:10Z |  Go bindings for the PortAudio audio I/O library. |
-| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 378 | 40 | 2025-07-31T18:23:47Z |  Native Go Audio Processing Library. |
+| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 379 | 40 | 2025-08-19T05:03:39Z |  Native Go Audio Processing Library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 351 | 57 | 2025-08-06T11:19:48Z |  ID3 decoding and encoding library for Go. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 345 | 61 | 2025-08-11T20:00:44Z |  Mini audio library. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 339 | 48 | 2025-08-18T16:48:58Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
@@ -25,7 +25,7 @@ Libraries for manipulating audio.
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 345 | 61 | 2025-08-11T20:00:44Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 351 | 57 | 2025-08-06T11:19:48Z |  ID3 decoding and encoding library for Go. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 339 | 48 | 2025-08-18T16:48:58Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
-| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 378 | 40 | 2025-07-31T18:23:47Z |  Native Go Audio Processing Library. |
+| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 379 | 40 | 2025-08-19T05:03:39Z |  Native Go Audio Processing Library. |
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 133 | 20 | 2025-08-03T14:41:37Z |  Native Go AAC bitstream parser. |
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 131 | 20 | 2025-08-12T14:51:07Z |  Lightweight MP3 decoder library. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 36 | 11 | 2025-07-03T20:22:00Z |  libsamplerate bindings for go. |
@@ -34,6 +34,7 @@ Libraries for manipulating audio.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 379 | 40 | 2025-08-19T05:03:39Z |  Native Go Audio Processing Library. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 339 | 48 | 2025-08-18T16:48:58Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
 | [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 148 | 2025-08-18T06:02:04Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 786 | 102 | 2025-08-16T05:51:10Z |  Go bindings for the PortAudio audio I/O library. |
@@ -41,6 +42,5 @@ Libraries for manipulating audio.
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 345 | 61 | 2025-08-11T20:00:44Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 351 | 57 | 2025-08-06T11:19:48Z |  ID3 decoding and encoding library for Go. |
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 133 | 20 | 2025-08-03T14:41:37Z |  Native Go AAC bitstream parser. |
-| [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 378 | 40 | 2025-07-31T18:23:47Z |  Native Go Audio Processing Library. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 36 | 11 | 2025-07-03T20:22:00Z |  libsamplerate bindings for go. |
 
