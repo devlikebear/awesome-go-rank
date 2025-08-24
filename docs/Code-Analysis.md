@@ -6,19 +6,19 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-08-22T13:53:53Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 18k | 1k | 2025-08-22T23:22:55Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
-| [mgechev/revive](https://github.com/mgechev/revive) | 5k | 304 | 2025-08-21T03:26:07Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-08-23T19:23:47Z | . |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 18k | 1k | 2025-08-23T23:53:53Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 5k | 304 | 2025-08-23T15:41:14Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 141 | 2025-08-21T20:04:38Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 177 | 2025-08-21T15:46:41Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 129 | 2025-08-21T06:57:28Z |  source code linter that brings checks that are currently not implemented in other linters. |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 177 | 2025-08-23T17:49:53Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 129 | 2025-08-23T01:34:39Z |  source code linter that brings checks that are currently not implemented in other linters. |
 | [segmentio/golines](https://github.com/segmentio/golines) | 1k | 71 | 2025-08-22T18:18:23Z |  Formatter that automatically shortens long lines in Go code. |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 957 | 64 | 2025-08-08T03:36:41Z |  A Parser for PHP written in Go. |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 956 | 47 | 2025-08-22T05:13:12Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
-| [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 820 | 64 | 2025-08-22T08:06:43Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
+| [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 821 | 64 | 2025-08-23T18:09:40Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 784 | 66 | 2025-07-11T16:46:10Z |  Web based Golang AST visualizer. |
 | [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) | 663 | 28 | 2025-08-19T14:51:55Z |  An easy way to find outdated dependencies of your Go projects. |
-| [sqs/goreturns](https://github.com/sqs/goreturns) | 534 | 54 | 2025-07-05T00:41:16Z |  Adds zero-value return statements to match the func return types. |
+| [sqs/goreturns](https://github.com/sqs/goreturns) | 534 | 53 | 2025-07-05T00:41:16Z |  Adds zero-value return statements to match the func return types. |
 | [amit-davidson/Chronos](https://github.com/amit-davidson/Chronos) | 435 | 11 | 2025-08-18T15:35:00Z |  Detects race conditions statically |
 | [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) | 434 | 44 | 2025-08-02T10:09:45Z |  Static code analyser which links TODO comments in code with issues in your issue tracker. |
 | [mdempsky/unconvert](https://github.com/mdempsky/unconvert) | 384 | 26 | 2025-07-05T00:39:05Z |  Remove unnecessary type conversions from Go source. |
@@ -41,17 +41,17 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-08-22T13:53:53Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 18k | 1k | 2025-08-22T23:22:55Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
-| [mgechev/revive](https://github.com/mgechev/revive) | 5k | 304 | 2025-08-21T03:26:07Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 177 | 2025-08-21T15:46:41Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-08-23T19:23:47Z | . |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 18k | 1k | 2025-08-23T23:53:53Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 5k | 304 | 2025-08-23T15:41:14Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 177 | 2025-08-23T17:49:53Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 141 | 2025-08-21T20:04:38Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 129 | 2025-08-21T06:57:28Z |  source code linter that brings checks that are currently not implemented in other linters. |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 129 | 2025-08-23T01:34:39Z |  source code linter that brings checks that are currently not implemented in other linters. |
 | [segmentio/golines](https://github.com/segmentio/golines) | 1k | 71 | 2025-08-22T18:18:23Z |  Formatter that automatically shortens long lines in Go code. |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 784 | 66 | 2025-07-11T16:46:10Z |  Web based Golang AST visualizer. |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 957 | 64 | 2025-08-08T03:36:41Z |  A Parser for PHP written in Go. |
-| [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 820 | 64 | 2025-08-22T08:06:43Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
-| [sqs/goreturns](https://github.com/sqs/goreturns) | 534 | 54 | 2025-07-05T00:41:16Z |  Adds zero-value return statements to match the func return types. |
+| [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 821 | 64 | 2025-08-23T18:09:40Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
+| [sqs/goreturns](https://github.com/sqs/goreturns) | 534 | 53 | 2025-07-05T00:41:16Z |  Adds zero-value return statements to match the func return types. |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 956 | 47 | 2025-08-22T05:13:12Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
 | [preslavmihaylov/todocheck](https://github.com/preslavmihaylov/todocheck) | 434 | 44 | 2025-08-02T10:09:45Z |  Static code analyser which links TODO comments in code with issues in your issue tracker. |
 | [tomarrell/wrapcheck](https://github.com/tomarrell/wrapcheck) | 344 | 33 | 2025-08-08T14:47:31Z |  A linter to check that errors from external packages are wrapped. |
@@ -76,15 +76,15 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 18k | 1k | 2025-08-22T23:22:55Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 18k | 1k | 2025-08-23T23:53:53Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-08-23T19:23:47Z | . |
+| [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 821 | 64 | 2025-08-23T18:09:40Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
+| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 177 | 2025-08-23T17:49:53Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 5k | 304 | 2025-08-23T15:41:14Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
+| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 129 | 2025-08-23T01:34:39Z |  source code linter that brings checks that are currently not implemented in other linters. |
 | [segmentio/golines](https://github.com/segmentio/golines) | 1k | 71 | 2025-08-22T18:18:23Z |  Formatter that automatically shortens long lines in Go code. |
-| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-08-22T13:53:53Z | . |
-| [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 820 | 64 | 2025-08-22T08:06:43Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 956 | 47 | 2025-08-22T05:13:12Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 2k | 141 | 2025-08-21T20:04:38Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
-| [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 177 | 2025-08-21T15:46:41Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
-| [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 129 | 2025-08-21T06:57:28Z |  source code linter that brings checks that are currently not implemented in other linters. |
-| [mgechev/revive](https://github.com/mgechev/revive) | 5k | 304 | 2025-08-21T03:26:07Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) | 663 | 28 | 2025-08-19T14:51:55Z |  An easy way to find outdated dependencies of your Go projects. |
 | [Crocmagnon/fatcontext](https://github.com/Crocmagnon/fatcontext) | 50 | 2 | 2025-08-19T02:17:58Z |  Fatcontext detects nested contexts in loops or function literals. |
 | [amit-davidson/Chronos](https://github.com/amit-davidson/Chronos) | 435 | 11 | 2025-08-18T15:35:00Z |  Detects race conditions statically |
@@ -97,7 +97,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [mibk/dupl](https://github.com/mibk/dupl) | 352 | 22 | 2025-07-13T15:47:49Z |  Tool for code clone detection. |
 | [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) | 784 | 66 | 2025-07-11T16:46:10Z |  Web based Golang AST visualizer. |
 | [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) | 324 | 18 | 2025-07-08T22:03:27Z |  CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author. |
-| [sqs/goreturns](https://github.com/sqs/goreturns) | 534 | 54 | 2025-07-05T00:41:16Z |  Adds zero-value return statements to match the func return types. |
+| [sqs/goreturns](https://github.com/sqs/goreturns) | 534 | 53 | 2025-07-05T00:41:16Z |  Adds zero-value return statements to match the func return types. |
 | [mdempsky/unconvert](https://github.com/mdempsky/unconvert) | 384 | 26 | 2025-07-05T00:39:05Z |  Remove unnecessary type conversions from Go source. |
 | [asty-org/asty](https://github.com/asty-org/asty) | 88 | 4 | 2025-07-03T02:48:51Z |  Converts golang AST to JSON and JSON to AST. |
 | [sashamelentyev/usestdlibvars](https://github.com/sashamelentyev/usestdlibvars) | 45 | 6 | 2025-05-24T10:24:50Z |  A linter that detect the possibility to use variables/constants from the Go standard library. |
