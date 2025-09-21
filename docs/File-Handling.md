@@ -6,10 +6,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 74k | 3k | 2025-09-19T23:09:51Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 555 | 2025-09-19T14:13:20Z |  PDF processor. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 74k | 3k | 2025-09-21T00:02:23Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 555 | 2025-09-20T15:48:28Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 538 | 2025-09-19T07:04:20Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 170 | 2025-09-19T20:17:54Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 171 | 2025-09-20T19:38:31Z |  Disk usage analyzer with console interface. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 118 | 2025-09-19T16:53:21Z | . |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 155 | 2025-09-19T02:11:32Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 921 | 134 | 2025-09-19T09:20:10Z |  File system event notification library with simple API, similar to os/signal. |
@@ -37,10 +37,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 74k | 3k | 2025-09-19T23:09:51Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 555 | 2025-09-19T14:13:20Z |  PDF processor. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 74k | 3k | 2025-09-21T00:02:23Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 555 | 2025-09-20T15:48:28Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 538 | 2025-09-19T07:04:20Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 170 | 2025-09-19T20:17:54Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 171 | 2025-09-20T19:38:31Z |  Disk usage analyzer with console interface. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 155 | 2025-09-19T02:11:32Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 921 | 134 | 2025-09-19T09:20:10Z |  File system event notification library with simple API, similar to os/signal. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 118 | 2025-09-19T16:53:21Z | . |
@@ -68,10 +68,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 74k | 3k | 2025-09-19T23:09:51Z | ). |
-| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 170 | 2025-09-19T20:17:54Z |  Disk usage analyzer with console interface. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 74k | 3k | 2025-09-21T00:02:23Z | ). |
+| [dundee/gdu](https://github.com/dundee/gdu) | 5k | 171 | 2025-09-20T19:38:31Z |  Disk usage analyzer with console interface. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 555 | 2025-09-20T15:48:28Z |  PDF processor. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 118 | 2025-09-19T16:53:21Z | . |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 8k | 555 | 2025-09-19T14:13:20Z |  PDF processor. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 921 | 134 | 2025-09-19T09:20:10Z |  File system event notification library with simple API, similar to os/signal. |
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 123 | 14 | 2025-09-19T07:53:53Z |  Read and write [parquet](https://parquet.apache.org) files. |
 | [spf13/afero](https://github.com/spf13/afero) | 6k | 538 | 2025-09-19T07:04:20Z |  FileSystem Abstraction System for Go. |
