@@ -6,26 +6,26 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 8k | 708 | 2025-09-25T18:56:37Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 458 | 18 | 2025-09-21T01:10:10Z |  Update binaries installed by "go install". |
+| [anchore/syft](https://github.com/anchore/syft) | 8k | 711 | 2025-09-26T21:51:12Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [nao1215/gup](https://github.com/nao1215/gup) | 459 | 18 | 2025-09-26T16:08:05Z |  Update binaries installed by "go install". |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 167 | 32 | 2025-09-05T17:09:45Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
-| [chaindead/modup](https://github.com/chaindead/modup) | 55 | 1 | 2025-09-20T13:05:28Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
+| [chaindead/modup](https://github.com/chaindead/modup) | 56 | 1 | 2025-09-26T11:33:00Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 8k | 708 | 2025-09-25T18:56:37Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 8k | 711 | 2025-09-26T21:51:12Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 167 | 32 | 2025-09-05T17:09:45Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 458 | 18 | 2025-09-21T01:10:10Z |  Update binaries installed by "go install". |
-| [chaindead/modup](https://github.com/chaindead/modup) | 55 | 1 | 2025-09-20T13:05:28Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
+| [nao1215/gup](https://github.com/nao1215/gup) | 459 | 18 | 2025-09-26T16:08:05Z |  Update binaries installed by "go install". |
+| [chaindead/modup](https://github.com/chaindead/modup) | 56 | 1 | 2025-09-26T11:33:00Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 8k | 708 | 2025-09-25T18:56:37Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 458 | 18 | 2025-09-21T01:10:10Z |  Update binaries installed by "go install". |
-| [chaindead/modup](https://github.com/chaindead/modup) | 55 | 1 | 2025-09-20T13:05:28Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
+| [anchore/syft](https://github.com/anchore/syft) | 8k | 711 | 2025-09-26T21:51:12Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [nao1215/gup](https://github.com/nao1215/gup) | 459 | 18 | 2025-09-26T16:08:05Z |  Update binaries installed by "go install". |
+| [chaindead/modup](https://github.com/chaindead/modup) | 56 | 1 | 2025-09-26T11:33:00Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 167 | 32 | 2025-09-05T17:09:45Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 
