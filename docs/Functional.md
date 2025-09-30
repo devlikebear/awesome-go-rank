@@ -14,7 +14,7 @@ Packages to support functional programming in Go.
 | [rbrahul/gofp](https://github.com/rbrahul/gofp) | 152 | 9 | 2025-08-18T18:15:42Z |  A lodash like powerful utility library for Golang. |
 | [seborama/fuego](https://github.com/seborama/fuego) | 146 | 12 | 2025-07-14T21:59:14Z |  Functional Experiment in Go. |
 | [rjNemo/underscore](https://github.com/rjNemo/underscore) | 118 | 6 | 2025-09-02T03:08:16Z |  Functional programming helpers for Go 1.18 and beyond. |
-| [phelmkamp/valor](https://github.com/phelmkamp/valor) | 19 | 1 | 2025-09-28T20:36:53Z |  Generic option and result types that optionally contain a value. |
+| [phelmkamp/valor](https://github.com/phelmkamp/valor) | 20 | 1 | 2025-09-29T08:00:12Z |  Generic option and result types that optionally contain a value. |
 
 ### Ranked by Forks
 
@@ -28,14 +28,14 @@ Packages to support functional programming in Go.
 | [repeale/fp-go](https://github.com/repeale/fp-go) | 316 | 11 | 2025-08-12T09:37:57Z |  Collection of Functional Programming helpers powered by Golang 1.18+ generics. |
 | [rbrahul/gofp](https://github.com/rbrahul/gofp) | 152 | 9 | 2025-08-18T18:15:42Z |  A lodash like powerful utility library for Golang. |
 | [rjNemo/underscore](https://github.com/rjNemo/underscore) | 118 | 6 | 2025-09-02T03:08:16Z |  Functional programming helpers for Go 1.18 and beyond. |
-| [phelmkamp/valor](https://github.com/phelmkamp/valor) | 19 | 1 | 2025-09-28T20:36:53Z |  Generic option and result types that optionally contain a value. |
+| [phelmkamp/valor](https://github.com/phelmkamp/valor) | 20 | 1 | 2025-09-29T08:00:12Z |  Generic option and result types that optionally contain a value. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [phelmkamp/valor](https://github.com/phelmkamp/valor) | 20 | 1 | 2025-09-29T08:00:12Z |  Generic option and result types that optionally contain a value. |
 | [samber/mo](https://github.com/samber/mo) | 3k | 107 | 2025-09-28T20:45:21Z |  Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...). |
-| [phelmkamp/valor](https://github.com/phelmkamp/valor) | 19 | 1 | 2025-09-28T20:36:53Z |  Generic option and result types that optionally contain a value. |
 | [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) | 515 | 26 | 2025-09-27T12:27:35Z |  Functional programming in Go using generics |
 | [rjNemo/underscore](https://github.com/rjNemo/underscore) | 118 | 6 | 2025-09-02T03:08:16Z |  Functional programming helpers for Go 1.18 and beyond. |
 | [rbrahul/gofp](https://github.com/rbrahul/gofp) | 152 | 9 | 2025-08-18T18:15:42Z |  A lodash like powerful utility library for Golang. |
