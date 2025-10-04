@@ -6,7 +6,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 8k | 711 | 2025-10-02T21:37:40Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 8k | 712 | 2025-10-03T22:30:12Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 465 | 18 | 2025-10-02T19:06:55Z |  Update binaries installed by "go install". |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 167 | 32 | 2025-09-05T17:09:45Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [chaindead/modup](https://github.com/chaindead/modup) | 56 | 1 | 2025-09-26T11:33:00Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
@@ -15,7 +15,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 8k | 711 | 2025-10-02T21:37:40Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 8k | 712 | 2025-10-03T22:30:12Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 167 | 32 | 2025-09-05T17:09:45Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 465 | 18 | 2025-10-02T19:06:55Z |  Update binaries installed by "go install". |
 | [chaindead/modup](https://github.com/chaindead/modup) | 56 | 1 | 2025-09-26T11:33:00Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
@@ -24,7 +24,7 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 8k | 711 | 2025-10-02T21:37:40Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [anchore/syft](https://github.com/anchore/syft) | 8k | 712 | 2025-10-03T22:30:12Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
 | [nao1215/gup](https://github.com/nao1215/gup) | 465 | 18 | 2025-10-02T19:06:55Z |  Update binaries installed by "go install". |
 | [chaindead/modup](https://github.com/chaindead/modup) | 56 | 1 | 2025-09-26T11:33:00Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
 | [raydac/mvn-golang](https://github.com/raydac/mvn-golang) | 167 | 32 | 2025-09-05T17:09:45Z |  plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure. |

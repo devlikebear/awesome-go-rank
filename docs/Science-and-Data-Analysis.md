@@ -6,7 +6,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 570 | 2025-09-30T19:26:06Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 570 | 2025-10-03T10:02:40Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 169 | 2025-10-01T13:39:21Z |  Statistics package with common functions missing from the Golang standard library. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-10-02T21:11:26Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 147 | 2025-09-24T23:06:24Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
@@ -37,7 +37,7 @@ Libraries for scientific computing and data analyzing.
 | [OGFris/GoStats](https://github.com/OGFris/GoStats) | 22 | 3 | 2024-10-22T01:08:13Z |  GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions. |
 | [ChristopherRabotin/ode](https://github.com/ChristopherRabotin/ode) | 22 | 2 | 2023-11-18T05:45:28Z |  Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions. |
 | [claygod/PiHex](https://github.com/claygod/PiHex) | 20 | 4 | 2025-09-14T18:01:37Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
-| [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 17 | 3 | 2025-04-09T10:13:41Z |  Package assocentity returns the average distance from words to a given entity. |
+| [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 16 | 3 | 2025-10-03T23:13:32Z |  Package assocentity returns the average distance from words to a given entity. |
 | [keilerkonzept/topk](https://github.com/keilerkonzept/topk) | 16 | 2 | 2025-08-18T08:08:47Z |  Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm. |
 | [khezen/rootfinding](https://github.com/khezen/rootfinding) | 11 | 2 | 2023-11-12T14:20:43Z |  root-finding algorithms library for finding roots of quadratic functions. |
 | [seanhagen/bradleyterry](https://github.com/seanhagen/bradleyterry) | 11 | 2 | 2024-10-22T01:01:51Z |  Provides a Bradley-Terry Model for pairwise comparisons. |
@@ -47,7 +47,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 570 | 2025-09-30T19:26:06Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 570 | 2025-10-03T10:02:40Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-10-02T21:11:26Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 169 | 2025-10-01T13:39:21Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 147 | 2025-09-24T23:06:24Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
@@ -76,7 +76,7 @@ Libraries for scientific computing and data analyzing.
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 28 | 4 | 2025-02-16T12:30:36Z |  Tiny linear interpolation library. |
 | [OGFris/GoStats](https://github.com/OGFris/GoStats) | 22 | 3 | 2024-10-22T01:08:13Z |  GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions. |
 | [db47h/decimal](https://github.com/db47h/decimal) | 45 | 3 | 2025-07-22T23:11:22Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
-| [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 17 | 3 | 2025-04-09T10:13:41Z |  Package assocentity returns the average distance from words to a given entity. |
+| [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 16 | 3 | 2025-10-03T23:13:32Z |  Package assocentity returns the average distance from words to a given entity. |
 | [ChristopherRabotin/ode](https://github.com/ChristopherRabotin/ode) | 22 | 2 | 2023-11-18T05:45:28Z |  Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions. |
 | [keilerkonzept/topk](https://github.com/keilerkonzept/topk) | 16 | 2 | 2025-08-18T08:08:47Z |  Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm. |
 | [khezen/rootfinding](https://github.com/khezen/rootfinding) | 11 | 2 | 2023-11-12T14:20:43Z |  root-finding algorithms library for finding roots of quadratic functions. |
@@ -88,11 +88,12 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 16 | 3 | 2025-10-03T23:13:32Z |  Package assocentity returns the average distance from words to a given entity. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 570 | 2025-10-03T10:02:40Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-10-02T21:11:26Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 118 | 2025-10-02T09:59:15Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 169 | 2025-10-01T13:39:21Z |  Statistics package with common functions missing from the Golang standard library. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2025-10-01T03:26:41Z |  Dataframes for machine-learning and statistics (similar to pandas). |
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 570 | 2025-09-30T19:26:06Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 742 | 75 | 2025-09-30T04:05:52Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 94 | 11 | 2025-09-27T15:39:31Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 736 | 65 | 2025-09-27T10:35:06Z |  Library of basic graph algorithms. |
@@ -113,7 +114,6 @@ Libraries for scientific computing and data analyzing.
 | [tchayen/triangolatte](https://github.com/tchayen/triangolatte) | 37 | 4 | 2025-07-27T02:32:00Z |  2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. |
 | [db47h/decimal](https://github.com/db47h/decimal) | 45 | 3 | 2025-07-22T23:11:22Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 165 | 22 | 2025-07-12T13:54:07Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
-| [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 17 | 3 | 2025-04-09T10:13:41Z |  Package assocentity returns the average distance from words to a given entity. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 28 | 4 | 2025-02-16T12:30:36Z |  Tiny linear interpolation library. |
 | [skelterjohn/geom](https://github.com/skelterjohn/geom) | 55 | 18 | 2025-01-02T01:09:11Z |  2D geometry for golang. |
 | [OGFris/GoStats](https://github.com/OGFris/GoStats) | 22 | 3 | 2024-10-22T01:08:13Z |  GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions. |
