@@ -16,6 +16,7 @@ Libraries for manipulating audio.
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 133 | 20 | 2025-08-03T14:41:37Z |  Native Go AAC bitstream parser. |
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 132 | 20 | 2025-08-31T19:00:12Z |  Lightweight MP3 decoder library. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 36 | 10 | 2025-07-03T20:22:00Z |  libsamplerate bindings for go. |
+| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 19 | 0 | 2025-07-22T05:56:22Z |  Client for mpris dbus interfaces. |
 
 ### Ranked by Forks
 
@@ -31,6 +32,7 @@ Libraries for manipulating audio.
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 133 | 20 | 2025-08-03T14:41:37Z |  Native Go AAC bitstream parser. |
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 132 | 20 | 2025-08-31T19:00:12Z |  Lightweight MP3 decoder library. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 36 | 10 | 2025-07-03T20:22:00Z |  libsamplerate bindings for go. |
+| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 19 | 0 | 2025-07-22T05:56:22Z |  Client for mpris dbus interfaces. |
 
 ### Ranked by Last Updated
 
@@ -45,5 +47,6 @@ Libraries for manipulating audio.
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 343 | 48 | 2025-09-16T20:50:16Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 132 | 20 | 2025-08-31T19:00:12Z |  Lightweight MP3 decoder library. |
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 133 | 20 | 2025-08-03T14:41:37Z |  Native Go AAC bitstream parser. |
+| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 19 | 0 | 2025-07-22T05:56:22Z |  Client for mpris dbus interfaces. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 36 | 10 | 2025-07-03T20:22:00Z |  libsamplerate bindings for go. |
 
