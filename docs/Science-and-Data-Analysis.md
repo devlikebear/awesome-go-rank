@@ -20,7 +20,7 @@ Libraries for scientific computing and data analyzing.
 | [bebop/poly](https://github.com/bebop/poly) | 712 | 71 | 2025-10-04T14:07:47Z |  A Go package for engineering organisms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 449 | 37 | 2025-08-06T14:18:22Z |  Exponentially-weighted moving averages. |
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 409 | 16 | 2025-09-12T23:20:30Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
-| [go-hep/hep](https://github.com/go-hep/hep) | 252 | 37 | 2025-10-05T16:14:48Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
+| [go-hep/hep](https://github.com/go-hep/hep) | 252 | 38 | 2025-10-05T16:14:48Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 218 | 22 | 2025-08-16T05:20:52Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 165 | 22 | 2025-07-12T13:54:07Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 119 | 8 | 2025-09-07T23:07:48Z |  State estimation and filtering algorithms in Go. |
@@ -59,8 +59,8 @@ Libraries for scientific computing and data analyzing.
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 742 | 75 | 2025-09-30T04:05:52Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [bebop/poly](https://github.com/bebop/poly) | 712 | 71 | 2025-10-04T14:07:47Z |  A Go package for engineering organisms. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 736 | 65 | 2025-09-27T10:35:06Z |  Library of basic graph algorithms. |
+| [go-hep/hep](https://github.com/go-hep/hep) | 252 | 38 | 2025-10-05T16:14:48Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 449 | 37 | 2025-08-06T14:18:22Z |  Exponentially-weighted moving averages. |
-| [go-hep/hep](https://github.com/go-hep/hep) | 252 | 37 | 2025-10-05T16:14:48Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 218 | 22 | 2025-08-16T05:20:52Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 165 | 22 | 2025-07-12T13:54:07Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 87 | 19 | 2025-09-18T12:34:36Z |  Weighted PageRank algorithm implemented in Go. |
@@ -95,7 +95,7 @@ Libraries for scientific computing and data analyzing.
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-10-08T07:50:40Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 95 | 11 | 2025-10-06T18:58:50Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 17 | 3 | 2025-10-06T09:03:50Z |  Package assocentity returns the average distance from words to a given entity. |
-| [go-hep/hep](https://github.com/go-hep/hep) | 252 | 37 | 2025-10-05T16:14:48Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
+| [go-hep/hep](https://github.com/go-hep/hep) | 252 | 38 | 2025-10-05T16:14:48Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 169 | 2025-10-04T17:35:43Z |  Statistics package with common functions missing from the Golang standard library. |
 | [soniah/evaler](https://github.com/soniah/evaler) | 50 | 17 | 2025-10-04T17:33:26Z |  Simple floating point arithmetic expression evaluator. |
 | [bebop/poly](https://github.com/bebop/poly) | 712 | 71 | 2025-10-04T14:07:47Z |  A Go package for engineering organisms. |
