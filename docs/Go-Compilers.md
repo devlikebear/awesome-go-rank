@@ -6,7 +6,7 @@ Tools for compiling Go to other languages and vice-versa.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 13k | 570 | 2025-10-11T19:31:08Z |  Compiler from Go to JavaScript. |
+| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 13k | 570 | 2025-10-12T14:48:39Z |  Compiler from Go to JavaScript. |
 | [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) | 3k | 74 | 2025-10-06T04:43:20Z |  Compile shell scripts to Go. |
 | [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) | 374 | 41 | 2025-10-08T13:01:34Z |  Transpile C code to Go code. |
 | [go2hx/go2hx](https://github.com/go2hx/go2hx) | 139 | 14 | 2025-10-10T23:37:41Z |  Compiler from Go to Haxe to Javascript/C++/Java/C#. |
@@ -17,7 +17,7 @@ Tools for compiling Go to other languages and vice-versa.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 13k | 570 | 2025-10-11T19:31:08Z |  Compiler from Go to JavaScript. |
+| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 13k | 570 | 2025-10-12T14:48:39Z |  Compiler from Go to JavaScript. |
 | [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) | 3k | 74 | 2025-10-06T04:43:20Z |  Compile shell scripts to Go. |
 | [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) | 374 | 41 | 2025-10-08T13:01:34Z |  Transpile C code to Go code. |
 | [go2hx/go2hx](https://github.com/go2hx/go2hx) | 139 | 14 | 2025-10-10T23:37:41Z |  Compiler from Go to Haxe to Javascript/C++/Java/C#. |
@@ -28,7 +28,7 @@ Tools for compiling Go to other languages and vice-versa.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 13k | 570 | 2025-10-11T19:31:08Z |  Compiler from Go to JavaScript. |
+| [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) | 13k | 570 | 2025-10-12T14:48:39Z |  Compiler from Go to JavaScript. |
 | [go2hx/go2hx](https://github.com/go2hx/go2hx) | 139 | 14 | 2025-10-10T23:37:41Z |  Compiler from Go to Haxe to Javascript/C++/Java/C#. |
 | [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) | 374 | 41 | 2025-10-08T13:01:34Z |  Transpile C code to Go code. |
 | [andygeiss/esp32-transpiler](https://github.com/andygeiss/esp32-transpiler) | 93 | 5 | 2025-10-06T10:12:58Z |  Transpile Go into Arduino code. |

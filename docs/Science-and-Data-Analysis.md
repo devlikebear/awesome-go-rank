@@ -16,7 +16,7 @@ Libraries for scientific computing and data analyzing.
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 891 | 88 | 2025-10-09T07:31:13Z |  Digital Signal Processing for Go. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 774 | 107 | 2025-08-29T08:30:21Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 742 | 75 | 2025-09-30T04:05:52Z |  Pure Go graph theory library(data structure, algorithm visualization). |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 736 | 65 | 2025-09-27T10:35:06Z |  Library of basic graph algorithms. |
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 737 | 65 | 2025-10-12T07:49:15Z |  Library of basic graph algorithms. |
 | [bebop/poly](https://github.com/bebop/poly) | 712 | 71 | 2025-10-04T14:07:47Z |  A Go package for engineering organisms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 449 | 37 | 2025-08-06T14:18:22Z |  Exponentially-weighted moving averages. |
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 409 | 16 | 2025-09-12T23:20:30Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
@@ -58,7 +58,7 @@ Libraries for scientific computing and data analyzing.
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 891 | 88 | 2025-10-09T07:31:13Z |  Digital Signal Processing for Go. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 742 | 75 | 2025-09-30T04:05:52Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [bebop/poly](https://github.com/bebop/poly) | 712 | 71 | 2025-10-04T14:07:47Z |  A Go package for engineering organisms. |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 736 | 65 | 2025-09-27T10:35:06Z |  Library of basic graph algorithms. |
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 737 | 65 | 2025-10-12T07:49:15Z |  Library of basic graph algorithms. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 252 | 38 | 2025-10-05T16:14:48Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 449 | 37 | 2025-08-06T14:18:22Z |  Exponentially-weighted moving averages. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 218 | 22 | 2025-08-16T05:20:52Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
@@ -88,6 +88,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 737 | 65 | 2025-10-12T07:49:15Z |  Library of basic graph algorithms. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 205 | 2025-10-11T21:43:45Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 118 | 2025-10-09T22:15:22Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 570 | 2025-10-09T19:42:15Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
@@ -101,7 +102,6 @@ Libraries for scientific computing and data analyzing.
 | [bebop/poly](https://github.com/bebop/poly) | 712 | 71 | 2025-10-04T14:07:47Z |  A Go package for engineering organisms. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2025-10-01T03:26:41Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 742 | 75 | 2025-09-30T04:05:52Z |  Pure Go graph theory library(data structure, algorithm visualization). |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 736 | 65 | 2025-09-27T10:35:06Z |  Library of basic graph algorithms. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 77 | 5 | 2025-09-26T06:39:41Z |  Tool to manipulate JSONL graphs with graphviz support. |
 | [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 87 | 19 | 2025-09-18T12:34:36Z |  Weighted PageRank algorithm implemented in Go. |
 | [claygod/PiHex](https://github.com/claygod/PiHex) | 20 | 4 | 2025-09-14T18:01:37Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
