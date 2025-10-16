@@ -6,7 +6,7 @@ Libraries and tools for stream processing and reactive programming.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 170 | 2025-10-14T04:30:18Z |  Go stream processing library. |
+| [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 170 | 2025-10-15T05:27:14Z |  Go stream processing library. |
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 174 | 51 | 2025-10-11T17:20:50Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
 | [mariomac/gostream](https://github.com/mariomac/gostream) | 168 | 11 | 2025-09-30T15:39:54Z |  Type-safe stream processing library inspired by the Java Streams API. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 163 | 12 | 2025-08-22T14:21:17Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
@@ -19,7 +19,7 @@ Libraries and tools for stream processing and reactive programming.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 170 | 2025-10-14T04:30:18Z |  Go stream processing library. |
+| [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 170 | 2025-10-15T05:27:14Z |  Go stream processing library. |
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 174 | 51 | 2025-10-11T17:20:50Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 163 | 12 | 2025-08-22T14:21:17Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
 | [mariomac/gostream](https://github.com/mariomac/gostream) | 168 | 11 | 2025-09-30T15:39:54Z |  Type-safe stream processing library inspired by the Java Streams API. |
@@ -32,7 +32,7 @@ Libraries and tools for stream processing and reactive programming.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 170 | 2025-10-14T04:30:18Z |  Go stream processing library. |
+| [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 170 | 2025-10-15T05:27:14Z |  Go stream processing library. |
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 174 | 51 | 2025-10-11T17:20:50Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
 | [rulego/streamsql](https://github.com/rulego/streamsql) | 46 | 4 | 2025-10-08T04:01:50Z |  A lightweight streaming SQL engine for real-time data processing. |
 | [mariomac/gostream](https://github.com/mariomac/gostream) | 168 | 11 | 2025-09-30T15:39:54Z |  Type-safe stream processing library inspired by the Java Streams API. |
