@@ -6,17 +6,17 @@ Libraries for testing codebases and generating test data.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-10-22T21:09:25Z |  Sacred extension to the standard go testing package. |
-| [knq/chromedp](https://github.com/knq/chromedp) | 12k | 841 | 2025-10-22T23:04:01Z |  a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol. |
-| [keploy/keploy](https://github.com/keploy/keploy) | 12k | 2k | 2025-10-22T23:19:21Z |  Generate Testcase and Data Mocks from API calls automatically. |
-| [vektra/mockery](https://github.com/vektra/mockery) | 7k | 447 | 2025-10-21T14:51:41Z |  Tool to generate Go interfaces. |
-| [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) | 6k | 408 | 2025-10-22T04:22:46Z |  Mock SQL driver for testing database interactions. |
-| [go-rod/rod](https://github.com/go-rod/rod) | 6k | 417 | 2025-10-22T17:51:16Z |  A Devtools driver to make web automation and scraping easy. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-10-23T23:33:44Z |  Sacred extension to the standard go testing package. |
+| [knq/chromedp](https://github.com/knq/chromedp) | 12k | 841 | 2025-10-23T14:36:09Z |  a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol. |
+| [keploy/keploy](https://github.com/keploy/keploy) | 12k | 2k | 2025-10-23T20:56:59Z |  Generate Testcase and Data Mocks from API calls automatically. |
+| [vektra/mockery](https://github.com/vektra/mockery) | 7k | 447 | 2025-10-23T14:32:41Z |  Tool to generate Go interfaces. |
+| [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) | 6k | 408 | 2025-10-23T13:36:59Z |  Mock SQL driver for testing database interactions. |
+| [go-rod/rod](https://github.com/go-rod/rod) | 6k | 417 | 2025-10-23T08:49:21Z |  A Devtools driver to make web automation and scraping easy. |
 | [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) | 5k | 276 | 2025-10-20T11:33:17Z |  Randomized testing system. |
-| [google/go-cmp](https://github.com/google/go-cmp) | 5k | 218 | 2025-10-22T11:24:50Z |  Package for comparing Go values in tests. |
-| [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) | 4k | 584 | 2025-10-22T14:36:12Z |  A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
-| [uber-go/mock](https://github.com/uber-go/mock) | 3k | 155 | 2025-10-22T16:32:20Z |  Mocking framework for the Go programming language. |
-| [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) | 3k | 207 | 2025-10-22T15:52:34Z |  browser automation library to control Chromium, Firefox and WebKit with a single API. |
+| [google/go-cmp](https://github.com/google/go-cmp) | 5k | 218 | 2025-10-23T04:49:46Z |  Package for comparing Go values in tests. |
+| [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) | 4k | 584 | 2025-10-23T18:50:51Z |  A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
+| [uber-go/mock](https://github.com/uber-go/mock) | 3k | 155 | 2025-10-23T19:14:42Z |  Mocking framework for the Go programming language. |
+| [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) | 3k | 207 | 2025-10-23T09:44:09Z |  browser automation library to control Chromium, Firefox and WebKit with a single API. |
 | [gavv/httpexpect](https://github.com/gavv/httpexpect) | 3k | 243 | 2025-10-19T19:30:00Z |  Concise, declarative, and easy to use end-to-end HTTP and REST API testing. |
 | [cucumber/godog](https://github.com/cucumber/godog) | 3k | 268 | 2025-10-22T14:25:35Z |  Cucumber BDD framework for Go. |
 | [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) | 2k | 219 | 2025-10-21T10:04:04Z |  HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI. |
@@ -26,7 +26,7 @@ Libraries for testing codebases and generating test data.
 | [matryer/is](https://github.com/matryer/is) | 2k | 60 | 2025-10-21T16:35:20Z |  Professional lightweight testing mini-framework for Go. |
 | [orlangure/gnomock](https://github.com/orlangure/gnomock) | 1k | 71 | 2025-10-12T20:09:39Z |  integration testing with real dependencies (database, cache, even Kubernetes or AWS) running in Docker, without mocks. |
 | [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) | 1k | 82 | 2025-10-19T17:57:03Z |  Record and replay your HTTP interactions for fast, deterministic and accurate tests. |
-| [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) | 1k | 90 | 2025-10-21T13:44:50Z |  A helper for Rails' like test fixtures to test database applications. |
+| [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) | 1k | 90 | 2025-10-23T10:51:52Z |  A helper for Rails' like test fixtures to test database applications. |
 | [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) | 1k | 99 | 2025-10-15T14:48:19Z |  Tool for generating self-contained mock objects. |
 | [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) | 1k | 98 | 2025-10-16T09:19:36Z |  Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test. |
 | [franela/goblin](https://github.com/franela/goblin) | 889 | 76 | 2025-08-08T01:23:55Z |  Mocha like testing framework of Go. |
@@ -34,7 +34,7 @@ Libraries for testing codebases and generating test data.
 | [pingcap/failpoint](https://github.com/pingcap/failpoint) | 864 | 63 | 2025-10-18T04:02:43Z |  An implementation of [failpoints](https://www.freebsd.org/cgi/man.cgi?query=fail) for Golang. |
 | [h2non/baloo](https://github.com/h2non/baloo) | 782 | 30 | 2025-09-11T23:52:59Z |  Expressive and versatile end-to-end HTTP API testing made easy. |
 | [mafredri/cdp](https://github.com/mafredri/cdp) | 763 | 48 | 2025-09-14T00:40:34Z |  Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it. |
-| [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) | 748 | 147 | 2025-10-22T16:43:33Z |  HTTP testing and debugging tool with various endpoints for client testing. |
+| [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) | 749 | 147 | 2025-10-23T02:00:53Z |  HTTP testing and debugging tool with various endpoints for client testing. |
 | [gojuno/minimock](https://github.com/gojuno/minimock) | 738 | 47 | 2025-10-15T16:04:33Z |  Mock generator for Go interfaces. |
 | [DATA-DOG/go-txdb](https://github.com/DATA-DOG/go-txdb) | 737 | 48 | 2025-10-17T02:34:00Z |  Single transaction based database driver mainly for testing purposes. |
 | [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) | 659 | 58 | 2025-10-07T14:18:58Z |  Mutation testing for Go source code. |
@@ -46,7 +46,7 @@ Libraries for testing codebases and generating test data.
 | [bradleyjkemp/cupaloy](https://github.com/bradleyjkemp/cupaloy) | 322 | 26 | 2025-10-17T21:07:08Z |  Simple snapshot testing addon for your test framework. |
 | [verdverm/frisby](https://github.com/verdverm/frisby) | 275 | 26 | 2025-09-10T19:00:12Z |  REST API testing framework. |
 | [ysmood/got](https://github.com/ysmood/got) | 270 | 18 | 2025-10-02T00:56:53Z |  An enjoyable golang test framework. |
-| [viant/endly](https://github.com/viant/endly) | 267 | 35 | 2025-10-22T23:28:11Z |  Declarative end to end functional testing. |
+| [viant/endly](https://github.com/viant/endly) | 267 | 35 | 2025-10-23T17:21:48Z |  Declarative end to end functional testing. |
 | [Eun/go-hit](https://github.com/Eun/go-hit) | 261 | 9 | 2025-08-11T09:31:39Z |  Hit is an http integration test framework written in golang. |
 | [msoap/go-carpet](https://github.com/msoap/go-carpet) | 250 | 11 | 2025-09-29T19:24:32Z |  Tool for viewing test coverage in terminal. |
 | [zimmski/tavor](https://github.com/zimmski/tavor) | 247 | 10 | 2025-06-20T09:10:28Z |  Generic fuzzing and delta-debugging framework. |
@@ -75,7 +75,7 @@ Libraries for testing codebases and generating test data.
 | [rdrdr/hamcrest](https://github.com/rdrdr/hamcrest) | 30 | 5 | 2024-04-11T09:34:25Z |  fluent framework for declarative Matcher objects that, when applied to input values, produce self-describing results. |
 | [tv42/mockhttp](https://github.com/tv42/mockhttp) | 23 | 6 | 2023-11-14T18:39:38Z |  Mock object for Go http.ResponseWriter. |
 | [jgroeneveld/schema](https://github.com/jgroeneveld/schema) | 20 | 1 | 2024-12-29T23:10:59Z |  Quick and easy expression matching for JSON schemas used in requests and responses. |
-| [suzuki-shunsuke/flute](https://github.com/suzuki-shunsuke/flute) | 20 | 1 | 2025-10-18T05:45:11Z |  HTTP client testing framework. |
+| [suzuki-shunsuke/flute](https://github.com/suzuki-shunsuke/flute) | 20 | 1 | 2025-10-23T16:58:50Z |  HTTP client testing framework. |
 | [GuilhermeCaruso/mooncake](https://github.com/GuilhermeCaruso/mooncake) | 18 | 0 | 2025-10-09T17:25:23Z |  A simple way to generate mocks for multiple purposes. |
 | [abecodes/dft](https://github.com/abecodes/dft) | 17 | 0 | 2025-10-01T05:36:12Z |  Lightweight, zero dependency docker containers for testing (or more). |
 | [zhulongcheng/testsql](https://github.com/zhulongcheng/testsql) | 17 | 2 | 2025-08-15T06:47:38Z |  Generate test data from SQL files before testing and clear it after finished. |
@@ -98,28 +98,28 @@ Libraries for testing codebases and generating test data.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [keploy/keploy](https://github.com/keploy/keploy) | 12k | 2k | 2025-10-22T23:19:21Z |  Generate Testcase and Data Mocks from API calls automatically. |
-| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-10-22T21:09:25Z |  Sacred extension to the standard go testing package. |
-| [knq/chromedp](https://github.com/knq/chromedp) | 12k | 841 | 2025-10-22T23:04:01Z |  a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol. |
-| [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) | 4k | 584 | 2025-10-22T14:36:12Z |  A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
-| [vektra/mockery](https://github.com/vektra/mockery) | 7k | 447 | 2025-10-21T14:51:41Z |  Tool to generate Go interfaces. |
-| [go-rod/rod](https://github.com/go-rod/rod) | 6k | 417 | 2025-10-22T17:51:16Z |  A Devtools driver to make web automation and scraping easy. |
-| [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) | 6k | 408 | 2025-10-22T04:22:46Z |  Mock SQL driver for testing database interactions. |
+| [keploy/keploy](https://github.com/keploy/keploy) | 12k | 2k | 2025-10-23T20:56:59Z |  Generate Testcase and Data Mocks from API calls automatically. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-10-23T23:33:44Z |  Sacred extension to the standard go testing package. |
+| [knq/chromedp](https://github.com/knq/chromedp) | 12k | 841 | 2025-10-23T14:36:09Z |  a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol. |
+| [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) | 4k | 584 | 2025-10-23T18:50:51Z |  A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
+| [vektra/mockery](https://github.com/vektra/mockery) | 7k | 447 | 2025-10-23T14:32:41Z |  Tool to generate Go interfaces. |
+| [go-rod/rod](https://github.com/go-rod/rod) | 6k | 417 | 2025-10-23T08:49:21Z |  A Devtools driver to make web automation and scraping easy. |
+| [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) | 6k | 408 | 2025-10-23T13:36:59Z |  Mock SQL driver for testing database interactions. |
 | [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) | 5k | 276 | 2025-10-20T11:33:17Z |  Randomized testing system. |
 | [cucumber/godog](https://github.com/cucumber/godog) | 3k | 268 | 2025-10-22T14:25:35Z |  Cucumber BDD framework for Go. |
 | [gavv/httpexpect](https://github.com/gavv/httpexpect) | 3k | 243 | 2025-10-19T19:30:00Z |  Concise, declarative, and easy to use end-to-end HTTP and REST API testing. |
 | [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) | 2k | 219 | 2025-10-21T10:04:04Z |  HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI. |
-| [google/go-cmp](https://github.com/google/go-cmp) | 5k | 218 | 2025-10-22T11:24:50Z |  Package for comparing Go values in tests. |
-| [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) | 3k | 207 | 2025-10-22T15:52:34Z |  browser automation library to control Chromium, Firefox and WebKit with a single API. |
-| [uber-go/mock](https://github.com/uber-go/mock) | 3k | 155 | 2025-10-22T16:32:20Z |  Mocking framework for the Go programming language. |
-| [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) | 748 | 147 | 2025-10-22T16:43:33Z |  HTTP testing and debugging tool with various endpoints for client testing. |
+| [google/go-cmp](https://github.com/google/go-cmp) | 5k | 218 | 2025-10-23T04:49:46Z |  Package for comparing Go values in tests. |
+| [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) | 3k | 207 | 2025-10-23T09:44:09Z |  browser automation library to control Chromium, Firefox and WebKit with a single API. |
+| [uber-go/mock](https://github.com/uber-go/mock) | 3k | 155 | 2025-10-23T19:14:42Z |  Mocking framework for the Go programming language. |
+| [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) | 749 | 147 | 2025-10-23T02:00:53Z |  HTTP testing and debugging tool with various endpoints for client testing. |
 | [matryer/moq](https://github.com/matryer/moq) | 2k | 134 | 2025-10-22T14:40:33Z |  Utility that generates a struct from any interface. The struct can be used in test code as a mock of the interface. |
 | [qiniu/goc](https://github.com/qiniu/goc) | 872 | 132 | 2025-09-22T08:57:54Z |  Goc is a comprehensive coverage testing system for The Go Programming Language. |
 | [h2non/gock](https://github.com/h2non/gock) | 2k | 110 | 2025-10-01T18:53:22Z |  Versatile HTTP mocking made easy. |
 | [jarcoal/httpmock](https://github.com/jarcoal/httpmock) | 2k | 106 | 2025-10-04T17:37:28Z |  Easy mocking of HTTP responses from external resources. |
 | [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) | 1k | 99 | 2025-10-15T14:48:19Z |  Tool for generating self-contained mock objects. |
 | [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) | 1k | 98 | 2025-10-16T09:19:36Z |  Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test. |
-| [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) | 1k | 90 | 2025-10-21T13:44:50Z |  A helper for Rails' like test fixtures to test database applications. |
+| [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) | 1k | 90 | 2025-10-23T10:51:52Z |  A helper for Rails' like test fixtures to test database applications. |
 | [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) | 1k | 82 | 2025-10-19T17:57:03Z |  Record and replay your HTTP interactions for fast, deterministic and accurate tests. |
 | [franela/goblin](https://github.com/franela/goblin) | 889 | 76 | 2025-08-08T01:23:55Z |  Mocha like testing framework of Go. |
 | [orlangure/gnomock](https://github.com/orlangure/gnomock) | 1k | 71 | 2025-10-12T20:09:39Z |  integration testing with real dependencies (database, cache, even Kubernetes or AWS) running in Docker, without mocks. |
@@ -131,7 +131,7 @@ Libraries for testing codebases and generating test data.
 | [DATA-DOG/go-txdb](https://github.com/DATA-DOG/go-txdb) | 737 | 48 | 2025-10-17T02:34:00Z |  Single transaction based database driver mainly for testing purposes. |
 | [gojuno/minimock](https://github.com/gojuno/minimock) | 738 | 47 | 2025-10-15T16:04:33Z |  Mock generator for Go interfaces. |
 | [appleboy/gofight](https://github.com/appleboy/gofight) | 445 | 40 | 2025-10-10T15:51:47Z |  API Handler Testing for Golang Router framework. |
-| [viant/endly](https://github.com/viant/endly) | 267 | 35 | 2025-10-22T23:28:11Z |  Declarative end to end functional testing. |
+| [viant/endly](https://github.com/viant/endly) | 267 | 35 | 2025-10-23T17:21:48Z |  Declarative end to end functional testing. |
 | [h2non/baloo](https://github.com/h2non/baloo) | 782 | 30 | 2025-09-11T23:52:59Z |  Expressive and versatile end-to-end HTTP API testing made easy. |
 | [verdverm/frisby](https://github.com/verdverm/frisby) | 275 | 26 | 2025-09-10T19:00:12Z |  REST API testing framework. |
 | [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) | 185 | 26 | 2025-10-21T08:26:17Z |  Tool that reports coverage of files below set threshold. |
@@ -169,7 +169,7 @@ Libraries for testing codebases and generating test data.
 | [corbym/gogiven](https://github.com/corbym/gogiven) | 15 | 3 | 2024-08-26T11:43:03Z |  YATSPEC-like BDD testing framework for Go. |
 | [zhulongcheng/testsql](https://github.com/zhulongcheng/testsql) | 17 | 2 | 2025-08-15T06:47:38Z |  Generate test data from SQL files before testing and clear it after finished. |
 | [fulldump/biff](https://github.com/fulldump/biff) | 14 | 2 | 2024-02-05T00:11:24Z |  Bifurcation testing framework, BDD compatible. |
-| [suzuki-shunsuke/flute](https://github.com/suzuki-shunsuke/flute) | 20 | 1 | 2025-10-18T05:45:11Z |  HTTP client testing framework. |
+| [suzuki-shunsuke/flute](https://github.com/suzuki-shunsuke/flute) | 20 | 1 | 2025-10-23T16:58:50Z |  HTTP client testing framework. |
 | [jgroeneveld/trial](https://github.com/jgroeneveld/trial) | 6 | 1 | 2022-10-05T19:52:45Z |  Quick and easy extendable assertions without introducing much boilerplate. |
 | [arikama/go-mysql-test-container](https://github.com/arikama/go-mysql-test-container) | 3 | 1 | 2024-10-28T11:22:15Z |  Golang MySQL testcontainer to help with MySQL integration testing. |
 | [jgroeneveld/schema](https://github.com/jgroeneveld/schema) | 20 | 1 | 2024-12-29T23:10:59Z |  Quick and easy expression matching for JSON schemas used in requests and responses. |
@@ -190,30 +190,30 @@ Libraries for testing codebases and generating test data.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [viant/endly](https://github.com/viant/endly) | 267 | 35 | 2025-10-22T23:28:11Z |  Declarative end to end functional testing. |
-| [keploy/keploy](https://github.com/keploy/keploy) | 12k | 2k | 2025-10-22T23:19:21Z |  Generate Testcase and Data Mocks from API calls automatically. |
-| [knq/chromedp](https://github.com/knq/chromedp) | 12k | 841 | 2025-10-22T23:04:01Z |  a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol. |
-| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-10-22T21:09:25Z |  Sacred extension to the standard go testing package. |
-| [go-rod/rod](https://github.com/go-rod/rod) | 6k | 417 | 2025-10-22T17:51:16Z |  A Devtools driver to make web automation and scraping easy. |
-| [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) | 748 | 147 | 2025-10-22T16:43:33Z |  HTTP testing and debugging tool with various endpoints for client testing. |
-| [uber-go/mock](https://github.com/uber-go/mock) | 3k | 155 | 2025-10-22T16:32:20Z |  Mocking framework for the Go programming language. |
-| [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) | 3k | 207 | 2025-10-22T15:52:34Z |  browser automation library to control Chromium, Firefox and WebKit with a single API. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 25k | 2k | 2025-10-23T23:33:44Z |  Sacred extension to the standard go testing package. |
+| [keploy/keploy](https://github.com/keploy/keploy) | 12k | 2k | 2025-10-23T20:56:59Z |  Generate Testcase and Data Mocks from API calls automatically. |
+| [uber-go/mock](https://github.com/uber-go/mock) | 3k | 155 | 2025-10-23T19:14:42Z |  Mocking framework for the Go programming language. |
+| [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) | 4k | 584 | 2025-10-23T18:50:51Z |  A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
+| [viant/endly](https://github.com/viant/endly) | 267 | 35 | 2025-10-23T17:21:48Z |  Declarative end to end functional testing. |
+| [suzuki-shunsuke/flute](https://github.com/suzuki-shunsuke/flute) | 20 | 1 | 2025-10-23T16:58:50Z |  HTTP client testing framework. |
+| [knq/chromedp](https://github.com/knq/chromedp) | 12k | 841 | 2025-10-23T14:36:09Z |  a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol. |
+| [vektra/mockery](https://github.com/vektra/mockery) | 7k | 447 | 2025-10-23T14:32:41Z |  Tool to generate Go interfaces. |
+| [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) | 6k | 408 | 2025-10-23T13:36:59Z |  Mock SQL driver for testing database interactions. |
+| [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) | 1k | 90 | 2025-10-23T10:51:52Z |  A helper for Rails' like test fixtures to test database applications. |
+| [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) | 3k | 207 | 2025-10-23T09:44:09Z |  browser automation library to control Chromium, Firefox and WebKit with a single API. |
+| [go-rod/rod](https://github.com/go-rod/rod) | 6k | 417 | 2025-10-23T08:49:21Z |  A Devtools driver to make web automation and scraping easy. |
+| [google/go-cmp](https://github.com/google/go-cmp) | 5k | 218 | 2025-10-23T04:49:46Z |  Package for comparing Go values in tests. |
+| [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) | 749 | 147 | 2025-10-23T02:00:53Z |  HTTP testing and debugging tool with various endpoints for client testing. |
 | [matryer/moq](https://github.com/matryer/moq) | 2k | 134 | 2025-10-22T14:40:33Z |  Utility that generates a struct from any interface. The struct can be used in test code as a mock of the interface. |
-| [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) | 4k | 584 | 2025-10-22T14:36:12Z |  A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. |
 | [cucumber/godog](https://github.com/cucumber/godog) | 3k | 268 | 2025-10-22T14:25:35Z |  Cucumber BDD framework for Go. |
-| [google/go-cmp](https://github.com/google/go-cmp) | 5k | 218 | 2025-10-22T11:24:50Z |  Package for comparing Go values in tests. |
 | [adamluzsi/testcase](https://github.com/adamluzsi/testcase) | 125 | 11 | 2025-10-22T10:37:33Z |  Idiomatic testing framework for Behavior Driven Development. |
-| [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) | 6k | 408 | 2025-10-22T04:22:46Z |  Mock SQL driver for testing database interactions. |
 | [matryer/is](https://github.com/matryer/is) | 2k | 60 | 2025-10-21T16:35:20Z |  Professional lightweight testing mini-framework for Go. |
-| [vektra/mockery](https://github.com/vektra/mockery) | 7k | 447 | 2025-10-21T14:51:41Z |  Tool to generate Go interfaces. |
-| [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) | 1k | 90 | 2025-10-21T13:44:50Z |  A helper for Rails' like test fixtures to test database applications. |
 | [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) | 2k | 219 | 2025-10-21T10:04:04Z |  HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI. |
 | [xhd2015/xgo](https://github.com/xhd2015/xgo) | 422 | 24 | 2025-10-21T08:44:08Z |  A general pureposed function mocking library. |
 | [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) | 185 | 26 | 2025-10-21T08:26:17Z |  Tool that reports coverage of files below set threshold. |
 | [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) | 5k | 276 | 2025-10-20T11:33:17Z |  Randomized testing system. |
 | [gavv/httpexpect](https://github.com/gavv/httpexpect) | 3k | 243 | 2025-10-19T19:30:00Z |  Concise, declarative, and easy to use end-to-end HTTP and REST API testing. |
 | [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) | 1k | 82 | 2025-10-19T17:57:03Z |  Record and replay your HTTP interactions for fast, deterministic and accurate tests. |
-| [suzuki-shunsuke/flute](https://github.com/suzuki-shunsuke/flute) | 20 | 1 | 2025-10-18T05:45:11Z |  HTTP client testing framework. |
 | [pingcap/failpoint](https://github.com/pingcap/failpoint) | 864 | 63 | 2025-10-18T04:02:43Z |  An implementation of [failpoints](https://www.freebsd.org/cgi/man.cgi?query=fail) for Golang. |
 | [bradleyjkemp/cupaloy](https://github.com/bradleyjkemp/cupaloy) | 322 | 26 | 2025-10-17T21:07:08Z |  Simple snapshot testing addon for your test framework. |
 | [DATA-DOG/go-txdb](https://github.com/DATA-DOG/go-txdb) | 737 | 48 | 2025-10-17T02:34:00Z |  Single transaction based database driver mainly for testing purposes. |
