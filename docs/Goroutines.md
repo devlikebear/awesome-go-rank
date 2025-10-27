@@ -6,8 +6,8 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2025-10-25T16:16:31Z |  A high-performance and low-cost goroutine pool in Go. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 339 | 2025-10-25T16:49:25Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2025-10-26T16:21:10Z |  A high-performance and low-cost goroutine pool in Go. |
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 339 | 2025-10-26T17:24:40Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 312 | 2025-10-25T15:02:16Z |  Goroutine pool for golang. |
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 244 | 2025-10-12T14:55:40Z |  goworker is a Go-based background worker. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 78 | 2025-10-24T11:20:29Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
@@ -60,8 +60,8 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2025-10-25T16:16:31Z |  A high-performance and low-cost goroutine pool in Go. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 339 | 2025-10-25T16:49:25Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2025-10-26T16:21:10Z |  A high-performance and low-cost goroutine pool in Go. |
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 339 | 2025-10-26T17:24:40Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 312 | 2025-10-25T15:02:16Z |  Goroutine pool for golang. |
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 244 | 2025-10-12T14:55:40Z |  goworker is a Go-based background worker. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 146 | 2025-10-25T17:54:50Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
@@ -114,9 +114,9 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 339 | 2025-10-26T17:24:40Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2025-10-26T16:21:10Z |  A high-performance and low-cost goroutine pool in Go. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 146 | 2025-10-25T17:54:50Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 339 | 2025-10-25T16:49:25Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2025-10-25T16:16:31Z |  A high-performance and low-cost goroutine pool in Go. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 312 | 2025-10-25T15:02:16Z |  Goroutine pool for golang. |
 | [reugn/async](https://github.com/reugn/async) | 278 | 16 | 2025-10-25T10:37:02Z |  An alternative sync library for Go (Future, Promise, Locks). |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 78 | 2025-10-24T11:20:29Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
