@@ -6,10 +6,10 @@ Tools for building blockchains.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 50k | 21k | 2025-11-01T17:09:12Z |  Official Go implementation of the Ethereum protocol. |
-| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2025-11-01T17:26:27Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
-| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2025-10-31T05:22:36Z |  A complete implementation of a Lightning Network node. |
-| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2025-11-01T07:24:42Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 50k | 21k | 2025-11-02T22:27:51Z |  Official Go implementation of the Ethereum protocol. |
+| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2025-11-02T21:36:02Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
+| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2025-11-02T12:35:59Z |  A complete implementation of a Lightning Network node. |
+| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2025-11-02T15:42:12Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
 | [tendermint/tendermint](https://github.com/tendermint/tendermint) | 6k | 2k | 2025-10-31T08:53:04Z |  High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols. |
 | [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) | 1k | 397 | 2025-10-31T07:16:25Z |  Go library to interface with Solana JSON RPC and WebSocket interfaces. |
 | [gnolang/gno](https://github.com/gnolang/gno) | 1k | 442 | 2025-10-30T09:43:20Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
@@ -21,10 +21,10 @@ Tools for building blockchains.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 50k | 21k | 2025-11-01T17:09:12Z |  Official Go implementation of the Ethereum protocol. |
-| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2025-11-01T07:24:42Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
-| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2025-11-01T17:26:27Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
-| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2025-10-31T05:22:36Z |  A complete implementation of a Lightning Network node. |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 50k | 21k | 2025-11-02T22:27:51Z |  Official Go implementation of the Ethereum protocol. |
+| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2025-11-02T15:42:12Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
+| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2025-11-02T21:36:02Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
+| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2025-11-02T12:35:59Z |  A complete implementation of a Lightning Network node. |
 | [tendermint/tendermint](https://github.com/tendermint/tendermint) | 6k | 2k | 2025-10-31T08:53:04Z |  High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols. |
 | [cometbft/cometbft](https://github.com/cometbft/cometbft) | 813 | 724 | 2025-10-31T20:11:16Z |  A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. |
 | [gnolang/gno](https://github.com/gnolang/gno) | 1k | 442 | 2025-10-30T09:43:20Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
@@ -36,14 +36,14 @@ Tools for building blockchains.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2025-11-01T17:26:27Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 50k | 21k | 2025-11-01T17:09:12Z |  Official Go implementation of the Ethereum protocol. |
-| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2025-11-01T07:24:42Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 50k | 21k | 2025-11-02T22:27:51Z |  Official Go implementation of the Ethereum protocol. |
+| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2025-11-02T21:36:02Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
+| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2025-11-02T15:42:12Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
+| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2025-11-02T12:35:59Z |  A complete implementation of a Lightning Network node. |
 | [cometbft/cometbft](https://github.com/cometbft/cometbft) | 813 | 724 | 2025-10-31T20:11:16Z |  A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. |
 | [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) | 456 | 146 | 2025-10-31T12:29:41Z |  A Go implementation of the Polkadot Host. |
 | [tendermint/tendermint](https://github.com/tendermint/tendermint) | 6k | 2k | 2025-10-31T08:53:04Z |  High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols. |
 | [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) | 1k | 397 | 2025-10-31T07:16:25Z |  Go library to interface with Solana JSON RPC and WebSocket interfaces. |
-| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2025-10-31T05:22:36Z |  A complete implementation of a Lightning Network node. |
 | [gnolang/gno](https://github.com/gnolang/gno) | 1k | 442 | 2025-10-30T09:43:20Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
 | [LimeChain/gosemble](https://github.com/LimeChain/gosemble) | 14 | 5 | 2025-03-10T08:03:47Z |  A Go-based framework for building Polkadot/Substrate-compatible runtimes. |
 
