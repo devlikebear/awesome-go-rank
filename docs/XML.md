@@ -6,7 +6,7 @@ Libraries and tools for manipulating XML.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [miku/zek](https://github.com/miku/zek) | 815 | 65 | 2025-10-14T11:20:20Z |  Generate a Go struct from XML. |
+| [miku/zek](https://github.com/miku/zek) | 816 | 65 | 2025-11-03T09:59:09Z |  Generate a Go struct from XML. |
 | [antchfx/xpath](https://github.com/antchfx/xpath) | 728 | 94 | 2025-10-31T08:00:05Z |  XPath package for Go. |
 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | 479 | 96 | 2025-10-23T03:54:15Z |  xmlquery is Golang XPath package for XML query. |
 | [sbabiv/xml2map](https://github.com/sbabiv/xml2map) | 64 | 11 | 2025-07-03T16:22:56Z |  XML to MAP converter written Golang. |
@@ -19,7 +19,7 @@ Libraries and tools for manipulating XML.
 |------------|-------|-------|--------------|-------------|
 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | 479 | 96 | 2025-10-23T03:54:15Z |  xmlquery is Golang XPath package for XML query. |
 | [antchfx/xpath](https://github.com/antchfx/xpath) | 728 | 94 | 2025-10-31T08:00:05Z |  XPath package for Go. |
-| [miku/zek](https://github.com/miku/zek) | 815 | 65 | 2025-10-14T11:20:20Z |  Generate a Go struct from XML. |
+| [miku/zek](https://github.com/miku/zek) | 816 | 65 | 2025-11-03T09:59:09Z |  Generate a Go struct from XML. |
 | [sbabiv/xml2map](https://github.com/sbabiv/xml2map) | 64 | 11 | 2025-07-03T16:22:56Z |  XML to MAP converter written Golang. |
 | [xml-comp/xml-comp](https://github.com/xml-comp/xml-comp) | 21 | 11 | 2023-11-04T03:47:00Z |  Simple command line XML comparer that generates diffs of folders, files and tags. |
 | [shabbyrobe/xmlwriter](https://github.com/shabbyrobe/xmlwriter) | 29 | 7 | 2025-09-17T11:42:34Z |  Procedural XML generation API based on libxml2's xmlwriter module. |
@@ -28,9 +28,9 @@ Libraries and tools for manipulating XML.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [miku/zek](https://github.com/miku/zek) | 816 | 65 | 2025-11-03T09:59:09Z |  Generate a Go struct from XML. |
 | [antchfx/xpath](https://github.com/antchfx/xpath) | 728 | 94 | 2025-10-31T08:00:05Z |  XPath package for Go. |
 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | 479 | 96 | 2025-10-23T03:54:15Z |  xmlquery is Golang XPath package for XML query. |
-| [miku/zek](https://github.com/miku/zek) | 815 | 65 | 2025-10-14T11:20:20Z |  Generate a Go struct from XML. |
 | [shabbyrobe/xmlwriter](https://github.com/shabbyrobe/xmlwriter) | 29 | 7 | 2025-09-17T11:42:34Z |  Procedural XML generation API based on libxml2's xmlwriter module. |
 | [sbabiv/xml2map](https://github.com/sbabiv/xml2map) | 64 | 11 | 2025-07-03T16:22:56Z |  XML to MAP converter written Golang. |
 | [xml-comp/xml-comp](https://github.com/xml-comp/xml-comp) | 21 | 11 | 2023-11-04T03:47:00Z |  Simple command line XML comparer that generates diffs of folders, files and tags. |
