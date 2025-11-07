@@ -6,12 +6,12 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 436 | 2025-11-05T21:15:03Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
-| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2025-11-05T04:02:56Z |  GPIO for Go, doesn't require cgo. |
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 200 | 2025-11-05T12:35:53Z |  Golang hardware discovery/inspection library. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 437 | 2025-11-05T21:15:03Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 225 | 2025-11-05T04:02:56Z |  GPIO for Go, doesn't require cgo. |
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 201 | 2025-11-05T12:35:53Z |  Golang hardware discovery/inspection library. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 69 | 2025-11-01T12:47:18Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 562 | 105 | 2025-11-04T14:37:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
-| [aler9/goroslib](https://github.com/aler9/goroslib) | 364 | 71 | 2025-10-22T03:42:43Z |  Robot Operating System (ROS) library for Go. |
+| [aler9/goroslib](https://github.com/aler9/goroslib) | 364 | 71 | 2025-11-06T07:02:17Z |  Robot Operating System (ROS) library for Go. |
 | [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 217 | 56 | 2025-11-05T13:08:46Z |  Open Sound Control (OSC) bindings for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 72 | 20 | 2025-10-20T09:51:49Z |  a polled API to read the state of an attached joystick. |
 
@@ -19,11 +19,11 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 436 | 2025-11-05T21:15:03Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
-| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2025-11-05T04:02:56Z |  GPIO for Go, doesn't require cgo. |
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 200 | 2025-11-05T12:35:53Z |  Golang hardware discovery/inspection library. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 437 | 2025-11-05T21:15:03Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 225 | 2025-11-05T04:02:56Z |  GPIO for Go, doesn't require cgo. |
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 201 | 2025-11-05T12:35:53Z |  Golang hardware discovery/inspection library. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 562 | 105 | 2025-11-04T14:37:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
-| [aler9/goroslib](https://github.com/aler9/goroslib) | 364 | 71 | 2025-10-22T03:42:43Z |  Robot Operating System (ROS) library for Go. |
+| [aler9/goroslib](https://github.com/aler9/goroslib) | 364 | 71 | 2025-11-06T07:02:17Z |  Robot Operating System (ROS) library for Go. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 69 | 2025-11-01T12:47:18Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 217 | 56 | 2025-11-05T13:08:46Z |  Open Sound Control (OSC) bindings for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 72 | 20 | 2025-10-20T09:51:49Z |  a polled API to read the state of an attached joystick. |
@@ -32,12 +32,12 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 436 | 2025-11-05T21:15:03Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [aler9/goroslib](https://github.com/aler9/goroslib) | 364 | 71 | 2025-11-06T07:02:17Z |  Robot Operating System (ROS) library for Go. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 437 | 2025-11-05T21:15:03Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 217 | 56 | 2025-11-05T13:08:46Z |  Open Sound Control (OSC) bindings for Go. |
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 200 | 2025-11-05T12:35:53Z |  Golang hardware discovery/inspection library. |
-| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2025-11-05T04:02:56Z |  GPIO for Go, doesn't require cgo. |
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 201 | 2025-11-05T12:35:53Z |  Golang hardware discovery/inspection library. |
+| [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 225 | 2025-11-05T04:02:56Z |  GPIO for Go, doesn't require cgo. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 562 | 105 | 2025-11-04T14:37:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 69 | 2025-11-01T12:47:18Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
-| [aler9/goroslib](https://github.com/aler9/goroslib) | 364 | 71 | 2025-10-22T03:42:43Z |  Robot Operating System (ROS) library for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 72 | 20 | 2025-10-20T09:51:49Z |  a polled API to read the state of an attached joystick. |
 
