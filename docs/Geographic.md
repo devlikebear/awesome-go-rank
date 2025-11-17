@@ -9,7 +9,7 @@ Geographic tools and servers
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 598 | 2025-11-15T12:52:17Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [golang/geo](https://github.com/golang/geo) | 2k | 191 | 2025-11-14T23:17:46Z |  S2 geometry library in Go. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 758 | 117 | 2025-11-10T18:30:52Z |  A simple Go-based server for map tiles stored in mbtiles format. |
-| [spatial-go/geoos](https://github.com/spatial-go/geoos) | 525 | 109 | 2025-10-02T19:39:55Z |  A library provides spatial data and geometric algorithms. |
+| [spatial-go/geoos](https://github.com/spatial-go/geoos) | 526 | 109 | 2025-11-16T16:16:38Z |  A library provides spatial data and geometric algorithms. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 430 | 55 | 2025-11-15T10:18:24Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 377 | 67 | 2025-11-13T05:00:36Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 173 | 36 | 2025-11-08T10:43:12Z |  Go wrapper for GDAL. |
@@ -31,7 +31,7 @@ Geographic tools and servers
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 598 | 2025-11-15T12:52:17Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [golang/geo](https://github.com/golang/geo) | 2k | 191 | 2025-11-14T23:17:46Z |  S2 geometry library in Go. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 758 | 117 | 2025-11-10T18:30:52Z |  A simple Go-based server for map tiles stored in mbtiles format. |
-| [spatial-go/geoos](https://github.com/spatial-go/geoos) | 525 | 109 | 2025-10-02T19:39:55Z |  A library provides spatial data and geometric algorithms. |
+| [spatial-go/geoos](https://github.com/spatial-go/geoos) | 526 | 109 | 2025-11-16T16:16:38Z |  A library provides spatial data and geometric algorithms. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 377 | 67 | 2025-11-13T05:00:36Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 430 | 55 | 2025-11-15T10:18:24Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 173 | 36 | 2025-11-08T10:43:12Z |  Go wrapper for GDAL. |
@@ -50,6 +50,7 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [spatial-go/geoos](https://github.com/spatial-go/geoos) | 526 | 109 | 2025-11-16T16:16:38Z |  A library provides spatial data and geometric algorithms. |
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 598 | 2025-11-15T12:52:17Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 430 | 55 | 2025-11-15T10:18:24Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [golang/geo](https://github.com/golang/geo) | 2k | 191 | 2025-11-14T23:17:46Z |  S2 geometry library in Go. |
@@ -60,7 +61,6 @@ Geographic tools and servers
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 173 | 36 | 2025-11-08T10:43:12Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 157 | 25 | 2025-11-06T08:38:11Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [maguro/pbf](https://github.com/maguro/pbf) | 53 | 8 | 2025-10-19T16:28:30Z |  OpenStreetMap PBF golang encoder/decoder. |
-| [spatial-go/geoos](https://github.com/spatial-go/geoos) | 525 | 109 | 2025-10-02T19:39:55Z |  A library provides spatial data and geometric algorithms. |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 91 | 23 | 2025-09-12T07:50:33Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
 | [kpfaulkner/borders](https://github.com/kpfaulkner/borders) | 0 | 0 | 2025-08-24T05:02:18Z |  Detects image borders and converts to GeoJSON for GIS operations. |
 | [wroge/wgs84](https://github.com/wroge/wgs84) | 140 | 18 | 2025-07-31T04:44:23Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |

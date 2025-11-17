@@ -6,7 +6,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2025-11-14T15:25:04Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2025-11-16T19:39:44Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 444 | 2025-11-14T15:14:46Z |  Lightweight data stream processing engine for IoT edge. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 131 | 2025-11-14T06:03:16Z |  Kubernetes native IoT development framework. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 1k | 127 | 2025-11-14T14:10:14Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
@@ -25,7 +25,7 @@ Libraries for programming devices of the IoT.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 444 | 2025-11-14T15:14:46Z |  Lightweight data stream processing engine for IoT edge. |
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2025-11-14T15:25:04Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2025-11-16T19:39:44Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 286 | 2025-09-29T20:44:40Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 131 | 2025-11-14T06:03:16Z |  Kubernetes native IoT development framework. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 1k | 127 | 2025-11-14T14:10:14Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
@@ -42,7 +42,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2025-11-14T15:25:04Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
+| [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2025-11-16T19:39:44Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 444 | 2025-11-14T15:14:46Z |  Lightweight data stream processing engine for IoT edge. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 1k | 127 | 2025-11-14T14:10:14Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 95 | 13 | 2025-11-14T10:49:53Z |  Software package for IoT automation. |
