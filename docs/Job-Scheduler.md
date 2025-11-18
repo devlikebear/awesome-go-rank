@@ -18,7 +18,7 @@ Libraries for scheduling jobs.
 | [bart6114/cheek](https://github.com/bart6114/cheek) | 198 | 17 | 2025-11-14T01:10:15Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 13 | 2025-07-25T07:29:50Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
-| [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 58 | 13 | 2025-11-14T01:10:03Z |  Job scheduler library with database support |
+| [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 58 | 12 | 2025-11-14T01:10:03Z |  Job scheduler library with database support |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-11-12T19:55:18Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
@@ -40,7 +40,7 @@ Libraries for scheduling jobs.
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 238 | 15 | 2025-05-28T03:47:28Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 13 | 2025-07-25T07:29:50Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
-| [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 58 | 13 | 2025-11-14T01:10:03Z |  Job scheduler library with database support |
+| [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 58 | 12 | 2025-11-14T01:10:03Z |  Job scheduler library with database support |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-11-12T19:55:18Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
@@ -54,7 +54,7 @@ Libraries for scheduling jobs.
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 479 | 27 | 2025-11-15T12:36:05Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 321 | 26 | 2025-11-14T10:36:30Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [bart6114/cheek](https://github.com/bart6114/cheek) | 198 | 17 | 2025-11-14T01:10:15Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
-| [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 58 | 13 | 2025-11-14T01:10:03Z |  Job scheduler library with database support |
+| [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 58 | 12 | 2025-11-14T01:10:03Z |  Job scheduler library with database support |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-11-12T19:55:18Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 345 | 2025-11-11T16:23:00Z | . |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 462 | 35 | 2025-11-11T11:00:14Z |  A simple but powerful DAG scheduler and dashboard. |
