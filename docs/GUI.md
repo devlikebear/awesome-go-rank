@@ -6,19 +6,19 @@ Interaction
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 28k | 1k | 2025-11-24T18:11:43Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
-| [zserge/webview](https://github.com/zserge/webview) | 14k | 1k | 2025-11-24T22:35:00Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
-| [therecipe/qt](https://github.com/therecipe/qt) | 11k | 753 | 2025-11-23T00:03:34Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
-| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 10k | 938 | 2025-11-24T10:13:19Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
-| [murlokswarm/app](https://github.com/murlokswarm/app) | 9k | 397 | 2025-11-24T23:19:32Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
+| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 28k | 1k | 2025-11-25T23:42:37Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
+| [zserge/webview](https://github.com/zserge/webview) | 14k | 1k | 2025-11-25T14:54:19Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
+| [therecipe/qt](https://github.com/therecipe/qt) | 11k | 753 | 2025-11-25T17:45:27Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
+| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 10k | 938 | 2025-11-25T21:23:56Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
+| [murlokswarm/app](https://github.com/murlokswarm/app) | 9k | 397 | 2025-11-25T19:52:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
 | [andlabs/ui](https://github.com/andlabs/ui) | 8k | 646 | 2025-11-22T18:35:45Z |  Platform-native GUI library for Go. Cross platform. |
-| [lxn/walk](https://github.com/lxn/walk) | 7k | 908 | 2025-11-20T12:55:28Z |  Windows application library kit for Go. |
-| [progrium/darwinkit](https://github.com/progrium/darwinkit) | 5k | 168 | 2025-11-24T08:19:16Z |  Build native macOS applications using Go. |
-| [getlantern/systray](https://github.com/getlantern/systray) | 4k | 501 | 2025-11-23T21:39:24Z |  Cross platform Go library to place an icon and menu in the notification area. |
+| [lxn/walk](https://github.com/lxn/walk) | 7k | 908 | 2025-11-25T04:00:43Z |  Windows application library kit for Go. |
+| [progrium/darwinkit](https://github.com/progrium/darwinkit) | 5k | 168 | 2025-11-25T11:14:09Z |  Build native macOS applications using Go. |
+| [getlantern/systray](https://github.com/getlantern/systray) | 4k | 501 | 2025-11-25T20:35:26Z |  Cross platform Go library to place an icon and menu in the notification area. |
 | [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) | 3k | 272 | 2025-11-19T23:29:06Z |  Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform. |
-| [cogentcore/core](https://github.com/cogentcore/core) | 2k | 93 | 2025-11-23T03:21:13Z |  A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web. |
+| [cogentcore/core](https://github.com/cogentcore/core) | 2k | 93 | 2025-11-25T15:40:47Z |  A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web. |
 | [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 229 | 2025-11-24T21:10:59Z |  Go bindings for GTK3. |
-| [cimgui/cimgui](https://github.com/cimgui/cimgui) | 2k | 350 | 2025-11-24T05:36:03Z | . |
+| [cimgui/cimgui](https://github.com/cimgui/cimgui) | 2k | 350 | 2025-11-25T05:59:58Z | . |
 | [roblillack/spot](https://github.com/roblillack/spot) | 1k | 19 | 2025-11-19T06:52:38Z |  Reactive, cross-platform desktop GUI toolkit. |
 | [ncruces/zenity](https://github.com/ncruces/zenity) | 872 | 42 | 2025-11-21T13:16:36Z |  Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user. |
 | [deckarep/gosx-notifier](https://github.com/deckarep/gosx-notifier) | 591 | 53 | 2025-11-16T05:20:07Z |  OSX Desktop Notifications library for Go. |
@@ -35,19 +35,19 @@ Interaction
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 28k | 1k | 2025-11-24T18:11:43Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
-| [zserge/webview](https://github.com/zserge/webview) | 14k | 1k | 2025-11-24T22:35:00Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
-| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 10k | 938 | 2025-11-24T10:13:19Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
-| [lxn/walk](https://github.com/lxn/walk) | 7k | 908 | 2025-11-20T12:55:28Z |  Windows application library kit for Go. |
-| [therecipe/qt](https://github.com/therecipe/qt) | 11k | 753 | 2025-11-23T00:03:34Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
+| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 28k | 1k | 2025-11-25T23:42:37Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
+| [zserge/webview](https://github.com/zserge/webview) | 14k | 1k | 2025-11-25T14:54:19Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
+| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 10k | 938 | 2025-11-25T21:23:56Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
+| [lxn/walk](https://github.com/lxn/walk) | 7k | 908 | 2025-11-25T04:00:43Z |  Windows application library kit for Go. |
+| [therecipe/qt](https://github.com/therecipe/qt) | 11k | 753 | 2025-11-25T17:45:27Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
 | [andlabs/ui](https://github.com/andlabs/ui) | 8k | 646 | 2025-11-22T18:35:45Z |  Platform-native GUI library for Go. Cross platform. |
-| [getlantern/systray](https://github.com/getlantern/systray) | 4k | 501 | 2025-11-23T21:39:24Z |  Cross platform Go library to place an icon and menu in the notification area. |
-| [murlokswarm/app](https://github.com/murlokswarm/app) | 9k | 397 | 2025-11-24T23:19:32Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
-| [cimgui/cimgui](https://github.com/cimgui/cimgui) | 2k | 350 | 2025-11-24T05:36:03Z | . |
+| [getlantern/systray](https://github.com/getlantern/systray) | 4k | 501 | 2025-11-25T20:35:26Z |  Cross platform Go library to place an icon and menu in the notification area. |
+| [murlokswarm/app](https://github.com/murlokswarm/app) | 9k | 397 | 2025-11-25T19:52:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
+| [cimgui/cimgui](https://github.com/cimgui/cimgui) | 2k | 350 | 2025-11-25T05:59:58Z | . |
 | [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) | 3k | 272 | 2025-11-19T23:29:06Z |  Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform. |
 | [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 229 | 2025-11-24T21:10:59Z |  Go bindings for GTK3. |
-| [progrium/darwinkit](https://github.com/progrium/darwinkit) | 5k | 168 | 2025-11-24T08:19:16Z |  Build native macOS applications using Go. |
-| [cogentcore/core](https://github.com/cogentcore/core) | 2k | 93 | 2025-11-23T03:21:13Z |  A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web. |
+| [progrium/darwinkit](https://github.com/progrium/darwinkit) | 5k | 168 | 2025-11-25T11:14:09Z |  Build native macOS applications using Go. |
+| [cogentcore/core](https://github.com/cogentcore/core) | 2k | 93 | 2025-11-25T15:40:47Z |  A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web. |
 | [deckarep/gosx-notifier](https://github.com/deckarep/gosx-notifier) | 591 | 53 | 2025-11-16T05:20:07Z |  OSX Desktop Notifications library for Go. |
 | [energye/energy](https://github.com/energye/energy) | 551 | 43 | 2025-11-23T02:19:19Z |  Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux) |
 | [ncruces/zenity](https://github.com/ncruces/zenity) | 872 | 42 | 2025-11-21T13:16:36Z |  Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user. |
@@ -64,21 +64,21 @@ Interaction
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [murlokswarm/app](https://github.com/murlokswarm/app) | 9k | 397 | 2025-11-24T23:19:32Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
-| [zserge/webview](https://github.com/zserge/webview) | 14k | 1k | 2025-11-24T22:35:00Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
+| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 28k | 1k | 2025-11-25T23:42:37Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
+| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 10k | 938 | 2025-11-25T21:23:56Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
+| [getlantern/systray](https://github.com/getlantern/systray) | 4k | 501 | 2025-11-25T20:35:26Z |  Cross platform Go library to place an icon and menu in the notification area. |
+| [murlokswarm/app](https://github.com/murlokswarm/app) | 9k | 397 | 2025-11-25T19:52:38Z |  Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress. |
+| [therecipe/qt](https://github.com/therecipe/qt) | 11k | 753 | 2025-11-25T17:45:27Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
+| [cogentcore/core](https://github.com/cogentcore/core) | 2k | 93 | 2025-11-25T15:40:47Z |  A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web. |
+| [zserge/webview](https://github.com/zserge/webview) | 14k | 1k | 2025-11-25T14:54:19Z |  Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux). |
+| [progrium/darwinkit](https://github.com/progrium/darwinkit) | 5k | 168 | 2025-11-25T11:14:09Z |  Build native macOS applications using Go. |
+| [cimgui/cimgui](https://github.com/cimgui/cimgui) | 2k | 350 | 2025-11-25T05:59:58Z | . |
+| [lxn/walk](https://github.com/lxn/walk) | 7k | 908 | 2025-11-25T04:00:43Z |  Windows application library kit for Go. |
 | [gotk3/gotk3](https://github.com/gotk3/gotk3) | 2k | 229 | 2025-11-24T21:10:59Z |  Go bindings for GTK3. |
-| [fyne-io/fyne](https://github.com/fyne-io/fyne) | 28k | 1k | 2025-11-24T18:11:43Z |  Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android. |
 | [richardwilkes/unison](https://github.com/richardwilkes/unison) | 305 | 15 | 2025-11-24T10:14:15Z |  A unified graphical user experience toolkit for Go desktop applications. macOS, Windows, and Linux are supported. |
-| [go-vgo/robotgo](https://github.com/go-vgo/robotgo) | 10k | 938 | 2025-11-24T10:13:19Z |  Go Native cross-platform GUI system automation. Control the mouse, keyboard and other. |
-| [progrium/darwinkit](https://github.com/progrium/darwinkit) | 5k | 168 | 2025-11-24T08:19:16Z |  Build native macOS applications using Go. |
-| [cimgui/cimgui](https://github.com/cimgui/cimgui) | 2k | 350 | 2025-11-24T05:36:03Z | . |
-| [getlantern/systray](https://github.com/getlantern/systray) | 4k | 501 | 2025-11-23T21:39:24Z |  Cross platform Go library to place an icon and menu in the notification area. |
-| [cogentcore/core](https://github.com/cogentcore/core) | 2k | 93 | 2025-11-23T03:21:13Z |  A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web. |
 | [energye/energy](https://github.com/energye/energy) | 551 | 43 | 2025-11-23T02:19:19Z |  Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux) |
-| [therecipe/qt](https://github.com/therecipe/qt) | 11k | 753 | 2025-11-23T00:03:34Z |  Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
 | [andlabs/ui](https://github.com/andlabs/ui) | 8k | 646 | 2025-11-22T18:35:45Z |  Platform-native GUI library for Go. Cross platform. |
 | [ncruces/zenity](https://github.com/ncruces/zenity) | 872 | 42 | 2025-11-21T13:16:36Z |  Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user. |
-| [lxn/walk](https://github.com/lxn/walk) | 7k | 908 | 2025-11-20T12:55:28Z |  Windows application library kit for Go. |
 | [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) | 3k | 272 | 2025-11-19T23:29:06Z |  Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform. |
 | [roblillack/spot](https://github.com/roblillack/spot) | 1k | 19 | 2025-11-19T06:52:38Z |  Reactive, cross-platform desktop GUI toolkit. |
 | [deckarep/gosx-notifier](https://github.com/deckarep/gosx-notifier) | 591 | 53 | 2025-11-16T05:20:07Z |  OSX Desktop Notifications library for Go. |
