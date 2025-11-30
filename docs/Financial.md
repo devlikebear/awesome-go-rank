@@ -6,18 +6,18 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 650 | 2025-11-28T15:22:34Z |  Arbitrary-precision fixed-point decimal numbers. |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 318 | 2025-11-28T21:39:32Z |  Terminal stock watcher and stock position tracker. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 650 | 2025-11-29T21:16:02Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 318 | 2025-11-29T15:06:40Z |  Terminal stock watcher and stock position tracker. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 164 | 2025-11-26T11:23:08Z |  Implementation of Fowler's Money pattern. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 357 | 2025-11-28T15:50:05Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 134 | 2025-11-28T14:28:04Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 135 | 2025-11-29T22:31:31Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 904 | 72 | 2025-11-24T07:22:13Z |  money and currency formatting for golang. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 880 | 153 | 2025-11-19T08:40:06Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 607 | 51 | 2025-11-23T11:01:13Z |  Handles currency amounts, provides currency information and formatting. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 524 | 170 | 2025-11-28T14:04:25Z |  Matching Engine for Limit Order Book in Golang. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 517 | 184 | 2025-11-25T23:24:43Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
-| [invopop/gobl](https://github.com/invopop/gobl) | 228 | 21 | 2025-11-28T07:12:59Z |  Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats. |
-| [govalues/decimal](https://github.com/govalues/decimal) | 205 | 21 | 2025-11-26T17:21:59Z |  Immutable decimal numbers with panic-free arithmetic. |
+| [invopop/gobl](https://github.com/invopop/gobl) | 229 | 21 | 2025-11-29T22:04:22Z |  Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats. |
+| [govalues/decimal](https://github.com/govalues/decimal) | 206 | 21 | 2025-11-29T13:43:30Z |  Immutable decimal numbers with panic-free arithmetic. |
 | [alpeb/go-finance](https://github.com/alpeb/go-finance) | 190 | 25 | 2025-11-19T21:14:19Z |  Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. |
 | [quagmt/udecimal](https://github.com/quagmt/udecimal) | 161 | 9 | 2025-11-23T00:03:46Z |  High performance, high precision, zero allocation fixed-point decimal library for financial applications. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 144 | 29 | 2025-07-26T03:03:27Z |  Query OFX servers and/or parse the responses (with example command-line client). |
@@ -36,20 +36,20 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 650 | 2025-11-28T15:22:34Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 650 | 2025-11-29T21:16:02Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 357 | 2025-11-28T15:50:05Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 318 | 2025-11-28T21:39:32Z |  Terminal stock watcher and stock position tracker. |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 318 | 2025-11-29T15:06:40Z |  Terminal stock watcher and stock position tracker. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 517 | 184 | 2025-11-25T23:24:43Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 524 | 170 | 2025-11-28T14:04:25Z |  Matching Engine for Limit Order Book in Golang. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 164 | 2025-11-26T11:23:08Z |  Implementation of Fowler's Money pattern. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 880 | 153 | 2025-11-19T08:40:06Z |  Technical analysis library with advanced market analysis and trading strategies. |
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 134 | 2025-11-28T14:28:04Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 135 | 2025-11-29T22:31:31Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 904 | 72 | 2025-11-24T07:22:13Z |  money and currency formatting for golang. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 607 | 51 | 2025-11-23T11:01:13Z |  Handles currency amounts, provides currency information and formatting. |
 | [aclindsa/ofxgo](https://github.com/aclindsa/ofxgo) | 144 | 29 | 2025-07-26T03:03:27Z |  Query OFX servers and/or parse the responses (with example command-line client). |
 | [alpeb/go-finance](https://github.com/alpeb/go-finance) | 190 | 25 | 2025-11-19T21:14:19Z |  Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. |
-| [govalues/decimal](https://github.com/govalues/decimal) | 205 | 21 | 2025-11-26T17:21:59Z |  Immutable decimal numbers with panic-free arithmetic. |
-| [invopop/gobl](https://github.com/invopop/gobl) | 228 | 21 | 2025-11-28T07:12:59Z |  Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats. |
+| [govalues/decimal](https://github.com/govalues/decimal) | 206 | 21 | 2025-11-29T13:43:30Z |  Immutable decimal numbers with panic-free arithmetic. |
+| [invopop/gobl](https://github.com/invopop/gobl) | 229 | 21 | 2025-11-29T22:04:22Z |  Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats. |
 | [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 117 | 16 | 2025-11-23T09:09:19Z |  VAT number validation & EU VAT rates. |
 | [claygod/transaction](https://github.com/claygod/transaction) | 138 | 15 | 2025-11-13T09:18:38Z |  Embedded transactional database of accounts, running in multithreaded mode. |
 | [naughtygopher/currency](https://github.com/naughtygopher/currency) | 61 | 9 | 2025-09-23T09:46:42Z |  High performant & accurate currency computation package. |
@@ -66,14 +66,14 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 318 | 2025-11-28T21:39:32Z |  Terminal stock watcher and stock position tracker. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 135 | 2025-11-29T22:31:31Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [invopop/gobl](https://github.com/invopop/gobl) | 229 | 21 | 2025-11-29T22:04:22Z |  Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 650 | 2025-11-29T21:16:02Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 318 | 2025-11-29T15:06:40Z |  Terminal stock watcher and stock position tracker. |
+| [govalues/decimal](https://github.com/govalues/decimal) | 206 | 21 | 2025-11-29T13:43:30Z |  Immutable decimal numbers with panic-free arithmetic. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 357 | 2025-11-28T15:50:05Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 650 | 2025-11-28T15:22:34Z |  Arbitrary-precision fixed-point decimal numbers. |
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 134 | 2025-11-28T14:28:04Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 524 | 170 | 2025-11-28T14:04:25Z |  Matching Engine for Limit Order Book in Golang. |
-| [invopop/gobl](https://github.com/invopop/gobl) | 228 | 21 | 2025-11-28T07:12:59Z |  Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats. |
 | [jokruger/dec128](https://github.com/jokruger/dec128) | 36 | 0 | 2025-11-26T18:33:53Z |  High performance 128-bit fixed-point decimal numbers. |
-| [govalues/decimal](https://github.com/govalues/decimal) | 205 | 21 | 2025-11-26T17:21:59Z |  Immutable decimal numbers with panic-free arithmetic. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 164 | 2025-11-26T11:23:08Z |  Implementation of Fowler's Money pattern. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 517 | 184 | 2025-11-25T23:24:43Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [jovandeginste/payme](https://github.com/jovandeginste/payme) | 88 | 6 | 2025-11-24T09:23:06Z |  QR code generator (ASCII & PNG) for SEPA payments. |
