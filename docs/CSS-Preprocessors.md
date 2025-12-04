@@ -6,14 +6,14 @@ Libraries for preprocessing CSS files.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [wellington/go-libsass](https://github.com/wellington/go-libsass) | 213 | 30 | 2025-11-27T05:16:34Z |  Go wrapper to the 100% Sass compatible libsass project. |
+| [wellington/go-libsass](https://github.com/wellington/go-libsass) | 213 | 29 | 2025-11-27T05:16:34Z |  Go wrapper to the 100% Sass compatible libsass project. |
 | [napsy/go-css](https://github.com/napsy/go-css) | 87 | 9 | 2025-11-29T06:07:39Z |  A very simple CSS parser, written in Go. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [wellington/go-libsass](https://github.com/wellington/go-libsass) | 213 | 30 | 2025-11-27T05:16:34Z |  Go wrapper to the 100% Sass compatible libsass project. |
+| [wellington/go-libsass](https://github.com/wellington/go-libsass) | 213 | 29 | 2025-11-27T05:16:34Z |  Go wrapper to the 100% Sass compatible libsass project. |
 | [napsy/go-css](https://github.com/napsy/go-css) | 87 | 9 | 2025-11-29T06:07:39Z |  A very simple CSS parser, written in Go. |
 
 ### Ranked by Last Updated
@@ -21,5 +21,5 @@ Libraries for preprocessing CSS files.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [napsy/go-css](https://github.com/napsy/go-css) | 87 | 9 | 2025-11-29T06:07:39Z |  A very simple CSS parser, written in Go. |
-| [wellington/go-libsass](https://github.com/wellington/go-libsass) | 213 | 30 | 2025-11-27T05:16:34Z |  Go wrapper to the 100% Sass compatible libsass project. |
+| [wellington/go-libsass](https://github.com/wellington/go-libsass) | 213 | 29 | 2025-11-27T05:16:34Z |  Go wrapper to the 100% Sass compatible libsass project. |
 
