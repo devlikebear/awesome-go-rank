@@ -17,7 +17,7 @@ Libraries for manipulating audio.
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 135 | 20 | 2025-11-25T00:58:10Z |  Native Go AAC bitstream parser. |
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 132 | 20 | 2025-08-31T19:00:12Z |  Lightweight MP3 decoder library. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 37 | 10 | 2025-10-11T13:13:29Z |  libsamplerate bindings for go. |
-| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 19 | 0 | 2025-07-22T05:56:22Z |  Client for mpris dbus interfaces. |
+| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 20 | 0 | 2025-12-08T08:18:20Z |  Client for mpris dbus interfaces. |
 
 ### Ranked by Forks
 
@@ -34,12 +34,13 @@ Libraries for manipulating audio.
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 132 | 20 | 2025-08-31T19:00:12Z |  Lightweight MP3 decoder library. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 511 | 16 | 2025-12-07T08:25:06Z |  Command-line audio player that supports multiple formats including WAV, MP3, OGG, and FLAC. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 37 | 10 | 2025-10-11T13:13:29Z |  libsamplerate bindings for go. |
-| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 19 | 0 | 2025-07-22T05:56:22Z |  Client for mpris dbus interfaces. |
+| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 20 | 0 | 2025-12-08T08:18:20Z |  Client for mpris dbus interfaces. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 20 | 0 | 2025-12-08T08:18:20Z |  Client for mpris dbus interfaces. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 511 | 16 | 2025-12-07T08:25:06Z |  Command-line audio player that supports multiple formats including WAV, MP3, OGG, and FLAC. |
 | [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 150 | 2025-12-06T12:32:19Z |  A low-level library to play sound on multiple platforms. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 363 | 63 | 2025-12-04T19:50:09Z |  Mini audio library. |
@@ -51,5 +52,4 @@ Libraries for manipulating audio.
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 135 | 20 | 2025-11-25T00:58:10Z |  Native Go AAC bitstream parser. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 37 | 10 | 2025-10-11T13:13:29Z |  libsamplerate bindings for go. |
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 132 | 20 | 2025-08-31T19:00:12Z |  Lightweight MP3 decoder library. |
-| [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 19 | 0 | 2025-07-22T05:56:22Z |  Client for mpris dbus interfaces. |
 
