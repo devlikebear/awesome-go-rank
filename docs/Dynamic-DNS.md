@@ -6,20 +6,20 @@ Tools for updating dynamic DNS records.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [timothyye/godns](https://github.com/timothyye/godns) | 2k | 240 | 2025-12-14T14:35:53Z |  A dynamic DNS client tool, supports DNSPod & HE.net, written in Go. |
+| [timothyye/godns](https://github.com/timothyye/godns) | 2k | 240 | 2025-12-15T18:31:04Z |  A dynamic DNS client tool, supports DNSPod & HE.net, written in Go. |
 | [skibish/ddns](https://github.com/skibish/ddns) | 266 | 25 | 2025-12-04T06:03:10Z |  Personal DDNS client with Digital Ocean Networking DNS as backend. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [timothyye/godns](https://github.com/timothyye/godns) | 2k | 240 | 2025-12-14T14:35:53Z |  A dynamic DNS client tool, supports DNSPod & HE.net, written in Go. |
+| [timothyye/godns](https://github.com/timothyye/godns) | 2k | 240 | 2025-12-15T18:31:04Z |  A dynamic DNS client tool, supports DNSPod & HE.net, written in Go. |
 | [skibish/ddns](https://github.com/skibish/ddns) | 266 | 25 | 2025-12-04T06:03:10Z |  Personal DDNS client with Digital Ocean Networking DNS as backend. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [timothyye/godns](https://github.com/timothyye/godns) | 2k | 240 | 2025-12-14T14:35:53Z |  A dynamic DNS client tool, supports DNSPod & HE.net, written in Go. |
+| [timothyye/godns](https://github.com/timothyye/godns) | 2k | 240 | 2025-12-15T18:31:04Z |  A dynamic DNS client tool, supports DNSPod & HE.net, written in Go. |
 | [skibish/ddns](https://github.com/skibish/ddns) | 266 | 25 | 2025-12-04T06:03:10Z |  Personal DDNS client with Digital Ocean Networking DNS as backend. |
 
