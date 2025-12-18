@@ -6,7 +6,7 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 604 | 2025-12-16T11:36:53Z |  Geolocation DB with spatial index and realtime geofencing. |
+| [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 604 | 2025-12-17T14:25:53Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [golang/geo](https://github.com/golang/geo) | 2k | 189 | 2025-12-15T19:53:45Z |  S2 geometry library in Go. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 764 | 119 | 2025-12-12T08:32:59Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 526 | 108 | 2025-11-16T16:16:38Z |  A library provides spatial data and geometric algorithms. |
@@ -28,7 +28,7 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 604 | 2025-12-16T11:36:53Z |  Geolocation DB with spatial index and realtime geofencing. |
+| [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 604 | 2025-12-17T14:25:53Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [golang/geo](https://github.com/golang/geo) | 2k | 189 | 2025-12-15T19:53:45Z |  S2 geometry library in Go. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 764 | 119 | 2025-12-12T08:32:59Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 526 | 108 | 2025-11-16T16:16:38Z |  A library provides spatial data and geometric algorithms. |
@@ -50,7 +50,7 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 604 | 2025-12-16T11:36:53Z |  Geolocation DB with spatial index and realtime geofencing. |
+| [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 604 | 2025-12-17T14:25:53Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [golang/geo](https://github.com/golang/geo) | 2k | 189 | 2025-12-15T19:53:45Z |  S2 geometry library in Go. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 164 | 26 | 2025-12-14T22:16:13Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 436 | 56 | 2025-12-13T02:58:51Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
