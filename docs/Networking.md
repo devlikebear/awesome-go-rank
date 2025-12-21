@@ -6,40 +6,40 @@ Libraries for making HTTP requests.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [valyala/fasthttp](https://github.com/valyala/fasthttp) | 23k | 2k | 2025-12-19T14:12:20Z |  Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http. |
-| [pions/webrtc](https://github.com/pions/webrtc) | 16k | 2k | 2025-12-20T00:04:31Z |  A pure Go implementation of the WebRTC API. |
-| [xtaci/kcptun](https://github.com/xtaci/kcptun) | 14k | 3k | 2025-12-19T15:13:55Z |  Extremely simple & fast udp tunnel based on KCP protocol. |
-| [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | 12k | 1k | 2025-12-19T22:23:28Z |  Cloudflare Tunnel client (formerly Argo Tunnel). |
-| [go-resty/resty](https://github.com/go-resty/resty) | 11k | 772 | 2025-12-19T13:02:10Z |  Simple HTTP and REST client for Go inspired by Ruby rest-client. |
-| [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) | 11k | 1k | 2025-12-19T07:33:55Z |  An implementation of the QUIC protocol in pure Go. |
-| [panjf2000/gnet](https://github.com/panjf2000/gnet) | 11k | 1k | 2025-12-19T10:43:48Z |  `gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. |
-| [miekg/dns](https://github.com/miekg/dns) | 9k | 1k | 2025-12-18T17:31:23Z |  Go library for working with DNS. |
+| [valyala/fasthttp](https://github.com/valyala/fasthttp) | 23k | 2k | 2025-12-21T00:00:11Z |  Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http. |
+| [pions/webrtc](https://github.com/pions/webrtc) | 16k | 2k | 2025-12-20T20:28:24Z |  A pure Go implementation of the WebRTC API. |
+| [xtaci/kcptun](https://github.com/xtaci/kcptun) | 14k | 3k | 2025-12-20T14:43:15Z |  Extremely simple & fast udp tunnel based on KCP protocol. |
+| [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | 12k | 1k | 2025-12-20T23:08:12Z |  Cloudflare Tunnel client (formerly Argo Tunnel). |
+| [go-resty/resty](https://github.com/go-resty/resty) | 11k | 772 | 2025-12-20T19:05:03Z |  Simple HTTP and REST client for Go inspired by Ruby rest-client. |
+| [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) | 11k | 1k | 2025-12-20T22:33:02Z |  An implementation of the QUIC protocol in pure Go. |
+| [panjf2000/gnet](https://github.com/panjf2000/gnet) | 11k | 1k | 2025-12-20T18:07:09Z |  `gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. |
+| [miekg/dns](https://github.com/miekg/dns) | 9k | 1k | 2025-12-20T05:10:58Z |  Go library for working with DNS. |
 | [google/gopacket](https://github.com/google/gopacket) | 7k | 1k | 2025-12-19T20:08:19Z |  Go library for packet processing with libpcap bindings. |
-| [elazarl/goproxy](https://github.com/elazarl/goproxy) | 7k | 1k | 2025-12-19T17:46:02Z |  A library to create a customized HTTP/HTTPS proxy server using Go. |
-| [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) | 5k | 570 | 2025-12-19T18:15:36Z |  A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack. |
+| [elazarl/goproxy](https://github.com/elazarl/goproxy) | 7k | 1k | 2025-12-20T10:00:35Z |  A library to create a customized HTTP/HTTPS proxy server using Go. |
+| [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) | 5k | 570 | 2025-12-20T17:28:16Z |  A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack. |
 | [imroc/req](https://github.com/imroc/req) | 5k | 386 | 2025-12-19T17:49:41Z |  Simple Go HTTP client with Black Magic (Less code and More efficiency). |
-| [cloudwego/netpoll](https://github.com/cloudwego/netpoll) | 4k | 496 | 2025-12-18T06:56:36Z |  A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
-| [xtaci/kcp-go](https://github.com/xtaci/kcp-go) | 4k | 760 | 2025-12-19T14:00:15Z |  KCP - Fast and Reliable ARQ Protocol. |
+| [cloudwego/netpoll](https://github.com/cloudwego/netpoll) | 4k | 496 | 2025-12-21T00:00:34Z |  A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
+| [xtaci/kcp-go](https://github.com/xtaci/kcp-go) | 4k | 760 | 2025-12-20T13:10:26Z |  KCP - Fast and Reliable ARQ Protocol. |
 | [gchaincl/httplab](https://github.com/gchaincl/httplab) | 4k | 125 | 2025-12-19T11:44:00Z |  HTTPLabs let you inspect HTTP requests and forge responses. |
-| [gliderlabs/ssh](https://github.com/gliderlabs/ssh) | 4k | 478 | 2025-12-19T01:38:20Z |  Higher-level API for building SSH servers (wraps crypto/ssh). |
+| [gliderlabs/ssh](https://github.com/gliderlabs/ssh) | 4k | 479 | 2025-12-19T01:38:20Z |  Higher-level API for building SSH servers (wraps crypto/ssh). |
 | [osrg/gobgp](https://github.com/osrg/gobgp) | 4k | 764 | 2025-12-19T07:04:22Z |  BGP implemented in the Go Programming Language. |
 | [fortio/fortio](https://github.com/fortio/fortio) | 4k | 268 | 2025-12-18T18:54:12Z |  Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats and graph them. Tcp, Http, gRPC. |
 | [gojektech/heimdall](https://github.com/gojektech/heimdall) | 3k | 211 | 2025-12-18T06:43:50Z |  An enhanced http client with retry and hystrix capabilities. |
-| [lesismal/nbio](https://github.com/lesismal/nbio) | 3k | 174 | 2025-12-15T22:26:57Z |  Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use. |
+| [lesismal/nbio](https://github.com/lesismal/nbio) | 3k | 174 | 2025-12-21T00:00:33Z |  Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use. |
 | [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) | 2k | 282 | 2025-12-18T17:23:16Z |  Retryable HTTP client in Go. |
 | [levigross/grequests](https://github.com/levigross/grequests) | 2k | 139 | 2025-12-16T05:31:46Z |  A Go "clone" of the great and famous Requests library. |
 | [songgao/water](https://github.com/songgao/water) | 2k | 312 | 2025-12-14T14:03:28Z |  Simple TUN/TAP library. |
 | [hashicorp/go-getter](https://github.com/hashicorp/go-getter) | 2k | 259 | 2025-12-17T09:37:18Z |  Go library for downloading files or directories from various sources using a URL. |
 | [Allenxuxu/gev](https://github.com/Allenxuxu/gev) | 2k | 194 | 2025-12-12T04:51:19Z |  gev is a lightweight, fast non-blocking TCP network library based on Reactor mode. |
 | [dghubble/sling](https://github.com/dghubble/sling) | 2k | 123 | 2025-12-12T14:50:18Z |  Sling is a Go HTTP client library for creating and sending API requests. |
-| [lxzan/gws](https://github.com/lxzan/gws) | 2k | 104 | 2025-12-18T02:18:29Z |  High-Performance WebSocket Server & Client With AsyncIO Supporting . |
+| [lxzan/gws](https://github.com/lxzan/gws) | 2k | 104 | 2025-12-20T15:50:00Z |  High-Performance WebSocket Server & Client With AsyncIO Supporting . |
 | [carlmjohnson/requests](https://github.com/carlmjohnson/requests) | 2k | 57 | 2025-12-18T09:36:29Z |  HTTP requests for Gophers. Uses context.Context and doesn't hide the underlying net/http.Client, making it compatible with standard Go APIs. Also includes testing tools. |
 | [pkg/sftp](https://github.com/pkg/sftp) | 2k | 389 | 2025-12-19T01:37:27Z |  Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>. |
-| [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | 2k | 171 | 2025-12-19T21:27:58Z |  A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. |
+| [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | 2k | 171 | 2025-12-20T16:05:25Z |  A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. |
 | [cavaliercoder/grab](https://github.com/cavaliercoder/grab) | 1k | 150 | 2025-12-19T06:13:58Z |  Go package for managing file downloads. |
 | [intel-go/nff-go](https://github.com/intel-go/nff-go) | 1k | 163 | 2025-12-09T13:33:01Z |  Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF). |
 | [jlaffaye/ftp](https://github.com/jlaffaye/ftp) | 1k | 377 | 2025-12-07T20:34:38Z |  Package ftp implements a FTP client as described in [RFC 959](https://tools.ietf.org/html/rfc959). |
-| [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) | 1k | 239 | 2025-12-19T09:52:04Z |  net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. |
+| [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) | 1k | 239 | 2025-12-20T17:03:38Z |  net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. |
 | [hashicorp/mdns](https://github.com/hashicorp/mdns) | 1k | 221 | 2025-12-19T09:48:31Z |  Simple mDNS (Multicast DNS) client/server library in Golang. |
 | [soniah/gosnmp](https://github.com/soniah/gosnmp) | 1k | 373 | 2025-12-17T18:12:23Z |  Native Go library for performing SNMP actions. |
 | [h2non/gentleman](https://github.com/h2non/gentleman) | 1k | 56 | 2025-12-05T14:46:26Z |  Full-featured plugin-driven HTTP client library. |
@@ -48,8 +48,8 @@ Libraries for making HTTP requests.
 | [yahoo/vssh](https://github.com/yahoo/vssh) | 984 | 84 | 2025-12-09T11:28:02Z |  Go library for building network and server automation over SSH protocol. |
 | [yl2chen/cidranger](https://github.com/yl2chen/cidranger) | 966 | 108 | 2025-12-17T04:15:43Z |  Fast IP to CIDR lookup for Go. |
 | [DarthPestilane/easytcp](https://github.com/DarthPestilane/easytcp) | 826 | 88 | 2025-12-16T23:01:33Z |  A light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful. |
-| [xtaci/gaio](https://github.com/xtaci/gaio) | 799 | 88 | 2025-12-19T13:39:21Z |  High performance async-io networking for Golang in proactor mode. |
-| [ccding/go-stun](https://github.com/ccding/go-stun) | 711 | 125 | 2025-11-24T01:56:07Z |  Go implementation of the STUN client (RFC 3489 and RFC 5389). |
+| [xtaci/gaio](https://github.com/xtaci/gaio) | 799 | 88 | 2025-12-20T12:17:25Z |  High performance async-io networking for Golang in proactor mode. |
+| [ccding/go-stun](https://github.com/ccding/go-stun) | 712 | 125 | 2025-12-20T18:53:01Z |  Go implementation of the STUN client (RFC 3489 and RFC 5389). |
 | [fanux/lhttp](https://github.com/fanux/lhttp) | 690 | 139 | 2025-08-28T13:44:39Z |  Powerful websocket framework, build your IM server more easily. |
 | [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) | 667 | 57 | 2025-12-17T08:00:54Z |  Pure Go library for cross-platform local peer discovery using UDP multicast. |
 | [sethgrid/pester](https://github.com/sethgrid/pester) | 654 | 69 | 2025-10-21T09:42:08Z |  Go HTTP client calls with retries, backoff, and concurrency. |
@@ -59,14 +59,14 @@ Libraries for making HTTP requests.
 | [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) | 460 | 102 | 2025-12-12T19:45:44Z |  Fully featured FTP server library. |
 | [masterzen/winrm](https://github.com/masterzen/winrm) | 456 | 133 | 2025-12-09T09:00:39Z |  Go WinRM client to remotely execute commands on Windows machines. |
 | [hashicorp/go-cleanhttp](https://github.com/hashicorp/go-cleanhttp) | 425 | 37 | 2025-12-16T16:10:09Z |  Get easily stdlib HTTP client, which does not share any state with other clients. |
-| [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) | 395 | 57 | 2025-12-19T17:28:06Z |  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint. |
+| [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) | 396 | 57 | 2025-12-21T00:02:10Z |  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint. |
 | [mdlayher/arp](https://github.com/mdlayher/arp) | 380 | 73 | 2025-12-19T01:08:44Z |  Package arp implements the ARP protocol, as described in RFC 826. |
 | [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) | 348 | 58 | 2025-12-17T05:15:53Z |  Passive DNS Capture/Monitoring Framework. |
 | [monaco-io/request](https://github.com/monaco-io/request) | 294 | 29 | 2025-12-18T00:58:43Z |  HTTP client for golang. If you have experience about axios or requests, you will love it. No 3rd dependency. |
 | [mdlayher/ethernet](https://github.com/mdlayher/ethernet) | 284 | 38 | 2025-08-16T14:51:26Z |  Package ethernet implements marshaling and unmarshalling of IEEE 802.3 Ethernet II frames and IEEE 802.1Q VLAN tags. |
 | [google/gnxi](https://github.com/google/gnxi) | 282 | 122 | 2025-11-29T19:36:29Z |  A collection of tools for Network Management that use the gNMI and gNOI protocols. |
 | [stabbycutyou/buffstreams](https://github.com/stabbycutyou/buffstreams) | 255 | 33 | 2025-10-22T03:32:28Z |  Streaming protocolbuffer data over TCP made easy. |
-| [udhos/jazigo](https://github.com/udhos/jazigo) | 226 | 30 | 2025-12-09T16:04:07Z |  Jazigo is a tool written in Go for retrieving configuration for multiple network devices. |
+| [udhos/jazigo](https://github.com/udhos/jazigo) | 227 | 30 | 2025-12-20T19:54:15Z |  Jazigo is a tool written in Go for retrieving configuration for multiple network devices. |
 | [jeroenrinzema/psql-wire](https://github.com/jeroenrinzema/psql-wire) | 206 | 39 | 2025-12-17T13:12:31Z |  PostgreSQL server wire protocol. Build your own server and start serving connections.. |
 | [anacrolix/utp](https://github.com/anacrolix/utp) | 182 | 35 | 2025-10-27T03:18:19Z |  Go uTP micro transport protocol implementation. |
 | [lim-yoona/tcpack](https://github.com/lim-yoona/tcpack) | 168 | 1 | 2025-10-11T05:39:06Z |  tcpack is an application protocol based on TCP to Pack and Unpack bytes stream in go program. |
@@ -110,21 +110,21 @@ Libraries for making HTTP requests.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [xtaci/kcptun](https://github.com/xtaci/kcptun) | 14k | 3k | 2025-12-19T15:13:55Z |  Extremely simple & fast udp tunnel based on KCP protocol. |
-| [valyala/fasthttp](https://github.com/valyala/fasthttp) | 23k | 2k | 2025-12-19T14:12:20Z |  Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http. |
-| [pions/webrtc](https://github.com/pions/webrtc) | 16k | 2k | 2025-12-20T00:04:31Z |  A pure Go implementation of the WebRTC API. |
-| [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) | 11k | 1k | 2025-12-19T07:33:55Z |  An implementation of the QUIC protocol in pure Go. |
-| [miekg/dns](https://github.com/miekg/dns) | 9k | 1k | 2025-12-18T17:31:23Z |  Go library for working with DNS. |
-| [elazarl/goproxy](https://github.com/elazarl/goproxy) | 7k | 1k | 2025-12-19T17:46:02Z |  A library to create a customized HTTP/HTTPS proxy server using Go. |
+| [xtaci/kcptun](https://github.com/xtaci/kcptun) | 14k | 3k | 2025-12-20T14:43:15Z |  Extremely simple & fast udp tunnel based on KCP protocol. |
+| [valyala/fasthttp](https://github.com/valyala/fasthttp) | 23k | 2k | 2025-12-21T00:00:11Z |  Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http. |
+| [pions/webrtc](https://github.com/pions/webrtc) | 16k | 2k | 2025-12-20T20:28:24Z |  A pure Go implementation of the WebRTC API. |
+| [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) | 11k | 1k | 2025-12-20T22:33:02Z |  An implementation of the QUIC protocol in pure Go. |
+| [miekg/dns](https://github.com/miekg/dns) | 9k | 1k | 2025-12-20T05:10:58Z |  Go library for working with DNS. |
+| [elazarl/goproxy](https://github.com/elazarl/goproxy) | 7k | 1k | 2025-12-20T10:00:35Z |  A library to create a customized HTTP/HTTPS proxy server using Go. |
 | [google/gopacket](https://github.com/google/gopacket) | 7k | 1k | 2025-12-19T20:08:19Z |  Go library for packet processing with libpcap bindings. |
-| [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | 12k | 1k | 2025-12-19T22:23:28Z |  Cloudflare Tunnel client (formerly Argo Tunnel). |
-| [panjf2000/gnet](https://github.com/panjf2000/gnet) | 11k | 1k | 2025-12-19T10:43:48Z |  `gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. |
-| [go-resty/resty](https://github.com/go-resty/resty) | 11k | 772 | 2025-12-19T13:02:10Z |  Simple HTTP and REST client for Go inspired by Ruby rest-client. |
+| [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | 12k | 1k | 2025-12-20T23:08:12Z |  Cloudflare Tunnel client (formerly Argo Tunnel). |
+| [panjf2000/gnet](https://github.com/panjf2000/gnet) | 11k | 1k | 2025-12-20T18:07:09Z |  `gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. |
+| [go-resty/resty](https://github.com/go-resty/resty) | 11k | 772 | 2025-12-20T19:05:03Z |  Simple HTTP and REST client for Go inspired by Ruby rest-client. |
 | [osrg/gobgp](https://github.com/osrg/gobgp) | 4k | 764 | 2025-12-19T07:04:22Z |  BGP implemented in the Go Programming Language. |
-| [xtaci/kcp-go](https://github.com/xtaci/kcp-go) | 4k | 760 | 2025-12-19T14:00:15Z |  KCP - Fast and Reliable ARQ Protocol. |
-| [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) | 5k | 570 | 2025-12-19T18:15:36Z |  A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack. |
-| [cloudwego/netpoll](https://github.com/cloudwego/netpoll) | 4k | 496 | 2025-12-18T06:56:36Z |  A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
-| [gliderlabs/ssh](https://github.com/gliderlabs/ssh) | 4k | 478 | 2025-12-19T01:38:20Z |  Higher-level API for building SSH servers (wraps crypto/ssh). |
+| [xtaci/kcp-go](https://github.com/xtaci/kcp-go) | 4k | 760 | 2025-12-20T13:10:26Z |  KCP - Fast and Reliable ARQ Protocol. |
+| [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) | 5k | 570 | 2025-12-20T17:28:16Z |  A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack. |
+| [cloudwego/netpoll](https://github.com/cloudwego/netpoll) | 4k | 496 | 2025-12-21T00:00:34Z |  A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
+| [gliderlabs/ssh](https://github.com/gliderlabs/ssh) | 4k | 479 | 2025-12-19T01:38:20Z |  Higher-level API for building SSH servers (wraps crypto/ssh). |
 | [pkg/sftp](https://github.com/pkg/sftp) | 2k | 389 | 2025-12-19T01:37:27Z |  Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>. |
 | [imroc/req](https://github.com/imroc/req) | 5k | 386 | 2025-12-19T17:49:41Z |  Simple Go HTTP client with Black Magic (Less code and More efficiency). |
 | [jlaffaye/ftp](https://github.com/jlaffaye/ftp) | 1k | 377 | 2025-12-07T20:34:38Z |  Package ftp implements a FTP client as described in [RFC 959](https://tools.ietf.org/html/rfc959). |
@@ -133,13 +133,13 @@ Libraries for making HTTP requests.
 | [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) | 2k | 282 | 2025-12-18T17:23:16Z |  Retryable HTTP client in Go. |
 | [fortio/fortio](https://github.com/fortio/fortio) | 4k | 268 | 2025-12-18T18:54:12Z |  Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats and graph them. Tcp, Http, gRPC. |
 | [hashicorp/go-getter](https://github.com/hashicorp/go-getter) | 2k | 259 | 2025-12-17T09:37:18Z |  Go library for downloading files or directories from various sources using a URL. |
-| [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) | 1k | 239 | 2025-12-19T09:52:04Z |  net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. |
+| [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) | 1k | 239 | 2025-12-20T17:03:38Z |  net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. |
 | [DrmagicE/gmqtt](https://github.com/DrmagicE/gmqtt) | 1k | 223 | 2025-12-17T06:04:15Z |  Gmqtt is a flexible, high-performance MQTT broker library that fully implements the MQTT protocol V3.1.1. |
 | [hashicorp/mdns](https://github.com/hashicorp/mdns) | 1k | 221 | 2025-12-19T09:48:31Z |  Simple mDNS (Multicast DNS) client/server library in Golang. |
 | [gojektech/heimdall](https://github.com/gojektech/heimdall) | 3k | 211 | 2025-12-18T06:43:50Z |  An enhanced http client with retry and hystrix capabilities. |
 | [Allenxuxu/gev](https://github.com/Allenxuxu/gev) | 2k | 194 | 2025-12-12T04:51:19Z |  gev is a lightweight, fast non-blocking TCP network library based on Reactor mode. |
-| [lesismal/nbio](https://github.com/lesismal/nbio) | 3k | 174 | 2025-12-15T22:26:57Z |  Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use. |
-| [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | 2k | 171 | 2025-12-19T21:27:58Z |  A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. |
+| [lesismal/nbio](https://github.com/lesismal/nbio) | 3k | 174 | 2025-12-21T00:00:33Z |  Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use. |
+| [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | 2k | 171 | 2025-12-20T16:05:25Z |  A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. |
 | [intel-go/nff-go](https://github.com/intel-go/nff-go) | 1k | 163 | 2025-12-09T13:33:01Z |  Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF). |
 | [gansidui/gotcp](https://github.com/gansidui/gotcp) | 514 | 156 | 2025-08-26T19:59:51Z |  Go package for quickly writing tcp applications. |
 | [cavaliercoder/grab](https://github.com/cavaliercoder/grab) | 1k | 150 | 2025-12-19T06:13:58Z |  Go package for managing file downloads. |
@@ -147,22 +147,22 @@ Libraries for making HTTP requests.
 | [levigross/grequests](https://github.com/levigross/grequests) | 2k | 139 | 2025-12-16T05:31:46Z |  A Go "clone" of the great and famous Requests library. |
 | [fanux/lhttp](https://github.com/fanux/lhttp) | 690 | 139 | 2025-08-28T13:44:39Z |  Powerful websocket framework, build your IM server more easily. |
 | [masterzen/winrm](https://github.com/masterzen/winrm) | 456 | 133 | 2025-12-09T09:00:39Z |  Go WinRM client to remotely execute commands on Windows machines. |
-| [ccding/go-stun](https://github.com/ccding/go-stun) | 711 | 125 | 2025-11-24T01:56:07Z |  Go implementation of the STUN client (RFC 3489 and RFC 5389). |
+| [ccding/go-stun](https://github.com/ccding/go-stun) | 712 | 125 | 2025-12-20T18:53:01Z |  Go implementation of the STUN client (RFC 3489 and RFC 5389). |
 | [gchaincl/httplab](https://github.com/gchaincl/httplab) | 4k | 125 | 2025-12-19T11:44:00Z |  HTTPLabs let you inspect HTTP requests and forge responses. |
 | [dghubble/sling](https://github.com/dghubble/sling) | 2k | 123 | 2025-12-12T14:50:18Z |  Sling is a Go HTTP client library for creating and sending API requests. |
 | [google/gnxi](https://github.com/google/gnxi) | 282 | 122 | 2025-11-29T19:36:29Z |  A collection of tools for Network Management that use the gNMI and gNOI protocols. |
 | [yl2chen/cidranger](https://github.com/yl2chen/cidranger) | 966 | 108 | 2025-12-17T04:15:43Z |  Fast IP to CIDR lookup for Go. |
-| [lxzan/gws](https://github.com/lxzan/gws) | 2k | 104 | 2025-12-18T02:18:29Z |  High-Performance WebSocket Server & Client With AsyncIO Supporting . |
+| [lxzan/gws](https://github.com/lxzan/gws) | 2k | 104 | 2025-12-20T15:50:00Z |  High-Performance WebSocket Server & Client With AsyncIO Supporting . |
 | [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) | 460 | 102 | 2025-12-12T19:45:44Z |  Fully featured FTP server library. |
 | [DarthPestilane/easytcp](https://github.com/DarthPestilane/easytcp) | 826 | 88 | 2025-12-16T23:01:33Z |  A light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful. |
-| [xtaci/gaio](https://github.com/xtaci/gaio) | 799 | 88 | 2025-12-19T13:39:21Z |  High performance async-io networking for Golang in proactor mode. |
+| [xtaci/gaio](https://github.com/xtaci/gaio) | 799 | 88 | 2025-12-20T12:17:25Z |  High performance async-io networking for Golang in proactor mode. |
 | [yahoo/vssh](https://github.com/yahoo/vssh) | 984 | 84 | 2025-12-09T11:28:02Z |  Go library for building network and server automation over SSH protocol. |
 | [mdlayher/arp](https://github.com/mdlayher/arp) | 380 | 73 | 2025-12-19T01:08:44Z |  Package arp implements the ARP protocol, as described in RFC 826. |
 | [sethgrid/pester](https://github.com/sethgrid/pester) | 654 | 69 | 2025-10-21T09:42:08Z |  Go HTTP client calls with retries, backoff, and concurrency. |
 | [semihalev/sdns](https://github.com/semihalev/sdns) | 1k | 63 | 2025-12-18T06:45:10Z |  A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy. |
 | [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) | 348 | 58 | 2025-12-17T05:15:53Z |  Passive DNS Capture/Monitoring Framework. |
 | [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) | 667 | 57 | 2025-12-17T08:00:54Z |  Pure Go library for cross-platform local peer discovery using UDP multicast. |
-| [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) | 395 | 57 | 2025-12-19T17:28:06Z |  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint. |
+| [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) | 396 | 57 | 2025-12-21T00:02:10Z |  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint. |
 | [carlmjohnson/requests](https://github.com/carlmjohnson/requests) | 2k | 57 | 2025-12-18T09:36:29Z |  HTTP requests for Gophers. Uses context.Context and doesn't hide the underlying net/http.Client, making it compatible with standard Go APIs. Also includes testing tools. |
 | [h2non/gentleman](https://github.com/h2non/gentleman) | 1k | 56 | 2025-12-05T14:46:26Z |  Full-featured plugin-driven HTTP client library. |
 | [go-rtc/stun](https://github.com/go-rtc/stun) | 496 | 53 | 2025-11-12T08:52:28Z |  Go implementation of RFC 5389 STUN protocol. |
@@ -173,7 +173,7 @@ Libraries for making HTTP requests.
 | [anacrolix/utp](https://github.com/anacrolix/utp) | 182 | 35 | 2025-10-27T03:18:19Z |  Go uTP micro transport protocol implementation. |
 | [stabbycutyou/buffstreams](https://github.com/stabbycutyou/buffstreams) | 255 | 33 | 2025-10-22T03:32:28Z |  Streaming protocolbuffer data over TCP made easy. |
 | [xfxdev/xtcp](https://github.com/xfxdev/xtcp) | 159 | 31 | 2025-08-06T17:03:13Z |  TCP Server Framework with simultaneous full duplex communication, graceful shutdown, and custom protocol. |
-| [udhos/jazigo](https://github.com/udhos/jazigo) | 226 | 30 | 2025-12-09T16:04:07Z |  Jazigo is a tool written in Go for retrieving configuration for multiple network devices. |
+| [udhos/jazigo](https://github.com/udhos/jazigo) | 227 | 30 | 2025-12-20T19:54:15Z |  Jazigo is a tool written in Go for retrieving configuration for multiple network devices. |
 | [joeig/go-powerdns](https://github.com/joeig/go-powerdns) | 103 | 29 | 2025-11-24T16:38:04Z |  PowerDNS API bindings for Golang. |
 | [monaco-io/request](https://github.com/monaco-io/request) | 294 | 29 | 2025-12-18T00:58:43Z |  HTTP client for golang. If you have experience about axios or requests, you will love it. No 3rd dependency. |
 | [eduardonunesp/sslb](https://github.com/eduardonunesp/sslb) | 151 | 28 | 2025-06-12T15:43:00Z |  It's a Super Simples Load Balancer, just a little project to achieve some kind of performance. |
@@ -214,38 +214,41 @@ Libraries for making HTTP requests.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [pions/webrtc](https://github.com/pions/webrtc) | 16k | 2k | 2025-12-20T00:04:31Z |  A pure Go implementation of the WebRTC API. |
-| [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | 12k | 1k | 2025-12-19T22:23:28Z |  Cloudflare Tunnel client (formerly Argo Tunnel). |
-| [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | 2k | 171 | 2025-12-19T21:27:58Z |  A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. |
+| [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) | 396 | 57 | 2025-12-21T00:02:10Z |  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint. |
+| [cloudwego/netpoll](https://github.com/cloudwego/netpoll) | 4k | 496 | 2025-12-21T00:00:34Z |  A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
+| [lesismal/nbio](https://github.com/lesismal/nbio) | 3k | 174 | 2025-12-21T00:00:33Z |  Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use. |
+| [valyala/fasthttp](https://github.com/valyala/fasthttp) | 23k | 2k | 2025-12-21T00:00:11Z |  Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http. |
+| [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | 12k | 1k | 2025-12-20T23:08:12Z |  Cloudflare Tunnel client (formerly Argo Tunnel). |
+| [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) | 11k | 1k | 2025-12-20T22:33:02Z |  An implementation of the QUIC protocol in pure Go. |
+| [pions/webrtc](https://github.com/pions/webrtc) | 16k | 2k | 2025-12-20T20:28:24Z |  A pure Go implementation of the WebRTC API. |
+| [udhos/jazigo](https://github.com/udhos/jazigo) | 227 | 30 | 2025-12-20T19:54:15Z |  Jazigo is a tool written in Go for retrieving configuration for multiple network devices. |
+| [go-resty/resty](https://github.com/go-resty/resty) | 11k | 772 | 2025-12-20T19:05:03Z |  Simple HTTP and REST client for Go inspired by Ruby rest-client. |
+| [ccding/go-stun](https://github.com/ccding/go-stun) | 712 | 125 | 2025-12-20T18:53:01Z |  Go implementation of the STUN client (RFC 3489 and RFC 5389). |
+| [panjf2000/gnet](https://github.com/panjf2000/gnet) | 11k | 1k | 2025-12-20T18:07:09Z |  `gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. |
+| [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) | 5k | 570 | 2025-12-20T17:28:16Z |  A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack. |
+| [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) | 1k | 239 | 2025-12-20T17:03:38Z |  net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. |
+| [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | 2k | 171 | 2025-12-20T16:05:25Z |  A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. |
+| [lxzan/gws](https://github.com/lxzan/gws) | 2k | 104 | 2025-12-20T15:50:00Z |  High-Performance WebSocket Server & Client With AsyncIO Supporting . |
+| [xtaci/kcptun](https://github.com/xtaci/kcptun) | 14k | 3k | 2025-12-20T14:43:15Z |  Extremely simple & fast udp tunnel based on KCP protocol. |
+| [xtaci/kcp-go](https://github.com/xtaci/kcp-go) | 4k | 760 | 2025-12-20T13:10:26Z |  KCP - Fast and Reliable ARQ Protocol. |
+| [xtaci/gaio](https://github.com/xtaci/gaio) | 799 | 88 | 2025-12-20T12:17:25Z |  High performance async-io networking for Golang in proactor mode. |
+| [elazarl/goproxy](https://github.com/elazarl/goproxy) | 7k | 1k | 2025-12-20T10:00:35Z |  A library to create a customized HTTP/HTTPS proxy server using Go. |
+| [miekg/dns](https://github.com/miekg/dns) | 9k | 1k | 2025-12-20T05:10:58Z |  Go library for working with DNS. |
 | [google/gopacket](https://github.com/google/gopacket) | 7k | 1k | 2025-12-19T20:08:19Z |  Go library for packet processing with libpcap bindings. |
-| [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) | 5k | 570 | 2025-12-19T18:15:36Z |  A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack. |
 | [imroc/req](https://github.com/imroc/req) | 5k | 386 | 2025-12-19T17:49:41Z |  Simple Go HTTP client with Black Magic (Less code and More efficiency). |
-| [elazarl/goproxy](https://github.com/elazarl/goproxy) | 7k | 1k | 2025-12-19T17:46:02Z |  A library to create a customized HTTP/HTTPS proxy server using Go. |
-| [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) | 395 | 57 | 2025-12-19T17:28:06Z |  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint. |
-| [xtaci/kcptun](https://github.com/xtaci/kcptun) | 14k | 3k | 2025-12-19T15:13:55Z |  Extremely simple & fast udp tunnel based on KCP protocol. |
-| [valyala/fasthttp](https://github.com/valyala/fasthttp) | 23k | 2k | 2025-12-19T14:12:20Z |  Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http. |
-| [xtaci/kcp-go](https://github.com/xtaci/kcp-go) | 4k | 760 | 2025-12-19T14:00:15Z |  KCP - Fast and Reliable ARQ Protocol. |
-| [xtaci/gaio](https://github.com/xtaci/gaio) | 799 | 88 | 2025-12-19T13:39:21Z |  High performance async-io networking for Golang in proactor mode. |
-| [go-resty/resty](https://github.com/go-resty/resty) | 11k | 772 | 2025-12-19T13:02:10Z |  Simple HTTP and REST client for Go inspired by Ruby rest-client. |
 | [gchaincl/httplab](https://github.com/gchaincl/httplab) | 4k | 125 | 2025-12-19T11:44:00Z |  HTTPLabs let you inspect HTTP requests and forge responses. |
-| [panjf2000/gnet](https://github.com/panjf2000/gnet) | 11k | 1k | 2025-12-19T10:43:48Z |  `gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. |
-| [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) | 1k | 239 | 2025-12-19T09:52:04Z |  net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. |
 | [hashicorp/mdns](https://github.com/hashicorp/mdns) | 1k | 221 | 2025-12-19T09:48:31Z |  Simple mDNS (Multicast DNS) client/server library in Golang. |
-| [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) | 11k | 1k | 2025-12-19T07:33:55Z |  An implementation of the QUIC protocol in pure Go. |
 | [osrg/gobgp](https://github.com/osrg/gobgp) | 4k | 764 | 2025-12-19T07:04:22Z |  BGP implemented in the Go Programming Language. |
 | [cavaliercoder/grab](https://github.com/cavaliercoder/grab) | 1k | 150 | 2025-12-19T06:13:58Z |  Go package for managing file downloads. |
-| [gliderlabs/ssh](https://github.com/gliderlabs/ssh) | 4k | 478 | 2025-12-19T01:38:20Z |  Higher-level API for building SSH servers (wraps crypto/ssh). |
+| [gliderlabs/ssh](https://github.com/gliderlabs/ssh) | 4k | 479 | 2025-12-19T01:38:20Z |  Higher-level API for building SSH servers (wraps crypto/ssh). |
 | [pkg/sftp](https://github.com/pkg/sftp) | 2k | 389 | 2025-12-19T01:37:27Z |  Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>. |
 | [mdlayher/arp](https://github.com/mdlayher/arp) | 380 | 73 | 2025-12-19T01:08:44Z |  Package arp implements the ARP protocol, as described in RFC 826. |
 | [ybbus/httpretry](https://github.com/ybbus/httpretry) | 56 | 7 | 2025-12-18T23:32:01Z |  Enriches the default go HTTP client with retry functionality. |
 | [fortio/fortio](https://github.com/fortio/fortio) | 4k | 268 | 2025-12-18T18:54:12Z |  Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats and graph them. Tcp, Http, gRPC. |
-| [miekg/dns](https://github.com/miekg/dns) | 9k | 1k | 2025-12-18T17:31:23Z |  Go library for working with DNS. |
 | [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) | 2k | 282 | 2025-12-18T17:23:16Z |  Retryable HTTP client in Go. |
 | [carlmjohnson/requests](https://github.com/carlmjohnson/requests) | 2k | 57 | 2025-12-18T09:36:29Z |  HTTP requests for Gophers. Uses context.Context and doesn't hide the underlying net/http.Client, making it compatible with standard Go APIs. Also includes testing tools. |
-| [cloudwego/netpoll](https://github.com/cloudwego/netpoll) | 4k | 496 | 2025-12-18T06:56:36Z |  A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
 | [semihalev/sdns](https://github.com/semihalev/sdns) | 1k | 63 | 2025-12-18T06:45:10Z |  A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy. |
 | [gojektech/heimdall](https://github.com/gojektech/heimdall) | 3k | 211 | 2025-12-18T06:43:50Z |  An enhanced http client with retry and hystrix capabilities. |
-| [lxzan/gws](https://github.com/lxzan/gws) | 2k | 104 | 2025-12-18T02:18:29Z |  High-Performance WebSocket Server & Client With AsyncIO Supporting . |
 | [monaco-io/request](https://github.com/monaco-io/request) | 294 | 29 | 2025-12-18T00:58:43Z |  HTTP client for golang. If you have experience about axios or requests, you will love it. No 3rd dependency. |
 | [soniah/gosnmp](https://github.com/soniah/gosnmp) | 1k | 373 | 2025-12-17T18:12:23Z |  Native Go library for performing SNMP actions. |
 | [jeroenrinzema/psql-wire](https://github.com/jeroenrinzema/psql-wire) | 206 | 39 | 2025-12-17T13:12:31Z |  PostgreSQL server wire protocol. Build your own server and start serving connections.. |
@@ -258,14 +261,12 @@ Libraries for making HTTP requests.
 | [DarthPestilane/easytcp](https://github.com/DarthPestilane/easytcp) | 826 | 88 | 2025-12-16T23:01:33Z |  A light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful. |
 | [hashicorp/go-cleanhttp](https://github.com/hashicorp/go-cleanhttp) | 425 | 37 | 2025-12-16T16:10:09Z |  Get easily stdlib HTTP client, which does not share any state with other clients. |
 | [levigross/grequests](https://github.com/levigross/grequests) | 2k | 139 | 2025-12-16T05:31:46Z |  A Go "clone" of the great and famous Requests library. |
-| [lesismal/nbio](https://github.com/lesismal/nbio) | 3k | 174 | 2025-12-15T22:26:57Z |  Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use. |
 | [sunwxg/goshark](https://github.com/sunwxg/goshark) | 18 | 4 | 2025-12-15T08:28:35Z |  Package goshark use tshark to decode IP packet and create data struct to analyse packet. |
 | [songgao/water](https://github.com/songgao/water) | 2k | 312 | 2025-12-14T14:03:28Z |  Simple TUN/TAP library. |
 | [presbrey/go-multiproxy](https://github.com/presbrey/go-multiproxy) | 25 | 1 | 2025-12-13T15:24:15Z |  Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in |
 | [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) | 460 | 102 | 2025-12-12T19:45:44Z |  Fully featured FTP server library. |
 | [dghubble/sling](https://github.com/dghubble/sling) | 2k | 123 | 2025-12-12T14:50:18Z |  Sling is a Go HTTP client library for creating and sending API requests. |
 | [Allenxuxu/gev](https://github.com/Allenxuxu/gev) | 2k | 194 | 2025-12-12T04:51:19Z |  gev is a lightweight, fast non-blocking TCP network library based on Reactor mode. |
-| [udhos/jazigo](https://github.com/udhos/jazigo) | 226 | 30 | 2025-12-09T16:04:07Z |  Jazigo is a tool written in Go for retrieving configuration for multiple network devices. |
 | [intel-go/nff-go](https://github.com/intel-go/nff-go) | 1k | 163 | 2025-12-09T13:33:01Z |  Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF). |
 | [yahoo/vssh](https://github.com/yahoo/vssh) | 984 | 84 | 2025-12-09T11:28:02Z |  Go library for building network and server automation over SSH protocol. |
 | [masterzen/winrm](https://github.com/masterzen/winrm) | 456 | 133 | 2025-12-09T09:00:39Z |  Go WinRM client to remotely execute commands on Windows machines. |
@@ -277,7 +278,6 @@ Libraries for making HTTP requests.
 | [fish-tennis/gnet](https://github.com/fish-tennis/gnet) | 25 | 5 | 2025-12-02T10:42:26Z |  `gnet` is a high-performance networking framework,especially for game servers. |
 | [google/gnxi](https://github.com/google/gnxi) | 282 | 122 | 2025-11-29T19:36:29Z |  A collection of tools for Network Management that use the gNMI and gNOI protocols. |
 | [joeig/go-powerdns](https://github.com/joeig/go-powerdns) | 103 | 29 | 2025-11-24T16:38:04Z |  PowerDNS API bindings for Golang. |
-| [ccding/go-stun](https://github.com/ccding/go-stun) | 711 | 125 | 2025-11-24T01:56:07Z |  Go implementation of the STUN client (RFC 3489 and RFC 5389). |
 | [go-rtc/stun](https://github.com/go-rtc/stun) | 496 | 53 | 2025-11-12T08:52:28Z |  Go implementation of RFC 5389 STUN protocol. |
 | [NdoleStudio/go-otelroundtripper](https://github.com/NdoleStudio/go-otelroundtripper) | 84 | 3 | 2025-11-11T20:19:07Z |  Go http.RoundTripper that emits open telemetry metrics for HTTP requests. |
 | [ian-kent/linkio](https://github.com/ian-kent/linkio) | 55 | 7 | 2025-11-04T23:28:37Z |  Network link speed simulation for Reader/Writer interfaces. |
