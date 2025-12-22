@@ -7,7 +7,7 @@ Libraries for manipulating audio.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2025-12-20T03:54:04Z |  A low-level library to play sound on multiple platforms. |
-| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 815 | 108 | 2025-12-20T22:22:53Z |  Go bindings for the PortAudio audio I/O library. |
+| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 816 | 108 | 2025-12-21T05:39:21Z |  Go bindings for the PortAudio audio I/O library. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 515 | 16 | 2025-12-17T08:45:12Z |  Command-line audio player that supports multiple formats including WAV, MP3, OGG, and FLAC. |
 | [gopxl/beep](https://github.com/gopxl/beep) | 491 | 24 | 2025-12-19T05:11:15Z |  A simple library for playback and audio manipulation. |
 | [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 397 | 41 | 2025-12-17T01:24:28Z |  Native Go Audio Processing Library. |
@@ -24,7 +24,7 @@ Libraries for manipulating audio.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2025-12-20T03:54:04Z |  A low-level library to play sound on multiple platforms. |
-| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 815 | 108 | 2025-12-20T22:22:53Z |  Go bindings for the PortAudio audio I/O library. |
+| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 816 | 108 | 2025-12-21T05:39:21Z |  Go bindings for the PortAudio audio I/O library. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 368 | 62 | 2025-12-20T20:23:23Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 358 | 60 | 2025-12-02T09:26:06Z |  ID3 decoding and encoding library for Go. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 348 | 49 | 2025-11-25T19:43:04Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
@@ -40,7 +40,7 @@ Libraries for manipulating audio.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 815 | 108 | 2025-12-20T22:22:53Z |  Go bindings for the PortAudio audio I/O library. |
+| [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 816 | 108 | 2025-12-21T05:39:21Z |  Go bindings for the PortAudio audio I/O library. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 368 | 62 | 2025-12-20T20:23:23Z |  Mini audio library. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 38 | 10 | 2025-12-20T12:16:49Z |  libsamplerate bindings for go. |
 | [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2025-12-20T03:54:04Z |  A low-level library to play sound on multiple platforms. |
