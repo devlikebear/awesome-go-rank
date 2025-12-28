@@ -23,11 +23,11 @@ Libraries for manipulating images.
 | [disintegration/gift](https://github.com/disintegration/gift) | 2k | 120 | 2025-12-23T12:58:29Z |  Package of image processing filters. |
 | [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 114 | 2025-12-26T18:25:21Z |  Vector graphics to PDF, SVG or rasterized image. |
 | [davidbyttow/govips](https://github.com/davidbyttow/govips) | 2k | 210 | 2025-12-22T11:26:26Z |  A lightning fast image processing and resizing library for Go. |
-| [pravj/geopattern](https://github.com/pravj/geopattern) | 1k | 64 | 2025-11-21T07:12:04Z |  Create beautiful generative image patterns from a string. |
+| [pravj/geopattern](https://github.com/pravj/geopattern) | 1k | 64 | 2025-12-27T16:11:54Z |  Create beautiful generative image patterns from a string. |
 | [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) | 1k | 118 | 2025-12-21T22:01:12Z |  Go tool for LSB steganography, capable of hiding any file within an image. |
 | [qeesung/image2ascii](https://github.com/qeesung/image2ascii) | 952 | 83 | 2025-12-25T23:44:32Z |  Convert image to ASCII. |
-| [corona10/goimagehash](https://github.com/corona10/goimagehash) | 826 | 78 | 2025-12-22T21:47:26Z |  Go Perceptual image hashing package. |
-| [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | 795 | 113 | 2025-12-26T17:29:26Z |  Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons. |
+| [corona10/goimagehash](https://github.com/corona10/goimagehash) | 827 | 78 | 2025-12-27T11:04:27Z |  Go Perceptual image hashing package. |
+| [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | 796 | 113 | 2025-12-27T21:49:10Z |  Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons. |
 | [o1egl/govatar](https://github.com/o1egl/govatar) | 607 | 47 | 2025-12-19T07:42:00Z |  Library and CMD tool for generating funny avatars. |
 | [aldor007/mort](https://github.com/aldor007/mort) | 518 | 24 | 2025-12-25T14:59:31Z |  Storage and image processing server written in Go. |
 | [koyachi/go-nude](https://github.com/koyachi/go-nude) | 422 | 51 | 2025-11-14T11:37:03Z |  Nudity detection with Go. |
@@ -71,11 +71,11 @@ Libraries for manipulating images.
 | [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) | 1k | 118 | 2025-12-21T22:01:12Z |  Go tool for LSB steganography, capable of hiding any file within an image. |
 | [muesli/smartcrop](https://github.com/muesli/smartcrop) | 2k | 114 | 2025-11-24T23:42:04Z |  Finds good crops for arbitrary images and crop sizes. |
 | [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 114 | 2025-12-26T18:25:21Z |  Vector graphics to PDF, SVG or rasterized image. |
-| [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | 795 | 113 | 2025-12-26T17:29:26Z |  Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons. |
+| [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | 796 | 113 | 2025-12-27T21:49:10Z |  Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons. |
 | [fogleman/pt](https://github.com/fogleman/pt) | 2k | 108 | 2025-12-04T15:04:42Z |  Path tracing engine written in Go. |
 | [qeesung/image2ascii](https://github.com/qeesung/image2ascii) | 952 | 83 | 2025-12-25T23:44:32Z |  Convert image to ASCII. |
-| [corona10/goimagehash](https://github.com/corona10/goimagehash) | 826 | 78 | 2025-12-22T21:47:26Z |  Go Perceptual image hashing package. |
-| [pravj/geopattern](https://github.com/pravj/geopattern) | 1k | 64 | 2025-11-21T07:12:04Z |  Create beautiful generative image patterns from a string. |
+| [corona10/goimagehash](https://github.com/corona10/goimagehash) | 827 | 78 | 2025-12-27T11:04:27Z |  Go Perceptual image hashing package. |
+| [pravj/geopattern](https://github.com/pravj/geopattern) | 1k | 64 | 2025-12-27T16:11:54Z |  Create beautiful generative image patterns from a string. |
 | [koyachi/go-nude](https://github.com/koyachi/go-nude) | 422 | 51 | 2025-11-14T11:37:03Z |  Nudity detection with Go. |
 | [o1egl/govatar](https://github.com/o1egl/govatar) | 607 | 47 | 2025-12-19T07:42:00Z |  Library and CMD tool for generating funny avatars. |
 | [auyer/steganography](https://github.com/auyer/steganography) | 353 | 46 | 2025-12-04T03:38:46Z |  Pure Go Library for LSB steganography. |
@@ -102,10 +102,12 @@ Libraries for manipulating images.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | 796 | 113 | 2025-12-27T21:49:10Z |  Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons. |
+| [pravj/geopattern](https://github.com/pravj/geopattern) | 1k | 64 | 2025-12-27T16:11:54Z |  Create beautiful generative image patterns from a string. |
+| [corona10/goimagehash](https://github.com/corona10/goimagehash) | 827 | 78 | 2025-12-27T11:04:27Z |  Go Perceptual image hashing package. |
 | [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 7k | 901 | 2025-12-26T18:51:10Z |  Go package for computer vision using OpenCV 3.3+. |
 | [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 114 | 2025-12-26T18:25:21Z |  Vector graphics to PDF, SVG or rasterized image. |
 | [ajstarks/svgo](https://github.com/ajstarks/svgo) | 2k | 176 | 2025-12-26T18:23:55Z |  Go Language Library for SVG generation. |
-| [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | 795 | 113 | 2025-12-26T17:29:26Z |  Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons. |
 | [sensepost/gowitness](https://github.com/sensepost/gowitness) | 4k | 419 | 2025-12-26T06:29:50Z |  Screenshoting webpages using go and headless chrome on command line. |
 | [qeesung/image2ascii](https://github.com/qeesung/image2ascii) | 952 | 83 | 2025-12-25T23:44:32Z |  Convert image to ASCII. |
 | [noelyahan/mergi](https://github.com/noelyahan/mergi) | 244 | 26 | 2025-12-25T15:01:12Z |  Tool & Go library for image manipulation (Merge, Crop, Resize, Watermark, Animate). |
@@ -120,7 +122,6 @@ Libraries for manipulating images.
 | [thoas/picfit](https://github.com/thoas/picfit) | 2k | 189 | 2025-12-23T18:21:04Z |  An image resizing server written in Go. |
 | [disintegration/gift](https://github.com/disintegration/gift) | 2k | 120 | 2025-12-23T12:58:29Z |  Package of image processing filters. |
 | [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 487 | 2025-12-23T10:53:20Z |  Fast and simple HTTP microservice for image resizing. |
-| [corona10/goimagehash](https://github.com/corona10/goimagehash) | 826 | 78 | 2025-12-22T21:47:26Z |  Go Perceptual image hashing package. |
 | [davidbyttow/govips](https://github.com/davidbyttow/govips) | 2k | 210 | 2025-12-22T11:26:26Z |  A lightning fast image processing and resizing library for Go. |
 | [gographics/imagick](https://github.com/gographics/imagick) | 2k | 186 | 2025-12-22T07:19:32Z |  Go binding to ImageMagick's MagickWand C API. |
 | [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) | 1k | 118 | 2025-12-21T22:01:12Z |  Go tool for LSB steganography, capable of hiding any file within an image. |
@@ -135,7 +136,6 @@ Libraries for manipulating images.
 | [qmuntal/gltf](https://github.com/qmuntal/gltf) | 266 | 33 | 2025-12-01T03:37:04Z |  Efficient and robust glTF 2.0 reader, writer and validator. |
 | [muesli/smartcrop](https://github.com/muesli/smartcrop) | 2k | 114 | 2025-11-24T23:42:04Z |  Finds good crops for arbitrary images and crop sizes. |
 | [jonoton/scout](https://github.com/jonoton/scout) | 26 | 5 | 2025-11-21T15:39:10Z |  Scout is a standalone open source software solution for DIY video security. |
-| [pravj/geopattern](https://github.com/pravj/geopattern) | 1k | 64 | 2025-11-21T07:12:04Z |  Create beautiful generative image patterns from a string. |
 | [marekm4/color-extractor](https://github.com/marekm4/color-extractor) | 132 | 6 | 2025-11-20T12:22:13Z |  Dominant color extractor with no external dependencies. |
 | [koyachi/go-nude](https://github.com/koyachi/go-nude) | 422 | 51 | 2025-11-14T11:37:03Z |  Nudity detection with Go. |
 | [aofei/cameron](https://github.com/aofei/cameron) | 130 | 11 | 2025-11-13T11:03:31Z |  An avatar generator for Go. |
