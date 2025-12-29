@@ -19,7 +19,7 @@ Libraries for scheduling jobs.
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 13 | 2025-07-25T07:29:50Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 59 | 12 | 2025-12-13T07:08:47Z |  Job scheduler library with database support |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-12-26T08:28:10Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-12-28T13:21:22Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2025-09-09T03:57:28Z |  A flexible and extensible job scheduling and execution library for Go. |
@@ -41,7 +41,7 @@ Libraries for scheduling jobs.
 | [rk/go-cron](https://github.com/rk/go-cron) | 238 | 15 | 2025-05-28T03:47:28Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 13 | 2025-07-25T07:29:50Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 59 | 12 | 2025-12-13T07:08:47Z |  Job scheduler library with database support |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-12-26T08:28:10Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-12-28T13:21:22Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2025-09-09T03:57:28Z |  A flexible and extensible job scheduling and execution library for Go. |
@@ -50,8 +50,8 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-12-28T13:21:22Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 483 | 27 | 2025-12-27T12:30:36Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 31 | 5 | 2025-12-26T08:28:10Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 469 | 35 | 2025-12-26T01:12:14Z |  A simple but powerful DAG scheduler and dashboard. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 344 | 2025-12-23T15:34:13Z | . |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2025-12-23T08:19:56Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
