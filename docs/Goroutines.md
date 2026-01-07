@@ -6,9 +6,9 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-01-05T14:37:34Z |  A high-performance and low-cost goroutine pool in Go. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 352 | 2026-01-05T14:17:22Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
-| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 310 | 2025-12-29T01:21:04Z |  Goroutine pool for golang. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-01-06T23:38:40Z |  A high-performance and low-cost goroutine pool in Go. |
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 352 | 2026-01-06T17:13:07Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 310 | 2026-01-06T15:10:05Z |  Goroutine pool for golang. |
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 244 | 2025-12-23T07:19:44Z |  goworker is a Go-based background worker. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 77 | 2026-01-05T19:01:44Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 24 | 2026-01-04T00:32:50Z |  Go toolkit for clean, composable, channel-based concurrency. |
@@ -60,9 +60,9 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-01-05T14:37:34Z |  A high-performance and low-cost goroutine pool in Go. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 352 | 2026-01-05T14:17:22Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
-| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 310 | 2025-12-29T01:21:04Z |  Goroutine pool for golang. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-01-06T23:38:40Z |  A high-performance and low-cost goroutine pool in Go. |
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 352 | 2026-01-06T17:13:07Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 310 | 2026-01-06T15:10:05Z |  Goroutine pool for golang. |
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 244 | 2025-12-23T07:19:44Z |  goworker is a Go-based background worker. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 149 | 2026-01-04T00:32:43Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
 | [ivpusic/grpool](https://github.com/ivpusic/grpool) | 741 | 101 | 2025-12-29T01:06:42Z |  Lightweight Goroutine pool. |
@@ -114,9 +114,10 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-01-06T23:38:40Z |  A high-performance and low-cost goroutine pool in Go. |
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 352 | 2026-01-06T17:13:07Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 310 | 2026-01-06T15:10:05Z |  Goroutine pool for golang. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 77 | 2026-01-05T19:01:44Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-01-05T14:37:34Z |  A high-performance and low-cost goroutine pool in Go. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 352 | 2026-01-05T14:17:22Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
 | [timandy/routine](https://github.com/timandy/routine) | 283 | 28 | 2026-01-04T15:31:49Z |  `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 24 | 2026-01-04T00:32:50Z |  Go toolkit for clean, composable, channel-based concurrency. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 149 | 2026-01-04T00:32:43Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
@@ -124,7 +125,6 @@ Tools for managing and working with Goroutines.
 | [kyuff/anchor](https://github.com/kyuff/anchor) | 2 | 0 | 2026-01-02T13:53:09Z |  Library to manage component lifecycle in microservice architectures. |
 | [nar10z/go-accumulator](https://github.com/nar10z/go-accumulator) | 10 | 0 | 2026-01-02T03:44:52Z |  Solution for accumulation of events and their subsequent processing. |
 | [neilotoole/errgroup](https://github.com/neilotoole/errgroup) | 165 | 11 | 2025-12-31T12:43:08Z |  Drop-in alternative to `sync/errgroup`, limited to a pool of N worker goroutines. |
-| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 310 | 2025-12-29T01:21:04Z |  Goroutine pool for golang. |
 | [ivpusic/grpool](https://github.com/ivpusic/grpool) | 741 | 101 | 2025-12-29T01:06:42Z |  Lightweight Goroutine pool. |
 | [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 521 | 67 | 2025-12-29T01:04:39Z |  gowp is concurrency limiting goroutine pool. |
 | [dirkaholic/kyoo](https://github.com/dirkaholic/kyoo) | 51 | 4 | 2025-12-28T01:27:58Z |  Provides an unlimited job queue and concurrent worker pools. |
