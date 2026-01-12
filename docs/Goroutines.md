@@ -17,7 +17,7 @@ Tools for managing and working with Goroutines.
 | [go-playground/pool](https://github.com/go-playground/pool) | 729 | 65 | 2026-01-07T02:16:32Z |  Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation. |
 | [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 521 | 67 | 2025-12-29T01:04:39Z |  gowp is concurrency limiting goroutine pool. |
 | [carlmjohnson/flowmatic](https://github.com/carlmjohnson/flowmatic) | 396 | 8 | 2025-12-14T13:23:46Z |  Structured concurrency made easy. |
-| [reugn/async](https://github.com/reugn/async) | 285 | 15 | 2026-01-07T06:38:17Z |  An alternative sync library for Go (Future, Promise, Locks). |
+| [reugn/async](https://github.com/reugn/async) | 286 | 15 | 2026-01-11T08:12:33Z |  An alternative sync library for Go (Future, Promise, Locks). |
 | [timandy/routine](https://github.com/timandy/routine) | 283 | 28 | 2026-01-04T15:31:49Z |  `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully. |
 | [vladopajic/go-actor](https://github.com/vladopajic/go-actor) | 273 | 18 | 2025-12-26T06:42:06Z |  A tiny library for writing concurrent programs using actor model. |
 | [workanator/go-floc](https://github.com/workanator/go-floc) | 269 | 17 | 2025-12-22T03:55:13Z |  Orchestrate goroutines with ease. |
@@ -77,7 +77,7 @@ Tools for managing and working with Goroutines.
 | [vladopajic/go-actor](https://github.com/vladopajic/go-actor) | 273 | 18 | 2025-12-26T06:42:06Z |  A tiny library for writing concurrent programs using actor model. |
 | [studiosol/async](https://github.com/studiosol/async) | 139 | 18 | 2025-03-31T10:28:14Z |  A safe way to execute functions asynchronously, recovering them in case of panic. |
 | [workanator/go-floc](https://github.com/workanator/go-floc) | 269 | 17 | 2025-12-22T03:55:13Z |  Orchestrate goroutines with ease. |
-| [reugn/async](https://github.com/reugn/async) | 285 | 15 | 2026-01-07T06:38:17Z |  An alternative sync library for Go (Future, Promise, Locks). |
+| [reugn/async](https://github.com/reugn/async) | 286 | 15 | 2026-01-11T08:12:33Z |  An alternative sync library for Go (Future, Promise, Locks). |
 | [borderstech/artifex](https://github.com/borderstech/artifex) | 213 | 14 | 2025-12-24T12:55:57Z |  Simple in-memory job queue for Golang using worker-based dispatching. |
 | [vardius/worker-pool](https://github.com/vardius/worker-pool) | 92 | 13 | 2025-05-14T03:06:35Z |  goworker is a Go simple async worker pool. |
 | [vardius/gollback](https://github.com/vardius/gollback) | 123 | 13 | 2025-07-22T10:01:47Z |  asynchronous simple function utilities, for managing execution of closures and callbacks. |
@@ -114,11 +114,11 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [reugn/async](https://github.com/reugn/async) | 286 | 15 | 2026-01-11T08:12:33Z |  An alternative sync library for Go (Future, Promise, Locks). |
 | [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-01-10T11:24:09Z |  A high-performance and low-cost goroutine pool in Go. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 77 | 2026-01-09T13:40:55Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 24 | 2026-01-09T08:10:23Z |  Go toolkit for clean, composable, channel-based concurrency. |
 | [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 352 | 2026-01-07T17:21:04Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
-| [reugn/async](https://github.com/reugn/async) | 285 | 15 | 2026-01-07T06:38:17Z |  An alternative sync library for Go (Future, Promise, Locks). |
 | [go-playground/pool](https://github.com/go-playground/pool) | 729 | 65 | 2026-01-07T02:16:32Z |  Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 310 | 2026-01-06T15:10:05Z |  Goroutine pool for golang. |
 | [timandy/routine](https://github.com/timandy/routine) | 283 | 28 | 2026-01-04T15:31:49Z |  `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully. |

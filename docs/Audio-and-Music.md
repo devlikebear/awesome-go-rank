@@ -6,7 +6,7 @@ Libraries for manipulating audio.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2026-01-10T07:40:56Z |  A low-level library to play sound on multiple platforms. |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2026-01-11T02:34:36Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 822 | 108 | 2026-01-10T03:50:22Z |  Go bindings for the PortAudio audio I/O library. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 524 | 16 | 2026-01-09T17:33:17Z |  Command-line audio player that supports multiple formats including WAV, MP3, OGG, and FLAC. |
 | [gopxl/beep](https://github.com/gopxl/beep) | 500 | 25 | 2026-01-10T14:32:44Z |  A simple library for playback and audio manipulation. |
@@ -23,7 +23,7 @@ Libraries for manipulating audio.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2026-01-10T07:40:56Z |  A low-level library to play sound on multiple platforms. |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2026-01-11T02:34:36Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 822 | 108 | 2026-01-10T03:50:22Z |  Go bindings for the PortAudio audio I/O library. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 374 | 62 | 2026-01-07T19:57:36Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 360 | 60 | 2026-01-06T01:30:10Z |  ID3 decoding and encoding library for Go. |
@@ -40,8 +40,8 @@ Libraries for manipulating audio.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2026-01-11T02:34:36Z |  A low-level library to play sound on multiple platforms. |
 | [gopxl/beep](https://github.com/gopxl/beep) | 500 | 25 | 2026-01-10T14:32:44Z |  A simple library for playback and audio manipulation. |
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 149 | 2026-01-10T07:40:56Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 822 | 108 | 2026-01-10T03:50:22Z |  Go bindings for the PortAudio audio I/O library. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 524 | 16 | 2026-01-09T17:33:17Z |  Command-line audio player that supports multiple formats including WAV, MP3, OGG, and FLAC. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 374 | 62 | 2026-01-07T19:57:36Z |  Mini audio library. |
