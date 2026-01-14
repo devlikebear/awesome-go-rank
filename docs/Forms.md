@@ -8,7 +8,7 @@ Libraries for working with forms.
 |------------|-------|-------|--------------|-------------|
 | [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 128 | 2026-01-09T21:20:28Z |  CSRF protection middleware for Go. |
 | [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 163 | 2026-01-04T16:12:43Z |  CSRF protection for Go web applications & services. |
-| [go-playground/form](https://github.com/go-playground/form) | 897 | 46 | 2026-01-07T23:46:56Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
+| [go-playground/form](https://github.com/go-playground/form) | 898 | 46 | 2026-01-13T06:56:45Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 382 | 27 | 2026-01-07T15:23:20Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 326 | 37 | 2025-09-17T14:02:23Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
 | [monoculum/formam](https://github.com/monoculum/formam) | 192 | 19 | 2025-02-21T08:46:10Z |  decode form's values into a struct. |
@@ -26,7 +26,7 @@ Libraries for working with forms.
 |------------|-------|-------|--------------|-------------|
 | [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 163 | 2026-01-04T16:12:43Z |  CSRF protection for Go web applications & services. |
 | [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 128 | 2026-01-09T21:20:28Z |  CSRF protection middleware for Go. |
-| [go-playground/form](https://github.com/go-playground/form) | 897 | 46 | 2026-01-07T23:46:56Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
+| [go-playground/form](https://github.com/go-playground/form) | 898 | 46 | 2026-01-13T06:56:45Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 326 | 37 | 2025-09-17T14:02:23Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 382 | 27 | 2026-01-07T15:23:20Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [albrow/forms](https://github.com/albrow/forms) | 142 | 25 | 2025-03-31T16:21:39Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
@@ -42,9 +42,9 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [go-playground/form](https://github.com/go-playground/form) | 898 | 46 | 2026-01-13T06:56:45Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 128 | 2026-01-09T21:20:28Z |  CSRF protection middleware for Go. |
 | [sonh/qs](https://github.com/sonh/qs) | 80 | 7 | 2026-01-08T08:26:35Z |  Go module for encoding structs into URL query parameters. |
-| [go-playground/form](https://github.com/go-playground/form) | 897 | 46 | 2026-01-07T23:46:56Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 382 | 27 | 2026-01-07T15:23:20Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 163 | 2026-01-04T16:12:43Z |  CSRF protection for Go web applications & services. |
 | [slipros/roamer](https://github.com/slipros/roamer) | 5 | 0 | 2025-12-30T21:45:10Z |  Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags. |
