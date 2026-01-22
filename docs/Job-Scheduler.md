@@ -22,7 +22,7 @@ Libraries for scheduling jobs.
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 32 | 5 | 2026-01-03T06:09:04Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
-| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2025-09-09T03:57:28Z |  A flexible and extensible job scheduling and execution library for Go. |
+| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2026-01-21T03:29:07Z |  A flexible and extensible job scheduling and execution library for Go. |
 
 ### Ranked by Forks
 
@@ -44,12 +44,13 @@ Libraries for scheduling jobs.
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 32 | 5 | 2026-01-03T06:09:04Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
-| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2025-09-09T03:57:28Z |  A flexible and extensible job scheduling and execution library for Go. |
+| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2026-01-21T03:29:07Z |  A flexible and extensible job scheduling and execution library for Go. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2026-01-21T03:29:07Z |  A flexible and extensible job scheduling and execution library for Go. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 94 | 2026-01-20T07:41:00Z |  Simple, zero-dependency scheduling library for Go. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2026-01-20T01:26:26Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 484 | 27 | 2026-01-18T16:23:37Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
@@ -63,7 +64,6 @@ Libraries for scheduling jobs.
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 321 | 26 | 2025-11-14T10:36:30Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
-| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2025-09-09T03:57:28Z |  A flexible and extensible job scheduling and execution library for Go. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 13 | 2025-07-25T07:29:50Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 238 | 15 | 2025-05-28T03:47:28Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
