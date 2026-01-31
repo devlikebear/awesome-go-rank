@@ -6,20 +6,20 @@ Frameworks for performing ELT / ETL
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 913 | 2026-01-29T20:48:10Z |  A message streaming bridge between a range of protocols. |
-| [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-01-28T15:16:12Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 913 | 2026-01-30T14:30:59Z |  A message streaming bridge between a range of protocols. |
+| [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-01-30T15:57:40Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 913 | 2026-01-29T20:48:10Z |  A message streaming bridge between a range of protocols. |
-| [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-01-28T15:16:12Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 913 | 2026-01-30T14:30:59Z |  A message streaming bridge between a range of protocols. |
+| [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-01-30T15:57:40Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 913 | 2026-01-29T20:48:10Z |  A message streaming bridge between a range of protocols. |
-| [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-01-28T15:16:12Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
+| [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-01-30T15:57:40Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 913 | 2026-01-30T14:30:59Z |  A message streaming bridge between a range of protocols. |
 
