@@ -15,7 +15,7 @@ Libraries for scientific computing and data analyzing.
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 121 | 2026-01-28T03:14:32Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 903 | 88 | 2026-01-31T11:12:56Z |  Digital Signal Processing for Go. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 774 | 107 | 2025-12-15T11:44:20Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 750 | 63 | 2026-01-26T23:39:03Z |  Library of basic graph algorithms. |
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 750 | 63 | 2026-02-01T20:41:27Z |  Library of basic graph algorithms. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 745 | 75 | 2025-12-02T07:59:38Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [bebop/poly](https://github.com/bebop/poly) | 720 | 73 | 2026-01-31T01:16:24Z |  A Go package for engineering organisms. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 451 | 37 | 2026-01-14T03:40:51Z |  Exponentially-weighted moving averages. |
@@ -58,7 +58,7 @@ Libraries for scientific computing and data analyzing.
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 903 | 88 | 2026-01-31T11:12:56Z |  Digital Signal Processing for Go. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 745 | 75 | 2025-12-02T07:59:38Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [bebop/poly](https://github.com/bebop/poly) | 720 | 73 | 2026-01-31T01:16:24Z |  A Go package for engineering organisms. |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 750 | 63 | 2026-01-26T23:39:03Z |  Library of basic graph algorithms. |
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 750 | 63 | 2026-02-01T20:41:27Z |  Library of basic graph algorithms. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 252 | 38 | 2025-10-30T14:40:31Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 451 | 37 | 2026-01-14T03:40:51Z |  Exponentially-weighted moving averages. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 222 | 23 | 2026-01-16T10:48:43Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
@@ -88,6 +88,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [yourbasic/graph](https://github.com/yourbasic/graph) | 750 | 63 | 2026-02-01T20:41:27Z |  Library of basic graph algorithms. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 903 | 88 | 2026-01-31T11:12:56Z |  Digital Signal Processing for Go. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 77 | 5 | 2026-01-31T04:31:05Z |  Tool to manipulate JSONL graphs with graphviz support. |
 | [bebop/poly](https://github.com/bebop/poly) | 720 | 73 | 2026-01-31T01:16:24Z |  A Go package for engineering organisms. |
@@ -98,7 +99,6 @@ Libraries for scientific computing and data analyzing.
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 147 | 2026-01-28T15:06:17Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 121 | 2026-01-28T03:14:32Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 166 | 22 | 2026-01-27T03:42:54Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
-| [yourbasic/graph](https://github.com/yourbasic/graph) | 750 | 63 | 2026-01-26T23:39:03Z |  Library of basic graph algorithms. |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 105 | 12 | 2026-01-18T22:00:46Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 222 | 23 | 2026-01-16T10:48:43Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 451 | 37 | 2026-01-14T03:40:51Z |  Exponentially-weighted moving averages. |
