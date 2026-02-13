@@ -6,18 +6,18 @@ Libraries that are used to help make your application more secure.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 21k | 608 | 2026-02-11T22:36:20Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
-| [go-acme/lego](https://github.com/go-acme/lego) | 9k | 1k | 2026-02-11T14:57:05Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 5k | 320 | 2026-02-10T15:02:32Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
-| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 603 | 2026-02-09T08:30:09Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 3k | 309 | 2026-02-11T21:59:00Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
-| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 133 | 2026-02-10T06:18:16Z |  A pure Go library for handling sensitive values in memory. |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 21k | 608 | 2026-02-12T22:35:37Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
+| [go-acme/lego](https://github.com/go-acme/lego) | 9k | 1k | 2026-02-12T18:13:54Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 5k | 320 | 2026-02-12T16:51:58Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
+| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 603 | 2026-02-12T23:28:30Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 3k | 308 | 2026-02-12T08:32:28Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
+| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 133 | 2026-02-12T13:57:30Z |  A pure Go library for handling sensitive values in memory. |
 | [unrolled/secure](https://github.com/unrolled/secure) | 2k | 143 | 2026-02-06T16:11:08Z |  HTTP middleware for Go that facilitates some quick security wins. |
 | [hlandau/acme](https://github.com/hlandau/acme) | 2k | 128 | 2026-01-30T08:18:01Z |  ACME (Let's Encrypt) client tool with automatic renewal. |
 | [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 156 | 2026-02-07T23:11:15Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
-| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 169 | 2026-02-11T16:22:46Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
+| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 171 | 2026-02-12T13:16:19Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
 | [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 134 | 2026-02-10T08:17:26Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
-| [golang-module/dongle](https://github.com/golang-module/dongle) | 1k | 77 | 2026-02-10T06:41:40Z |  A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption. |
+| [golang-module/dongle](https://github.com/golang-module/dongle) | 1k | 77 | 2026-02-12T22:11:16Z |  A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption. |
 | [safedep/vet](https://github.com/safedep/vet) | 946 | 87 | 2026-02-10T07:16:15Z |  Protect against malicious open source packages. |
 | [anatol/booster](https://github.com/anatol/booster) | 620 | 53 | 2026-02-11T02:49:57Z |  Fast initramfs generator with full-disk encryption support. |
 | [lane-c-wagner/go-password-validator](https://github.com/lane-c-wagner/go-password-validator) | 569 | 47 | 2026-02-11T15:41:27Z |  Password validator based on raw cryptographic entropy values. |
@@ -53,19 +53,19 @@ Libraries that are used to help make your application more secure.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-acme/lego](https://github.com/go-acme/lego) | 9k | 1k | 2026-02-11T14:57:05Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 21k | 608 | 2026-02-11T22:36:20Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
-| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 603 | 2026-02-09T08:30:09Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 5k | 320 | 2026-02-10T15:02:32Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 3k | 309 | 2026-02-11T21:59:00Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
-| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 169 | 2026-02-11T16:22:46Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
+| [go-acme/lego](https://github.com/go-acme/lego) | 9k | 1k | 2026-02-12T18:13:54Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 21k | 608 | 2026-02-12T22:35:37Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
+| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 603 | 2026-02-12T23:28:30Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 5k | 320 | 2026-02-12T16:51:58Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 3k | 308 | 2026-02-12T08:32:28Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
+| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 171 | 2026-02-12T13:16:19Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
 | [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 156 | 2026-02-07T23:11:15Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
 | [unrolled/secure](https://github.com/unrolled/secure) | 2k | 143 | 2026-02-06T16:11:08Z |  HTTP middleware for Go that facilitates some quick security wins. |
 | [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 134 | 2026-02-10T08:17:26Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
-| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 133 | 2026-02-10T06:18:16Z |  A pure Go library for handling sensitive values in memory. |
+| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 133 | 2026-02-12T13:57:30Z |  A pure Go library for handling sensitive values in memory. |
 | [hlandau/acme](https://github.com/hlandau/acme) | 2k | 128 | 2026-01-30T08:18:01Z |  ACME (Let's Encrypt) client tool with automatic renewal. |
 | [safedep/vet](https://github.com/safedep/vet) | 946 | 87 | 2026-02-10T07:16:15Z |  Protect against malicious open source packages. |
-| [golang-module/dongle](https://github.com/golang-module/dongle) | 1k | 77 | 2026-02-10T06:41:40Z |  A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption. |
+| [golang-module/dongle](https://github.com/golang-module/dongle) | 1k | 77 | 2026-02-12T22:11:16Z |  A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption. |
 | [anatol/booster](https://github.com/anatol/booster) | 620 | 53 | 2026-02-11T02:49:57Z |  Fast initramfs generator with full-disk encryption support. |
 | [lane-c-wagner/go-password-validator](https://github.com/lane-c-wagner/go-password-validator) | 569 | 47 | 2026-02-11T15:41:27Z |  Password validator based on raw cryptographic entropy values. |
 | [plusvic/yara](https://github.com/plusvic/yara) | 141 | 36 | 2026-01-10T23:38:36Z | , the "pattern matching swiss knife for malware researchers (and everyone else)". |
@@ -100,21 +100,21 @@ Libraries that are used to help make your application more secure.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 21k | 608 | 2026-02-11T22:36:20Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 3k | 309 | 2026-02-11T21:59:00Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
-| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 169 | 2026-02-11T16:22:46Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
+| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 603 | 2026-02-12T23:28:30Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 21k | 608 | 2026-02-12T22:35:37Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
+| [golang-module/dongle](https://github.com/golang-module/dongle) | 1k | 77 | 2026-02-12T22:11:16Z |  A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption. |
+| [go-acme/lego](https://github.com/go-acme/lego) | 9k | 1k | 2026-02-12T18:13:54Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 5k | 320 | 2026-02-12T16:51:58Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
+| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 133 | 2026-02-12T13:57:30Z |  A pure Go library for handling sensitive values in memory. |
+| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 171 | 2026-02-12T13:16:19Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 3k | 308 | 2026-02-12T08:32:28Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
 | [lane-c-wagner/go-password-validator](https://github.com/lane-c-wagner/go-password-validator) | 569 | 47 | 2026-02-11T15:41:27Z |  Password validator based on raw cryptographic entropy values. |
-| [go-acme/lego](https://github.com/go-acme/lego) | 9k | 1k | 2026-02-11T14:57:05Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
 | [zitadel/passwap](https://github.com/zitadel/passwap) | 72 | 6 | 2026-02-11T12:16:38Z |  Provides a unified implementation between different password hashing algorithms |
 | [anatol/booster](https://github.com/anatol/booster) | 620 | 53 | 2026-02-11T02:49:57Z |  Fast initramfs generator with full-disk encryption support. |
 | [elithrar/simple-scrypt](https://github.com/elithrar/simple-scrypt) | 201 | 27 | 2026-02-10T16:09:30Z |  Scrypt package with a simple, obvious API and automatic cost calibration built-in. |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 5k | 320 | 2026-02-10T15:02:32Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
 | [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 134 | 2026-02-10T08:17:26Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
 | [safedep/vet](https://github.com/safedep/vet) | 946 | 87 | 2026-02-10T07:16:15Z |  Protect against malicious open source packages. |
-| [golang-module/dongle](https://github.com/golang-module/dongle) | 1k | 77 | 2026-02-10T06:41:40Z |  A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption. |
-| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 133 | 2026-02-10T06:18:16Z |  A pure Go library for handling sensitive values in memory. |
 | [number571/go-peer](https://github.com/number571/go-peer) | 316 | 16 | 2026-02-09T11:03:58Z |  A software library for creating secure and anonymous decentralized systems. |
-| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 603 | 2026-02-09T08:30:09Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
 | [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 156 | 2026-02-07T23:11:15Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
 | [unrolled/secure](https://github.com/unrolled/secure) | 2k | 143 | 2026-02-06T16:11:08Z |  HTTP middleware for Go that facilitates some quick security wins. |
 | [kevinburke/nacl](https://github.com/kevinburke/nacl) | 552 | 25 | 2026-02-06T05:04:21Z |  Go implementation of the NaCL set of API's. |
