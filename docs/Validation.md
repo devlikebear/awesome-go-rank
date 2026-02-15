@@ -6,7 +6,7 @@ Libraries for validation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [colinhacks/zod](https://github.com/colinhacks/zod) | 42k | 2k | 2026-02-13T23:55:28Z | inspired schema builder for runtime value parsing and validation. |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | 42k | 2k | 2026-02-14T23:20:36Z | inspired schema builder for runtime value parsing and validation. |
 | [hapijs/joi](https://github.com/hapijs/joi) | 21k | 2k | 2026-02-13T12:15:16Z | . |
 | [go-playground/validator](https://github.com/go-playground/validator) | 20k | 1k | 2026-02-13T08:41:13Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 562 | 2026-02-13T10:18:20Z |  Validators and sanitizers for strings, numerics, slices and structs. |
@@ -26,7 +26,7 @@ Libraries for validation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [colinhacks/zod](https://github.com/colinhacks/zod) | 42k | 2k | 2026-02-13T23:55:28Z | inspired schema builder for runtime value parsing and validation. |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | 42k | 2k | 2026-02-14T23:20:36Z | inspired schema builder for runtime value parsing and validation. |
 | [hapijs/joi](https://github.com/hapijs/joi) | 21k | 2k | 2026-02-13T12:15:16Z | . |
 | [go-playground/validator](https://github.com/go-playground/validator) | 20k | 1k | 2026-02-13T08:41:13Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 562 | 2026-02-13T10:18:20Z |  Validators and sanitizers for strings, numerics, slices and structs. |
@@ -46,7 +46,7 @@ Libraries for validation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [colinhacks/zod](https://github.com/colinhacks/zod) | 42k | 2k | 2026-02-13T23:55:28Z | inspired schema builder for runtime value parsing and validation. |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | 42k | 2k | 2026-02-14T23:20:36Z | inspired schema builder for runtime value parsing and validation. |
 | [hapijs/joi](https://github.com/hapijs/joi) | 21k | 2k | 2026-02-13T12:15:16Z | . |
 | [asaskevich/govalidator](https://github.com/asaskevich/govalidator) | 6k | 562 | 2026-02-13T10:18:20Z |  Validators and sanitizers for strings, numerics, slices and structs. |
 | [go-playground/validator](https://github.com/go-playground/validator) | 20k | 1k | 2026-02-13T08:41:13Z |  Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
