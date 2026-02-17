@@ -1,30 +1,46 @@
 "use client"
 
-import { useState, useMemo, useCallback } from "react"
+import { useState, useMemo, useCallback, useEffect } from "react"
 import { RepoCard } from "@/components/repo-card"
 import { SearchBar } from "@/components/search-bar"
 import { FilterPanel } from "@/components/filter-panel"
 import { SortControls, SortOption } from "@/components/sort-controls"
-import { Repo, Section } from "@/lib/data"
+import { Repo, Section, RepoData } from "@/lib/data"
 import { TrendingUp, Package, Star } from "lucide-react"
-
-// This would normally come from getRepoData() in a real implementation
-// For now, using mock data that will be replaced when the JSON file is available
-const mockData = {
-  updatedAt: new Date().toISOString(),
-  totalRepos: 0,
-  totalSections: 0,
-  sections: [] as Section[],
-}
 
 export default function HomePage() {
   const [searchQuery, setSearchQuery] = useState("")
   const [selectedSection, setSelectedSection] = useState("")
   const [minStars, setMinStars] = useState(0)
   const [sortBy, setSortBy] = useState<SortOption>("stars")
+  const [data, setData] = useState<RepoData>({
+    updatedAt: new Date().toISOString(),
+    totalRepos: 0,
+    totalSections: 0,
+    sections: [],
+    metadata: {
+      sourceOwner: "avelino",
+      sourceRepo: "awesome-go",
+      sourceUrl: "https://github.com/avelino/awesome-go",
+      generatedBy: "awesome-go-rank",
+      version: "1.0.0"
+    }
+  })
+  const [loading, setLoading] = useState(true)
 
-  // In production, this would use: const data = await getRepoData()
-  const data = mockData
+  // Load data from JSON file
+  useEffect(() => {
+    fetch('/data/repos.json')
+      .then(res => res.json())
+      .then(data => {
+        setData(data)
+        setLoading(false)
+      })
+      .catch(err => {
+        console.error('Failed to load repository data:', err)
+        setLoading(false)
+      })
+  }, [])
 
   // Filter and sort repositories
   const filteredRepos = useMemo(() => {
@@ -88,6 +104,17 @@ export default function HomePage() {
   const handleSortChange = useCallback((sort: SortOption) => {
     setSortBy(sort)
   }, [])
+
+  if (loading) {
+    return (
+      <div className="container mx-auto px-4 py-8 flex items-center justify-center min-h-screen">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+          <p className="text-muted-foreground">Loading repository data...</p>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="container mx-auto px-4 py-8">
