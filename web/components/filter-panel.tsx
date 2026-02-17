@@ -75,19 +75,21 @@ export function FilterPanel({
             >
               All Categories ({sections.reduce((sum, s) => sum + s.repoCount, 0)})
             </button>
-            {sections.map((section) => (
-              <button
-                key={section.name}
-                onClick={() => onSectionChange(section.name)}
-                className={`w-full text-left px-3 py-2 rounded-md text-sm transition-colors ${
-                  selectedSection === section.name
-                    ? "bg-primary text-primary-foreground"
-                    : "hover:bg-accent"
-                }`}
-              >
-                {section.name} ({section.repoCount})
-              </button>
-            ))}
+            {sections
+              .filter((section) => section.name && section.name.trim() !== "")
+              .map((section) => (
+                <button
+                  key={section.name}
+                  onClick={() => onSectionChange(section.name)}
+                  className={`w-full text-left px-3 py-2 rounded-md text-sm transition-colors ${
+                    selectedSection === section.name
+                      ? "bg-primary text-primary-foreground"
+                      : "hover:bg-accent"
+                  }`}
+                >
+                  {section.name} ({section.repoCount})
+                </button>
+              ))}
           </div>
         </div>
       </div>

@@ -4,7 +4,7 @@ import { useState, useMemo, useCallback, useEffect } from "react"
 import { RepoCard } from "@/components/repo-card"
 import { SearchBar } from "@/components/search-bar"
 import { FilterPanel } from "@/components/filter-panel"
-import { SortControls, SortOption } from "@/components/sort-controls"
+import { SortControls, SortOption, SortOrder } from "@/components/sort-controls"
 import { Repo, Section, RepoData } from "@/lib/data"
 import { TrendingUp, Package, Star } from "lucide-react"
 
@@ -13,6 +13,7 @@ export default function HomePage() {
   const [selectedSection, setSelectedSection] = useState("")
   const [minStars, setMinStars] = useState(0)
   const [sortBy, setSortBy] = useState<SortOption>("stars")
+  const [sortOrder, setSortOrder] = useState<SortOrder>("desc")
   const [data, setData] = useState<RepoData>({
     updatedAt: new Date().toISOString(),
     totalRepos: 0,
@@ -53,7 +54,18 @@ export default function HomePage() {
         repos = [...section.repos]
       }
     } else {
+      // Get all repos from all sections
       repos = data.sections.flatMap((s) => s.repos)
+
+      // Remove duplicates based on URL
+      const seen = new Set<string>()
+      repos = repos.filter((repo) => {
+        if (seen.has(repo.url)) {
+          return false
+        }
+        seen.add(repo.url)
+        return true
+      })
     }
 
     // Apply search filter
@@ -62,7 +74,7 @@ export default function HomePage() {
       repos = repos.filter(
         (repo) =>
           repo.name.toLowerCase().includes(query) ||
-          repo.description.toLowerCase().includes(query)
+          (repo.description && repo.description.toLowerCase().includes(query))
       )
     }
 
@@ -70,24 +82,25 @@ export default function HomePage() {
     repos = repos.filter((repo) => repo.stars >= minStars)
 
     // Apply sorting
+    const sortMultiplier = sortOrder === "desc" ? -1 : 1
     switch (sortBy) {
       case "stars":
-        repos.sort((a, b) => b.stars - a.stars)
+        repos.sort((a, b) => sortMultiplier * (b.stars - a.stars))
         break
       case "forks":
-        repos.sort((a, b) => b.forks - a.forks)
+        repos.sort((a, b) => sortMultiplier * (b.forks - a.forks))
         break
       case "updated":
         repos.sort(
           (a, b) =>
-            new Date(b.lastUpdated).getTime() -
-            new Date(a.lastUpdated).getTime()
+            sortMultiplier * (new Date(b.lastUpdated).getTime() -
+            new Date(a.lastUpdated).getTime())
         )
         break
     }
 
     return repos
-  }, [data, selectedSection, searchQuery, minStars, sortBy])
+  }, [data, selectedSection, searchQuery, minStars, sortBy, sortOrder])
 
   const handleSearch = useCallback((query: string) => {
     setSearchQuery(query)
@@ -103,6 +116,10 @@ export default function HomePage() {
 
   const handleSortChange = useCallback((sort: SortOption) => {
     setSortBy(sort)
+  }, [])
+
+  const handleSortOrderChange = useCallback((order: SortOrder) => {
+    setSortOrder(order)
   }, [])
 
   if (loading) {
@@ -199,7 +216,12 @@ export default function HomePage() {
             <h2 className="text-2xl font-bold">
               {selectedSection || "All Repositories"}
             </h2>
-            <SortControls sortBy={sortBy} onSortChange={handleSortChange} />
+            <SortControls
+              sortBy={sortBy}
+              sortOrder={sortOrder}
+              onSortChange={handleSortChange}
+              onSortOrderChange={handleSortOrderChange}
+            />
           </div>
 
           {/* Results */}
