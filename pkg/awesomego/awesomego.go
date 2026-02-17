@@ -209,6 +209,13 @@ func (ag *AwesomeGo) parseMarkdown(input string) {
 		if len(sectionMatches) >= 2 {
 			currentSection = sectionMatches[1]
 			ag.repos[currentSection] = []Repository{}
+			// Initialize section with name (description will be set later if available)
+			if _, exists := ag.sections[currentSection]; !exists {
+				ag.sections[currentSection] = Section{
+					Name:        currentSection,
+					Description: "",
+				}
+			}
 		} else if len(repoMatches) >= 3 {
 			url := repoMatches[2]
 			owner, name := extractRepoURLs(url)

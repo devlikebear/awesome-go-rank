@@ -44,9 +44,11 @@ func (s *AwesomeGoTestSuite) TestAwesomeGo_FetchAndRankRepositories_ValidSpecifi
 	s.Equal("- Native Go FLAC encoder/decoder with support for FLAC streams.", repos["Audio and Music"][0].Description)
 	
 	sections := s.ag.Sections()
-	s.Equal(1, len(sections))
+	s.Equal(2, len(sections)) // Contents (no description) and Audio and Music
 	s.Equal("Audio and Music", sections["Audio and Music"].Name)
 	s.Equal("Libraries for manipulating audio.", sections["Audio and Music"].Description)
+	s.Equal("Contents", sections["Contents"].Name)
+	s.Equal("", sections["Contents"].Description) // Contents has no description
 }
 
 // TestAwesomeGoTestSuite runs the test suite
