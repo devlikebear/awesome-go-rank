@@ -6,13 +6,13 @@ Libraries and tools that implement email creation and sending.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 16k | 1k | 2026-02-15T20:42:02Z |  Email and SMTP testing with web and API interface. |
-| [axllent/mailpit](https://github.com/axllent/mailpit) | 9k | 262 | 2026-02-15T22:12:22Z |  Email and SMTP testing tool for developers. |
-| [foxcpp/maddy](https://github.com/foxcpp/maddy) | 6k | 309 | 2026-02-15T04:35:49Z |  All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server |
-| [mjl-/mox](https://github.com/mjl-/mox) | 5k | 181 | 2026-02-15T21:31:31Z |  Modern full-featured secure mail server for low-maintenance, self-hosted email. |
+| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 16k | 1k | 2026-02-16T18:05:35Z |  Email and SMTP testing with web and API interface. |
+| [axllent/mailpit](https://github.com/axllent/mailpit) | 9k | 262 | 2026-02-16T16:54:09Z |  Email and SMTP testing tool for developers. |
+| [foxcpp/maddy](https://github.com/foxcpp/maddy) | 6k | 309 | 2026-02-16T23:04:47Z |  All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server |
+| [mjl-/mox](https://github.com/mjl-/mox) | 5k | 181 | 2026-02-16T17:47:47Z |  Modern full-featured secure mail server for low-maintenance, self-hosted email. |
 | [matcornic/hermes](https://github.com/matcornic/hermes) | 3k | 248 | 2026-02-10T09:38:10Z |  Golang package that generates clean, responsive HTML e-mails. |
 | [jordan-wright/email](https://github.com/jordan-wright/email) | 3k | 332 | 2026-02-10T06:34:48Z |  A robust and flexible email library for Go. |
-| [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 334 | 2026-02-14T18:36:37Z |  IMAP library for clients and servers. |
+| [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 334 | 2026-02-16T01:02:56Z |  IMAP library for clients and servers. |
 | [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | 2k | 214 | 2026-02-15T03:10:04Z |  A Go library for email verification without sending any emails. |
 | [wneessen/go-mail](https://github.com/wneessen/go-mail) | 1k | 86 | 2026-02-15T08:27:56Z |  A simple Go library for sending mails in Go. |
 | [sendgrid/sendgrid-go](https://github.com/sendgrid/sendgrid-go) | 1k | 264 | 2026-02-11T14:48:23Z |  SendGrid's Go library for sending email. |
@@ -34,15 +34,15 @@ Libraries and tools that implement email creation and sending.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 16k | 1k | 2026-02-15T20:42:02Z |  Email and SMTP testing with web and API interface. |
-| [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 334 | 2026-02-14T18:36:37Z |  IMAP library for clients and servers. |
+| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 16k | 1k | 2026-02-16T18:05:35Z |  Email and SMTP testing with web and API interface. |
+| [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 334 | 2026-02-16T01:02:56Z |  IMAP library for clients and servers. |
 | [jordan-wright/email](https://github.com/jordan-wright/email) | 3k | 332 | 2026-02-10T06:34:48Z |  A robust and flexible email library for Go. |
-| [foxcpp/maddy](https://github.com/foxcpp/maddy) | 6k | 309 | 2026-02-15T04:35:49Z |  All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server |
+| [foxcpp/maddy](https://github.com/foxcpp/maddy) | 6k | 309 | 2026-02-16T23:04:47Z |  All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server |
 | [sendgrid/sendgrid-go](https://github.com/sendgrid/sendgrid-go) | 1k | 264 | 2026-02-11T14:48:23Z |  SendGrid's Go library for sending email. |
-| [axllent/mailpit](https://github.com/axllent/mailpit) | 9k | 262 | 2026-02-15T22:12:22Z |  Email and SMTP testing tool for developers. |
+| [axllent/mailpit](https://github.com/axllent/mailpit) | 9k | 262 | 2026-02-16T16:54:09Z |  Email and SMTP testing tool for developers. |
 | [matcornic/hermes](https://github.com/matcornic/hermes) | 3k | 248 | 2026-02-10T09:38:10Z |  Golang package that generates clean, responsive HTML e-mails. |
 | [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | 2k | 214 | 2026-02-15T03:10:04Z |  A Go library for email verification without sending any emails. |
-| [mjl-/mox](https://github.com/mjl-/mox) | 5k | 181 | 2026-02-15T21:31:31Z |  Modern full-featured secure mail server for low-maintenance, self-hosted email. |
+| [mjl-/mox](https://github.com/mjl-/mox) | 5k | 181 | 2026-02-16T17:47:47Z |  Modern full-featured secure mail server for low-maintenance, self-hosted email. |
 | [mailgun/mailgun-go](https://github.com/mailgun/mailgun-go) | 743 | 149 | 2026-02-12T03:42:45Z |  Go library for sending mail with the Mailgun API. |
 | [emersion/go-message](https://github.com/emersion/go-message) | 438 | 123 | 2026-02-07T05:23:50Z |  Streaming library for the Internet Message Format and mail messages. |
 | [xhit/go-simple-mail](https://github.com/xhit/go-simple-mail) | 693 | 106 | 2026-02-12T13:11:33Z |  Very simple package to send emails with SMTP Keep Alive and two timeouts: Connect and Send. |
@@ -62,13 +62,13 @@ Libraries and tools that implement email creation and sending.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [axllent/mailpit](https://github.com/axllent/mailpit) | 9k | 262 | 2026-02-15T22:12:22Z |  Email and SMTP testing tool for developers. |
-| [mjl-/mox](https://github.com/mjl-/mox) | 5k | 181 | 2026-02-15T21:31:31Z |  Modern full-featured secure mail server for low-maintenance, self-hosted email. |
-| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 16k | 1k | 2026-02-15T20:42:02Z |  Email and SMTP testing with web and API interface. |
+| [foxcpp/maddy](https://github.com/foxcpp/maddy) | 6k | 309 | 2026-02-16T23:04:47Z |  All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server |
+| [mailhog/MailHog](https://github.com/mailhog/MailHog) | 16k | 1k | 2026-02-16T18:05:35Z |  Email and SMTP testing with web and API interface. |
+| [mjl-/mox](https://github.com/mjl-/mox) | 5k | 181 | 2026-02-16T17:47:47Z |  Modern full-featured secure mail server for low-maintenance, self-hosted email. |
+| [axllent/mailpit](https://github.com/axllent/mailpit) | 9k | 262 | 2026-02-16T16:54:09Z |  Email and SMTP testing tool for developers. |
+| [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 334 | 2026-02-16T01:02:56Z |  IMAP library for clients and servers. |
 | [wneessen/go-mail](https://github.com/wneessen/go-mail) | 1k | 86 | 2026-02-15T08:27:56Z |  A simple Go library for sending mails in Go. |
-| [foxcpp/maddy](https://github.com/foxcpp/maddy) | 6k | 309 | 2026-02-15T04:35:49Z |  All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server |
 | [AfterShip/email-verifier](https://github.com/AfterShip/email-verifier) | 2k | 214 | 2026-02-15T03:10:04Z |  A Go library for email verification without sending any emails. |
-| [emersion/go-imap](https://github.com/emersion/go-imap) | 2k | 334 | 2026-02-14T18:36:37Z |  IMAP library for clients and servers. |
 | [vanng822/go-premailer](https://github.com/vanng822/go-premailer) | 187 | 22 | 2026-02-14T09:24:36Z |  Inline styling for HTML mail in Go. |
 | [xhit/go-simple-mail](https://github.com/xhit/go-simple-mail) | 693 | 106 | 2026-02-12T13:11:33Z |  Very simple package to send emails with SMTP Keep Alive and two timeouts: Connect and Send. |
 | [mailgun/mailgun-go](https://github.com/mailgun/mailgun-go) | 743 | 149 | 2026-02-12T03:42:45Z |  Go library for sending mail with the Mailgun API. |
