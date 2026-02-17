@@ -1,6 +1,9 @@
 package awesomego
 
-import "context"
+import (
+	"context"
+	"time"
+)
 
 // MockGithubClient is a mock Github client
 type MockGithubClient struct {
@@ -21,4 +24,13 @@ func (gc *MockGithubClient) FetchRepository(ctx context.Context, owner, repo str
 // FetchReadmeMarkdown fetches the README.md file of a given repository.
 func (gc *MockGithubClient) FetchReadmeMarkdown(ctx context.Context, owner, repo string) (string, error) {
 	return gc.readme, nil
+}
+
+// GetRateLimitInfo returns mock rate limit information
+func (gc *MockGithubClient) GetRateLimitInfo() RateLimitInfo {
+	return RateLimitInfo{
+		Remaining: 5000,
+		Limit:     5000,
+		ResetTime: time.Now().Add(1 * time.Hour),
+	}
 }

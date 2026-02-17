@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	"github.com/devlikebear/awesome-go-rank/pkg/awesomego"
+	"github.com/devlikebear/awesome-go-rank/pkg/config"
 	"github.com/stretchr/testify/suite"
 )
 
@@ -23,8 +24,12 @@ func (s *AwesomeGoTestSuite) SetupSuite() {
 		Forks: 0,
 	}, cReadme)
 
+	// Create test config
+	cfg := config.Default()
+	cfg.GitHub.Token = "test-token"
+
 	// Create a new AwesomeGo instance
-	s.ag = awesomego.NewAwesomeGo("", mockClient)
+	s.ag = awesomego.NewAwesomeGo(mockClient, cfg)
 }
 
 // TestAwesomeGo_FetchAndRankRepositories_ValidSpecificSectionAndLimit tests the FetchAndRankRepositories method with a valid specific section and a limit

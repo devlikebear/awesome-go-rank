@@ -3,6 +3,7 @@ package awesomego
 import (
 	"context"
 	"fmt"
+	"math"
 	"regexp"
 	"strings"
 	"sync"
@@ -10,7 +11,52 @@ import (
 	"time"
 
 	"github.com/cheggaaa/pb/v3"
+	"github.com/devlikebear/awesome-go-rank/pkg/config"
+	"github.com/devlikebear/awesome-go-rank/pkg/logger"
+	"go.uber.org/zap"
 )
+
+// Package-level compiled regex patterns to avoid recompilation
+var (
+	sectionRe = regexp.MustCompile(`^## (.+)$`)
+	repoRe    = regexp.MustCompile(`- \[(.+)\]\((https:\/\/github\.com\/[^)]+)\)(.*$)`)
+	repoURLRe = regexp.MustCompile(`^https://github.com/([^/]+)/([^/]+)$`)
+)
+
+// rateLimiter implements a simple rate limiting mechanism
+type rateLimiter struct {
+	lastCall    time.Time
+	mu          sync.Mutex
+	minInterval time.Duration
+}
+
+// Wait blocks until enough time has passed since the last call
+func (rl *rateLimiter) Wait() {
+	rl.mu.Lock()
+	defer rl.mu.Unlock()
+
+	elapsed := time.Since(rl.lastCall)
+	if elapsed < rl.minInterval {
+		time.Sleep(rl.minInterval - elapsed)
+	}
+	rl.lastCall = time.Now()
+}
+
+// retryWithBackoff retries a function with exponential backoff
+func retryWithBackoff(fn func() error, maxRetries int) error {
+	var err error
+	for i := 0; i < maxRetries; i++ {
+		err = fn()
+		if err == nil {
+			return nil
+		}
+		if i < maxRetries-1 {
+			waitTime := time.Duration(math.Pow(2, float64(i))) * time.Second
+			time.Sleep(waitTime)
+		}
+	}
+	return fmt.Errorf("max retries (%d) exceeded: %w", maxRetries, err)
+}
 
 // Repository is a struct that represents a repository.
 type Repository struct {
@@ -30,16 +76,29 @@ type Section struct {
 
 // AwesomeGo is the main struct for the awesome-go-ranking package.
 type AwesomeGo struct {
-	client IGithubClient
-	repos  map[string][]Repository
-	sections map[string]Section
+	client      IGithubClient
+	repos       map[string][]Repository
+	sections    map[string]Section
+	rateLimiter *rateLimiter
+	config      *config.Config
+	maxRetries  int
 }
 
 // NewAwesomeGo creates a new AwesomeGo instance.
-func NewAwesomeGo(token string, client IGithubClient) *AwesomeGo {
-	return &AwesomeGo{client: client,
-		 repos: make(map[string][]Repository),
-		 sections: make(map[string]Section),
+func NewAwesomeGo(client IGithubClient, cfg *config.Config) *AwesomeGo {
+	if cfg == nil {
+		cfg = config.Default()
+	}
+	return &AwesomeGo{
+		client:     client,
+		repos:      make(map[string][]Repository),
+		sections:   make(map[string]Section),
+		config:     cfg,
+		maxRetries: cfg.RateLimit.MaxRetries,
+		rateLimiter: &rateLimiter{
+			minInterval: cfg.RateLimit.MinInterval,
+			lastCall:    time.Now(),
+		},
 	}
 }
 
@@ -51,7 +110,8 @@ func (ag *AwesomeGo) fetchRepoInfo(owner, repo string) (*Repository, error) {
 
 // FetchAndRankRepositories fetches the repositories in the Awesome Go list
 func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int) error {
-	owner, repo := "avelino", "awesome-go"
+	owner := ag.config.GitHub.Owner
+	repo := ag.config.GitHub.Repository
 	readmeMarkdown, err := ag.client.FetchReadmeMarkdown(context.Background(), owner, repo)
 	if err != nil {
 		return err
@@ -93,30 +153,39 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 			atomic.AddInt32(&cnt, 1)
 
 			wg.Add(1)
-			/*go */ func(i int, repos []Repository) {
+			go func(i int, repos []Repository) {
 				defer wg.Done()
 
 				owner, name := extractRepoURLs(repos[i].URL)
 				if owner != "" && name != "" {
-					repoInfo, err := ag.fetchRepoInfo(owner, name)
-					if err == nil {
+					// Rate limiting before API call
+					ag.rateLimiter.Wait()
+
+					// Retry logic with exponential backoff
+					err := retryWithBackoff(func() error {
+						repoInfo, err := ag.fetchRepoInfo(owner, name)
+						if err != nil {
+							return err
+						}
 						reposMutex.Lock()
 						repos[i].Stars = repoInfo.Stars
 						repos[i].Forks = repoInfo.Forks
 						repos[i].LastUpdated = repoInfo.LastUpdated
 						reposMutex.Unlock()
-					} else {
-						fmt.Println(err)
+						return nil
+					}, ag.maxRetries)
+
+					if err != nil {
+						logger.Error("Failed to fetch repository after retries",
+							zap.String("owner", owner),
+							zap.String("repo", name),
+							zap.Error(err))
 					}
-					// Sleep to avoid rate limit
-					time.Sleep(100 * time.Microsecond)
 				}
 				progressBarMutex.Lock()
 				progressBar.Increment() // Update progress bar
 				progressBarMutex.Unlock()
 			}(i, repos)
-			// Sleep to avoid rate limit
-			time.Sleep(1000 * time.Microsecond)
 
 		}
 	}
@@ -130,9 +199,6 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 
 // parseMarkdown parses the awesome-go README.md file and returns a map of
 func (ag *AwesomeGo) parseMarkdown(input string) {
-	sectionRe := regexp.MustCompile(`^## (.+)$`)
-	repoRe := regexp.MustCompile(`- \[(.+)\]\((https:\/\/github\.com\/[^)]+)\)(.*$)`)
-
 	var currentSection string
 
 	lines := strings.Split(input, "\n")
@@ -171,8 +237,7 @@ func (ag *AwesomeGo) parseMarkdown(input string) {
 
 // extractRepoURLs extracts the owner and repository name from a GitHub repository URL.
 func extractRepoURLs(input string) (owner, repo string) {
-	repoRegex := regexp.MustCompile(`^https://github.com/([^/]+)/([^/]+)$`)
-	matches := repoRegex.FindStringSubmatch(input)
+	matches := repoURLRe.FindStringSubmatch(input)
 	if len(matches) == 3 {
 		owner, repo = matches[1], matches[2]
 	}
