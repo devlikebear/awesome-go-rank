@@ -18,11 +18,11 @@ export function Header() {
 
         <div className="flex items-center space-x-4">
           <a
-            href="https://github.com/avelino/awesome-go"
+            href="https://github.com/devlikebear/awesome-go-rank"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
-            aria-label="View awesome-go on GitHub"
+            aria-label="View awesome-go-rank on GitHub"
           >
             <Github className="h-5 w-5" />
           </a>

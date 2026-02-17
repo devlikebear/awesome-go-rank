@@ -24,7 +24,7 @@
 .cache/
 *.cache.json
 
-# Generated JSON data
-public/data/
+# Generated data from Go backend (root public/data/)
+/public/data/
 # Local build binaries
 main
