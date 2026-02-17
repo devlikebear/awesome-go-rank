@@ -3,7 +3,7 @@
 This is a ranking of GitHub repositories from
  [awesome-go](https://github.com/avelino/awesome-go)
  by Stars, Forks and Last Updated.
- 
+
 ## How to use
 
 1. Clone this repository
@@ -12,8 +12,8 @@ This is a ranking of GitHub repositories from
 1. Install Go
 1. Install dependencies with `go mod tidy`
 1. Run `go run cmd/main.go`
-1. Check the results in README.md 
- 
+1. Check the results in README.md
+
 
 ## Table of Contents
 

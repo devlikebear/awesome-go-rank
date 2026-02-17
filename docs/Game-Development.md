@@ -6,7 +6,7 @@ Awesome game development libraries.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 13k | 756 | 2026-02-16T19:04:26Z |  dead simple 2D game engine in Go. |
+| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 13k | 756 | 2026-02-17T00:51:58Z |  dead simple 2D game engine in Go. |
 | [name5566/leaf](https://github.com/name5566/leaf) | 5k | 1k | 2026-02-13T12:11:26Z |  Lightweight game server framework. |
 | [lonng/nano](https://github.com/lonng/nano) | 3k | 461 | 2026-02-15T10:46:00Z |  Lightweight, facility, high performance golang based game server framework. |
 | [g3n/engine](https://github.com/g3n/engine) | 3k | 313 | 2026-02-16T15:07:41Z |  Go 3D Game Engine. |
@@ -34,7 +34,7 @@ Awesome game development libraries.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [name5566/leaf](https://github.com/name5566/leaf) | 5k | 1k | 2026-02-13T12:11:26Z |  Lightweight game server framework. |
-| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 13k | 756 | 2026-02-16T19:04:26Z |  dead simple 2D game engine in Go. |
+| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 13k | 756 | 2026-02-17T00:51:58Z |  dead simple 2D game engine in Go. |
 | [topfreegames/pitaya](https://github.com/topfreegames/pitaya) | 3k | 526 | 2026-02-12T09:21:56Z |  Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. |
 | [xiaonanln/goworld](https://github.com/xiaonanln/goworld) | 3k | 476 | 2026-02-15T12:24:52Z |  Scalable game server engine, featuring space-entity framework and hot-swapping. |
 | [lonng/nano](https://github.com/lonng/nano) | 3k | 461 | 2026-02-15T10:46:00Z |  Lightweight, facility, high performance golang based game server framework. |
@@ -60,8 +60,8 @@ Awesome game development libraries.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 13k | 756 | 2026-02-17T00:51:58Z |  dead simple 2D game engine in Go. |
 | [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) | 2k | 203 | 2026-02-16T20:55:04Z |  Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming. |
-| [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) | 13k | 756 | 2026-02-16T19:04:26Z |  dead simple 2D game engine in Go. |
 | [g3n/engine](https://github.com/g3n/engine) | 3k | 313 | 2026-02-16T15:07:41Z |  Go 3D Game Engine. |
 | [veandco/go-sdl2](https://github.com/veandco/go-sdl2) | 2k | 227 | 2026-02-16T06:48:48Z |  Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/). |
 | [mlange-42/ark](https://github.com/mlange-42/ark) | 215 | 9 | 2026-02-15T15:40:17Z |  Archetype-based Entity Component System (ECS) for Go. |
