@@ -26,3 +26,5 @@
 
 # Generated JSON data
 public/data/
+# Local build binaries
+main
