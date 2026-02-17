@@ -20,7 +20,8 @@ import (
 var (
 	sectionRe = regexp.MustCompile(`^## (.+)$`)
 	repoRe    = regexp.MustCompile(`- \[(.+)\]\((https:\/\/github\.com\/[^)]+)\)(.*$)`)
-	repoURLRe = regexp.MustCompile(`^https://github.com/([^/]+)/([^/]+)$`)
+	// Match github.com/owner/repo with optional trailing path, slash, or query params
+	repoURLRe = regexp.MustCompile(`^https://github\.com/([^/]+)/([^/?#]+)`)
 )
 
 // rateLimiter implements a simple rate limiting mechanism
@@ -219,7 +220,8 @@ func (ag *AwesomeGo) parseMarkdown(input string) {
 		} else if len(repoMatches) >= 3 {
 			url := repoMatches[2]
 			owner, name := extractRepoURLs(url)
-			if currentSection != "" {
+			// Only add repository if owner and name are valid
+			if currentSection != "" && owner != "" && name != "" {
 				ag.repos[currentSection] = append(ag.repos[currentSection],
 					Repository{
 						Name:  owner + "/" + name,
@@ -247,6 +249,23 @@ func extractRepoURLs(input string) (owner, repo string) {
 	matches := repoURLRe.FindStringSubmatch(input)
 	if len(matches) == 3 {
 		owner, repo = matches[1], matches[2]
+
+		// Filter out non-repository URLs
+		invalidOwners := map[string]bool{
+			"marketplace": true,
+			"trending":    true,
+			"golang":      true, // golang/go is valid, but other golang/* paths might not be
+		}
+
+		// Skip if owner is in the invalid list (except for specific cases)
+		if invalidOwners[owner] {
+			return "", ""
+		}
+
+		// Skip if repo looks like it might be a path segment
+		if repo == "wiki" || repo == "issues" || repo == "blob" || repo == "tree" {
+			return "", ""
+		}
 	}
 
 	return owner, repo
