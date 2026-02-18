@@ -6,7 +6,7 @@ Libraries for parsing and manipulating texts.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [asciimoo/colly](https://github.com/asciimoo/colly) | 25k | 2k | 2026-02-17T20:45:58Z |  Fast and Elegant Scraping Framework for Gophers. |
+| [asciimoo/colly](https://github.com/asciimoo/colly) | 25k | 2k | 2026-02-18T03:34:20Z |  Fast and Elegant Scraping Framework for Gophers. |
 | [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 15k | 931 | 2026-02-17T21:20:15Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
 | [mvdan/sh](https://github.com/mvdan/sh) | 8k | 380 | 2026-02-17T21:49:39Z |  Shell parser and formatter. |
 | [russross/blackfriday](https://github.com/russross/blackfriday) | 6k | 600 | 2026-02-17T09:19:12Z |  Markdown processor in Go. |
@@ -81,7 +81,7 @@ Libraries for parsing and manipulating texts.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [asciimoo/colly](https://github.com/asciimoo/colly) | 25k | 2k | 2026-02-17T20:45:58Z |  Fast and Elegant Scraping Framework for Gophers. |
+| [asciimoo/colly](https://github.com/asciimoo/colly) | 25k | 2k | 2026-02-18T03:34:20Z |  Fast and Elegant Scraping Framework for Gophers. |
 | [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 15k | 931 | 2026-02-17T21:20:15Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
 | [russross/blackfriday](https://github.com/russross/blackfriday) | 6k | 600 | 2026-02-17T09:19:12Z |  Markdown processor in Go. |
 | [BurntSushi/toml](https://github.com/BurntSushi/toml) | 5k | 541 | 2026-02-17T09:40:19Z |  TOML configuration format (encoder/decoder with reflection). |
@@ -156,12 +156,12 @@ Libraries for parsing and manipulating texts.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [asciimoo/colly](https://github.com/asciimoo/colly) | 25k | 2k | 2026-02-18T03:34:20Z |  Fast and Elegant Scraping Framework for Gophers. |
 | [yuin/goldmark](https://github.com/yuin/goldmark) | 5k | 285 | 2026-02-17T22:51:56Z |  A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured. |
 | [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) | 4k | 192 | 2026-02-17T22:51:49Z |  HTML Sanitizer. |
 | [mvdan/sh](https://github.com/mvdan/sh) | 8k | 380 | 2026-02-17T21:49:39Z |  Shell parser and formatter. |
 | [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) | 15k | 931 | 2026-02-17T21:20:15Z |  GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
 | [pelletier/go-toml](https://github.com/pelletier/go-toml) | 2k | 233 | 2026-02-17T21:02:52Z |  Go library for the TOML format with query support and handy cli tools. |
-| [asciimoo/colly](https://github.com/asciimoo/colly) | 25k | 2k | 2026-02-17T20:45:58Z |  Fast and Elegant Scraping Framework for Gophers. |
 | [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) | 3k | 189 | 2026-02-17T20:42:56Z |  Convert HTML to Markdown. Even works with entire websites and can be extended through rules. |
 | [duke-git/lancet](https://github.com/duke-git/lancet) | 5k | 522 | 2026-02-17T18:22:49Z |  A comprehensive, Lodash-like utility library for Go |
 | [mmcdole/gofeed](https://github.com/mmcdole/gofeed) | 3k | 220 | 2026-02-17T15:03:37Z |  Parse RSS and Atom feeds in Go. |

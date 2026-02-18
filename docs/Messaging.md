@@ -6,7 +6,7 @@ Libraries that implement messaging systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hibiken/asynq](https://github.com/hibiken/asynq) | 13k | 907 | 2026-02-17T22:27:56Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
+| [hibiken/asynq](https://github.com/hibiken/asynq) | 13k | 907 | 2026-02-18T01:10:15Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
 | [Shopify/sarama](https://github.com/Shopify/sarama) | 12k | 2k | 2026-02-17T01:59:50Z |  Go library for Apache Kafka. |
 | [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 10k | 680 | 2026-02-17T21:29:31Z |  Real-time messaging (Websockets or SockJS) server in Go. |
 | [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | 10k | 491 | 2026-02-17T16:55:18Z |  Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog. |
@@ -71,7 +71,7 @@ Libraries that implement messaging systems.
 |------------|-------|-------|--------------|-------------|
 | [Shopify/sarama](https://github.com/Shopify/sarama) | 12k | 2k | 2026-02-17T01:59:50Z |  Go library for Apache Kafka. |
 | [RichardKnop/machinery](https://github.com/RichardKnop/machinery) | 8k | 943 | 2026-02-16T12:39:39Z |  Asynchronous task queue/job queue based on distributed message passing. |
-| [hibiken/asynq](https://github.com/hibiken/asynq) | 13k | 907 | 2026-02-17T22:27:56Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
+| [hibiken/asynq](https://github.com/hibiken/asynq) | 13k | 907 | 2026-02-18T01:10:15Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | 6k | 788 | 2026-02-17T21:28:34Z |  Go client for the NATS |
 | [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | 5k | 699 | 2026-02-17T19:35:22Z |  confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform. |
 | [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 10k | 680 | 2026-02-17T21:29:31Z |  Real-time messaging (Websockets or SockJS) server in Go. |
@@ -132,7 +132,7 @@ Libraries that implement messaging systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hibiken/asynq](https://github.com/hibiken/asynq) | 13k | 907 | 2026-02-17T22:27:56Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
+| [hibiken/asynq](https://github.com/hibiken/asynq) | 13k | 907 | 2026-02-18T01:10:15Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
 | [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 10k | 680 | 2026-02-17T21:29:31Z |  Real-time messaging (Websockets or SockJS) server in Go. |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | 6k | 788 | 2026-02-17T21:28:34Z |  Go client for the NATS |
 | [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | 5k | 699 | 2026-02-17T19:35:22Z |  confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform. |

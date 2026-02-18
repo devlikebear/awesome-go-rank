@@ -7,9 +7,9 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-02-17T18:46:29Z |  Golang ebook intro how to build a web app with golang. |
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 44k | 4k | 2026-02-18T00:01:44Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
-| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-02-17T19:48:46Z |  List of other amazingly awesome lists. |
-| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-02-17T23:20:44Z |  Curated list of Go design patterns, recipes and idioms. |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 44k | 4k | 2026-02-18T03:36:50Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
+| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-02-18T02:47:09Z |  List of other amazingly awesome lists. |
+| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-02-18T03:43:38Z |  Curated list of Go design patterns, recipes and idioms. |
 | [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-02-17T16:21:26Z |  Learn Go with test-driven development. |
 | [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-02-17T21:43:27Z |  Learn Go with thousands of examples, exercises, and quizzes. |
 | [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 9k | 1k | 2026-02-17T08:43:11Z |  Go's reference card. |
@@ -29,11 +29,11 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-02-17T18:46:29Z |  Golang ebook intro how to build a web app with golang. |
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 44k | 4k | 2026-02-18T00:01:44Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
-| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-02-17T19:48:46Z |  List of other amazingly awesome lists. |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 44k | 4k | 2026-02-18T03:36:50Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
+| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-02-18T02:47:09Z |  List of other amazingly awesome lists. |
 | [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-02-17T16:21:26Z |  Learn Go with test-driven development. |
 | [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-02-17T21:43:27Z |  Learn Go with thousands of examples, exercises, and quizzes. |
-| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-02-17T23:20:44Z |  Curated list of Go design patterns, recipes and idioms. |
+| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-02-18T03:43:38Z |  Curated list of Go design patterns, recipes and idioms. |
 | [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 9k | 1k | 2026-02-17T08:43:11Z |  Go's reference card. |
 | [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | 2k | 941 | 2026-02-17T14:10:04Z |  A GitHub repository offering coding challenges for Go technical interview preparation. |
 | [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | 7k | 637 | 2026-02-17T18:00:02Z |  Clean Architecture template for Golang services. |
@@ -50,10 +50,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 44k | 4k | 2026-02-18T00:01:44Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
-| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-02-17T23:20:44Z |  Curated list of Go design patterns, recipes and idioms. |
+| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-02-18T03:43:38Z |  Curated list of Go design patterns, recipes and idioms. |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 44k | 4k | 2026-02-18T03:36:50Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
+| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-02-18T02:47:09Z |  List of other amazingly awesome lists. |
 | [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-02-17T21:43:27Z |  Learn Go with thousands of examples, exercises, and quizzes. |
-| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-02-17T19:48:46Z |  List of other amazingly awesome lists. |
 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-02-17T18:46:29Z |  Golang ebook intro how to build a web app with golang. |
 | [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | 7k | 637 | 2026-02-17T18:00:02Z |  Clean Architecture template for Golang services. |
 | [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-02-17T16:21:26Z |  Learn Go with test-driven development. |

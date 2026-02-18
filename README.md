@@ -1,19 +1,48 @@
 # Awesome Go Ranking
 
-This is a ranking of GitHub repositories from
- [awesome-go](https://github.com/avelino/awesome-go)
- by Stars, Forks and Last Updated.
+[![Website](https://img.shields.io/badge/Website-awesome--go--rank.vercel.app-blue?style=for-the-badge&logo=vercel)](https://awesome-go-rank.vercel.app/)
+[![Go Version](https://img.shields.io/badge/Go-1.23-00ADD8?style=for-the-badge&logo=go)](go.mod)
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](web/package.json)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-## How to use
+> **🌐 [Visit the Live Website](https://awesome-go-rank.vercel.app/)** - Explore Go repositories with real-time search, filtering, and sorting!
 
-1. Clone this repository
-1. Create a GitHub personal access token with `public_repo` scope
-1. Set the token to the `GITHUB_TOKEN` environment variable
-1. Install Go
-1. Install dependencies with `go mod tidy`
-1. Run `go run cmd/main.go`
-1. Check the results in README.md
+Discover and explore the best Go repositories from [awesome-go](https://github.com/avelino/awesome-go) ranked by Stars, Forks, and Last Updated. This project provides both a **web interface** and a **Go CLI tool** for browsing and analyzing Go libraries.
 
+## ✨ Features
+
+### 🖥️ Web Interface (https://awesome-go-rank.vercel.app/)
+- **🔍 Real-time Search** - Instantly find repositories by name or description
+- **📊 Smart Filtering** - Browse by category (45+ categories) and minimum stars (1K+, 5K+, 10K+)
+- **⚡ Multi-criteria Sorting** - Sort by Stars, Forks, or Last Updated (ASC/DESC)
+- **🎨 Dark/Light Mode** - Beautiful responsive design with theme support
+- **📱 Mobile-Friendly** - Works perfectly on all devices
+
+### 🛠️ CLI Tool
+
+```bash
+# Clone the repository
+git clone https://github.com/devlikebear/awesome-go-rank.git
+cd awesome-go-rank
+
+# Set up GitHub token
+export GITHUB_TOKEN=your_github_token_here
+
+# Run the tool
+go run cmd/main.go
+```
+
+## 🌟 Why Use This?
+
+- **Discover Popular Go Libraries** - Quickly find the most starred and actively maintained Go projects
+- **Stay Updated** - Daily automated updates ensure you see the latest trends
+- **Filter by Category** - Easily find libraries for specific use cases
+
+## 🔗 Links
+
+- **Live Website**: https://awesome-go-rank.vercel.app/
+- **Source Repository**: https://github.com/devlikebear/awesome-go-rank
+- **awesome-go**: https://github.com/avelino/awesome-go
 
 ## Table of Contents
 

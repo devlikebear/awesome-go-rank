@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T00:09:51.338437249Z",
+  "updatedAt": "2026-02-18T04:22:49.534644469Z",
   "totalRepos": 2519,
   "totalSections": 81,
   "sections": [
@@ -8,6 +8,14 @@
       "description": "Libraries for building actor-based programs.",
       "repoCount": 5,
       "repos": [
+        {
+          "name": "Tochemey/goakt",
+          "url": "https://github.com/Tochemey/goakt",
+          "stars": 321,
+          "forks": 30,
+          "lastUpdated": "2026-02-18T00:44:31Z",
+          "description": "- Fast and Distributed Actor framework using protocol buffers as message for Golang."
+        },
         {
           "name": "ergo-services/ergo",
           "url": "https://github.com/ergo-services/ergo",
@@ -23,14 +31,6 @@
           "forks": 160,
           "lastUpdated": "2026-02-16T22:02:17Z",
           "description": "- Blazingly fast and light-weight Actor engine written in Golang."
-        },
-        {
-          "name": "Tochemey/goakt",
-          "url": "https://github.com/Tochemey/goakt",
-          "stars": 321,
-          "forks": 30,
-          "lastUpdated": "2026-02-16T21:41:48Z",
-          "description": "- Fast and Distributed Actor framework using protocol buffers as message for Golang."
         },
         {
           "name": "pancsta/asyncmachine-go",
@@ -58,34 +58,34 @@
         {
           "name": "mudler/LocalAI",
           "url": "https://github.com/mudler/LocalAI",
-          "stars": 42860,
+          "stars": 42864,
           "forks": 3560,
-          "lastUpdated": "2026-02-17T23:56:40Z",
+          "lastUpdated": "2026-02-18T04:13:48Z",
           "description": "- Open Source OpenAI alternative, self-host AI models."
         },
         {
           "name": "jmorganca/ollama",
           "url": "https://github.com/jmorganca/ollama",
-          "stars": 162784,
-          "forks": 14602,
-          "lastUpdated": "2026-02-17T23:48:29Z",
+          "stars": 162798,
+          "forks": 14601,
+          "lastUpdated": "2026-02-18T03:55:46Z",
           "description": "- Run large language models locally."
+        },
+        {
+          "name": "tmc/langchaingo",
+          "url": "https://github.com/tmc/langchaingo",
+          "stars": 8663,
+          "forks": 1035,
+          "lastUpdated": "2026-02-18T02:44:20Z",
+          "description": "- LangChainGo is a framework for developing applications powered by language models."
         },
         {
           "name": "philippgille/chromem-go",
           "url": "https://github.com/philippgille/chromem-go",
           "stars": 864,
-          "forks": 56,
+          "forks": 57,
           "lastUpdated": "2026-02-17T22:25:43Z",
           "description": "- Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence."
-        },
-        {
-          "name": "tmc/langchaingo",
-          "url": "https://github.com/tmc/langchaingo",
-          "stars": 8662,
-          "forks": 1035,
-          "lastUpdated": "2026-02-17T20:58:00Z",
-          "description": "- LangChainGo is a framework for developing applications powered by language models."
         },
         {
           "name": "presbrey/ollamafarm",
@@ -198,6 +198,30 @@
       "repoCount": 38,
       "repos": [
         {
+          "name": "golang-jwt/jwt",
+          "url": "https://github.com/golang-jwt/jwt",
+          "stars": 8903,
+          "forks": 426,
+          "lastUpdated": "2026-02-18T04:08:18Z",
+          "description": "- A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs."
+        },
+        {
+          "name": "hsluoyz/casbin",
+          "url": "https://github.com/hsluoyz/casbin",
+          "stars": 19840,
+          "forks": 1722,
+          "lastUpdated": "2026-02-18T03:40:03Z",
+          "description": "- Authorization library that supports access control models like ACL, RBAC, and ABAC."
+        },
+        {
+          "name": "lestrrat-go/jwx",
+          "url": "https://github.com/lestrrat-go/jwx",
+          "stars": 2319,
+          "forks": 191,
+          "lastUpdated": "2026-02-18T02:20:03Z",
+          "description": "- Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies."
+        },
+        {
           "name": "openfga/openfga",
           "url": "https://github.com/openfga/openfga",
           "stars": 4774,
@@ -220,30 +244,6 @@
           "forks": 627,
           "lastUpdated": "2026-02-17T22:38:00Z",
           "description": "- provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box."
-        },
-        {
-          "name": "lestrrat-go/jwx",
-          "url": "https://github.com/lestrrat-go/jwx",
-          "stars": 2320,
-          "forks": 191,
-          "lastUpdated": "2026-02-17T20:07:45Z",
-          "description": "- Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies."
-        },
-        {
-          "name": "hsluoyz/casbin",
-          "url": "https://github.com/hsluoyz/casbin",
-          "stars": 19839,
-          "forks": 1722,
-          "lastUpdated": "2026-02-17T16:56:06Z",
-          "description": "- Authorization library that supports access control models like ACL, RBAC, and ABAC."
-        },
-        {
-          "name": "golang-jwt/jwt",
-          "url": "https://github.com/golang-jwt/jwt",
-          "stars": 8905,
-          "forks": 426,
-          "lastUpdated": "2026-02-17T13:00:45Z",
-          "description": "- A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs."
         },
         {
           "name": "cristalhq/jwt",
@@ -636,6 +636,22 @@
       "repoCount": 11,
       "repos": [
         {
+          "name": "ethereum/go-ethereum",
+          "url": "https://github.com/ethereum/go-ethereum",
+          "stars": 50817,
+          "forks": 21785,
+          "lastUpdated": "2026-02-18T02:18:28Z",
+          "description": "- Official Go implementation of the Ethereum protocol."
+        },
+        {
+          "name": "lightningnetwork/lnd",
+          "url": "https://github.com/lightningnetwork/lnd",
+          "stars": 8109,
+          "forks": 2237,
+          "lastUpdated": "2026-02-18T01:28:23Z",
+          "description": "- A complete implementation of a Lightning Network node."
+        },
+        {
           "name": "ipfs/kubo",
           "url": "https://github.com/ipfs/kubo",
           "stars": 16911,
@@ -655,17 +671,9 @@
           "name": "cosmos/cosmos-sdk",
           "url": "https://github.com/cosmos/cosmos-sdk",
           "stars": 6928,
-          "forks": 4139,
+          "forks": 4140,
           "lastUpdated": "2026-02-17T21:00:07Z",
           "description": "- A Framework for Building Public Blockchains in the Cosmos Ecosystem."
-        },
-        {
-          "name": "ethereum/go-ethereum",
-          "url": "https://github.com/ethereum/go-ethereum",
-          "stars": 50817,
-          "forks": 21785,
-          "lastUpdated": "2026-02-17T19:43:11Z",
-          "description": "- Official Go implementation of the Ethereum protocol."
         },
         {
           "name": "cometbft/cometbft",
@@ -674,14 +682,6 @@
           "forks": 768,
           "lastUpdated": "2026-02-17T15:03:36Z",
           "description": "- A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm."
-        },
-        {
-          "name": "lightningnetwork/lnd",
-          "url": "https://github.com/lightningnetwork/lnd",
-          "stars": 8109,
-          "forks": 2237,
-          "lastUpdated": "2026-02-16T15:33:30Z",
-          "description": "- A complete implementation of a Lightning Network node."
         },
         {
           "name": "gagliardetto/solana-go",
@@ -731,6 +731,14 @@
       "repoCount": 13,
       "repos": [
         {
+          "name": "go-telegram/bot",
+          "url": "https://github.com/go-telegram/bot",
+          "stars": 1591,
+          "forks": 130,
+          "lastUpdated": "2026-02-18T03:18:23Z",
+          "description": "- Zero-dependencies Telegram Bot library with additional UI components."
+        },
+        {
           "name": "tucnak/telebot",
           "url": "https://github.com/tucnak/telebot",
           "stars": 4564,
@@ -761,14 +769,6 @@
           "forks": 84,
           "lastUpdated": "2026-02-17T20:01:49Z",
           "description": "- A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages."
-        },
-        {
-          "name": "go-telegram/bot",
-          "url": "https://github.com/go-telegram/bot",
-          "stars": 1590,
-          "forks": 130,
-          "lastUpdated": "2026-02-17T17:18:04Z",
-          "description": "- Zero-dependencies Telegram Bot library with additional UI components."
         },
         {
           "name": "go-telegram-bot-api/telegram-bot-api",
@@ -968,6 +968,22 @@
       "repoCount": 30,
       "repos": [
         {
+          "name": "segmentio/golines",
+          "url": "https://github.com/segmentio/golines",
+          "stars": 1133,
+          "forks": 75,
+          "lastUpdated": "2026-02-18T04:08:29Z",
+          "description": "- Formatter that automatically shortens long lines in Go code."
+        },
+        {
+          "name": "golangci/golangci-lint",
+          "url": "https://github.com/golangci/golangci-lint",
+          "stars": 18513,
+          "forks": 1547,
+          "lastUpdated": "2026-02-18T02:22:04Z",
+          "description": "– A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included."
+        },
+        {
           "name": "dominikh/go-tools",
           "url": "https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck",
           "stars": 6721,
@@ -992,28 +1008,12 @@
           "description": "."
         },
         {
-          "name": "golangci/golangci-lint",
-          "url": "https://github.com/golangci/golangci-lint",
-          "stars": 18512,
-          "forks": 1547,
-          "lastUpdated": "2026-02-17T19:06:08Z",
-          "description": "– A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included."
-        },
-        {
           "name": "mgechev/revive",
           "url": "https://github.com/mgechev/revive",
           "stars": 5395,
           "forks": 316,
           "lastUpdated": "2026-02-17T15:10:48Z",
           "description": "– ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`."
-        },
-        {
-          "name": "segmentio/golines",
-          "url": "https://github.com/segmentio/golines",
-          "stars": 1134,
-          "forks": 75,
-          "lastUpdated": "2026-02-17T12:46:38Z",
-          "description": "- Formatter that automatically shortens long lines in Go code."
         },
         {
           "name": "Crocmagnon/fatcontext",
@@ -1215,12 +1215,76 @@
       "repoCount": 84,
       "repos": [
         {
+          "name": "vbauerster/mpb",
+          "url": "https://github.com/vbauerster/mpb",
+          "stars": 2476,
+          "forks": 129,
+          "lastUpdated": "2026-02-18T04:08:19Z",
+          "description": "- Multi progress bar for terminal applications."
+        },
+        {
+          "name": "antonmedv/fx",
+          "url": "https://github.com/antonmedv/fx",
+          "stars": 20270,
+          "forks": 471,
+          "lastUpdated": "2026-02-18T04:03:50Z",
+          "description": "- Terminal JSON viewer \u0026 processor."
+        },
+        {
           "name": "charmbracelet/bubbletea",
           "url": "https://github.com/charmbracelet/bubbletea",
-          "stars": 39495,
+          "stars": 39500,
           "forks": 1093,
-          "lastUpdated": "2026-02-17T23:51:16Z",
+          "lastUpdated": "2026-02-18T04:03:29Z",
           "description": "- Go framework to build terminal apps, based on The Elm Architecture."
+        },
+        {
+          "name": "charmbracelet/lipgloss",
+          "url": "https://github.com/charmbracelet/lipgloss",
+          "stars": 10576,
+          "forks": 310,
+          "lastUpdated": "2026-02-18T04:03:27Z",
+          "description": "- Declaratively define styles for color, format and layout in the terminal."
+        },
+        {
+          "name": "spf13/cobra",
+          "url": "https://github.com/spf13/cobra",
+          "stars": 43169,
+          "forks": 3053,
+          "lastUpdated": "2026-02-18T02:54:53Z",
+          "description": "- Commander for modern Go CLI interactions."
+        },
+        {
+          "name": "briandowns/spinner",
+          "url": "https://github.com/briandowns/spinner",
+          "stars": 2510,
+          "forks": 130,
+          "lastUpdated": "2026-02-18T02:52:13Z",
+          "description": "- Go package to easily provide a terminal spinner with options."
+        },
+        {
+          "name": "urfave/cli",
+          "url": "https://github.com/urfave/cli",
+          "stars": 23890,
+          "forks": 1757,
+          "lastUpdated": "2026-02-18T02:43:25Z",
+          "description": "- Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli)."
+        },
+        {
+          "name": "yaronn/blessed-contrib",
+          "url": "https://github.com/yaronn/blessed-contrib",
+          "stars": 15705,
+          "forks": 843,
+          "lastUpdated": "2026-02-18T02:04:42Z",
+          "description": "."
+        },
+        {
+          "name": "muesli/termenv",
+          "url": "https://github.com/muesli/termenv",
+          "stars": 1967,
+          "forks": 84,
+          "lastUpdated": "2026-02-18T01:47:57Z",
+          "description": "- Advanced ANSI style \u0026 color support for your terminal applications."
         },
         {
           "name": "akamensky/argparse",
@@ -1231,36 +1295,12 @@
           "description": "- Command line argument parser inspired by Python's argparse module."
         },
         {
-          "name": "spf13/cobra",
-          "url": "https://github.com/spf13/cobra",
-          "stars": 43168,
-          "forks": 3053,
-          "lastUpdated": "2026-02-17T23:27:51Z",
-          "description": "- Commander for modern Go CLI interactions."
-        },
-        {
-          "name": "charmbracelet/lipgloss",
-          "url": "https://github.com/charmbracelet/lipgloss",
-          "stars": 10577,
-          "forks": 310,
-          "lastUpdated": "2026-02-17T23:00:57Z",
-          "description": "- Declaratively define styles for color, format and layout in the terminal."
-        },
-        {
           "name": "rsteube/carapace-spec",
           "url": "https://github.com/rsteube/carapace-spec",
           "stars": 29,
           "forks": 3,
           "lastUpdated": "2026-02-17T22:00:43Z",
           "description": "- Define simple completions using a spec file."
-        },
-        {
-          "name": "urfave/cli",
-          "url": "https://github.com/urfave/cli",
-          "stars": 23889,
-          "forks": 1757,
-          "lastUpdated": "2026-02-17T21:48:37Z",
-          "description": "- Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli)."
         },
         {
           "name": "charmbracelet/bubbles",
@@ -1351,44 +1391,12 @@
           "description": "- Colorable writer for windows."
         },
         {
-          "name": "yaronn/blessed-contrib",
-          "url": "https://github.com/yaronn/blessed-contrib",
-          "stars": 15706,
-          "forks": 843,
-          "lastUpdated": "2026-02-17T15:38:29Z",
-          "description": "."
-        },
-        {
           "name": "gookit/color",
           "url": "https://github.com/gookit/color",
           "stars": 1572,
           "forks": 87,
           "lastUpdated": "2026-02-17T14:35:36Z",
           "description": "- Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows."
-        },
-        {
-          "name": "antonmedv/fx",
-          "url": "https://github.com/antonmedv/fx",
-          "stars": 20271,
-          "forks": 471,
-          "lastUpdated": "2026-02-17T13:32:26Z",
-          "description": "- Terminal JSON viewer \u0026 processor."
-        },
-        {
-          "name": "muesli/termenv",
-          "url": "https://github.com/muesli/termenv",
-          "stars": 1967,
-          "forks": 84,
-          "lastUpdated": "2026-02-17T12:46:39Z",
-          "description": "- Advanced ANSI style \u0026 color support for your terminal applications."
-        },
-        {
-          "name": "vbauerster/mpb",
-          "url": "https://github.com/vbauerster/mpb",
-          "stars": 2477,
-          "forks": 129,
-          "lastUpdated": "2026-02-17T08:57:53Z",
-          "description": "- Multi progress bar for terminal applications."
         },
         {
           "name": "spf13/pflag",
@@ -1549,14 +1557,6 @@
           "forks": 54,
           "lastUpdated": "2026-02-14T03:32:54Z",
           "description": "- ANSI terminal colors that support fmt.Printf/Sprintf."
-        },
-        {
-          "name": "briandowns/spinner",
-          "url": "https://github.com/briandowns/spinner",
-          "stars": 2508,
-          "forks": 130,
-          "lastUpdated": "2026-02-13T12:21:48Z",
-          "description": "- Go package to easily provide a terminal spinner with options."
         },
         {
           "name": "hidevopsio/hiboot",
@@ -1894,6 +1894,30 @@
       "repoCount": 58,
       "repos": [
         {
+          "name": "caarlos0/env",
+          "url": "https://github.com/caarlos0/env",
+          "stars": 5997,
+          "forks": 273,
+          "lastUpdated": "2026-02-18T04:07:58Z",
+          "description": "- Parse environment variables to Go structs (with defaults)."
+        },
+        {
+          "name": "spf13/viper",
+          "url": "https://github.com/spf13/viper",
+          "stars": 30001,
+          "forks": 2098,
+          "lastUpdated": "2026-02-18T04:07:56Z",
+          "description": "- Go configuration with fangs."
+        },
+        {
+          "name": "bytedance/sonic",
+          "url": "https://github.com/bytedance/sonic",
+          "stars": 9198,
+          "forks": 434,
+          "lastUpdated": "2026-02-18T03:37:06Z",
+          "description": "- A blazingly fast JSON serializing \u0026 deserializing library."
+        },
+        {
           "name": "kelseyhightower/envconfig",
           "url": "https://github.com/kelseyhightower/envconfig",
           "stars": 5401,
@@ -1908,22 +1932,6 @@
           "forks": 447,
           "lastUpdated": "2026-02-17T18:00:14Z",
           "description": "- Go port of Ruby's dotenv library (Loads environment variables from `.env`)."
-        },
-        {
-          "name": "caarlos0/env",
-          "url": "https://github.com/caarlos0/env",
-          "stars": 5998,
-          "forks": 273,
-          "lastUpdated": "2026-02-17T18:00:07Z",
-          "description": "- Parse environment variables to Go structs (with defaults)."
-        },
-        {
-          "name": "spf13/viper",
-          "url": "https://github.com/spf13/viper",
-          "stars": 30002,
-          "forks": 2098,
-          "lastUpdated": "2026-02-17T17:01:51Z",
-          "description": "- Go configuration with fangs."
         },
         {
           "name": "adrg/xdg",
@@ -1956,14 +1964,6 @@
           "forks": 183,
           "lastUpdated": "2026-02-16T23:55:51Z",
           "description": "- Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line."
-        },
-        {
-          "name": "bytedance/sonic",
-          "url": "https://github.com/bytedance/sonic",
-          "stars": 9197,
-          "forks": 434,
-          "lastUpdated": "2026-02-16T20:08:39Z",
-          "description": "- A blazingly fast JSON serializing \u0026 deserializing library."
         },
         {
           "name": "ilyakaznacheev/cleanenv",
@@ -2057,7 +2057,7 @@
           "name": "heetch/confita",
           "url": "https://github.com/heetch/confita",
           "stars": 508,
-          "forks": 50,
+          "forks": 49,
           "lastUpdated": "2026-02-04T16:59:21Z",
           "description": "- Load configuration in cascade from multiple backends into a struct."
         },
@@ -2367,10 +2367,18 @@
         {
           "name": "woodpecker-ci/woodpecker",
           "url": "https://github.com/woodpecker-ci/woodpecker",
-          "stars": 6480,
+          "stars": 6482,
           "forks": 515,
-          "lastUpdated": "2026-02-17T22:43:10Z",
+          "lastUpdated": "2026-02-18T04:00:26Z",
           "description": "- Woodpecker is a community fork of the Drone CI system."
+        },
+        {
+          "name": "drone/drone",
+          "url": "https://github.com/drone/drone",
+          "stars": 33879,
+          "forks": 2890,
+          "lastUpdated": "2026-02-18T03:58:32Z",
+          "description": "- Drone is a Continuous Integration platform built on Docker, written in Go."
         },
         {
           "name": "gha-common/go-beautiful-html-coverage",
@@ -2387,14 +2395,6 @@
           "forks": 192,
           "lastUpdated": "2026-02-17T19:30:20Z",
           "description": "."
-        },
-        {
-          "name": "drone/drone",
-          "url": "https://github.com/drone/drone",
-          "stars": 33880,
-          "forks": 2890,
-          "lastUpdated": "2026-02-17T17:05:56Z",
-          "description": "- Drone is a Continuous Integration platform built on Docker, written in Go."
         },
         {
           "name": "ovh/cds",
@@ -2487,7 +2487,7 @@
           "name": "benthosdev/benthos",
           "url": "https://github.com/benthosdev/benthos",
           "stars": 8589,
-          "forks": 922,
+          "forks": 923,
           "lastUpdated": "2026-02-17T22:40:18Z",
           "description": "- A message streaming bridge between a range of protocols."
         },
@@ -2509,10 +2509,18 @@
         {
           "name": "hatchet-dev/hatchet",
           "url": "https://github.com/hatchet-dev/hatchet",
-          "stars": 6604,
+          "stars": 6606,
           "forks": 305,
-          "lastUpdated": "2026-02-17T20:25:50Z",
+          "lastUpdated": "2026-02-18T02:23:33Z",
           "description": "- Distributed, Fault-tolerant task queue."
+        },
+        {
+          "name": "blevesearch/bleve",
+          "url": "https://github.com/blevesearch/bleve",
+          "stars": 10978,
+          "forks": 697,
+          "lastUpdated": "2026-02-18T00:11:29Z",
+          "description": "- Modern text indexing library for go."
         },
         {
           "name": "emirpasic/gods",
@@ -2529,14 +2537,6 @@
           "forks": 283,
           "lastUpdated": "2026-02-17T14:05:09Z",
           "description": "- Thread-Safe and Non-Thread-Safe high-performance sets for Go."
-        },
-        {
-          "name": "blevesearch/bleve",
-          "url": "https://github.com/blevesearch/bleve",
-          "stars": 10977,
-          "forks": 697,
-          "lastUpdated": "2026-02-17T13:02:52Z",
-          "description": "- Modern text indexing library for go."
         },
         {
           "name": "seiflotfy/cuckoofilter",
@@ -3146,20 +3146,164 @@
       "repoCount": 138,
       "repos": [
         {
-          "name": "prometheus/prometheus",
-          "url": "https://github.com/prometheus/prometheus",
-          "stars": 62748,
-          "forks": 10189,
-          "lastUpdated": "2026-02-17T23:36:59Z",
-          "description": "- Monitoring system and time series database."
+          "name": "dgraph-io/badger",
+          "url": "https://github.com/dgraph-io/badger",
+          "stars": 15474,
+          "forks": 1282,
+          "lastUpdated": "2026-02-18T04:12:54Z",
+          "description": "- Fast key-value store in Go."
+        },
+        {
+          "name": "etcd-io/bbolt",
+          "url": "https://github.com/etcd-io/bbolt",
+          "stars": 9368,
+          "forks": 717,
+          "lastUpdated": "2026-02-18T04:12:36Z",
+          "description": "- An embedded key/value database for Go."
+        },
+        {
+          "name": "golang-migrate/migrate",
+          "url": "https://github.com/golang-migrate/migrate",
+          "stars": 18105,
+          "forks": 1548,
+          "lastUpdated": "2026-02-18T04:08:44Z",
+          "description": "- Database migrations. CLI and Golang library."
+        },
+        {
+          "name": "milvus-io/milvus",
+          "url": "https://github.com/milvus-io/milvus",
+          "stars": 42785,
+          "forks": 3829,
+          "lastUpdated": "2026-02-18T04:07:53Z",
+          "description": "- Milvus is a vector database for embedding management, analytics and search."
+        },
+        {
+          "name": "codenotary/immudb",
+          "url": "https://github.com/codenotary/immudb",
+          "stars": 8918,
+          "forks": 359,
+          "lastUpdated": "2026-02-18T04:02:13Z",
+          "description": "- immudb is a lightweight, high-speed immutable database for systems and applications written in Go."
+        },
+        {
+          "name": "influxdb/influxdb",
+          "url": "https://github.com/influxdb/influxdb",
+          "stars": 31224,
+          "forks": 3699,
+          "lastUpdated": "2026-02-18T04:00:02Z",
+          "description": "- Scalable datastore for metrics, events, and real-time analytics."
         },
         {
           "name": "dolthub/dolt",
           "url": "https://github.com/dolthub/dolt",
-          "stars": 19848,
+          "stars": 19851,
           "forks": 624,
-          "lastUpdated": "2026-02-17T23:32:50Z",
+          "lastUpdated": "2026-02-18T03:38:36Z",
           "description": "- Dolt – It's Git for Data."
+        },
+        {
+          "name": "dgraph-io/dgraph",
+          "url": "https://github.com/dgraph-io/dgraph",
+          "stars": 21534,
+          "forks": 1584,
+          "lastUpdated": "2026-02-18T03:24:17Z",
+          "description": "- Scalable, Distributed, Low Latency, High Throughput Graph Database."
+        },
+        {
+          "name": "google/leveldb",
+          "url": "https://github.com/google/leveldb",
+          "stars": 38830,
+          "forks": 8162,
+          "lastUpdated": "2026-02-18T03:23:50Z",
+          "description": "key/value database in Go."
+        },
+        {
+          "name": "rqlite/rqlite",
+          "url": "https://github.com/rqlite/rqlite",
+          "stars": 17313,
+          "forks": 765,
+          "lastUpdated": "2026-02-18T03:02:10Z",
+          "description": "- The lightweight, distributed, relational database built on SQLite."
+        },
+        {
+          "name": "ariga/atlas",
+          "url": "https://github.com/ariga/atlas",
+          "stars": 8089,
+          "forks": 336,
+          "lastUpdated": "2026-02-18T02:56:06Z",
+          "description": "- A Database Toolkit. A CLI designed to help companies better work with their data."
+        },
+        {
+          "name": "pingcap/tidb",
+          "url": "https://github.com/pingcap/tidb",
+          "stars": 39746,
+          "forks": 6118,
+          "lastUpdated": "2026-02-18T02:55:58Z",
+          "description": "- TiDB is a distributed SQL database. Inspired by the design of Google F1."
+        },
+        {
+          "name": "VictoriaMetrics/VictoriaMetrics",
+          "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+          "stars": 16332,
+          "forks": 1571,
+          "lastUpdated": "2026-02-18T02:19:58Z",
+          "description": "- fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL."
+        },
+        {
+          "name": "maypok86/otter",
+          "url": "https://github.com/maypok86/otter",
+          "stars": 2510,
+          "forks": 59,
+          "lastUpdated": "2026-02-18T01:56:18Z",
+          "description": "- A high performance lockless cache for Go. Many times faster than Ristretto and friends."
+        },
+        {
+          "name": "youtube/vitess",
+          "url": "https://github.com/youtube/vitess",
+          "stars": 20701,
+          "forks": 2302,
+          "lastUpdated": "2026-02-18T01:46:20Z",
+          "description": "- vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services."
+        },
+        {
+          "name": "prometheus/prometheus",
+          "url": "https://github.com/prometheus/prometheus",
+          "stars": 62749,
+          "forks": 10189,
+          "lastUpdated": "2026-02-18T01:37:36Z",
+          "description": "- Monitoring system and time series database."
+        },
+        {
+          "name": "siddontang/go-mysql",
+          "url": "https://github.com/siddontang/go-mysql",
+          "stars": 4920,
+          "forks": 1048,
+          "lastUpdated": "2026-02-18T01:15:31Z",
+          "description": "- Go toolset to handle MySQL protocol and replication."
+        },
+        {
+          "name": "pressly/goose",
+          "url": "https://github.com/pressly/goose",
+          "stars": 10185,
+          "forks": 625,
+          "lastUpdated": "2026-02-18T01:04:53Z",
+          "description": "- Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts."
+        },
+        {
+          "name": "cockroachdb/pebble",
+          "url": "https://github.com/cockroachdb/pebble",
+          "stars": 5773,
+          "forks": 541,
+          "lastUpdated": "2026-02-18T00:58:23Z",
+          "description": "- RocksDB/LevelDB inspired key-value database in Go."
+        },
+        {
+          "name": "kyleconroy/sqlc",
+          "url": "https://github.com/kyleconroy/sqlc",
+          "stars": 16965,
+          "forks": 995,
+          "lastUpdated": "2026-02-18T00:52:46Z",
+          "description": "- Generate type-safe code from SQL."
         },
         {
           "name": "cockroachdb/cockroach",
@@ -3170,52 +3314,12 @@
           "description": "- Scalable, Geo-Replicated, Transactional Datastore."
         },
         {
-          "name": "cockroachdb/pebble",
-          "url": "https://github.com/cockroachdb/pebble",
-          "stars": 5773,
-          "forks": 541,
-          "lastUpdated": "2026-02-17T22:49:35Z",
-          "description": "- RocksDB/LevelDB inspired key-value database in Go."
-        },
-        {
           "name": "sosedoff/pgweb",
           "url": "https://github.com/sosedoff/pgweb",
           "stars": 9256,
           "forks": 822,
           "lastUpdated": "2026-02-17T22:30:05Z",
           "description": "- Web-based PostgreSQL database browser."
-        },
-        {
-          "name": "milvus-io/milvus",
-          "url": "https://github.com/milvus-io/milvus",
-          "stars": 42783,
-          "forks": 3829,
-          "lastUpdated": "2026-02-17T22:10:07Z",
-          "description": "- Milvus is a vector database for embedding management, analytics and search."
-        },
-        {
-          "name": "influxdb/influxdb",
-          "url": "https://github.com/influxdb/influxdb",
-          "stars": 31223,
-          "forks": 3699,
-          "lastUpdated": "2026-02-17T21:44:46Z",
-          "description": "- Scalable datastore for metrics, events, and real-time analytics."
-        },
-        {
-          "name": "youtube/vitess",
-          "url": "https://github.com/youtube/vitess",
-          "stars": 20701,
-          "forks": 2302,
-          "lastUpdated": "2026-02-17T21:42:13Z",
-          "description": "- vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services."
-        },
-        {
-          "name": "maypok86/otter",
-          "url": "https://github.com/maypok86/otter",
-          "stars": 2509,
-          "forks": 59,
-          "lastUpdated": "2026-02-17T21:27:33Z",
-          "description": "- A high performance lockless cache for Go. Many times faster than Ristretto and friends."
         },
         {
           "name": "feichai0017/NoKV",
@@ -3226,44 +3330,12 @@
           "description": "- High-performance distributed KV storage based on LSM Tree."
         },
         {
-          "name": "kyleconroy/sqlc",
-          "url": "https://github.com/kyleconroy/sqlc",
-          "stars": 16964,
-          "forks": 995,
-          "lastUpdated": "2026-02-17T21:19:23Z",
-          "description": "- Generate type-safe code from SQL."
-        },
-        {
-          "name": "VictoriaMetrics/VictoriaMetrics",
-          "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
-          "stars": 16331,
-          "forks": 1571,
-          "lastUpdated": "2026-02-17T21:16:08Z",
-          "description": "- fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL."
-        },
-        {
           "name": "nalgeon/redka",
           "url": "https://github.com/nalgeon/redka",
           "stars": 4524,
           "forks": 129,
           "lastUpdated": "2026-02-17T19:09:45Z",
           "description": "- Redis re-implemented with SQLite."
-        },
-        {
-          "name": "etcd-io/bbolt",
-          "url": "https://github.com/etcd-io/bbolt",
-          "stars": 9367,
-          "forks": 717,
-          "lastUpdated": "2026-02-17T19:07:22Z",
-          "description": "- An embedded key/value database for Go."
-        },
-        {
-          "name": "google/leveldb",
-          "url": "https://github.com/google/leveldb",
-          "stars": 38828,
-          "forks": 8161,
-          "lastUpdated": "2026-02-17T19:04:36Z",
-          "description": "key/value database in Go."
         },
         {
           "name": "go-jet/jet",
@@ -3274,14 +3346,6 @@
           "description": "- Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure."
         },
         {
-          "name": "golang-migrate/migrate",
-          "url": "https://github.com/golang-migrate/migrate",
-          "stars": 18105,
-          "forks": 1548,
-          "lastUpdated": "2026-02-17T17:55:05Z",
-          "description": "- Database migrations. CLI and Golang library."
-        },
-        {
           "name": "rubenv/sql-migrate",
           "url": "https://github.com/rubenv/sql-migrate",
           "stars": 3403,
@@ -3290,68 +3354,12 @@
           "description": "- Database migration tool. Allows embedding migrations into the application using go-bindata."
         },
         {
-          "name": "dgraph-io/dgraph",
-          "url": "https://github.com/dgraph-io/dgraph",
-          "stars": 21533,
-          "forks": 1584,
-          "lastUpdated": "2026-02-17T16:35:41Z",
-          "description": "- Scalable, Distributed, Low Latency, High Throughput Graph Database."
-        },
-        {
-          "name": "ariga/atlas",
-          "url": "https://github.com/ariga/atlas",
-          "stars": 8088,
-          "forks": 336,
-          "lastUpdated": "2026-02-17T16:26:34Z",
-          "description": "- A Database Toolkit. A CLI designed to help companies better work with their data."
-        },
-        {
-          "name": "rqlite/rqlite",
-          "url": "https://github.com/rqlite/rqlite",
-          "stars": 17314,
-          "forks": 765,
-          "lastUpdated": "2026-02-17T16:22:05Z",
-          "description": "- The lightweight, distributed, relational database built on SQLite."
-        },
-        {
-          "name": "dgraph-io/badger",
-          "url": "https://github.com/dgraph-io/badger",
-          "stars": 15471,
-          "forks": 1282,
-          "lastUpdated": "2026-02-17T15:47:13Z",
-          "description": "- Fast key-value store in Go."
-        },
-        {
           "name": "Masterminds/squirrel",
           "url": "https://github.com/Masterminds/squirrel",
           "stars": 7864,
           "forks": 505,
           "lastUpdated": "2026-02-17T15:39:59Z",
           "description": "- Go library that helps you build SQL queries."
-        },
-        {
-          "name": "pingcap/tidb",
-          "url": "https://github.com/pingcap/tidb",
-          "stars": 39744,
-          "forks": 6118,
-          "lastUpdated": "2026-02-17T13:40:11Z",
-          "description": "- TiDB is a distributed SQL database. Inspired by the design of Google F1."
-        },
-        {
-          "name": "codenotary/immudb",
-          "url": "https://github.com/codenotary/immudb",
-          "stars": 8919,
-          "forks": 359,
-          "lastUpdated": "2026-02-17T13:31:12Z",
-          "description": "- immudb is a lightweight, high-speed immutable database for systems and applications written in Go."
-        },
-        {
-          "name": "pressly/goose",
-          "url": "https://github.com/pressly/goose",
-          "stars": 10184,
-          "forks": 625,
-          "lastUpdated": "2026-02-17T12:46:21Z",
-          "description": "- Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts."
         },
         {
           "name": "mgtv-tech/jetcache-go",
@@ -3560,14 +3568,6 @@
           "forks": 134,
           "lastUpdated": "2026-02-14T23:26:21Z",
           "description": "- An in-memory cache with item expiration and generics."
-        },
-        {
-          "name": "siddontang/go-mysql",
-          "url": "https://github.com/siddontang/go-mysql",
-          "stars": 4920,
-          "forks": 1048,
-          "lastUpdated": "2026-02-14T21:04:21Z",
-          "description": "- Go toolset to handle MySQL protocol and replication."
         },
         {
           "name": "xujiajun/nutsdb",
@@ -4257,20 +4257,28 @@
       "repoCount": 61,
       "repos": [
         {
+          "name": "jackc/pgx",
+          "url": "https://github.com/jackc/pgx",
+          "stars": 13339,
+          "forks": 997,
+          "lastUpdated": "2026-02-18T04:08:45Z",
+          "description": "- PostgreSQL driver supporting features beyond those exposed by database/sql."
+        },
+        {
+          "name": "nakagami/firebirdsql",
+          "url": "https://github.com/nakagami/firebirdsql",
+          "stars": 255,
+          "forks": 68,
+          "lastUpdated": "2026-02-18T01:21:31Z",
+          "description": "- Firebird RDBMS SQL driver for Go."
+        },
+        {
           "name": "elastic/go-elasticsearch",
           "url": "https://github.com/elastic/go-elasticsearch",
           "stars": 6025,
           "forks": 639,
           "lastUpdated": "2026-02-17T22:11:59Z",
           "description": "- Official Elasticsearch client for Go."
-        },
-        {
-          "name": "jackc/pgx",
-          "url": "https://github.com/jackc/pgx",
-          "stars": 13340,
-          "forks": 997,
-          "lastUpdated": "2026-02-17T20:38:29Z",
-          "description": "- PostgreSQL driver supporting features beyond those exposed by database/sql."
         },
         {
           "name": "mongodb/mongo-go-driver",
@@ -4407,14 +4415,6 @@
           "forks": 80,
           "lastUpdated": "2026-02-15T10:03:14Z",
           "description": "- SurrealDB Driver for Go."
-        },
-        {
-          "name": "nakagami/firebirdsql",
-          "url": "https://github.com/nakagami/firebirdsql",
-          "stars": 255,
-          "forks": 68,
-          "lastUpdated": "2026-02-14T23:11:05Z",
-          "description": "- Firebird RDBMS SQL driver for Go."
         },
         {
           "name": "sourcegraph/zoekt",
@@ -4943,12 +4943,44 @@
       "repoCount": 61,
       "repos": [
         {
+          "name": "zhufuyi/sponge",
+          "url": "https://github.com/zhufuyi/sponge",
+          "stars": 2794,
+          "forks": 263,
+          "lastUpdated": "2026-02-18T03:24:32Z",
+          "description": "- A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks."
+        },
+        {
           "name": "cloudwego/kitex",
           "url": "https://github.com/cloudwego/kitex",
-          "stars": 7862,
+          "stars": 7863,
           "forks": 895,
-          "lastUpdated": "2026-02-17T23:15:21Z",
+          "lastUpdated": "2026-02-18T03:14:50Z",
           "description": "- A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice."
+        },
+        {
+          "name": "mochi-co/mqtt",
+          "url": "https://github.com/mochi-co/mqtt",
+          "stars": 1790,
+          "forks": 301,
+          "lastUpdated": "2026-02-18T03:13:52Z",
+          "description": "- Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub."
+        },
+        {
+          "name": "ktr0731/evans",
+          "url": "https://github.com/ktr0731/evans",
+          "stars": 4453,
+          "forks": 193,
+          "lastUpdated": "2026-02-18T00:13:25Z",
+          "description": "- Evans: more expressive universal gRPC client."
+        },
+        {
+          "name": "oras-project/oras",
+          "url": "https://github.com/oras-project/oras",
+          "stars": 2133,
+          "forks": 222,
+          "lastUpdated": "2026-02-18T00:11:52Z",
+          "description": "- CLI and library for OCI Artifacts in container registries."
         },
         {
           "name": "temporalio/sdk-go",
@@ -4973,14 +5005,6 @@
           "forks": 1735,
           "lastUpdated": "2026-02-17T18:57:29Z",
           "description": "- NATS is a simple, secure, and performant communications system for digital systems, services, and devices."
-        },
-        {
-          "name": "oras-project/oras",
-          "url": "https://github.com/oras-project/oras",
-          "stars": 2133,
-          "forks": 222,
-          "lastUpdated": "2026-02-17T14:05:17Z",
-          "description": "- CLI and library for OCI Artifacts in container registries."
         },
         {
           "name": "k8gb-io/k8gb",
@@ -5103,22 +5127,6 @@
           "description": ")."
         },
         {
-          "name": "zhufuyi/sponge",
-          "url": "https://github.com/zhufuyi/sponge",
-          "stars": 2793,
-          "forks": 263,
-          "lastUpdated": "2026-02-16T07:09:38Z",
-          "description": "- A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks."
-        },
-        {
-          "name": "mochi-co/mqtt",
-          "url": "https://github.com/mochi-co/mqtt",
-          "stars": 1788,
-          "forks": 301,
-          "lastUpdated": "2026-02-16T06:07:32Z",
-          "description": "- Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub."
-        },
-        {
           "name": "chrislusf/glow",
           "url": "https://github.com/chrislusf/glow",
           "stars": 3220,
@@ -5170,7 +5178,7 @@
           "name": "lni/dragonboat",
           "url": "https://github.com/lni/dragonboat",
           "stars": 5298,
-          "forks": 566,
+          "forks": 565,
           "lastUpdated": "2026-02-13T12:02:16Z",
           "description": "- A feature complete and high performance multi-group Raft library in Go."
         },
@@ -5221,14 +5229,6 @@
           "forks": 261,
           "lastUpdated": "2026-02-12T07:04:08Z",
           "description": "- A Go framework for the API or Microservice with handy scaffolding tools."
-        },
-        {
-          "name": "ktr0731/evans",
-          "url": "https://github.com/ktr0731/evans",
-          "stars": 4452,
-          "forks": 193,
-          "lastUpdated": "2026-02-11T18:24:45Z",
-          "description": "- Evans: more expressive universal gRPC client."
         },
         {
           "name": "oagudo/outbox",
@@ -5603,20 +5603,28 @@
       "repoCount": 23,
       "repos": [
         {
+          "name": "mailhog/MailHog",
+          "url": "https://github.com/mailhog/MailHog",
+          "stars": 15775,
+          "forks": 1154,
+          "lastUpdated": "2026-02-18T04:02:09Z",
+          "description": "- Email and SMTP testing with web and API interface."
+        },
+        {
           "name": "axllent/mailpit",
           "url": "https://github.com/axllent/mailpit",
-          "stars": 8734,
+          "stars": 8737,
           "forks": 262,
-          "lastUpdated": "2026-02-17T20:53:45Z",
+          "lastUpdated": "2026-02-18T03:33:58Z",
           "description": "- Email and SMTP testing tool for developers."
         },
         {
-          "name": "mailhog/MailHog",
-          "url": "https://github.com/mailhog/MailHog",
-          "stars": 15776,
-          "forks": 1154,
-          "lastUpdated": "2026-02-17T19:29:01Z",
-          "description": "- Email and SMTP testing with web and API interface."
+          "name": "foxcpp/maddy",
+          "url": "https://github.com/foxcpp/maddy",
+          "stars": 5846,
+          "forks": 309,
+          "lastUpdated": "2026-02-18T00:27:54Z",
+          "description": "- All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server"
         },
         {
           "name": "sendgrid/sendgrid-go",
@@ -5625,14 +5633,6 @@
           "forks": 264,
           "lastUpdated": "2026-02-17T15:04:12Z",
           "description": "- SendGrid's Go library for sending email."
-        },
-        {
-          "name": "foxcpp/maddy",
-          "url": "https://github.com/foxcpp/maddy",
-          "stars": 5845,
-          "forks": 309,
-          "lastUpdated": "2026-02-16T23:04:47Z",
-          "description": "- All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server"
         },
         {
           "name": "mjl-/mox",
@@ -5794,28 +5794,36 @@
       "repoCount": 22,
       "repos": [
         {
+          "name": "wa-lang/wa",
+          "url": "https://github.com/wa-lang/wa",
+          "stars": 1753,
+          "forks": 64,
+          "lastUpdated": "2026-02-18T04:01:56Z",
+          "description": "- The Wa Programming Language embedded in Go."
+        },
+        {
+          "name": "dop251/goja",
+          "url": "https://github.com/dop251/goja",
+          "stars": 6742,
+          "forks": 435,
+          "lastUpdated": "2026-02-18T03:41:23Z",
+          "description": "- ECMAScript 5.1(+) implementation in Go."
+        },
+        {
+          "name": "dunglas/frankenphp",
+          "url": "https://github.com/dunglas/frankenphp",
+          "stars": 10785,
+          "forks": 430,
+          "lastUpdated": "2026-02-18T00:54:53Z",
+          "description": "- PHP embedded in Go, with a `net/http` handler."
+        },
+        {
           "name": "google/cel-go",
           "url": "https://github.com/google/cel-go",
           "stars": 2867,
           "forks": 260,
           "lastUpdated": "2026-02-17T16:54:54Z",
           "description": "- Fast, portable, non-Turing complete expression evaluation with gradual typing."
-        },
-        {
-          "name": "dunglas/frankenphp",
-          "url": "https://github.com/dunglas/frankenphp",
-          "stars": 10784,
-          "forks": 430,
-          "lastUpdated": "2026-02-17T15:37:23Z",
-          "description": "- PHP embedded in Go, with a `net/http` handler."
-        },
-        {
-          "name": "wa-lang/wa",
-          "url": "https://github.com/wa-lang/wa",
-          "stars": 1753,
-          "forks": 64,
-          "lastUpdated": "2026-02-17T12:02:58Z",
-          "description": "- The Wa Programming Language embedded in Go."
         },
         {
           "name": "yuin/gopher-lua",
@@ -5848,14 +5856,6 @@
           "forks": 229,
           "lastUpdated": "2026-02-17T04:40:29Z",
           "description": "that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions."
-        },
-        {
-          "name": "dop251/goja",
-          "url": "https://github.com/dop251/goja",
-          "stars": 6741,
-          "forks": 435,
-          "lastUpdated": "2026-02-16T15:45:58Z",
-          "description": "- ECMAScript 5.1(+) implementation in Go."
         },
         {
           "name": "d5/tengo",
@@ -6122,26 +6122,26 @@
         {
           "name": "junegunn/fzf",
           "url": "https://github.com/junegunn/fzf",
-          "stars": 77837,
+          "stars": 77841,
           "forks": 2693,
-          "lastUpdated": "2026-02-17T23:56:10Z",
+          "lastUpdated": "2026-02-18T04:21:36Z",
           "description": ")."
-        },
-        {
-          "name": "pdfcpu/pdfcpu",
-          "url": "https://github.com/pdfcpu/pdfcpu",
-          "stars": 8469,
-          "forks": 593,
-          "lastUpdated": "2026-02-17T23:09:21Z",
-          "description": "- PDF processor."
         },
         {
           "name": "dundee/gdu",
           "url": "https://github.com/dundee/gdu",
-          "stars": 5319,
+          "stars": 5318,
           "forks": 191,
-          "lastUpdated": "2026-02-17T20:59:00Z",
+          "lastUpdated": "2026-02-18T04:03:49Z",
           "description": "- Disk usage analyzer with console interface."
+        },
+        {
+          "name": "pdfcpu/pdfcpu",
+          "url": "https://github.com/pdfcpu/pdfcpu",
+          "stars": 8468,
+          "forks": 593,
+          "lastUpdated": "2026-02-18T01:19:28Z",
+          "description": "- PDF processor."
         },
         {
           "name": "spf13/afero",
@@ -6335,20 +6335,20 @@
       "repoCount": 25,
       "repos": [
         {
+          "name": "shopspring/decimal",
+          "url": "https://github.com/shopspring/decimal",
+          "stars": 7239,
+          "forks": 652,
+          "lastUpdated": "2026-02-18T03:22:00Z",
+          "description": "- Arbitrary-precision fixed-point decimal numbers."
+        },
+        {
           "name": "formancehq/ledger",
           "url": "https://github.com/formancehq/ledger",
           "stars": 1146,
           "forks": 148,
           "lastUpdated": "2026-02-17T20:12:19Z",
           "description": "- A programmable financial ledger that provides a foundation for money-moving applications."
-        },
-        {
-          "name": "shopspring/decimal",
-          "url": "https://github.com/shopspring/decimal",
-          "stars": 7238,
-          "forks": 652,
-          "lastUpdated": "2026-02-17T17:43:50Z",
-          "description": "- Arbitrary-precision fixed-point decimal numbers."
         },
         {
           "name": "invopop/gobl",
@@ -6370,7 +6370,7 @@
           "name": "rhymond/go-money",
           "url": "https://github.com/rhymond/go-money",
           "stars": 1881,
-          "forks": 164,
+          "forks": 163,
           "lastUpdated": "2026-02-16T22:16:21Z",
           "description": "- Implementation of Fowler's Money pattern."
         },
@@ -6386,7 +6386,7 @@
           "name": "moov-io/ach",
           "url": "https://github.com/moov-io/ach",
           "stars": 528,
-          "forks": 185,
+          "forks": 186,
           "lastUpdated": "2026-02-14T17:59:10Z",
           "description": "- A reader, writer, and validator for Automated Clearing House (ACH) files."
         },
@@ -6740,20 +6740,28 @@
       "repoCount": 24,
       "repos": [
         {
+          "name": "energye/energy",
+          "url": "https://github.com/energye/energy",
+          "stars": 577,
+          "forks": 44,
+          "lastUpdated": "2026-02-18T02:47:21Z",
+          "description": "- Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)"
+        },
+        {
+          "name": "zserge/webview",
+          "url": "https://github.com/zserge/webview",
+          "stars": 13908,
+          "forks": 1062,
+          "lastUpdated": "2026-02-18T00:32:36Z",
+          "description": "- Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux)."
+        },
+        {
           "name": "fyne-io/fyne",
           "url": "https://github.com/fyne-io/fyne",
           "stars": 27933,
           "forks": 1506,
           "lastUpdated": "2026-02-17T20:25:04Z",
           "description": "- Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android."
-        },
-        {
-          "name": "zserge/webview",
-          "url": "https://github.com/zserge/webview",
-          "stars": 13907,
-          "forks": 1062,
-          "lastUpdated": "2026-02-17T15:29:14Z",
-          "description": "- Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux)."
         },
         {
           "name": "getlantern/systray",
@@ -6791,17 +6799,9 @@
           "name": "cimgui/cimgui",
           "url": "https://github.com/cimgui/cimgui",
           "stars": 1815,
-          "forks": 358,
+          "forks": 359,
           "lastUpdated": "2026-02-17T10:31:30Z",
           "description": "."
-        },
-        {
-          "name": "energye/energy",
-          "url": "https://github.com/energye/energy",
-          "stars": 576,
-          "forks": 44,
-          "lastUpdated": "2026-02-17T00:12:13Z",
-          "description": "- Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)"
         },
         {
           "name": "murlokswarm/app",
@@ -6939,12 +6939,28 @@
       "repoCount": 22,
       "repos": [
         {
+          "name": "g3n/engine",
+          "url": "https://github.com/g3n/engine",
+          "stars": 3066,
+          "forks": 314,
+          "lastUpdated": "2026-02-18T03:57:09Z",
+          "description": "- Go 3D Game Engine."
+        },
+        {
           "name": "hajimehoshi/ebiten",
           "url": "https://github.com/hajimehoshi/ebiten",
-          "stars": 12961,
+          "stars": 12963,
           "forks": 756,
-          "lastUpdated": "2026-02-17T20:50:35Z",
+          "lastUpdated": "2026-02-18T03:55:17Z",
           "description": "- dead simple 2D game engine in Go."
+        },
+        {
+          "name": "gonutz/prototype",
+          "url": "https://github.com/gonutz/prototype",
+          "stars": 107,
+          "forks": 10,
+          "lastUpdated": "2026-02-18T01:14:06Z",
+          "description": "- Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API."
         },
         {
           "name": "gen2brain/raylib-go",
@@ -6961,14 +6977,6 @@
           "forks": 461,
           "lastUpdated": "2026-02-17T08:31:28Z",
           "description": "- Lightweight, facility, high performance golang based game server framework."
-        },
-        {
-          "name": "g3n/engine",
-          "url": "https://github.com/g3n/engine",
-          "stars": 3065,
-          "forks": 314,
-          "lastUpdated": "2026-02-16T15:07:41Z",
-          "description": "- Go 3D Game Engine."
         },
         {
           "name": "veandco/go-sdl2",
@@ -7097,14 +7105,6 @@
           "forks": 1,
           "lastUpdated": "2025-12-09T00:31:38Z",
           "description": "- Generic 2D grid with ray-casting, shadow-casting and path finding."
-        },
-        {
-          "name": "gonutz/prototype",
-          "url": "https://github.com/gonutz/prototype",
-          "stars": 108,
-          "forks": 10,
-          "lastUpdated": "2025-11-25T21:48:13Z",
-          "description": "- Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API."
         },
         {
           "name": "s0rg/fantasyname",
@@ -7526,6 +7526,14 @@
       "repoCount": 19,
       "repos": [
         {
+          "name": "TrueFurby/go-callvis",
+          "url": "https://github.com/TrueFurby/go-callvis",
+          "stars": 6452,
+          "forks": 432,
+          "lastUpdated": "2026-02-18T00:29:27Z",
+          "description": "- Visualize call graph of your Go program using dot format."
+        },
+        {
           "name": "go-swagger/go-swagger",
           "url": "https://github.com/go-swagger/go-swagger",
           "stars": 9940,
@@ -7548,14 +7556,6 @@
           "forks": 5,
           "lastUpdated": "2026-02-16T20:55:59Z",
           "description": "- Show Go test results as readable sentences."
-        },
-        {
-          "name": "TrueFurby/go-callvis",
-          "url": "https://github.com/TrueFurby/go-callvis",
-          "stars": 6451,
-          "forks": 432,
-          "lastUpdated": "2026-02-16T12:41:54Z",
-          "description": "- Visualize call graph of your Go program using dot format."
         },
         {
           "name": "iyashjayesh/monigo",
@@ -7782,10 +7782,18 @@
         {
           "name": "panjf2000/ants",
           "url": "https://github.com/panjf2000/ants",
-          "stars": 14330,
+          "stars": 14332,
           "forks": 1431,
-          "lastUpdated": "2026-02-17T17:40:02Z",
+          "lastUpdated": "2026-02-18T01:39:02Z",
           "description": "- A high-performance and low-cost goroutine pool in Go."
+        },
+        {
+          "name": "sourcegraph/conc",
+          "url": "https://github.com/sourcegraph/conc",
+          "stars": 10307,
+          "forks": 353,
+          "lastUpdated": "2026-02-18T01:16:27Z",
+          "description": "- `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer."
         },
         {
           "name": "reugn/async",
@@ -7834,14 +7842,6 @@
           "forks": 17,
           "lastUpdated": "2026-02-16T12:40:57Z",
           "description": "- Orchestrate goroutines with ease."
-        },
-        {
-          "name": "sourcegraph/conc",
-          "url": "https://github.com/sourcegraph/conc",
-          "stars": 10306,
-          "forks": 353,
-          "lastUpdated": "2026-02-16T04:07:32Z",
-          "description": "- `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer."
         },
         {
           "name": "vladopajic/go-actor",
@@ -8250,6 +8250,14 @@
       "repoCount": 43,
       "repos": [
         {
+          "name": "h2non/imaginary",
+          "url": "https://github.com/h2non/imaginary",
+          "stars": 6016,
+          "forks": 492,
+          "lastUpdated": "2026-02-18T00:09:44Z",
+          "description": "- Fast and simple HTTP microservice for image resizing."
+        },
+        {
           "name": "davidbyttow/govips",
           "url": "https://github.com/davidbyttow/govips",
           "stars": 1525,
@@ -8272,14 +8280,6 @@
           "forks": 187,
           "lastUpdated": "2026-02-17T07:43:01Z",
           "description": "- Go binding to ImageMagick's MagickWand C API."
-        },
-        {
-          "name": "h2non/imaginary",
-          "url": "https://github.com/h2non/imaginary",
-          "stars": 6015,
-          "forks": 491,
-          "lastUpdated": "2026-02-17T07:37:26Z",
-          "description": "- Fast and simple HTTP microservice for image resizing."
         },
         {
           "name": "cshum/imagor",
@@ -9166,6 +9166,14 @@
       "repoCount": 60,
       "repos": [
         {
+          "name": "uber-go/zap",
+          "url": "https://github.com/uber-go/zap",
+          "stars": 24239,
+          "forks": 1506,
+          "lastUpdated": "2026-02-18T02:18:24Z",
+          "description": "- Fast, structured, leveled logging in Go."
+        },
+        {
           "name": "Lifailon/lazyjournal",
           "url": "https://github.com/Lifailon/lazyjournal",
           "stars": 1117,
@@ -9188,14 +9196,6 @@
           "forks": 965,
           "lastUpdated": "2026-02-17T18:39:42Z",
           "description": ", great for CLI tools and applications."
-        },
-        {
-          "name": "uber-go/zap",
-          "url": "https://github.com/uber-go/zap",
-          "stars": 24241,
-          "forks": 1506,
-          "lastUpdated": "2026-02-17T18:00:12Z",
-          "description": "- Fast, structured, leveled logging in Go."
         },
         {
           "name": "rs/zerolog",
@@ -9966,9 +9966,9 @@
         {
           "name": "hibiken/asynq",
           "url": "https://github.com/hibiken/asynq",
-          "stars": 12898,
+          "stars": 12899,
           "forks": 907,
-          "lastUpdated": "2026-02-17T22:27:56Z",
+          "lastUpdated": "2026-02-18T01:10:15Z",
           "description": "- A simple, reliable, and efficient distributed task queue for Go built on top of Redis."
         },
         {
@@ -10506,18 +10506,26 @@
       "repoCount": 107,
       "repos": [
         {
+          "name": "mikestefanello/pagoda",
+          "url": "https://github.com/mikestefanello/pagoda",
+          "stars": 2908,
+          "forks": 148,
+          "lastUpdated": "2026-02-18T01:45:02Z",
+          "description": "- Rapid, easy full-stack web development starter kit built in Go."
+        },
+        {
           "name": "TwinProduction/gatus",
           "url": "https://github.com/TwinProduction/gatus",
-          "stars": 10131,
+          "stars": 10132,
           "forks": 668,
-          "lastUpdated": "2026-02-17T23:27:06Z",
+          "lastUpdated": "2026-02-18T00:09:01Z",
           "description": "- Automated service health dashboard."
         },
         {
           "name": "golang-standards/project-layout",
           "url": "https://github.com/golang-standards/project-layout/issues/117",
           "stars": 55371,
-          "forks": 5442,
+          "forks": 5441,
           "lastUpdated": "2026-02-17T23:12:47Z",
           "description": "for more information. Nonetheless, some may find the layout useful."
         },
@@ -10693,7 +10701,7 @@
           "name": "huandu/xstrings",
           "url": "https://github.com/huandu/xstrings",
           "stars": 1417,
-          "forks": 71,
+          "forks": 70,
           "lastUpdated": "2026-02-14T12:51:25Z",
           "description": "- Collection of useful string functions ported from other languages."
         },
@@ -10752,14 +10760,6 @@
           "forks": 84,
           "lastUpdated": "2026-02-13T12:01:24Z",
           "description": "- Library for interacting with LLVM IR in pure Go."
-        },
-        {
-          "name": "mikestefanello/pagoda",
-          "url": "https://github.com/mikestefanello/pagoda",
-          "stars": 2907,
-          "forks": 148,
-          "lastUpdated": "2026-02-12T09:52:50Z",
-          "description": "- Rapid, easy full-stack web development starter kit built in Go."
         },
         {
           "name": "vardius/gocontainer",
@@ -11380,7 +11380,7 @@
           "name": "fxsjy/jieba",
           "url": "https://github.com/fxsjy/jieba",
           "stars": 34764,
-          "forks": 6716,
+          "forks": 6715,
           "lastUpdated": "2026-02-17T13:14:57Z",
           "description": "which a Chinese word splitting algorithm."
         },
@@ -11744,12 +11744,84 @@
       "repoCount": 100,
       "repos": [
         {
+          "name": "cloudflare/cloudflared",
+          "url": "https://github.com/cloudflare/cloudflared",
+          "stars": 13059,
+          "forks": 1165,
+          "lastUpdated": "2026-02-18T04:03:24Z",
+          "description": "- Cloudflare Tunnel client (formerly Argo Tunnel)."
+        },
+        {
+          "name": "imroc/req",
+          "url": "https://github.com/imroc/req",
+          "stars": 4758,
+          "forks": 389,
+          "lastUpdated": "2026-02-18T03:22:34Z",
+          "description": "- Simple Go HTTP client with Black Magic (Less code and More efficiency)."
+        },
+        {
+          "name": "bogdanfinn/tls-client",
+          "url": "https://github.com/bogdanfinn/tls-client",
+          "stars": 1464,
+          "forks": 250,
+          "lastUpdated": "2026-02-18T03:16:59Z",
+          "description": "- net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests."
+        },
+        {
+          "name": "Noooste/azuretls-client",
+          "url": "https://github.com/Noooste/azuretls-client",
+          "stars": 426,
+          "forks": 62,
+          "lastUpdated": "2026-02-18T02:59:04Z",
+          "description": "- An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint."
+        },
+        {
+          "name": "mosajjal/dnsmonster",
+          "url": "https://github.com/mosajjal/dnsmonster",
+          "stars": 350,
+          "forks": 59,
+          "lastUpdated": "2026-02-18T02:45:12Z",
+          "description": "- Passive DNS Capture/Monitoring Framework."
+        },
+        {
           "name": "lucas-clemente/quic-go",
           "url": "https://github.com/lucas-clemente/quic-go",
-          "stars": 11433,
-          "forks": 1521,
-          "lastUpdated": "2026-02-17T23:34:42Z",
+          "stars": 11435,
+          "forks": 1522,
+          "lastUpdated": "2026-02-18T02:43:31Z",
           "description": "- An implementation of the QUIC protocol in pure Go."
+        },
+        {
+          "name": "xtaci/gaio",
+          "url": "https://github.com/xtaci/gaio",
+          "stars": 1076,
+          "forks": 90,
+          "lastUpdated": "2026-02-18T02:40:32Z",
+          "description": "- High performance async-io networking for Golang in proactor mode."
+        },
+        {
+          "name": "go-resty/resty",
+          "url": "https://github.com/go-resty/resty",
+          "stars": 11542,
+          "forks": 777,
+          "lastUpdated": "2026-02-18T02:26:54Z",
+          "description": "- Simple HTTP and REST client for Go inspired by Ruby rest-client."
+        },
+        {
+          "name": "osrg/gobgp",
+          "url": "https://github.com/osrg/gobgp",
+          "stars": 3985,
+          "forks": 769,
+          "lastUpdated": "2026-02-18T02:04:17Z",
+          "description": "- BGP implemented in the Go Programming Language."
+        },
+        {
+          "name": "enetx/surf",
+          "url": "https://github.com/enetx/surf",
+          "stars": 1321,
+          "forks": 69,
+          "lastUpdated": "2026-02-18T00:37:08Z",
+          "description": "- Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting."
         },
         {
           "name": "xjasonlyu/tun2socks",
@@ -11760,52 +11832,12 @@
           "description": "- A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack."
         },
         {
-          "name": "cloudflare/cloudflared",
-          "url": "https://github.com/cloudflare/cloudflared",
-          "stars": 13060,
-          "forks": 1164,
-          "lastUpdated": "2026-02-17T21:34:18Z",
-          "description": "- Cloudflare Tunnel client (formerly Argo Tunnel)."
-        },
-        {
           "name": "xtaci/kcp-go",
           "url": "https://github.com/xtaci/kcp-go",
           "stars": 4492,
           "forks": 770,
           "lastUpdated": "2026-02-17T20:24:34Z",
           "description": "- KCP - Fast and Reliable ARQ Protocol."
-        },
-        {
-          "name": "enetx/surf",
-          "url": "https://github.com/enetx/surf",
-          "stars": 1320,
-          "forks": 69,
-          "lastUpdated": "2026-02-17T20:12:06Z",
-          "description": "- Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting."
-        },
-        {
-          "name": "go-resty/resty",
-          "url": "https://github.com/go-resty/resty",
-          "stars": 11540,
-          "forks": 777,
-          "lastUpdated": "2026-02-17T20:11:40Z",
-          "description": "- Simple HTTP and REST client for Go inspired by Ruby rest-client."
-        },
-        {
-          "name": "imroc/req",
-          "url": "https://github.com/imroc/req",
-          "stars": 4757,
-          "forks": 389,
-          "lastUpdated": "2026-02-17T18:22:45Z",
-          "description": "- Simple Go HTTP client with Black Magic (Less code and More efficiency)."
-        },
-        {
-          "name": "osrg/gobgp",
-          "url": "https://github.com/osrg/gobgp",
-          "stars": 3985,
-          "forks": 769,
-          "lastUpdated": "2026-02-17T18:13:48Z",
-          "description": "- BGP implemented in the Go Programming Language."
         },
         {
           "name": "hashicorp/go-getter",
@@ -11824,14 +11856,6 @@
           "description": "- Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http."
         },
         {
-          "name": "xtaci/gaio",
-          "url": "https://github.com/xtaci/gaio",
-          "stars": 1075,
-          "forks": 90,
-          "lastUpdated": "2026-02-17T17:52:47Z",
-          "description": "- High performance async-io networking for Golang in proactor mode."
-        },
-        {
           "name": "pions/webrtc",
           "url": "https://github.com/pions/webrtc",
           "stars": 16043,
@@ -11846,14 +11870,6 @@
           "forks": 1108,
           "lastUpdated": "2026-02-17T12:39:50Z",
           "description": "- `gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go."
-        },
-        {
-          "name": "bogdanfinn/tls-client",
-          "url": "https://github.com/bogdanfinn/tls-client",
-          "stars": 1463,
-          "forks": 250,
-          "lastUpdated": "2026-02-17T11:54:28Z",
-          "description": "- net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests."
         },
         {
           "name": "DrmagicE/gmqtt",
@@ -11982,14 +11998,6 @@
           "forks": 483,
           "lastUpdated": "2026-02-16T08:41:23Z",
           "description": "- Higher-level API for building SSH servers (wraps crypto/ssh)."
-        },
-        {
-          "name": "mosajjal/dnsmonster",
-          "url": "https://github.com/mosajjal/dnsmonster",
-          "stars": 350,
-          "forks": 59,
-          "lastUpdated": "2026-02-16T05:58:03Z",
-          "description": "- Passive DNS Capture/Monitoring Framework."
         },
         {
           "name": "songgao/water",
@@ -12134,14 +12142,6 @@
           "forks": 11,
           "lastUpdated": "2026-02-11T15:29:13Z",
           "description": "- Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client."
-        },
-        {
-          "name": "Noooste/azuretls-client",
-          "url": "https://github.com/Noooste/azuretls-client",
-          "stars": 425,
-          "forks": 62,
-          "lastUpdated": "2026-02-09T11:50:54Z",
-          "description": "- An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint."
         },
         {
           "name": "soniah/gosnmp",
@@ -12553,10 +12553,18 @@
         {
           "name": "uptrace/bun",
           "url": "https://github.com/uptrace/bun",
-          "stars": 4667,
+          "stars": 4666,
           "forks": 265,
-          "lastUpdated": "2026-02-17T23:39:23Z",
+          "lastUpdated": "2026-02-18T04:08:25Z",
           "description": "- SQL-first Golang ORM. Successor of go-pg."
+        },
+        {
+          "name": "facebook/ent",
+          "url": "https://github.com/facebook/ent",
+          "stars": 16922,
+          "forks": 1003,
+          "lastUpdated": "2026-02-18T02:01:46Z",
+          "description": "- An entity framework for Go. Simple, yet powerful ORM for modeling and querying data."
         },
         {
           "name": "upper/db",
@@ -12575,14 +12583,6 @@
           "description": "- A simple package that encapsulates database operations."
         },
         {
-          "name": "facebook/ent",
-          "url": "https://github.com/facebook/ent",
-          "stars": 16921,
-          "forks": 1003,
-          "lastUpdated": "2026-02-17T18:31:07Z",
-          "description": "- An entity framework for Go. Simple, yet powerful ORM for modeling and querying data."
-        },
-        {
           "name": "huandu/go-sqlbuilder",
           "url": "https://github.com/huandu/go-sqlbuilder",
           "stars": 1667,
@@ -12594,7 +12594,7 @@
           "name": "go-gorm/gorm",
           "url": "https://github.com/go-gorm/gorm",
           "stars": 39496,
-          "forks": 4135,
+          "forks": 4134,
           "lastUpdated": "2026-02-17T15:05:54Z",
           "description": "- The fantastic ORM library for Golang, aims to be developer friendly."
         },
@@ -12836,20 +12836,20 @@
       "repoCount": 8,
       "repos": [
         {
+          "name": "jaegertracing/jaeger",
+          "url": "https://github.com/jaegertracing/jaeger",
+          "stars": 22467,
+          "forks": 2787,
+          "lastUpdated": "2026-02-18T01:04:21Z",
+          "description": "- A distributed tracing system."
+        },
+        {
           "name": "cilium/ebpf",
           "url": "https://github.com/cilium/ebpf",
           "stars": 7524,
           "forks": 828,
           "lastUpdated": "2026-02-17T22:32:42Z",
           "description": "- Provides utilities for loading, compiling, and debugging eBPF programs."
-        },
-        {
-          "name": "jaegertracing/jaeger",
-          "url": "https://github.com/jaegertracing/jaeger",
-          "stars": 22466,
-          "forks": 2787,
-          "lastUpdated": "2026-02-17T21:51:38Z",
-          "description": "- A distributed tracing system."
         },
         {
           "name": "pixie-labs/pixie",
@@ -13455,6 +13455,14 @@
       "repoCount": 42,
       "repos": [
         {
+          "name": "go-acme/lego",
+          "url": "https://github.com/go-acme/lego",
+          "stars": 9259,
+          "forks": 1114,
+          "lastUpdated": "2026-02-18T04:06:07Z",
+          "description": "- Pure Go ACME client library and CLI tool (for use with Let's Encrypt)."
+        },
+        {
           "name": "corazawaf/coraza",
           "url": "https://github.com/corazawaf/coraza",
           "stars": 3282,
@@ -13469,14 +13477,6 @@
           "forks": 603,
           "lastUpdated": "2026-02-17T23:50:08Z",
           "description": "- Tool and library to remotely hack RTSP streams from surveillance cameras."
-        },
-        {
-          "name": "go-acme/lego",
-          "url": "https://github.com/go-acme/lego",
-          "stars": 9258,
-          "forks": 1114,
-          "lastUpdated": "2026-02-17T22:34:32Z",
-          "description": "- Pure Go ACME client library and CLI tool (for use with Let's Encrypt)."
         },
         {
           "name": "safedep/vet",
@@ -13506,7 +13506,7 @@
           "name": "mariocandela/beelzebub",
           "url": "https://github.com/mariocandela/beelzebub",
           "stars": 1844,
-          "forks": 172,
+          "forks": 173,
           "lastUpdated": "2026-02-17T17:27:21Z",
           "description": "- A secure low code honeypot framework, leveraging AI for System Virtualization."
         },
@@ -13949,28 +13949,52 @@
       "repoCount": 29,
       "repos": [
         {
+          "name": "caddyserver/caddy",
+          "url": "https://github.com/caddyserver/caddy",
+          "stars": 70042,
+          "forks": 4642,
+          "lastUpdated": "2026-02-18T04:09:31Z",
+          "description": "- Caddy is an alternative, HTTP/2 web server that's easy to configure and use."
+        },
+        {
+          "name": "getfider/fider",
+          "url": "https://github.com/getfider/fider",
+          "stars": 4098,
+          "forks": 765,
+          "lastUpdated": "2026-02-18T03:54:48Z",
+          "description": "- Fider is an open platform to collect and organize customer feedback."
+        },
+        {
+          "name": "minio/minio",
+          "url": "https://github.com/minio/minio",
+          "stars": 60325,
+          "forks": 7057,
+          "lastUpdated": "2026-02-18T03:47:30Z",
+          "description": "- Minio is a distributed object storage server."
+        },
+        {
+          "name": "pocketbase/pocketbase",
+          "url": "https://github.com/pocketbase/pocketbase",
+          "stars": 56152,
+          "forks": 3118,
+          "lastUpdated": "2026-02-18T02:42:17Z",
+          "description": "- PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more."
+        },
+        {
+          "name": "markphelps/flipt",
+          "url": "https://github.com/markphelps/flipt",
+          "stars": 4716,
+          "forks": 276,
+          "lastUpdated": "2026-02-18T01:57:12Z",
+          "description": "- A self contained feature flag solution written in Go and Vue.js"
+        },
+        {
           "name": "charmbracelet/wish",
           "url": "https://github.com/charmbracelet/wish",
           "stars": 4912,
           "forks": 96,
           "lastUpdated": "2026-02-17T23:56:53Z",
           "description": "- Make SSH apps, just like that!"
-        },
-        {
-          "name": "caddyserver/caddy",
-          "url": "https://github.com/caddyserver/caddy",
-          "stars": 70039,
-          "forks": 4642,
-          "lastUpdated": "2026-02-17T23:52:59Z",
-          "description": "- Caddy is an alternative, HTTP/2 web server that's easy to configure and use."
-        },
-        {
-          "name": "minio/minio",
-          "url": "https://github.com/minio/minio",
-          "stars": 60321,
-          "forks": 7055,
-          "lastUpdated": "2026-02-17T23:51:54Z",
-          "description": "- Minio is a distributed object storage server."
         },
         {
           "name": "drakkan/sftpgo",
@@ -13989,14 +14013,6 @@
           "description": "- A simple, complete and lightweight self-hosted feature flag solution 100% Open Source."
         },
         {
-          "name": "markphelps/flipt",
-          "url": "https://github.com/markphelps/flipt",
-          "stars": 4715,
-          "forks": 276,
-          "lastUpdated": "2026-02-17T23:03:17Z",
-          "description": "- A self contained feature flag solution written in Go and Vue.js"
-        },
-        {
           "name": "openrundev/openrun",
           "url": "https://github.com/openrundev/openrun",
           "stars": 789,
@@ -14013,28 +14029,12 @@
           "description": "- Highly-available key value store for shared configuration and service discovery."
         },
         {
-          "name": "pocketbase/pocketbase",
-          "url": "https://github.com/pocketbase/pocketbase",
-          "stars": 56150,
-          "forks": 3118,
-          "lastUpdated": "2026-02-17T20:56:22Z",
-          "description": "- PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more."
-        },
-        {
           "name": "tricksterproxy/trickster",
           "url": "https://github.com/tricksterproxy/trickster",
           "stars": 2069,
           "forks": 183,
           "lastUpdated": "2026-02-17T17:59:03Z",
           "description": "- HTTP reverse proxy cache and time series accelerator."
-        },
-        {
-          "name": "getfider/fider",
-          "url": "https://github.com/getfider/fider",
-          "stars": 4097,
-          "forks": 765,
-          "lastUpdated": "2026-02-17T10:00:28Z",
-          "description": "- Fider is an open platform to collect and organize customer feedback."
         },
         {
           "name": "spiral/roadrunner",
@@ -14188,28 +14188,148 @@
       "repoCount": 154,
       "repos": [
         {
-          "name": "fleetdm/fleet",
-          "url": "https://github.com/fleetdm/fleet",
-          "stars": 6044,
-          "forks": 786,
-          "lastUpdated": "2026-02-18T00:08:16Z",
-          "description": "- Lightweight, programmable telemetry for servers and workstations."
+          "name": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "stars": 34172,
+          "forks": 1347,
+          "lastUpdated": "2026-02-18T04:17:59Z",
+          "description": "- Easily and securely send files or folders from one computer to another."
+        },
+        {
+          "name": "go-gitea/gitea",
+          "url": "https://github.com/go-gitea/gitea",
+          "stars": 53756,
+          "forks": 6393,
+          "lastUpdated": "2026-02-18T04:13:31Z",
+          "description": "- Fork of Gogs, entirely community driven."
+        },
+        {
+          "name": "ddosify/ddosify",
+          "url": "https://github.com/ddosify/ddosify",
+          "stars": 8543,
+          "forks": 388,
+          "lastUpdated": "2026-02-18T04:09:24Z",
+          "description": "- High-performance load testing tool, written in Golang."
+        },
+        {
+          "name": "kubernetes-sigs/kind",
+          "url": "https://github.com/kubernetes-sigs/kind",
+          "stars": 15018,
+          "forks": 1713,
+          "lastUpdated": "2026-02-18T04:06:40Z",
+          "description": "- Kubernetes IN Docker - local clusters for testing Kubernetes."
         },
         {
           "name": "kubernetes/kubernetes",
           "url": "https://github.com/kubernetes/kubernetes",
-          "stars": 120556,
+          "stars": 120558,
           "forks": 42486,
-          "lastUpdated": "2026-02-18T00:05:41Z",
+          "lastUpdated": "2026-02-18T04:06:14Z",
           "description": "- Container Cluster Manager from Google."
+        },
+        {
+          "name": "restic/restic",
+          "url": "https://github.com/restic/restic",
+          "stars": 32279,
+          "forks": 1718,
+          "lastUpdated": "2026-02-18T03:35:45Z",
+          "description": "- De-duplicating backup program."
+        },
+        {
+          "name": "kubernetes/minikube",
+          "url": "https://github.com/kubernetes/minikube",
+          "stars": 31493,
+          "forks": 5174,
+          "lastUpdated": "2026-02-18T03:18:30Z",
+          "description": "- Run Kubernetes locally."
+        },
+        {
+          "name": "kubeshark/kubeshark",
+          "url": "https://github.com/kubeshark/kubeshark",
+          "stars": 11781,
+          "forks": 515,
+          "lastUpdated": "2026-02-18T03:09:37Z",
+          "description": "- API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes."
+        },
+        {
+          "name": "0xERR0R/blocky",
+          "url": "https://github.com/0xERR0R/blocky",
+          "stars": 6112,
+          "forks": 265,
+          "lastUpdated": "2026-02-18T03:03:32Z",
+          "description": "- Fast and lightweight DNS proxy as ad-blocker for local network with many features."
+        },
+        {
+          "name": "containous/traefik",
+          "url": "https://github.com/containous/traefik",
+          "stars": 61693,
+          "forks": 5832,
+          "lastUpdated": "2026-02-18T02:42:51Z",
+          "description": "- Reverse proxy and load balancer with support for multiple backends."
+        },
+        {
+          "name": "grafana/k6",
+          "url": "https://github.com/grafana/k6",
+          "stars": 29919,
+          "forks": 1498,
+          "lastUpdated": "2026-02-18T02:19:49Z",
+          "description": "- A modern load testing tool, using Go and JavaScript."
         },
         {
           "name": "rakyll/hey",
           "url": "https://github.com/rakyll/hey",
-          "stars": 19761,
+          "stars": 19763,
           "forks": 1283,
-          "lastUpdated": "2026-02-18T00:04:24Z",
+          "lastUpdated": "2026-02-18T02:07:14Z",
           "description": "- Hey is a tiny program that sends some load to a web application."
+        },
+        {
+          "name": "marwanhawari/stew",
+          "url": "https://github.com/marwanhawari/stew",
+          "stars": 331,
+          "forks": 19,
+          "lastUpdated": "2026-02-18T02:03:04Z",
+          "description": "- An independent package manager for compiled binaries."
+        },
+        {
+          "name": "derailed/k9s",
+          "url": "https://github.com/derailed/k9s",
+          "stars": 32811,
+          "forks": 2085,
+          "lastUpdated": "2026-02-18T02:01:11Z",
+          "description": "- Kubernetes CLI to manage your clusters in style."
+        },
+        {
+          "name": "fleetdm/fleet",
+          "url": "https://github.com/fleetdm/fleet",
+          "stars": 6044,
+          "forks": 786,
+          "lastUpdated": "2026-02-18T01:54:41Z",
+          "description": "- Lightweight, programmable telemetry for servers and workstations."
+        },
+        {
+          "name": "k3s-io/k3s",
+          "url": "https://github.com/k3s-io/k3s",
+          "stars": 32211,
+          "forks": 2597,
+          "lastUpdated": "2026-02-18T01:51:58Z",
+          "description": "- Lightweight Kubernetes."
+        },
+        {
+          "name": "thevxn/dish",
+          "url": "https://github.com/thevxn/dish",
+          "stars": 274,
+          "forks": 10,
+          "lastUpdated": "2026-02-18T01:24:39Z",
+          "description": "- A lightweight, remotely configurable monitoring service."
+        },
+        {
+          "name": "mk-5/fjira",
+          "url": "https://github.com/mk-5/fjira",
+          "stars": 256,
+          "forks": 10,
+          "lastUpdated": "2026-02-18T01:03:44Z",
+          "description": "- A fuzzy-search based terminal UI application for Attlasian Jira"
         },
         {
           "name": "crufter/borg",
@@ -14220,36 +14340,12 @@
           "description": "- Terminal based search engine for bash snippets."
         },
         {
-          "name": "k3s-io/k3s",
-          "url": "https://github.com/k3s-io/k3s",
-          "stars": 32208,
-          "forks": 2597,
-          "lastUpdated": "2026-02-17T23:52:34Z",
-          "description": "- Lightweight Kubernetes."
-        },
-        {
           "name": "boyter/scc",
           "url": "https://github.com/boyter/scc",
           "stars": 8052,
           "forks": 310,
           "lastUpdated": "2026-02-17T23:47:23Z",
           "description": "- Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates."
-        },
-        {
-          "name": "containous/traefik",
-          "url": "https://github.com/containous/traefik",
-          "stars": 61691,
-          "forks": 5832,
-          "lastUpdated": "2026-02-17T23:39:51Z",
-          "description": "- Reverse proxy and load balancer with support for multiple backends."
-        },
-        {
-          "name": "go-gitea/gitea",
-          "url": "https://github.com/go-gitea/gitea",
-          "stars": 53756,
-          "forks": 6390,
-          "lastUpdated": "2026-02-17T23:32:33Z",
-          "description": "- Fork of Gogs, entirely community driven."
         },
         {
           "name": "pomerium/pomerium",
@@ -14268,36 +14364,12 @@
           "description": "- Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab)."
         },
         {
-          "name": "derailed/k9s",
-          "url": "https://github.com/derailed/k9s",
-          "stars": 32810,
-          "forks": 2084,
-          "lastUpdated": "2026-02-17T23:10:20Z",
-          "description": "- Kubernetes CLI to manage your clusters in style."
-        },
-        {
           "name": "k0sproject/k0s",
           "url": "https://github.com/k0sproject/k0s",
           "stars": 5759,
           "forks": 471,
           "lastUpdated": "2026-02-17T23:01:57Z",
           "description": "- Zero Friction Kubernetes distribution."
-        },
-        {
-          "name": "restic/restic",
-          "url": "https://github.com/restic/restic",
-          "stars": 32276,
-          "forks": 1718,
-          "lastUpdated": "2026-02-17T22:52:12Z",
-          "description": "- De-duplicating backup program."
-        },
-        {
-          "name": "kubernetes/minikube",
-          "url": "https://github.com/kubernetes/minikube",
-          "stars": 31492,
-          "forks": 5174,
-          "lastUpdated": "2026-02-17T22:46:22Z",
-          "description": "- Run Kubernetes locally."
         },
         {
           "name": "Netflix/chaosmonkey",
@@ -14308,28 +14380,12 @@
           "description": "- A resiliency tool that helps applications tolerate random instance failures."
         },
         {
-          "name": "ddosify/ddosify",
-          "url": "https://github.com/ddosify/ddosify",
-          "stars": 8544,
-          "forks": 388,
-          "lastUpdated": "2026-02-17T22:33:46Z",
-          "description": "- High-performance load testing tool, written in Golang."
-        },
-        {
           "name": "abahmed/kwatch",
           "url": "https://github.com/abahmed/kwatch",
           "stars": 995,
           "forks": 81,
           "lastUpdated": "2026-02-17T22:26:28Z",
           "description": "- Monitor \u0026 detect crashes in your Kubernetes(K8s) cluster instantly."
-        },
-        {
-          "name": "0xERR0R/blocky",
-          "url": "https://github.com/0xERR0R/blocky",
-          "stars": 6111,
-          "forks": 264,
-          "lastUpdated": "2026-02-17T22:19:32Z",
-          "description": "- Fast and lightweight DNS proxy as ad-blocker for local network with many features."
         },
         {
           "name": "k3d-io/k3d",
@@ -14372,30 +14428,6 @@
           "description": "- Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging."
         },
         {
-          "name": "kubernetes-sigs/kind",
-          "url": "https://github.com/kubernetes-sigs/kind",
-          "stars": 15019,
-          "forks": 1713,
-          "lastUpdated": "2026-02-17T20:50:24Z",
-          "description": "- Kubernetes IN Docker - local clusters for testing Kubernetes."
-        },
-        {
-          "name": "grafana/k6",
-          "url": "https://github.com/grafana/k6",
-          "stars": 29918,
-          "forks": 1498,
-          "lastUpdated": "2026-02-17T20:37:45Z",
-          "description": "- A modern load testing tool, using Go and JavaScript."
-        },
-        {
-          "name": "kubeshark/kubeshark",
-          "url": "https://github.com/kubeshark/kubeshark",
-          "stars": 11779,
-          "forks": 514,
-          "lastUpdated": "2026-02-17T20:27:11Z",
-          "description": "- API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes."
-        },
-        {
           "name": "quii/mockingjay-server",
           "url": "https://github.com/quii/mockingjay-server",
           "stars": 569,
@@ -14423,7 +14455,7 @@
           "name": "juicedata/juicefs",
           "url": "https://github.com/juicedata/juicefs",
           "stars": 13229,
-          "forks": 1159,
+          "forks": 1160,
           "lastUpdated": "2026-02-17T19:36:21Z",
           "description": "- Distributed POSIX file system built on top of Redis and AWS S3."
         },
@@ -14498,22 +14530,6 @@
           "forks": 3325,
           "lastUpdated": "2026-02-17T14:22:57Z",
           "description": "- Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
-        },
-        {
-          "name": "schollz/croc",
-          "url": "https://github.com/schollz/croc",
-          "stars": 34171,
-          "forks": 1347,
-          "lastUpdated": "2026-02-17T13:52:24Z",
-          "description": "- Easily and securely send files or folders from one computer to another."
-        },
-        {
-          "name": "mk-5/fjira",
-          "url": "https://github.com/mk-5/fjira",
-          "stars": 255,
-          "forks": 10,
-          "lastUpdated": "2026-02-17T13:05:35Z",
-          "description": "- A fuzzy-search based terminal UI application for Attlasian Jira"
         },
         {
           "name": "tsenart/vegeta",
@@ -14682,14 +14698,6 @@
           "forks": 348,
           "lastUpdated": "2026-02-16T12:22:13Z",
           "description": "- Making it easy to write shell-like scripts in Go for DevOps and system administration tasks."
-        },
-        {
-          "name": "marwanhawari/stew",
-          "url": "https://github.com/marwanhawari/stew",
-          "stars": 330,
-          "forks": 19,
-          "lastUpdated": "2026-02-16T12:20:00Z",
-          "description": "- An independent package manager for compiled binaries."
         },
         {
           "name": "aptly-dev/aptly",
@@ -14922,14 +14930,6 @@
           "forks": 49,
           "lastUpdated": "2026-02-10T12:13:58Z",
           "description": "- A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure."
-        },
-        {
-          "name": "thevxn/dish",
-          "url": "https://github.com/thevxn/dish",
-          "stars": 275,
-          "forks": 10,
-          "lastUpdated": "2026-02-10T11:11:25Z",
-          "description": "- A lightweight, remotely configurable monitoring service."
         },
         {
           "name": "mouuff/go-rocket-update",
@@ -15506,6 +15506,14 @@
       "repoCount": 5,
       "repos": [
         {
+          "name": "uber-go/guide",
+          "url": "https://github.com/uber-go/guide/blob/master/style.md",
+          "stars": 17337,
+          "forks": 1806,
+          "lastUpdated": "2026-02-18T02:18:22Z",
+          "description": ""
+        },
+        {
           "name": "cockroachdb/cockroach",
           "url": "https://github.com/cockroachdb/cockroach/blob/master/docs/style.md",
           "stars": 31857,
@@ -15514,18 +15522,10 @@
           "description": ""
         },
         {
-          "name": "uber-go/guide",
-          "url": "https://github.com/uber-go/guide/blob/master/style.md",
-          "stars": 17338,
-          "forks": 1806,
-          "lastUpdated": "2026-02-17T17:28:19Z",
-          "description": ""
-        },
-        {
           "name": "hyperledger/fabric",
           "url": "https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst",
           "stars": 16571,
-          "forks": 9116,
+          "forks": 9115,
           "lastUpdated": "2026-02-17T14:31:46Z",
           "description": ""
         },
@@ -15555,10 +15555,18 @@
         {
           "name": "a-h/templ",
           "url": "https://github.com/a-h/templ",
-          "stars": 10075,
+          "stars": 10076,
           "forks": 341,
-          "lastUpdated": "2026-02-17T22:51:16Z",
+          "lastUpdated": "2026-02-18T00:44:52Z",
           "description": "- A HTML templating language that has great developer tooling."
+        },
+        {
+          "name": "go-sprout/sprout",
+          "url": "https://github.com/go-sprout/sprout",
+          "stars": 210,
+          "forks": 13,
+          "lastUpdated": "2026-02-18T00:33:14Z",
+          "description": "- Useful template functions for Go templates."
         },
         {
           "name": "osteele/liquid",
@@ -15575,14 +15583,6 @@
           "forks": 246,
           "lastUpdated": "2026-02-17T10:07:45Z",
           "description": "- A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple."
-        },
-        {
-          "name": "go-sprout/sprout",
-          "url": "https://github.com/go-sprout/sprout",
-          "stars": 210,
-          "forks": 13,
-          "lastUpdated": "2026-02-14T18:20:02Z",
-          "description": "- Useful template functions for Go templates."
         },
         {
           "name": "foolin/goview",
@@ -15680,12 +15680,36 @@
       "repoCount": 87,
       "repos": [
         {
+          "name": "jackc/pgx",
+          "url": "https://github.com/jackc/pgx/",
+          "stars": 13339,
+          "forks": 997,
+          "lastUpdated": "2026-02-18T04:08:45Z",
+          "description": "."
+        },
+        {
+          "name": "keploy/keploy",
+          "url": "https://github.com/keploy/keploy",
+          "stars": 15676,
+          "forks": 2089,
+          "lastUpdated": "2026-02-18T03:36:52Z",
+          "description": "- Generate Testcase and Data Mocks from API calls automatically."
+        },
+        {
           "name": "go-rod/rod",
           "url": "https://github.com/go-rod/rod",
-          "stars": 6697,
+          "stars": 6698,
           "forks": 436,
-          "lastUpdated": "2026-02-17T23:12:24Z",
+          "lastUpdated": "2026-02-18T02:31:33Z",
           "description": "- A Devtools driver to make web automation and scraping easy."
+        },
+        {
+          "name": "testcontainers/testcontainers-go",
+          "url": "https://github.com/testcontainers/testcontainers-go",
+          "stars": 4681,
+          "forks": 589,
+          "lastUpdated": "2026-02-18T02:23:18Z",
+          "description": "- A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done."
         },
         {
           "name": "google/go-cmp",
@@ -15694,14 +15718,6 @@
           "forks": 222,
           "lastUpdated": "2026-02-17T21:59:20Z",
           "description": "- Package for comparing Go values in tests."
-        },
-        {
-          "name": "testcontainers/testcontainers-go",
-          "url": "https://github.com/testcontainers/testcontainers-go",
-          "stars": 4680,
-          "forks": 589,
-          "lastUpdated": "2026-02-17T21:48:13Z",
-          "description": "- A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done."
         },
         {
           "name": "dnaeon/go-vcr",
@@ -15720,14 +15736,6 @@
           "description": "- browser automation library to control Chromium, Firefox and WebKit with a single API."
         },
         {
-          "name": "jackc/pgx",
-          "url": "https://github.com/jackc/pgx/",
-          "stars": 13340,
-          "forks": 997,
-          "lastUpdated": "2026-02-17T20:38:29Z",
-          "description": "."
-        },
-        {
           "name": "uber-go/mock",
           "url": "https://github.com/uber-go/mock",
           "stars": 3265,
@@ -15742,14 +15750,6 @@
           "forks": 1694,
           "lastUpdated": "2026-02-17T20:16:49Z",
           "description": "- Sacred extension to the standard go testing package."
-        },
-        {
-          "name": "keploy/keploy",
-          "url": "https://github.com/keploy/keploy",
-          "stars": 15676,
-          "forks": 2088,
-          "lastUpdated": "2026-02-17T20:14:21Z",
-          "description": "- Generate Testcase and Data Mocks from API calls automatically."
         },
         {
           "name": "carlmjohnson/be",
@@ -16383,6 +16383,14 @@
       "repoCount": 70,
       "repos": [
         {
+          "name": "asciimoo/colly",
+          "url": "https://github.com/asciimoo/colly",
+          "stars": 25088,
+          "forks": 1837,
+          "lastUpdated": "2026-02-18T03:34:20Z",
+          "description": "- Fast and Elegant Scraping Framework for Gophers."
+        },
+        {
           "name": "yuin/goldmark",
           "url": "https://github.com/yuin/goldmark",
           "stars": 4605,
@@ -16421,14 +16429,6 @@
           "forks": 233,
           "lastUpdated": "2026-02-17T21:02:52Z",
           "description": "- Go library for the TOML format with query support and handy cli tools."
-        },
-        {
-          "name": "asciimoo/colly",
-          "url": "https://github.com/asciimoo/colly",
-          "stars": 25087,
-          "forks": 1837,
-          "lastUpdated": "2026-02-17T20:45:58Z",
-          "description": "- Fast and Elegant Scraping Framework for Gophers."
         },
         {
           "name": "JohannesKaufmann/html-to-markdown",
@@ -16950,20 +16950,20 @@
       "repoCount": 99,
       "repos": [
         {
-          "name": "aws/aws-sdk-go-v2",
-          "url": "https://github.com/aws/aws-sdk-go-v2",
-          "stars": 3466,
-          "forks": 754,
-          "lastUpdated": "2026-02-17T20:14:46Z",
-          "description": "- The official AWS SDK for the Go programming language."
-        },
-        {
           "name": "GoogleCloudPlatform/gcloud-golang",
           "url": "https://github.com/GoogleCloudPlatform/gcloud-golang",
           "stars": 4416,
           "forks": 1515,
-          "lastUpdated": "2026-02-17T18:09:57Z",
+          "lastUpdated": "2026-02-18T02:08:12Z",
           "description": "- Google Cloud APIs Go Client Library."
+        },
+        {
+          "name": "aws/aws-sdk-go-v2",
+          "url": "https://github.com/aws/aws-sdk-go-v2",
+          "stars": 3466,
+          "forks": 755,
+          "lastUpdated": "2026-02-17T20:14:46Z",
+          "description": "- The official AWS SDK for the Go programming language."
         },
         {
           "name": "google/go-github",
@@ -17862,26 +17862,42 @@
         {
           "name": "junegunn/fzf",
           "url": "https://github.com/junegunn/fzf",
-          "stars": 77837,
+          "stars": 77840,
           "forks": 2693,
-          "lastUpdated": "2026-02-17T23:56:10Z",
+          "lastUpdated": "2026-02-18T04:16:46Z",
           "description": "- Command-line fuzzy finder written in Go."
         },
         {
           "name": "peco/peco",
           "url": "https://github.com/peco/peco",
-          "stars": 7862,
+          "stars": 7861,
           "forks": 232,
-          "lastUpdated": "2026-02-17T23:38:52Z",
+          "lastUpdated": "2026-02-18T04:14:09Z",
           "description": "- Simplistic interactive filtering tool."
+        },
+        {
+          "name": "knq/usql",
+          "url": "https://github.com/knq/usql",
+          "stars": 9816,
+          "forks": 380,
+          "lastUpdated": "2026-02-18T03:53:05Z",
+          "description": "- usql is a universal command-line interface for SQL databases."
         },
         {
           "name": "joshmedeski/sesh",
           "url": "https://github.com/joshmedeski/sesh",
-          "stars": 1714,
+          "stars": 1716,
           "forks": 87,
-          "lastUpdated": "2026-02-17T23:37:04Z",
+          "lastUpdated": "2026-02-18T03:10:38Z",
           "description": "- Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide."
+        },
+        {
+          "name": "wagoodman/dive",
+          "url": "https://github.com/wagoodman/dive",
+          "stars": 53355,
+          "forks": 1941,
+          "lastUpdated": "2026-02-18T02:37:19Z",
+          "description": "- A tool for exploring each layer in a Docker image."
         },
         {
           "name": "goreleaser/goreleaser",
@@ -17922,14 +17938,6 @@
           "forks": 936,
           "lastUpdated": "2026-02-17T18:45:50Z",
           "description": "- A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)"
-        },
-        {
-          "name": "wagoodman/dive",
-          "url": "https://github.com/wagoodman/dive",
-          "stars": 53354,
-          "forks": 1941,
-          "lastUpdated": "2026-02-17T16:56:12Z",
-          "description": "- A tool for exploring each layer in a Docker image."
         },
         {
           "name": "bcicen/ctop",
@@ -17994,14 +18002,6 @@
           "forks": 2210,
           "lastUpdated": "2026-02-16T19:40:26Z",
           "description": "- wrap git commands with additional functionality to interact with github from the terminal."
-        },
-        {
-          "name": "knq/usql",
-          "url": "https://github.com/knq/usql",
-          "stars": 9817,
-          "forks": 380,
-          "lastUpdated": "2026-02-16T19:16:13Z",
-          "description": "- usql is a universal command-line interface for SQL databases."
         },
         {
           "name": "asdine/storm",
@@ -19333,17 +19333,17 @@
         {
           "name": "colinhacks/zod",
           "url": "https://github.com/colinhacks/zod",
-          "stars": 41875,
-          "forks": 1819,
-          "lastUpdated": "2026-02-17T22:05:35Z",
+          "stars": 41877,
+          "forks": 1818,
+          "lastUpdated": "2026-02-18T03:53:35Z",
           "description": "inspired schema builder for runtime value parsing and validation."
         },
         {
           "name": "go-playground/validator",
           "url": "https://github.com/go-playground/validator",
-          "stars": 19704,
+          "stars": 19705,
           "forks": 1404,
-          "lastUpdated": "2026-02-17T17:35:10Z",
+          "lastUpdated": "2026-02-18T00:29:54Z",
           "description": "- Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving."
         },
         {
@@ -19461,7 +19461,7 @@
           "name": "go-git/go-git",
           "url": "https://github.com/go-git/go-git",
           "stars": 7198,
-          "forks": 880,
+          "forks": 881,
           "lastUpdated": "2026-02-17T22:34:38Z",
           "description": "- highly extensible Git implementation in pure Go."
         },
@@ -19616,12 +19616,60 @@
       "repoCount": 86,
       "repos": [
         {
+          "name": "gofr-dev/gofr",
+          "url": "https://github.com/gofr-dev/gofr",
+          "stars": 16078,
+          "forks": 1741,
+          "lastUpdated": "2026-02-18T04:11:13Z",
+          "description": "- Gofr is an opinionated microservice development framework."
+        },
+        {
+          "name": "gin-gonic/gin",
+          "url": "https://github.com/gin-gonic/gin",
+          "stars": 88016,
+          "forks": 8558,
+          "lastUpdated": "2026-02-18T03:50:52Z",
+          "description": "- Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity."
+        },
+        {
+          "name": "labstack/echo",
+          "url": "https://github.com/labstack/echo",
+          "stars": 32170,
+          "forks": 2315,
+          "lastUpdated": "2026-02-18T03:39:03Z",
+          "description": "- High performance, minimalist Go web framework."
+        },
+        {
           "name": "danielgtaylor/huma",
           "url": "https://github.com/danielgtaylor/huma/",
-          "stars": 3823,
+          "stars": 3824,
           "forks": 245,
-          "lastUpdated": "2026-02-18T00:03:34Z",
+          "lastUpdated": "2026-02-18T02:58:18Z",
           "description": "- Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI."
+        },
+        {
+          "name": "cloudwego/hertz",
+          "url": "https://github.com/cloudwego/hertz",
+          "stars": 7091,
+          "forks": 621,
+          "lastUpdated": "2026-02-18T02:34:22Z",
+          "description": "- A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices."
+        },
+        {
+          "name": "beego/beego",
+          "url": "https://github.com/beego/beego",
+          "stars": 32425,
+          "forks": 5618,
+          "lastUpdated": "2026-02-18T01:47:45Z",
+          "description": "- beego is an open-source, high-performance web framework for the Go programming language."
+        },
+        {
+          "name": "gofiber/fiber",
+          "url": "https://github.com/gofiber/fiber",
+          "stars": 39223,
+          "forks": 1955,
+          "lastUpdated": "2026-02-18T01:45:25Z",
+          "description": "- An Express.js inspired web framework build on Fasthttp."
         },
         {
           "name": "go-chi/chi",
@@ -19632,60 +19680,12 @@
           "description": "- Small, fast and expressive HTTP router built on net/context."
         },
         {
-          "name": "gin-gonic/gin",
-          "url": "https://github.com/gin-gonic/gin",
-          "stars": 88015,
-          "forks": 8559,
-          "lastUpdated": "2026-02-17T21:35:41Z",
-          "description": "- Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity."
-        },
-        {
-          "name": "labstack/echo",
-          "url": "https://github.com/labstack/echo",
-          "stars": 32168,
-          "forks": 2315,
-          "lastUpdated": "2026-02-17T20:25:34Z",
-          "description": "- High performance, minimalist Go web framework."
-        },
-        {
-          "name": "gofr-dev/gofr",
-          "url": "https://github.com/gofr-dev/gofr",
-          "stars": 16077,
-          "forks": 1741,
-          "lastUpdated": "2026-02-17T19:22:47Z",
-          "description": "- Gofr is an opinionated microservice development framework."
-        },
-        {
-          "name": "beego/beego",
-          "url": "https://github.com/beego/beego",
-          "stars": 32425,
-          "forks": 5618,
-          "lastUpdated": "2026-02-17T18:56:38Z",
-          "description": "- beego is an open-source, high-performance web framework for the Go programming language."
-        },
-        {
           "name": "goravel/goravel",
           "url": "https://github.com/goravel/goravel",
           "stars": 4427,
           "forks": 252,
           "lastUpdated": "2026-02-17T18:53:25Z",
           "description": "- A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features."
-        },
-        {
-          "name": "cloudwego/hertz",
-          "url": "https://github.com/cloudwego/hertz",
-          "stars": 7090,
-          "forks": 621,
-          "lastUpdated": "2026-02-17T18:22:50Z",
-          "description": "- A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices."
-        },
-        {
-          "name": "gofiber/fiber",
-          "url": "https://github.com/gofiber/fiber",
-          "stars": 39222,
-          "forks": 1956,
-          "lastUpdated": "2026-02-17T18:22:47Z",
-          "description": "- An Express.js inspired web framework build on Fasthttp."
         },
         {
           "name": "i-love-flamingo/flamingo-commerce",
@@ -20376,9 +20376,9 @@
         {
           "name": "adnanh/webhook",
           "url": "https://github.com/adnanh/webhook",
-          "stars": 11590,
+          "stars": 11591,
           "forks": 868,
-          "lastUpdated": "2026-02-17T08:51:35Z",
+          "lastUpdated": "2026-02-18T00:25:38Z",
           "description": "- Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server."
         },
         {
@@ -20405,20 +20405,28 @@
       "repoCount": 17,
       "repos": [
         {
+          "name": "tmrts/go-patterns",
+          "url": "https://github.com/tmrts/go-patterns",
+          "stars": 27721,
+          "forks": 2336,
+          "lastUpdated": "2026-02-18T03:43:38Z",
+          "description": "- Curated list of Go design patterns, recipes and idioms."
+        },
+        {
           "name": "lukasz-madon/awesome-remote-job",
           "url": "https://github.com/lukasz-madon/awesome-remote-job",
-          "stars": 43603,
-          "forks": 4470,
-          "lastUpdated": "2026-02-18T00:01:44Z",
+          "stars": 43608,
+          "forks": 4469,
+          "lastUpdated": "2026-02-18T03:36:50Z",
           "description": "- Curated list of awesome remote jobs. A lot of them are looking for Go hackers."
         },
         {
-          "name": "tmrts/go-patterns",
-          "url": "https://github.com/tmrts/go-patterns",
-          "stars": 27720,
-          "forks": 2336,
-          "lastUpdated": "2026-02-17T23:20:44Z",
-          "description": "- Curated list of Go design patterns, recipes and idioms."
+          "name": "bayandin/awesome-awesomeness",
+          "url": "https://github.com/bayandin/awesome-awesomeness",
+          "stars": 33224,
+          "forks": 3588,
+          "lastUpdated": "2026-02-18T02:47:09Z",
+          "description": "- List of other amazingly awesome lists."
         },
         {
           "name": "inancgumus/learngo",
@@ -20427,14 +20435,6 @@
           "forks": 2715,
           "lastUpdated": "2026-02-17T21:43:27Z",
           "description": "- Learn Go with thousands of examples, exercises, and quizzes."
-        },
-        {
-          "name": "bayandin/awesome-awesomeness",
-          "url": "https://github.com/bayandin/awesome-awesomeness",
-          "stars": 33223,
-          "forks": 3589,
-          "lastUpdated": "2026-02-17T19:48:46Z",
-          "description": "- List of other amazingly awesome lists."
         },
         {
           "name": "astaxie/build-web-application-with-golang",
@@ -20581,9 +20581,9 @@
         {
           "name": "dagu-go/dagu",
           "url": "https://github.com/dagu-go/dagu",
-          "stars": 3074,
+          "stars": 3075,
           "forks": 227,
-          "lastUpdated": "2026-02-17T11:43:11Z",
+          "lastUpdated": "2026-02-18T01:16:37Z",
           "description": "- No-code workflow executor. it executes DAGs defined in a simple YAML format."
         },
         {
@@ -20681,20 +20681,20 @@
       "repoCount": 5,
       "repos": [
         {
+          "name": "sigstore/cosign",
+          "url": "https://github.com/sigstore/cosign",
+          "stars": 5655,
+          "forks": 691,
+          "lastUpdated": "2026-02-18T03:56:58Z",
+          "description": "- Container Signing, Verification and Storage in an OCI registry."
+        },
+        {
           "name": "spiffe/spire",
           "url": "https://github.com/spiffe/spire",
           "stars": 2206,
           "forks": 570,
           "lastUpdated": "2026-02-17T23:51:05Z",
           "description": "- SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms."
-        },
-        {
-          "name": "sigstore/cosign",
-          "url": "https://github.com/sigstore/cosign",
-          "stars": 5656,
-          "forks": 691,
-          "lastUpdated": "2026-02-17T19:52:39Z",
-          "description": "- Container Signing, Verification and Storage in an OCI registry."
         },
         {
           "name": "openziti-test-kitchen/zssh",

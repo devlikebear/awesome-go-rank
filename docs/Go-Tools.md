@@ -7,7 +7,7 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-02-17T16:21:16Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-16T12:41:54Z |  Visualize call graph of your Go program using dot format. |
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-18T00:29:27Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-02-04T19:37:14Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 36 | 2026-02-17T13:01:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 863 | 24 | 2026-02-13T12:09:06Z |  Enrich `go test` outputs with text decorations. |
@@ -31,7 +31,7 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-02-17T16:21:16Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-16T12:41:54Z |  Visualize call graph of your Go program using dot format. |
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-18T00:29:27Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-02-04T19:37:14Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 36 | 2026-02-17T13:01:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 863 | 24 | 2026-02-13T12:09:06Z |  Enrich `go test` outputs with text decorations. |
@@ -54,10 +54,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-18T00:29:27Z |  Visualize call graph of your Go program using dot format. |
 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-02-17T16:21:16Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 36 | 2026-02-17T13:01:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 193 | 5 | 2026-02-16T20:55:59Z |  Show Go test results as readable sentences. |
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-16T12:41:54Z |  Visualize call graph of your Go program using dot format. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 397 | 20 | 2026-02-16T12:14:02Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
 | [becheran/roumon](https://github.com/becheran/roumon) | 234 | 10 | 2026-02-14T21:40:44Z |  Monitor current state of all active goroutines via a command line interface. |
 | [bobg/decouple](https://github.com/bobg/decouple) | 35 | 1 | 2026-02-13T15:23:48Z |  Find “overspecified” function parameters that could be generalized with interface types. |
