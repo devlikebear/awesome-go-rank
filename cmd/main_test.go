@@ -83,7 +83,7 @@ func TestWriteReadmeHeader(t *testing.T) {
 	// Verify key sections
 	assert.Contains(t, output, "# Awesome Go Ranking")
 	assert.Contains(t, output, "awesome-go")
-	assert.Contains(t, output, "How to use")
+	assert.Contains(t, output, "https://awesome-go-rank.vercel.app/")
 	assert.Contains(t, output, "GITHUB_TOKEN")
 	assert.Contains(t, output, "go run cmd/main.go")
 }
