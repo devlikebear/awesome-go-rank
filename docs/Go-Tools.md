@@ -1,71 +1,76 @@
 ## Go Tools
 
+
+
 ### Ranked by Stars
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-22T14:29:58Z |
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-23T02:31:10Z |
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T11:36:59Z |
-| [KyleBanks/depth](https://github.com/KyleBanks/depth) | 825 | 62 | 2023-04-18T04:10:11Z |
-| [kyoh86/richgo](https://github.com/kyoh86/richgo) | 789 | 21 | 2023-04-16T12:56:56Z |
-| [galeone/rts](https://github.com/galeone/rts) | 242 | 11 | 2023-04-17T13:50:21Z |
-| [tylerwince/godbg](https://github.com/tylerwince/godbg) | 194 | 10 | 2023-04-20T16:54:10Z |
-| [dtgorski/typex](https://github.com/dtgorski/typex) | 177 | 11 | 2023-02-11T13:23:01Z |
-| [becheran/roumon](https://github.com/becheran/roumon) | 143 | 7 | 2023-04-13T18:16:21Z |
-| [psampaz/gothanks](https://github.com/psampaz/gothanks) | 118 | 7 | 2023-02-23T05:31:26Z |
-| [songgao/colorgo](https://github.com/songgao/colorgo) | 112 | 15 | 2022-12-18T11:15:36Z |
-| [rocketlaunchr/igo](https://github.com/rocketlaunchr/igo) | 57 | 4 | 2023-03-18T19:43:58Z |
-| [pieterclaerhout/go-james](https://github.com/pieterclaerhout/go-james) | 57 | 3 | 2023-01-12T10:49:03Z |
-| [skelterjohn/go-pkg-complete](https://github.com/skelterjohn/go-pkg-complete) | 42 | 8 | 2022-12-06T13:40:55Z |
-| [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 35 | 3 | 2023-04-18T18:55:25Z |
-| [go-oas/docs](https://github.com/go-oas/docs) | 22 | 4 | 2023-04-05T23:54:53Z |
-| [bobg/modver](https://github.com/bobg/modver) | 8 | 3 | 2023-04-01T15:39:59Z |
-| [/](https://github.com/dustinblackman/gomodrun/) | 0 | 0 | 0001-01-01T00:00:00Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-02-17T16:21:16Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-16T12:41:54Z |  Visualize call graph of your Go program using dot format. |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-02-04T19:37:14Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 36 | 2026-02-17T13:01:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [kyoh86/richgo](https://github.com/kyoh86/richgo) | 863 | 24 | 2026-02-13T12:09:06Z |  Enrich `go test` outputs with text decorations. |
+| [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 397 | 20 | 2026-02-16T12:14:02Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
+| [galeone/rts](https://github.com/galeone/rts) | 255 | 11 | 2025-12-24T19:14:49Z |  RTS: response to struct. Generates Go structs from server responses. |
+| [becheran/roumon](https://github.com/becheran/roumon) | 234 | 10 | 2026-02-14T21:40:44Z |  Monitor current state of all active goroutines via a command line interface. |
+| [tylerwince/godbg](https://github.com/tylerwince/godbg) | 207 | 10 | 2025-11-24T08:56:24Z |  Implementation of Rusts `dbg!` macro for quick and easy debugging during development. |
+| [dtgorski/typex](https://github.com/dtgorski/typex) | 206 | 11 | 2025-11-17T19:37:37Z |  Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration. |
+| [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 193 | 5 | 2026-02-16T20:55:59Z |  Show Go test results as readable sentences. |
+| [psampaz/gothanks](https://github.com/psampaz/gothanks) | 129 | 7 | 2025-08-21T16:12:48Z |  GoThanks automatically stars your go.mod github dependencies, sending this way some love to their maintainers. |
+| [ahmedakef/gotutor](https://github.com/ahmedakef/gotutor) | 74 | 1 | 2026-01-25T16:21:31Z |  Online Go Debugger & Visualizer. |
+| [rocketlaunchr/igo](https://github.com/rocketlaunchr/igo) | 73 | 5 | 2026-02-07T13:35:45Z |  An igo to go transpiler (new language features for Go language!) |
+| [go-oas/docs](https://github.com/go-oas/docs) | 49 | 6 | 2026-02-12T09:13:58Z |  Automatically generate RESTful API documentation for GO projects - aligned with Open API Specification standard. |
+| [dustinblackman/gomodrun](https://github.com/dustinblackman/gomodrun/) | 38 | 4 | 2025-09-21T14:56:23Z |  Go tool that executes and caches binaries included in go.mod files. |
+| [bobg/decouple](https://github.com/bobg/decouple) | 35 | 1 | 2026-02-13T15:23:48Z |  Find “overspecified” function parameters that could be generalized with interface types. |
+| [bobg/modver](https://github.com/bobg/modver) | 21 | 7 | 2026-02-13T15:12:20Z |  Compare two versions of a Go module to check the version-number change required (major, minor, or patchlevel), according to [semver](https://semver.org/) rules. |
+| [ravsii/textra](https://github.com/ravsii/textra) | 7 | 0 | 2025-04-24T22:25:19Z |  Extract Go struct field names, types and tags for filtering and exporting. |
 
 ### Ranked by Forks
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-22T14:29:58Z |
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T11:36:59Z |
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-23T02:31:10Z |
-| [KyleBanks/depth](https://github.com/KyleBanks/depth) | 825 | 62 | 2023-04-18T04:10:11Z |
-| [kyoh86/richgo](https://github.com/kyoh86/richgo) | 789 | 21 | 2023-04-16T12:56:56Z |
-| [songgao/colorgo](https://github.com/songgao/colorgo) | 112 | 15 | 2022-12-18T11:15:36Z |
-| [galeone/rts](https://github.com/galeone/rts) | 242 | 11 | 2023-04-17T13:50:21Z |
-| [dtgorski/typex](https://github.com/dtgorski/typex) | 177 | 11 | 2023-02-11T13:23:01Z |
-| [tylerwince/godbg](https://github.com/tylerwince/godbg) | 194 | 10 | 2023-04-20T16:54:10Z |
-| [skelterjohn/go-pkg-complete](https://github.com/skelterjohn/go-pkg-complete) | 42 | 8 | 2022-12-06T13:40:55Z |
-| [becheran/roumon](https://github.com/becheran/roumon) | 143 | 7 | 2023-04-13T18:16:21Z |
-| [psampaz/gothanks](https://github.com/psampaz/gothanks) | 118 | 7 | 2023-02-23T05:31:26Z |
-| [rocketlaunchr/igo](https://github.com/rocketlaunchr/igo) | 57 | 4 | 2023-03-18T19:43:58Z |
-| [go-oas/docs](https://github.com/go-oas/docs) | 22 | 4 | 2023-04-05T23:54:53Z |
-| [pieterclaerhout/go-james](https://github.com/pieterclaerhout/go-james) | 57 | 3 | 2023-01-12T10:49:03Z |
-| [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 35 | 3 | 2023-04-18T18:55:25Z |
-| [bobg/modver](https://github.com/bobg/modver) | 8 | 3 | 2023-04-01T15:39:59Z |
-| [/](https://github.com/dustinblackman/gomodrun/) | 0 | 0 | 0001-01-01T00:00:00Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-02-17T16:21:16Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-16T12:41:54Z |  Visualize call graph of your Go program using dot format. |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-02-04T19:37:14Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 36 | 2026-02-17T13:01:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [kyoh86/richgo](https://github.com/kyoh86/richgo) | 863 | 24 | 2026-02-13T12:09:06Z |  Enrich `go test` outputs with text decorations. |
+| [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 397 | 20 | 2026-02-16T12:14:02Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
+| [galeone/rts](https://github.com/galeone/rts) | 255 | 11 | 2025-12-24T19:14:49Z |  RTS: response to struct. Generates Go structs from server responses. |
+| [dtgorski/typex](https://github.com/dtgorski/typex) | 206 | 11 | 2025-11-17T19:37:37Z |  Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration. |
+| [tylerwince/godbg](https://github.com/tylerwince/godbg) | 207 | 10 | 2025-11-24T08:56:24Z |  Implementation of Rusts `dbg!` macro for quick and easy debugging during development. |
+| [becheran/roumon](https://github.com/becheran/roumon) | 234 | 10 | 2026-02-14T21:40:44Z |  Monitor current state of all active goroutines via a command line interface. |
+| [psampaz/gothanks](https://github.com/psampaz/gothanks) | 129 | 7 | 2025-08-21T16:12:48Z |  GoThanks automatically stars your go.mod github dependencies, sending this way some love to their maintainers. |
+| [bobg/modver](https://github.com/bobg/modver) | 21 | 7 | 2026-02-13T15:12:20Z |  Compare two versions of a Go module to check the version-number change required (major, minor, or patchlevel), according to [semver](https://semver.org/) rules. |
+| [go-oas/docs](https://github.com/go-oas/docs) | 49 | 6 | 2026-02-12T09:13:58Z |  Automatically generate RESTful API documentation for GO projects - aligned with Open API Specification standard. |
+| [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 193 | 5 | 2026-02-16T20:55:59Z |  Show Go test results as readable sentences. |
+| [rocketlaunchr/igo](https://github.com/rocketlaunchr/igo) | 73 | 5 | 2026-02-07T13:35:45Z |  An igo to go transpiler (new language features for Go language!) |
+| [dustinblackman/gomodrun](https://github.com/dustinblackman/gomodrun/) | 38 | 4 | 2025-09-21T14:56:23Z |  Go tool that executes and caches binaries included in go.mod files. |
+| [ahmedakef/gotutor](https://github.com/ahmedakef/gotutor) | 74 | 1 | 2026-01-25T16:21:31Z |  Online Go Debugger & Visualizer. |
+| [bobg/decouple](https://github.com/bobg/decouple) | 35 | 1 | 2026-02-13T15:23:48Z |  Find “overspecified” function parameters that could be generalized with interface types. |
+| [ravsii/textra](https://github.com/ravsii/textra) | 7 | 0 | 2025-04-24T22:25:19Z |  Extract Go struct field names, types and tags for filtering and exporting. |
 
 ### Ranked by Last Updated
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 320 | 2023-04-23T02:31:10Z |
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 9k | 1k | 2023-04-22T14:29:58Z |
-| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 5k | 366 | 2023-04-22T11:36:59Z |
-| [tylerwince/godbg](https://github.com/tylerwince/godbg) | 194 | 10 | 2023-04-20T16:54:10Z |
-| [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 35 | 3 | 2023-04-18T18:55:25Z |
-| [KyleBanks/depth](https://github.com/KyleBanks/depth) | 825 | 62 | 2023-04-18T04:10:11Z |
-| [galeone/rts](https://github.com/galeone/rts) | 242 | 11 | 2023-04-17T13:50:21Z |
-| [kyoh86/richgo](https://github.com/kyoh86/richgo) | 789 | 21 | 2023-04-16T12:56:56Z |
-| [becheran/roumon](https://github.com/becheran/roumon) | 143 | 7 | 2023-04-13T18:16:21Z |
-| [go-oas/docs](https://github.com/go-oas/docs) | 22 | 4 | 2023-04-05T23:54:53Z |
-| [bobg/modver](https://github.com/bobg/modver) | 8 | 3 | 2023-04-01T15:39:59Z |
-| [rocketlaunchr/igo](https://github.com/rocketlaunchr/igo) | 57 | 4 | 2023-03-18T19:43:58Z |
-| [psampaz/gothanks](https://github.com/psampaz/gothanks) | 118 | 7 | 2023-02-23T05:31:26Z |
-| [dtgorski/typex](https://github.com/dtgorski/typex) | 177 | 11 | 2023-02-11T13:23:01Z |
-| [pieterclaerhout/go-james](https://github.com/pieterclaerhout/go-james) | 57 | 3 | 2023-01-12T10:49:03Z |
-| [songgao/colorgo](https://github.com/songgao/colorgo) | 112 | 15 | 2022-12-18T11:15:36Z |
-| [skelterjohn/go-pkg-complete](https://github.com/skelterjohn/go-pkg-complete) | 42 | 8 | 2022-12-06T13:40:55Z |
-| [/](https://github.com/dustinblackman/gomodrun/) | 0 | 0 | 0001-01-01T00:00:00Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-02-17T16:21:16Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 36 | 2026-02-17T13:01:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 193 | 5 | 2026-02-16T20:55:59Z |  Show Go test results as readable sentences. |
+| [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-02-16T12:41:54Z |  Visualize call graph of your Go program using dot format. |
+| [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 397 | 20 | 2026-02-16T12:14:02Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
+| [becheran/roumon](https://github.com/becheran/roumon) | 234 | 10 | 2026-02-14T21:40:44Z |  Monitor current state of all active goroutines via a command line interface. |
+| [bobg/decouple](https://github.com/bobg/decouple) | 35 | 1 | 2026-02-13T15:23:48Z |  Find “overspecified” function parameters that could be generalized with interface types. |
+| [bobg/modver](https://github.com/bobg/modver) | 21 | 7 | 2026-02-13T15:12:20Z |  Compare two versions of a Go module to check the version-number change required (major, minor, or patchlevel), according to [semver](https://semver.org/) rules. |
+| [kyoh86/richgo](https://github.com/kyoh86/richgo) | 863 | 24 | 2026-02-13T12:09:06Z |  Enrich `go test` outputs with text decorations. |
+| [go-oas/docs](https://github.com/go-oas/docs) | 49 | 6 | 2026-02-12T09:13:58Z |  Automatically generate RESTful API documentation for GO projects - aligned with Open API Specification standard. |
+| [rocketlaunchr/igo](https://github.com/rocketlaunchr/igo) | 73 | 5 | 2026-02-07T13:35:45Z |  An igo to go transpiler (new language features for Go language!) |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-02-04T19:37:14Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
+| [ahmedakef/gotutor](https://github.com/ahmedakef/gotutor) | 74 | 1 | 2026-01-25T16:21:31Z |  Online Go Debugger & Visualizer. |
+| [galeone/rts](https://github.com/galeone/rts) | 255 | 11 | 2025-12-24T19:14:49Z |  RTS: response to struct. Generates Go structs from server responses. |
+| [tylerwince/godbg](https://github.com/tylerwince/godbg) | 207 | 10 | 2025-11-24T08:56:24Z |  Implementation of Rusts `dbg!` macro for quick and easy debugging during development. |
+| [dtgorski/typex](https://github.com/dtgorski/typex) | 206 | 11 | 2025-11-17T19:37:37Z |  Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration. |
+| [dustinblackman/gomodrun](https://github.com/dustinblackman/gomodrun/) | 38 | 4 | 2025-09-21T14:56:23Z |  Go tool that executes and caches binaries included in go.mod files. |
+| [psampaz/gothanks](https://github.com/psampaz/gothanks) | 129 | 7 | 2025-08-21T16:12:48Z |  GoThanks automatically stars your go.mod github dependencies, sending this way some love to their maintainers. |
+| [ravsii/textra](https://github.com/ravsii/textra) | 7 | 0 | 2025-04-24T22:25:19Z |  Extract Go struct field names, types and tags for filtering and exporting. |
 

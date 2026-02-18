@@ -1,101 +1,106 @@
 ## Server Applications
 
+
+
 ### Ranked by Stars
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-23T05:36:58Z |
-| [coreos/etcd](https://github.com/coreos/etcd) | 43k | 9k | 2023-04-23T03:51:23Z |
-| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-23T06:13:15Z |
-| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 7k | 392 | 2023-04-22T11:40:10Z |
-| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 6k | 533 | 2023-04-23T02:04:44Z |
-| [megaease/easegress](https://github.com/megaease/easegress) | 5k | 440 | 2023-04-23T05:47:26Z |
-| [cortesi/devd](https://github.com/cortesi/devd) | 3k | 146 | 2023-04-12T07:45:01Z |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-23T02:24:49Z |
-| [getfider/fider](https://github.com/getfider/fider) | 2k | 575 | 2023-04-21T07:28:54Z |
-| [xyproto/algernon](https://github.com/xyproto/algernon) | 2k | 115 | 2023-04-21T16:41:16Z |
-| [checkr/flagr](https://github.com/checkr/flagr) | 2k | 167 | 2023-04-21T03:56:55Z |
-| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 2k | 43 | 2023-04-22T09:51:37Z |
-| [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 166 | 2023-04-21T16:43:48Z |
-| [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 394 | 2023-04-22T17:16:53Z |
-| [ortuman/jackal](https://github.com/ortuman/jackal) | 1k | 132 | 2023-04-21T16:41:31Z |
-| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 684 | 49 | 2023-04-21T17:56:18Z |
-| [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 468 | 30 | 2023-04-19T06:42:07Z |
-| [neotoolkit/dummy](https://github.com/neotoolkit/dummy) | 172 | 9 | 2023-04-06T19:42:51Z |
-| [krotik/dudeldu](https://github.com/krotik/dudeldu) | 139 | 16 | 2023-04-21T16:41:56Z |
-| [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 91 | 13 | 2023-04-20T05:07:01Z |
-| [rekby/lets-proxy2](https://github.com/rekby/lets-proxy2) | 76 | 15 | 2023-04-20T16:42:50Z |
-| [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 66 | 41 | 2023-04-18T10:51:26Z |
-| [blind-oracle/psql-streamer](https://github.com/blind-oracle/psql-streamer) | 51 | 12 | 2023-03-09T08:58:23Z |
-| [blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 36 | 5 | 2023-03-25T06:54:16Z |
-| [leberKleber/simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 33 | 5 | 2023-04-20T12:46:44Z |
-| [camgraff/protoxy](https://github.com/camgraff/protoxy) | 30 | 4 | 2023-01-25T09:45:51Z |
-| [sinhashubham95/moxy](https://github.com/sinhashubham95/moxy) | 9 | 1 | 2022-11-11T03:12:19Z |
-| [blind-oracle/riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 2022-09-27T09:23:35Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 70k | 5k | 2026-02-17T23:52:59Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
+| [minio/minio](https://github.com/minio/minio) | 60k | 7k | 2026-02-17T23:51:54Z |  Minio is a distributed object storage server. |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 56k | 3k | 2026-02-17T20:56:22Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-02-17T21:38:53Z |  Highly-available key value store for shared configuration and service discovery. |
+| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 902 | 2026-02-17T23:46:30Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
+| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-02-17T09:20:15Z |  High-performance PHP application server, load-balancer and process manager. |
+| [megaease/easegress](https://github.com/megaease/easegress) | 6k | 491 | 2026-02-13T11:57:23Z |  A cloud native high availability/performance traffic orchestration system with observability and extensibility. |
+| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 96 | 2026-02-17T23:56:53Z |  Make SSH apps, just like that! |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 276 | 2026-02-17T23:03:17Z |  A self contained feature flag solution written in Go and Vue.js |
+| [getfider/fider](https://github.com/getfider/fider) | 4k | 765 | 2026-02-17T10:00:28Z |  Fider is an open platform to collect and organize customer feedback. |
+| [cortesi/devd](https://github.com/cortesi/devd) | 3k | 144 | 2026-02-04T01:13:34Z |  Local webserver for developers. |
+| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 147 | 2026-02-13T16:00:30Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
+| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 198 | 2026-02-14T12:05:45Z |  Flagr is an open-source feature flagging and A/B testing service. |
+| [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 183 | 2026-02-17T17:59:03Z |  HTTP reverse proxy cache and time series accelerator. |
+| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 200 | 2026-02-17T23:41:21Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
+| [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 395 | 2026-02-14T13:44:54Z |  A registry for resilient mid-tier load balancing and failover. |
+| [openrundev/openrun](https://github.com/openrundev/openrun) | 789 | 23 | 2026-02-17T21:41:51Z |  Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team. |
+| [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 569 | 45 | 2026-01-31T11:12:14Z |  Self-hosted music streaming server with built-in web UI and REST API. |
+| [baalimago/wd-41](https://github.com/baalimago/wd-41) | 151 | 3 | 2026-01-16T16:50:53Z |  A (w)eb (d)evelopment server with automatic live-reload on file changes. |
+| [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 150 | 19 | 2026-01-22T09:57:20Z |  Simple Reverse Proxy with Caching, written in Go, using Redis. |
+| [krotik/dudeldu](https://github.com/krotik/dudeldu) | 147 | 17 | 2025-10-27T01:01:16Z |  A simple SHOUTcast server. |
+| [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 132 | 71 | 2026-02-03T10:38:40Z |  Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels. |
+| [rekby/lets-proxy2](https://github.com/rekby/lets-proxy2) | 101 | 18 | 2025-12-09T01:56:29Z |  Reverse proxy for handle https with issue certificates in fly from lets-encrypt. |
+| [blind-oracle/psql-streamer](https://github.com/blind-oracle/psql-streamer) | 61 | 14 | 2025-08-02T13:25:20Z |  Stream database events from PostgreSQL to Kafka. |
+| [blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 43 | 5 | 2025-08-12T11:20:31Z |  Nginx log parser and exporter to Prometheus. |
+| [camgraff/protoxy](https://github.com/camgraff/protoxy) | 35 | 6 | 2025-11-08T21:23:12Z |  A proxy server that converts JSON request bodies to Protocol Buffers. |
+| [sinhashubham95/moxy](https://github.com/sinhashubham95/moxy) | 16 | 1 | 2025-06-12T22:24:30Z |  Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint. |
+| [bmf-san/gondola](https://github.com/bmf-san/gondola) | 10 | 1 | 2025-10-09T19:46:18Z |  A YAML based golang reverse proxy. |
+| [blind-oracle/riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 2022-09-27T09:23:35Z |  Relay to load-balance Riemann events and/or convert them to Carbon. |
 
 ### Ranked by Forks
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [coreos/etcd](https://github.com/coreos/etcd) | 43k | 9k | 2023-04-23T03:51:23Z |
-| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-23T06:13:15Z |
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-23T05:36:58Z |
-| [getfider/fider](https://github.com/getfider/fider) | 2k | 575 | 2023-04-21T07:28:54Z |
-| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 6k | 533 | 2023-04-23T02:04:44Z |
-| [megaease/easegress](https://github.com/megaease/easegress) | 5k | 440 | 2023-04-23T05:47:26Z |
-| [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 394 | 2023-04-22T17:16:53Z |
-| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 7k | 392 | 2023-04-22T11:40:10Z |
-| [checkr/flagr](https://github.com/checkr/flagr) | 2k | 167 | 2023-04-21T03:56:55Z |
-| [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 166 | 2023-04-21T16:43:48Z |
-| [cortesi/devd](https://github.com/cortesi/devd) | 3k | 146 | 2023-04-12T07:45:01Z |
-| [ortuman/jackal](https://github.com/ortuman/jackal) | 1k | 132 | 2023-04-21T16:41:31Z |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-23T02:24:49Z |
-| [xyproto/algernon](https://github.com/xyproto/algernon) | 2k | 115 | 2023-04-21T16:41:16Z |
-| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 684 | 49 | 2023-04-21T17:56:18Z |
-| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 2k | 43 | 2023-04-22T09:51:37Z |
-| [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 66 | 41 | 2023-04-18T10:51:26Z |
-| [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 468 | 30 | 2023-04-19T06:42:07Z |
-| [krotik/dudeldu](https://github.com/krotik/dudeldu) | 139 | 16 | 2023-04-21T16:41:56Z |
-| [rekby/lets-proxy2](https://github.com/rekby/lets-proxy2) | 76 | 15 | 2023-04-20T16:42:50Z |
-| [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 91 | 13 | 2023-04-20T05:07:01Z |
-| [blind-oracle/psql-streamer](https://github.com/blind-oracle/psql-streamer) | 51 | 12 | 2023-03-09T08:58:23Z |
-| [neotoolkit/dummy](https://github.com/neotoolkit/dummy) | 172 | 9 | 2023-04-06T19:42:51Z |
-| [blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 36 | 5 | 2023-03-25T06:54:16Z |
-| [leberKleber/simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 33 | 5 | 2023-04-20T12:46:44Z |
-| [camgraff/protoxy](https://github.com/camgraff/protoxy) | 30 | 4 | 2023-01-25T09:45:51Z |
-| [blind-oracle/riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 2022-09-27T09:23:35Z |
-| [sinhashubham95/moxy](https://github.com/sinhashubham95/moxy) | 9 | 1 | 2022-11-11T03:12:19Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-02-17T21:38:53Z |  Highly-available key value store for shared configuration and service discovery. |
+| [minio/minio](https://github.com/minio/minio) | 60k | 7k | 2026-02-17T23:51:54Z |  Minio is a distributed object storage server. |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 70k | 5k | 2026-02-17T23:52:59Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 56k | 3k | 2026-02-17T20:56:22Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
+| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 902 | 2026-02-17T23:46:30Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
+| [getfider/fider](https://github.com/getfider/fider) | 4k | 765 | 2026-02-17T10:00:28Z |  Fider is an open platform to collect and organize customer feedback. |
+| [megaease/easegress](https://github.com/megaease/easegress) | 6k | 491 | 2026-02-13T11:57:23Z |  A cloud native high availability/performance traffic orchestration system with observability and extensibility. |
+| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-02-17T09:20:15Z |  High-performance PHP application server, load-balancer and process manager. |
+| [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 395 | 2026-02-14T13:44:54Z |  A registry for resilient mid-tier load balancing and failover. |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 276 | 2026-02-17T23:03:17Z |  A self contained feature flag solution written in Go and Vue.js |
+| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 200 | 2026-02-17T23:41:21Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
+| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 198 | 2026-02-14T12:05:45Z |  Flagr is an open-source feature flagging and A/B testing service. |
+| [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 183 | 2026-02-17T17:59:03Z |  HTTP reverse proxy cache and time series accelerator. |
+| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 147 | 2026-02-13T16:00:30Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
+| [cortesi/devd](https://github.com/cortesi/devd) | 3k | 144 | 2026-02-04T01:13:34Z |  Local webserver for developers. |
+| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 96 | 2026-02-17T23:56:53Z |  Make SSH apps, just like that! |
+| [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 132 | 71 | 2026-02-03T10:38:40Z |  Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels. |
+| [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 569 | 45 | 2026-01-31T11:12:14Z |  Self-hosted music streaming server with built-in web UI and REST API. |
+| [openrundev/openrun](https://github.com/openrundev/openrun) | 789 | 23 | 2026-02-17T21:41:51Z |  Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team. |
+| [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 150 | 19 | 2026-01-22T09:57:20Z |  Simple Reverse Proxy with Caching, written in Go, using Redis. |
+| [rekby/lets-proxy2](https://github.com/rekby/lets-proxy2) | 101 | 18 | 2025-12-09T01:56:29Z |  Reverse proxy for handle https with issue certificates in fly from lets-encrypt. |
+| [krotik/dudeldu](https://github.com/krotik/dudeldu) | 147 | 17 | 2025-10-27T01:01:16Z |  A simple SHOUTcast server. |
+| [blind-oracle/psql-streamer](https://github.com/blind-oracle/psql-streamer) | 61 | 14 | 2025-08-02T13:25:20Z |  Stream database events from PostgreSQL to Kafka. |
+| [camgraff/protoxy](https://github.com/camgraff/protoxy) | 35 | 6 | 2025-11-08T21:23:12Z |  A proxy server that converts JSON request bodies to Protocol Buffers. |
+| [blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 43 | 5 | 2025-08-12T11:20:31Z |  Nginx log parser and exporter to Prometheus. |
+| [baalimago/wd-41](https://github.com/baalimago/wd-41) | 151 | 3 | 2026-01-16T16:50:53Z |  A (w)eb (d)evelopment server with automatic live-reload on file changes. |
+| [blind-oracle/riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 2022-09-27T09:23:35Z |  Relay to load-balance Riemann events and/or convert them to Carbon. |
+| [sinhashubham95/moxy](https://github.com/sinhashubham95/moxy) | 16 | 1 | 2025-06-12T22:24:30Z |  Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint. |
+| [bmf-san/gondola](https://github.com/bmf-san/gondola) | 10 | 1 | 2025-10-09T19:46:18Z |  A YAML based golang reverse proxy. |
 
 ### Ranked by Last Updated
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [minio/minio](https://github.com/minio/minio) | 39k | 5k | 2023-04-23T06:13:15Z |
-| [megaease/easegress](https://github.com/megaease/easegress) | 5k | 440 | 2023-04-23T05:47:26Z |
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 47k | 4k | 2023-04-23T05:36:58Z |
-| [coreos/etcd](https://github.com/coreos/etcd) | 43k | 9k | 2023-04-23T03:51:23Z |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 2k | 124 | 2023-04-23T02:24:49Z |
-| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 6k | 533 | 2023-04-23T02:04:44Z |
-| [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 394 | 2023-04-22T17:16:53Z |
-| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 7k | 392 | 2023-04-22T11:40:10Z |
-| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 2k | 43 | 2023-04-22T09:51:37Z |
-| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 684 | 49 | 2023-04-21T17:56:18Z |
-| [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 166 | 2023-04-21T16:43:48Z |
-| [krotik/dudeldu](https://github.com/krotik/dudeldu) | 139 | 16 | 2023-04-21T16:41:56Z |
-| [ortuman/jackal](https://github.com/ortuman/jackal) | 1k | 132 | 2023-04-21T16:41:31Z |
-| [xyproto/algernon](https://github.com/xyproto/algernon) | 2k | 115 | 2023-04-21T16:41:16Z |
-| [getfider/fider](https://github.com/getfider/fider) | 2k | 575 | 2023-04-21T07:28:54Z |
-| [checkr/flagr](https://github.com/checkr/flagr) | 2k | 167 | 2023-04-21T03:56:55Z |
-| [rekby/lets-proxy2](https://github.com/rekby/lets-proxy2) | 76 | 15 | 2023-04-20T16:42:50Z |
-| [leberKleber/simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 33 | 5 | 2023-04-20T12:46:44Z |
-| [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 91 | 13 | 2023-04-20T05:07:01Z |
-| [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 468 | 30 | 2023-04-19T06:42:07Z |
-| [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 66 | 41 | 2023-04-18T10:51:26Z |
-| [cortesi/devd](https://github.com/cortesi/devd) | 3k | 146 | 2023-04-12T07:45:01Z |
-| [neotoolkit/dummy](https://github.com/neotoolkit/dummy) | 172 | 9 | 2023-04-06T19:42:51Z |
-| [blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 36 | 5 | 2023-03-25T06:54:16Z |
-| [blind-oracle/psql-streamer](https://github.com/blind-oracle/psql-streamer) | 51 | 12 | 2023-03-09T08:58:23Z |
-| [camgraff/protoxy](https://github.com/camgraff/protoxy) | 30 | 4 | 2023-01-25T09:45:51Z |
-| [sinhashubham95/moxy](https://github.com/sinhashubham95/moxy) | 9 | 1 | 2022-11-11T03:12:19Z |
-| [blind-oracle/riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 2022-09-27T09:23:35Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 96 | 2026-02-17T23:56:53Z |  Make SSH apps, just like that! |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 70k | 5k | 2026-02-17T23:52:59Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
+| [minio/minio](https://github.com/minio/minio) | 60k | 7k | 2026-02-17T23:51:54Z |  Minio is a distributed object storage server. |
+| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 902 | 2026-02-17T23:46:30Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
+| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 200 | 2026-02-17T23:41:21Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 276 | 2026-02-17T23:03:17Z |  A self contained feature flag solution written in Go and Vue.js |
+| [openrundev/openrun](https://github.com/openrundev/openrun) | 789 | 23 | 2026-02-17T21:41:51Z |  Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team. |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-02-17T21:38:53Z |  Highly-available key value store for shared configuration and service discovery. |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 56k | 3k | 2026-02-17T20:56:22Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
+| [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 183 | 2026-02-17T17:59:03Z |  HTTP reverse proxy cache and time series accelerator. |
+| [getfider/fider](https://github.com/getfider/fider) | 4k | 765 | 2026-02-17T10:00:28Z |  Fider is an open platform to collect and organize customer feedback. |
+| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-02-17T09:20:15Z |  High-performance PHP application server, load-balancer and process manager. |
+| [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 395 | 2026-02-14T13:44:54Z |  A registry for resilient mid-tier load balancing and failover. |
+| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 198 | 2026-02-14T12:05:45Z |  Flagr is an open-source feature flagging and A/B testing service. |
+| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 147 | 2026-02-13T16:00:30Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
+| [megaease/easegress](https://github.com/megaease/easegress) | 6k | 491 | 2026-02-13T11:57:23Z |  A cloud native high availability/performance traffic orchestration system with observability and extensibility. |
+| [cortesi/devd](https://github.com/cortesi/devd) | 3k | 144 | 2026-02-04T01:13:34Z |  Local webserver for developers. |
+| [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 132 | 71 | 2026-02-03T10:38:40Z |  Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels. |
+| [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 569 | 45 | 2026-01-31T11:12:14Z |  Self-hosted music streaming server with built-in web UI and REST API. |
+| [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 150 | 19 | 2026-01-22T09:57:20Z |  Simple Reverse Proxy with Caching, written in Go, using Redis. |
+| [baalimago/wd-41](https://github.com/baalimago/wd-41) | 151 | 3 | 2026-01-16T16:50:53Z |  A (w)eb (d)evelopment server with automatic live-reload on file changes. |
+| [rekby/lets-proxy2](https://github.com/rekby/lets-proxy2) | 101 | 18 | 2025-12-09T01:56:29Z |  Reverse proxy for handle https with issue certificates in fly from lets-encrypt. |
+| [camgraff/protoxy](https://github.com/camgraff/protoxy) | 35 | 6 | 2025-11-08T21:23:12Z |  A proxy server that converts JSON request bodies to Protocol Buffers. |
+| [krotik/dudeldu](https://github.com/krotik/dudeldu) | 147 | 17 | 2025-10-27T01:01:16Z |  A simple SHOUTcast server. |
+| [bmf-san/gondola](https://github.com/bmf-san/gondola) | 10 | 1 | 2025-10-09T19:46:18Z |  A YAML based golang reverse proxy. |
+| [blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 43 | 5 | 2025-08-12T11:20:31Z |  Nginx log parser and exporter to Prometheus. |
+| [blind-oracle/psql-streamer](https://github.com/blind-oracle/psql-streamer) | 61 | 14 | 2025-08-02T13:25:20Z |  Stream database events from PostgreSQL to Kafka. |
+| [sinhashubham95/moxy](https://github.com/sinhashubham95/moxy) | 16 | 1 | 2025-06-12T22:24:30Z |  Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint. |
+| [blind-oracle/riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 2022-09-27T09:23:35Z |  Relay to load-balance Riemann events and/or convert them to Carbon. |
 

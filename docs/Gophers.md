@@ -1,50 +1,52 @@
 ## Gophers
 
+
+
 ### Ranked by Stars
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 3k | 164 | 2023-04-22T11:38:37Z |
-| [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 3k | 179 | 2023-04-23T02:58:34Z |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 139 | 2023-04-19T12:12:57Z |
-| [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 639 | 50 | 2023-04-19T02:18:52Z |
-| [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 609 | 28 | 2023-03-25T23:25:39Z |
-| [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 552 | 38 | 2023-04-06T09:32:46Z |
-| [sillecelik/go-gopher](https://github.com/sillecelik/go-gopher) | 115 | 15 | 2023-04-08T13:42:29Z |
-| [GolangUA/gopher-logos](https://github.com/GolangUA/gopher-logos) | 110 | 12 | 2023-04-06T09:32:23Z |
-| [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) | 63 | 9 | 2023-04-18T00:04:36Z |
-| [rogeralsing/gophers](https://github.com/rogeralsing/gophers) | 58 | 3 | 2023-03-08T21:38:54Z |
-| [scraly/gophers](https://github.com/scraly/gophers) | 22 | 6 | 2023-03-21T09:11:38Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 222 | 2026-02-13T15:45:32Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
+| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 183 | 2026-02-16T08:25:08Z |  Free gophers. |
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 143 | 2026-02-15T17:32:19Z |  Gopher artworks by Ashley McNamara. |
+| [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 751 | 54 | 2026-02-10T04:42:16Z |  Gopherize yourself. |
+| [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 626 | 29 | 2026-02-08T09:45:41Z |  |
+| [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 608 | 33 | 2026-02-02T14:48:53Z |  |
+| [sillecelik/go-gopher](https://github.com/sillecelik/go-gopher) | 160 | 16 | 2026-01-18T23:31:08Z |  Gopher amigurumi toy pattern. |
+| [GolangUA/gopher-logos](https://github.com/GolangUA/gopher-logos) | 140 | 12 | 2026-01-10T09:30:40Z |  adorable gopher logos. |
+| [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) | 73 | 10 | 2025-12-10T05:53:18Z |  Go gopher Vector Data [.ai, .svg]. |
+| [rogeralsing/gophers](https://github.com/rogeralsing/gophers) | 58 | 3 | 2025-06-12T18:54:12Z |  random gopher graphics. |
+| [scraly/gophers](https://github.com/scraly/gophers) | 36 | 6 | 2025-06-12T18:53:59Z |  Gophers by Aurélie Vache. |
 
 ### Ranked by Forks
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 3k | 179 | 2023-04-23T02:58:34Z |
-| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 3k | 164 | 2023-04-22T11:38:37Z |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 139 | 2023-04-19T12:12:57Z |
-| [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 639 | 50 | 2023-04-19T02:18:52Z |
-| [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 552 | 38 | 2023-04-06T09:32:46Z |
-| [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 609 | 28 | 2023-03-25T23:25:39Z |
-| [sillecelik/go-gopher](https://github.com/sillecelik/go-gopher) | 115 | 15 | 2023-04-08T13:42:29Z |
-| [GolangUA/gopher-logos](https://github.com/GolangUA/gopher-logos) | 110 | 12 | 2023-04-06T09:32:23Z |
-| [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) | 63 | 9 | 2023-04-18T00:04:36Z |
-| [scraly/gophers](https://github.com/scraly/gophers) | 22 | 6 | 2023-03-21T09:11:38Z |
-| [rogeralsing/gophers](https://github.com/rogeralsing/gophers) | 58 | 3 | 2023-03-08T21:38:54Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 222 | 2026-02-13T15:45:32Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
+| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 183 | 2026-02-16T08:25:08Z |  Free gophers. |
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 143 | 2026-02-15T17:32:19Z |  Gopher artworks by Ashley McNamara. |
+| [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 751 | 54 | 2026-02-10T04:42:16Z |  Gopherize yourself. |
+| [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 608 | 33 | 2026-02-02T14:48:53Z |  |
+| [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 626 | 29 | 2026-02-08T09:45:41Z |  |
+| [sillecelik/go-gopher](https://github.com/sillecelik/go-gopher) | 160 | 16 | 2026-01-18T23:31:08Z |  Gopher amigurumi toy pattern. |
+| [GolangUA/gopher-logos](https://github.com/GolangUA/gopher-logos) | 140 | 12 | 2026-01-10T09:30:40Z |  adorable gopher logos. |
+| [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) | 73 | 10 | 2025-12-10T05:53:18Z |  Go gopher Vector Data [.ai, .svg]. |
+| [scraly/gophers](https://github.com/scraly/gophers) | 36 | 6 | 2025-06-12T18:53:59Z |  Gophers by Aurélie Vache. |
+| [rogeralsing/gophers](https://github.com/rogeralsing/gophers) | 58 | 3 | 2025-06-12T18:54:12Z |  random gopher graphics. |
 
 ### Ranked by Last Updated
 
-| Repository | Stars | Forks | Last Updated |
-|------------|-------|-------|--------------|
-| [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 3k | 179 | 2023-04-23T02:58:34Z |
-| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 3k | 164 | 2023-04-22T11:38:37Z |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 139 | 2023-04-19T12:12:57Z |
-| [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 639 | 50 | 2023-04-19T02:18:52Z |
-| [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) | 63 | 9 | 2023-04-18T00:04:36Z |
-| [sillecelik/go-gopher](https://github.com/sillecelik/go-gopher) | 115 | 15 | 2023-04-08T13:42:29Z |
-| [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 552 | 38 | 2023-04-06T09:32:46Z |
-| [GolangUA/gopher-logos](https://github.com/GolangUA/gopher-logos) | 110 | 12 | 2023-04-06T09:32:23Z |
-| [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 609 | 28 | 2023-03-25T23:25:39Z |
-| [scraly/gophers](https://github.com/scraly/gophers) | 22 | 6 | 2023-03-21T09:11:38Z |
-| [rogeralsing/gophers](https://github.com/rogeralsing/gophers) | 58 | 3 | 2023-03-08T21:38:54Z |
+| Repository | Stars | Forks | Last Updated | Description | 
+|------------|-------|-------|--------------|-------------|
+| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 183 | 2026-02-16T08:25:08Z |  Free gophers. |
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 143 | 2026-02-15T17:32:19Z |  Gopher artworks by Ashley McNamara. |
+| [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 222 | 2026-02-13T15:45:32Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
+| [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 751 | 54 | 2026-02-10T04:42:16Z |  Gopherize yourself. |
+| [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 626 | 29 | 2026-02-08T09:45:41Z |  |
+| [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 608 | 33 | 2026-02-02T14:48:53Z |  |
+| [sillecelik/go-gopher](https://github.com/sillecelik/go-gopher) | 160 | 16 | 2026-01-18T23:31:08Z |  Gopher amigurumi toy pattern. |
+| [GolangUA/gopher-logos](https://github.com/GolangUA/gopher-logos) | 140 | 12 | 2026-01-10T09:30:40Z |  adorable gopher logos. |
+| [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) | 73 | 10 | 2025-12-10T05:53:18Z |  Go gopher Vector Data [.ai, .svg]. |
+| [rogeralsing/gophers](https://github.com/rogeralsing/gophers) | 58 | 3 | 2025-06-12T18:54:12Z |  random gopher graphics. |
+| [scraly/gophers](https://github.com/scraly/gophers) | 36 | 6 | 2025-06-12T18:53:59Z |  Gophers by Aurélie Vache. |
 

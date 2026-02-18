@@ -1,93 +1,27 @@
 # Awesome Go Ranking
 
-[![Website](https://img.shields.io/badge/Website-awesome--go--rank.vercel.app-blue?style=for-the-badge&logo=vercel)](https://awesome-go-rank.vercel.app/)
-[![Go Version](https://img.shields.io/badge/Go-1.23-00ADD8?style=for-the-badge&logo=go)](go.mod)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](web/package.json)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+This is a ranking of GitHub repositories from
+ [awesome-go](https://github.com/avelino/awesome-go)
+ by Stars, Forks and Last Updated.
 
-> **🌐 [Visit the Live Website](https://awesome-go-rank.vercel.app/)** - Explore Go repositories with real-time search, filtering, and sorting!
+## How to use
 
-Discover and explore the best Go repositories from [awesome-go](https://github.com/avelino/awesome-go) ranked by Stars, Forks, and Last Updated. This project provides both a **web interface** and a **Go CLI tool** for browsing and analyzing Go libraries.
+1. Clone this repository
+1. Create a GitHub personal access token with `public_repo` scope
+1. Set the token to the `GITHUB_TOKEN` environment variable
+1. Install Go
+1. Install dependencies with `go mod tidy`
+1. Run `go run cmd/main.go`
+1. Check the results in README.md
 
-## ✨ Features
 
-### 🖥️ Web Interface (https://awesome-go-rank.vercel.app/)
-- **🔍 Real-time Search** - Instantly find repositories by name or description
-- **📊 Smart Filtering** - Browse by category (45+ categories) and minimum stars (1K+, 5K+, 10K+)
-- **⚡ Multi-criteria Sorting** - Sort by Stars, Forks, or Last Updated
-- **🎨 Dark/Light Mode** - Beautiful responsive design with theme support
-- **📱 Mobile-Friendly** - Works perfectly on all devices
-- **⚡ Lightning Fast** - Static site generation for optimal performance
-
-### 🛠️ CLI Tool
-- Automated data collection from awesome-go
-- GitHub API integration with rate limiting and caching
-- Markdown report generation
-- JSON export for web consumption
-
-## 🚀 Quick Start
-
-### Visit the Website
-Simply go to **[awesome-go-rank.vercel.app](https://awesome-go-rank.vercel.app/)** to start exploring!
-
-### Run Locally (CLI)
-
-```bash
-# Clone the repository
-git clone https://github.com/devlikebear/awesome-go-rank.git
-cd awesome-go-rank
-
-# Set up GitHub token
-export GITHUB_TOKEN=your_github_token_here
-
-# Install dependencies
-go mod download
-
-# Run the tool
-go run cmd/main.go
-
-# Check the results
-cat README.md
-```
-
-## 🌟 Why Use This?
-
-- **Discover Popular Go Libraries** - Quickly find the most starred and actively maintained Go projects
-- **Save Time** - No need to manually browse through hundreds of repositories
-- **Stay Updated** - Daily automated updates ensure you see the latest trends
-- **Multiple Views** - Use the web interface for exploration or CLI for automation
-- **Filter by Category** - Easily find libraries for specific use cases (Web Frameworks, Database, CLI tools, etc.)
-
-## 📊 Project Stats
-
-- **Coverage**: 80%+ test coverage
-- **Performance**: 100x faster than initial version (concurrency optimizations)
-- **Cache**: 90%+ API call reduction with intelligent caching
-- **Data**: Updated daily via GitHub Actions
-- **Categories**: 45+ categories from awesome-go
-
-## 🔗 Links
-
-- **Live Website**: https://awesome-go-rank.vercel.app/
-- **Source Repository**: https://github.com/devlikebear/awesome-go-rank
-- **awesome-go**: https://github.com/avelino/awesome-go
-
-## 📚 Documentation
-
-For detailed information about the project architecture, setup, and deployment, see [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md).
-
-## 📄 License
-
-MIT
-
----
-
-## 📋 Table of Contents
+## Table of Contents
 
 * [Actor Model](docs/Actor-Model.md)<br/>Libraries for building actor-based programs.
 * [Artificial Intelligence](docs/Artificial-Intelligence.md)<br/>Libraries for building programs that leverage AI.
 * [Audio and Music](docs/Audio-and-Music.md)<br/>Libraries for manipulating audio.
 * [Authentication and Authorization](docs/Authentication-and-Authorization.md)<br/>Libraries for implementing authentication and authorization.
+* [Benchmarks](docs/Benchmarks.md)<br/>
 * [Blockchain](docs/Blockchain.md)<br/>Tools for building blockchains.
 * [Bot Building](docs/Bot-Building.md)<br/>Libraries for building and working with bots.
 * [Build Automation](docs/Build-Automation.md)<br/>Libraries and tools help with build automation.
@@ -97,10 +31,13 @@ MIT
 * [Configuration](docs/Configuration.md)<br/>Libraries for configuration parsing.
 * [Continuous Integration](docs/Continuous-Integration.md)<br/>Tools for help with continuous integration.
 * [Data Integration Frameworks](docs/Data-Integration-Frameworks.md)<br/>Frameworks for performing ELT / ETL
+* [Data Structures and Algorithms](docs/Data-Structures-and-Algorithms.md)<br/>
 * [Database](docs/Database.md)<br/>Libraries for building and using SQL.
+* [Database Drivers](docs/Database-Drivers.md)<br/>
 * [Date and Time](docs/Date-and-Time.md)<br/>Libraries for working with dates and times.
 * [Distributed Systems](docs/Distributed-Systems.md)<br/>Packages that help with building Distributed Systems.
 * [Dynamic DNS](docs/Dynamic-DNS.md)<br/>Tools for updating dynamic DNS records.
+* [E-Books](docs/E-Books.md)<br/>
 * [Editor Plugins](docs/Editor-Plugins.md)<br/>Plugin for text editors and IDEs.
 * [Email](docs/Email.md)<br/>Libraries and tools that implement email creation and sending.
 * [Embeddable Scripting Languages](docs/Embeddable-Scripting-Languages.md)<br/>Embedding other languages inside your go code.
@@ -114,6 +51,9 @@ MIT
 * [Generators](docs/Generators.md)<br/>Tools that generate Go code.
 * [Geographic](docs/Geographic.md)<br/>Geographic tools and servers
 * [Go Compilers](docs/Go-Compilers.md)<br/>Tools for compiling Go to other languages and vice-versa.
+* [Go Generate Tools](docs/Go-Generate-Tools.md)<br/>
+* [Go Tools](docs/Go-Tools.md)<br/>
+* [Gophers](docs/Gophers.md)<br/>
 * [Goroutines](docs/Goroutines.md)<br/>Tools for managing and working with Goroutines.
 * [Hardware](docs/Hardware.md)<br/>Libraries, tools, and tutorials for interacting with hardware.
 * [Images](docs/Images.md)<br/>Libraries for manipulating images.
@@ -130,11 +70,17 @@ MIT
 * [ORM](docs/ORM.md)<br/>Libraries that implement Object-Relational Mapping or datamapping techniques.
 * [OpenGL](docs/OpenGL.md)<br/>Libraries for using OpenGL in Go.
 * [Package Management](docs/Package-Management.md)<br/>Unofficial libraries for package and dependency management.
+* [Performance](docs/Performance.md)<br/>
+* [Query Language](docs/Query-Language.md)<br/>
+* [Reflection](docs/Reflection.md)<br/>
+* [Resource Embedding](docs/Resource-Embedding.md)<br/>
 * [Science and Data Analysis](docs/Science-and-Data-Analysis.md)<br/>Libraries for scientific computing and data analyzing.
 * [Security](docs/Security.md)<br/>Libraries that are used to help make your application more secure.
 * [Serialization](docs/Serialization.md)<br/>Libraries and tools for binary serialization.
+* [Server Applications](docs/Server-Applications.md)<br/>
 * [Software Packages](docs/Software-Packages.md)<br/>Where to discover new Go libraries.
 * [Stream Processing](docs/Stream-Processing.md)<br/>Libraries and tools for stream processing and reactive programming.
+* [Style Guides](docs/Style-Guides.md)<br/>
 * [Template Engines](docs/Template-Engines.md)<br/>Libraries and tools for templating and lexing.
 * [Testing](docs/Testing.md)<br/>Libraries for testing codebases and generating test data.
 * [Text Processing](docs/Text-Processing.md)<br/>Libraries for parsing and manipulating texts.
@@ -145,6 +91,10 @@ MIT
 * [Version Control](docs/Version-Control.md)<br/>Libraries for version control.
 * [Video](docs/Video.md)<br/>Libraries for manipulating video.
 * [Web Frameworks](docs/Web-Frameworks.md)<br/>Full stack web frameworks.
+* [WebAssembly](docs/WebAssembly.md)<br/>
+* [Webhooks Server](docs/Webhooks-Server.md)<br/>
+* [Websites](docs/Websites.md)<br/>
+* [Windows](docs/Windows.md)<br/>
 * [Workflow Frameworks](docs/Workflow-Frameworks.md)<br/>Libraries for creating Workflows.
 * [XML](docs/XML.md)<br/>Libraries and tools for manipulating XML.
 * [Zero Trust](docs/Zero-Trust.md)<br/>Libraries and tools to implement Zero Trust architectures.
