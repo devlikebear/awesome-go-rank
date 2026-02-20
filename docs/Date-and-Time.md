@@ -6,9 +6,9 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 262 | 2026-02-17T18:22:48Z |  A simple, semantic and developer-friendly time package for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 262 | 2026-02-19T15:12:13Z |  A simple, semantic and developer-friendly time package for golang. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 239 | 2026-02-16T02:46:40Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 174 | 2026-02-16T12:38:42Z |  Parse date's without knowing format in advance. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 174 | 2026-02-19T05:54:32Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 782 | 56 | 2026-02-13T11:58:56Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 510 | 50 | 2025-12-05T05:57:16Z |  Time duration formatting library for Go. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 237 | 27 | 2025-12-07T09:23:32Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
@@ -34,9 +34,9 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 262 | 2026-02-17T18:22:48Z |  A simple, semantic and developer-friendly time package for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 262 | 2026-02-19T15:12:13Z |  A simple, semantic and developer-friendly time package for golang. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 239 | 2026-02-16T02:46:40Z |  Now is a time toolkit for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 174 | 2026-02-16T12:38:42Z |  Parse date's without knowing format in advance. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 174 | 2026-02-19T05:54:32Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 782 | 56 | 2026-02-13T11:58:56Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 510 | 50 | 2025-12-05T05:57:16Z |  Time duration formatting library for Go. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 237 | 27 | 2025-12-07T09:23:32Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
@@ -62,8 +62,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 262 | 2026-02-17T18:22:48Z |  A simple, semantic and developer-friendly time package for golang. |
-| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 174 | 2026-02-16T12:38:42Z |  Parse date's without knowing format in advance. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 262 | 2026-02-19T15:12:13Z |  A simple, semantic and developer-friendly time package for golang. |
+| [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 174 | 2026-02-19T05:54:32Z |  Parse date's without knowing format in advance. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 239 | 2026-02-16T02:46:40Z |  Now is a time toolkit for golang. |
 | [rickb777/date](https://github.com/rickb777/date) | 142 | 25 | 2026-02-13T14:29:30Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 782 | 56 | 2026-02-13T11:58:56Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
