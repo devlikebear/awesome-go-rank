@@ -6,10 +6,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-02-19T22:37:56Z |  go generate based graphql server library. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-02-20T03:08:25Z |  go generate based graphql server library. |
 | [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-02-19T18:29:10Z |  Implementation of GraphQL for Go. |
-| [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 160 | 2026-02-19T13:47:22Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
-| [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 491 | 2026-02-14T20:32:39Z |  GraphQL server with a focus on ease of use. |
+| [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 160 | 2026-02-20T17:27:16Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
+| [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 491 | 2026-02-20T13:55:45Z |  GraphQL server with a focus on ease of use. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 142 | 2026-02-16T16:19:54Z |  A simple Go package to Query over JSON Data. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 540 | 16 | 2026-02-15T20:43:54Z |  A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq. |
 | [a8m/rql](https://github.com/a8m/rql) | 364 | 44 | 2026-02-12T10:47:02Z |  Resource Query Language for REST API. |
@@ -28,10 +28,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-02-19T22:37:56Z |  go generate based graphql server library. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-02-20T03:08:25Z |  go generate based graphql server library. |
 | [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-02-19T18:29:10Z |  Implementation of GraphQL for Go. |
-| [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 491 | 2026-02-14T20:32:39Z |  GraphQL server with a focus on ease of use. |
-| [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 160 | 2026-02-19T13:47:22Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
+| [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 491 | 2026-02-20T13:55:45Z |  GraphQL server with a focus on ease of use. |
+| [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 160 | 2026-02-20T17:27:16Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 142 | 2026-02-16T16:19:54Z |  A simple Go package to Query over JSON Data. |
 | [a8m/rql](https://github.com/a8m/rql) | 364 | 44 | 2026-02-12T10:47:02Z |  Resource Query Language for REST API. |
 | [elgs/jsonql](https://github.com/elgs/jsonql) | 279 | 38 | 2025-08-28T02:08:43Z |  JSON query expression library in Golang. |
@@ -50,12 +50,12 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-02-19T22:37:56Z |  go generate based graphql server library. |
+| [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 160 | 2026-02-20T17:27:16Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
+| [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 491 | 2026-02-20T13:55:45Z |  GraphQL server with a focus on ease of use. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-02-20T03:08:25Z |  go generate based graphql server library. |
 | [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-02-19T18:29:10Z |  Implementation of GraphQL for Go. |
-| [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 160 | 2026-02-19T13:47:22Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 142 | 2026-02-16T16:19:54Z |  A simple Go package to Query over JSON Data. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 540 | 16 | 2026-02-15T20:43:54Z |  A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq. |
-| [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 491 | 2026-02-14T20:32:39Z |  GraphQL server with a focus on ease of use. |
 | [a8m/rql](https://github.com/a8m/rql) | 364 | 44 | 2026-02-12T10:47:02Z |  Resource Query Language for REST API. |
 | [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) | 30 | 5 | 2026-01-16T13:22:00Z |  A query library for retrieving part of JSON based on JSONPath syntax. |
 | [hashicorp/mql](https://github.com/hashicorp/mql) | 65 | 14 | 2025-11-29T09:54:34Z |  Model Query Language (mql) is a query language for your database models. |
