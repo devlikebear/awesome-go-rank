@@ -14,7 +14,7 @@ Libraries and tools for stream processing and reactive programming.
 | [youthlin/stream](https://github.com/youthlin/stream) | 92 | 11 | 2026-01-05T13:09:04Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
 | [primetalk/goio](https://github.com/primetalk/goio) | 89 | 1 | 2026-01-16T17:13:11Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
 | [rulego/streamsql](https://github.com/rulego/streamsql) | 54 | 5 | 2026-02-17T23:53:13Z |  A lightweight streaming SQL engine for real-time data processing. |
-| [naughtygopher/nibbler](https://github.com/naughtygopher/nibbler) | 13 | 1 | 2025-12-11T12:05:13Z |  A lightweight package for micro batch processing. |
+| [naughtygopher/nibbler](https://github.com/naughtygopher/nibbler) | 14 | 1 | 2026-02-23T22:53:55Z |  A lightweight package for micro batch processing. |
 
 ### Ranked by Forks
 
@@ -28,12 +28,13 @@ Libraries and tools for stream processing and reactive programming.
 | [youthlin/stream](https://github.com/youthlin/stream) | 92 | 11 | 2026-01-05T13:09:04Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
 | [rulego/streamsql](https://github.com/rulego/streamsql) | 54 | 5 | 2026-02-17T23:53:13Z |  A lightweight streaming SQL engine for real-time data processing. |
 | [primetalk/goio](https://github.com/primetalk/goio) | 89 | 1 | 2026-01-16T17:13:11Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
-| [naughtygopher/nibbler](https://github.com/naughtygopher/nibbler) | 13 | 1 | 2025-12-11T12:05:13Z |  A lightweight package for micro batch processing. |
+| [naughtygopher/nibbler](https://github.com/naughtygopher/nibbler) | 14 | 1 | 2026-02-23T22:53:55Z |  A lightweight package for micro batch processing. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [naughtygopher/nibbler](https://github.com/naughtygopher/nibbler) | 14 | 1 | 2026-02-23T22:53:55Z |  A lightweight package for micro batch processing. |
 | [samber/ro](https://github.com/samber/ro) | 582 | 17 | 2026-02-21T17:56:19Z |  Reactive Programming: declarative and composable API for event-driven applications. |
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 184 | 53 | 2026-02-18T05:29:52Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
 | [rulego/streamsql](https://github.com/rulego/streamsql) | 54 | 5 | 2026-02-17T23:53:13Z |  A lightweight streaming SQL engine for real-time data processing. |
@@ -42,5 +43,4 @@ Libraries and tools for stream processing and reactive programming.
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 173 | 2026-02-12T04:19:21Z |  Go stream processing library. |
 | [primetalk/goio](https://github.com/primetalk/goio) | 89 | 1 | 2026-01-16T17:13:11Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
 | [youthlin/stream](https://github.com/youthlin/stream) | 92 | 11 | 2026-01-05T13:09:04Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
-| [naughtygopher/nibbler](https://github.com/naughtygopher/nibbler) | 13 | 1 | 2025-12-11T12:05:13Z |  A lightweight package for micro batch processing. |
 
