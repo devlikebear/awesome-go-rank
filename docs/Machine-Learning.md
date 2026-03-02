@@ -19,7 +19,7 @@ Libraries for Machine Learning.
 | [otiai10/ocrserver](https://github.com/otiai10/ocrserver) | 764 | 150 | 2026-02-18T09:49:27Z |  A simple OCR API server, seriously easy to be deployed by Docker and Heroku. |
 | [ryanbressler/CloudForest](https://github.com/ryanbressler/CloudForest) | 749 | 92 | 2026-01-07T05:11:13Z |  Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go. |
 | [knights-analytics/hugot](https://github.com/knights-analytics/hugot) | 572 | 39 | 2026-02-28T20:41:05Z |  Huggingface transformer pipelines for golang with onnxruntime. |
-| [goml/gobrain](https://github.com/goml/gobrain) | 567 | 59 | 2026-02-02T12:30:39Z |  Neural Networks written in go. |
+| [goml/gobrain](https://github.com/goml/gobrain) | 567 | 60 | 2026-02-02T12:30:39Z |  Neural Networks written in go. |
 | [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 555 | 68 | 2026-02-23T14:26:19Z |  A feature-rich neural network library in Go. |
 | [muesli/regommend](https://github.com/muesli/regommend) | 313 | 28 | 2026-01-23T11:10:09Z |  Recommendation & collaborative filtering engine. |
 | [c-bata/goptuna](https://github.com/c-bata/goptuna) | 276 | 24 | 2026-02-12T02:27:01Z |  Bayesian optimization framework for black-box functions written in Go. Everything will be optimized. |
@@ -63,7 +63,7 @@ Libraries for Machine Learning.
 | [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 875 | 83 | 2026-02-28T21:56:26Z |  Go Interface to Open Neural Network Exchange (ONNX). |
 | [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 555 | 68 | 2026-02-23T14:26:19Z |  A feature-rich neural network library in Go. |
 | [gomlx/gomlx](https://github.com/gomlx/gomlx) | 1k | 67 | 2026-02-28T09:19:15Z |  An accelerated Machine Learning framework for Go. |
-| [goml/gobrain](https://github.com/goml/gobrain) | 567 | 59 | 2026-02-02T12:30:39Z |  Neural Networks written in go. |
+| [goml/gobrain](https://github.com/goml/gobrain) | 567 | 60 | 2026-02-02T12:30:39Z |  Neural Networks written in go. |
 | [thoj/go-galib](https://github.com/thoj/go-galib) | 200 | 41 | 2025-11-19T02:04:48Z |  Genetic Algorithms library written in Go / golang. |
 | [knights-analytics/hugot](https://github.com/knights-analytics/hugot) | 572 | 39 | 2026-02-28T20:41:05Z |  Huggingface transformer pipelines for golang with onnxruntime. |
 | [eaigner/shield](https://github.com/eaigner/shield) | 159 | 33 | 2026-01-14T22:14:47Z |  Bayesian text classifier with flexible tokenizers and storage backends for Go. |
@@ -114,7 +114,7 @@ Libraries for Machine Learning.
 | [e-dard/godist](https://github.com/e-dard/godist) | 42 | 7 | 2026-02-04T15:52:08Z |  Various probability distributions, and associated methods. |
 | [white-pony/go-fann](https://github.com/white-pony/go-fann) | 118 | 23 | 2026-02-03T14:35:11Z |  Go bindings for Fast Artificial Neural Networks(FANN) library. |
 | [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) | 7 | 0 | 2026-02-03T01:58:32Z |  An offline recommender system backend based on collaborative filtering written in Go. |
-| [goml/gobrain](https://github.com/goml/gobrain) | 567 | 59 | 2026-02-02T12:30:39Z |  Neural Networks written in go. |
+| [goml/gobrain](https://github.com/goml/gobrain) | 567 | 60 | 2026-02-02T12:30:39Z |  Neural Networks written in go. |
 | [tomcraven/goga](https://github.com/tomcraven/goga) | 221 | 18 | 2026-01-24T21:50:28Z |  Genetic algorithm library for Go. |
 | [muesli/regommend](https://github.com/muesli/regommend) | 313 | 28 | 2026-01-23T11:10:09Z |  Recommendation & collaborative filtering engine. |
 | [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 59 | 14 | 2026-01-15T20:00:34Z |  Easy to use Random Forest library for Go. |

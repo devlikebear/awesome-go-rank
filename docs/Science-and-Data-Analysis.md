@@ -6,7 +6,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 573 | 2026-02-28T19:15:28Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 573 | 2026-03-01T13:20:37Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 172 | 2026-02-24T03:36:34Z |  Statistics package with common functions missing from the Golang standard library. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 204 | 2026-02-28T14:43:02Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 147 | 2026-02-05T14:07:05Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
@@ -43,7 +43,7 @@ Libraries for scientific computing and data analyzing.
 | [khezen/rootfinding](https://github.com/khezen/rootfinding) | 12 | 2 | 2025-11-06T10:33:21Z |  root-finding algorithms library for finding roots of quadratic functions. |
 | [ThePaw/go-gt](https://github.com/ThePaw/go-gt) | 11 | 2 | 2024-08-06T03:42:36Z |  Graph theory algorithms written in "Go" language. |
 | [seanhagen/bradleyterry](https://github.com/seanhagen/bradleyterry) | 11 | 2 | 2024-10-22T01:01:51Z |  Provides a Bradley-Terry Model for pairwise comparisons. |
-| [scigolib/matlab](https://github.com/scigolib/matlab) | 8 | 0 | 2026-02-28T19:04:55Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
+| [scigolib/matlab](https://github.com/scigolib/matlab) | 10 | 0 | 2026-03-01T16:12:18Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [MatProGo-dev/MatProInterface.go](https://github.com/MatProGo-dev/MatProInterface.go) | 2 | 0 | 2026-02-20T01:28:47Z |  MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go. |
 | [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 0 | 0 | 0001-01-01T00:00:00Z |  Package assocentity returns the average distance from words to a given entity. |
 
@@ -51,7 +51,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 573 | 2026-02-28T19:15:28Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 573 | 2026-03-01T13:20:37Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 204 | 2026-02-28T14:43:02Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 172 | 2026-02-24T03:36:34Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 147 | 2026-02-05T14:07:05Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
@@ -88,7 +88,7 @@ Libraries for scientific computing and data analyzing.
 | [ThePaw/go-gt](https://github.com/ThePaw/go-gt) | 11 | 2 | 2024-08-06T03:42:36Z |  Graph theory algorithms written in "Go" language. |
 | [seanhagen/bradleyterry](https://github.com/seanhagen/bradleyterry) | 11 | 2 | 2024-10-22T01:01:51Z |  Provides a Bradley-Terry Model for pairwise comparisons. |
 | [soypat/godesim](https://github.com/soypat/godesim) | 23 | 1 | 2024-01-05T15:41:16Z |  Extended/multivariable ODE solver framework for event-based simulations with simple API. |
-| [scigolib/matlab](https://github.com/scigolib/matlab) | 8 | 0 | 2026-02-28T19:04:55Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
+| [scigolib/matlab](https://github.com/scigolib/matlab) | 10 | 0 | 2026-03-01T16:12:18Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [MatProGo-dev/MatProInterface.go](https://github.com/MatProGo-dev/MatProInterface.go) | 2 | 0 | 2026-02-20T01:28:47Z |  MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go. |
 | [ndabAP/assocentity](https://github.com/ndabAP/assocentity) | 0 | 0 | 0001-01-01T00:00:00Z |  Package assocentity returns the average distance from words to a given entity. |
 
@@ -96,8 +96,8 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 573 | 2026-02-28T19:15:28Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [scigolib/matlab](https://github.com/scigolib/matlab) | 8 | 0 | 2026-02-28T19:04:55Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
+| [scigolib/matlab](https://github.com/scigolib/matlab) | 10 | 0 | 2026-03-01T16:12:18Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 573 | 2026-03-01T13:20:37Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 204 | 2026-02-28T14:43:02Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 99 | 2026-02-28T14:42:58Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 907 | 88 | 2026-02-28T12:07:34Z |  Digital Signal Processing for Go. |
