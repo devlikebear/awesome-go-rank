@@ -48,7 +48,7 @@ go run cmd/main.go
 
 * [Actor Model](docs/Actor-Model.md)<br/>Libraries for building actor-based programs.
 * [Artificial Intelligence](docs/Artificial-Intelligence.md)<br/>Libraries for building programs that leverage AI.
-* [Audio and Music](docs/Audio-and-Music.md)<br/>Libraries for manipulating audio.
+* [Audio and Music](docs/Audio-and-Music.md)<br/>Libraries for manipulating audio and music.
 * [Authentication and Authorization](docs/Authentication-and-Authorization.md)<br/>Libraries for implementing authentication and authorization.
 * [Benchmarks](docs/Benchmarks.md)<br/>
 * [Blockchain](docs/Blockchain.md)<br/>Tools for building blockchains.
