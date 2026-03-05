@@ -16,8 +16,8 @@ Geographic tools and servers
 | [wroge/wgs84](https://github.com/wroge/wgs84) | 140 | 18 | 2025-07-31T04:44:23Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 91 | 22 | 2025-09-12T07:50:33Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
 | [hishamkaram/gismanager](https://github.com/hishamkaram/gismanager) | 54 | 10 | 2024-11-06T11:54:45Z |  Publish Your GIS Data(Vector Data) to PostGIS and Geoserver. |
-| [maguro/pbf](https://github.com/maguro/pbf) | 53 | 8 | 2026-02-27T18:48:02Z |  OpenStreetMap PBF golang encoder/decoder. |
-| [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 36 | 13 | 2025-11-13T16:15:31Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
+| [maguro/pbf](https://github.com/maguro/pbf) | 53 | 8 | 2026-03-04T04:11:33Z |  OpenStreetMap PBF golang encoder/decoder. |
+| [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 37 | 13 | 2026-03-04T13:29:01Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
 | [jorelosorio/web-mercator-projection](https://github.com/jorelosorio/web-mercator-projection) | 9 | 3 | 2024-09-24T06:35:30Z | A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection. |
 | [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2025-11-13T15:27:24Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [mmadfox/go-h3geo-dist](https://github.com/mmadfox/go-h3geo-dist) | 2 | 1 | 2023-12-09T19:50:19Z |  Distribution of Uber H3geo cells by virtual nodes. |
@@ -36,9 +36,9 @@ Geographic tools and servers
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 169 | 26 | 2026-02-28T12:35:25Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 91 | 22 | 2025-09-12T07:50:33Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
 | [wroge/wgs84](https://github.com/wroge/wgs84) | 140 | 18 | 2025-07-31T04:44:23Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
-| [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 36 | 13 | 2025-11-13T16:15:31Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
+| [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 37 | 13 | 2026-03-04T13:29:01Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
 | [hishamkaram/gismanager](https://github.com/hishamkaram/gismanager) | 54 | 10 | 2024-11-06T11:54:45Z |  Publish Your GIS Data(Vector Data) to PostGIS and Geoserver. |
-| [maguro/pbf](https://github.com/maguro/pbf) | 53 | 8 | 2026-02-27T18:48:02Z |  OpenStreetMap PBF golang encoder/decoder. |
+| [maguro/pbf](https://github.com/maguro/pbf) | 53 | 8 | 2026-03-04T04:11:33Z |  OpenStreetMap PBF golang encoder/decoder. |
 | [jorelosorio/web-mercator-projection](https://github.com/jorelosorio/web-mercator-projection) | 9 | 3 | 2024-09-24T06:35:30Z | A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection. |
 | [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2025-11-13T15:27:24Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [mmadfox/go-h3geo-dist](https://github.com/mmadfox/go-h3geo-dist) | 2 | 1 | 2023-12-09T19:50:19Z |  Distribution of Uber H3geo cells by virtual nodes. |
@@ -48,15 +48,15 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 37 | 13 | 2026-03-04T13:29:01Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
+| [maguro/pbf](https://github.com/maguro/pbf) | 53 | 8 | 2026-03-04T04:11:33Z |  OpenStreetMap PBF golang encoder/decoder. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 445 | 56 | 2026-03-03T22:07:50Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 772 | 120 | 2026-03-03T21:34:51Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 610 | 2026-03-03T01:42:28Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 410 | 67 | 2026-03-03T00:14:44Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 169 | 26 | 2026-02-28T12:35:25Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
-| [maguro/pbf](https://github.com/maguro/pbf) | 53 | 8 | 2026-02-27T18:48:02Z |  OpenStreetMap PBF golang encoder/decoder. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 175 | 36 | 2026-02-24T05:46:29Z |  Go wrapper for GDAL. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 532 | 108 | 2026-02-04T20:19:31Z |  A library provides spatial data and geometric algorithms. |
-| [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 36 | 13 | 2025-11-13T16:15:31Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
 | [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2025-11-13T15:27:24Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 91 | 22 | 2025-09-12T07:50:33Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
 | [kpfaulkner/borders](https://github.com/kpfaulkner/borders) | 0 | 0 | 2025-08-24T05:02:18Z |  Detects image borders and converts to GeoJSON for GIS operations. |

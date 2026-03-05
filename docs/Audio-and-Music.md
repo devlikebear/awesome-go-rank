@@ -6,7 +6,7 @@ Libraries for manipulating audio and music.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 150 | 2026-03-02T10:05:06Z |  A low-level library to play sound on multiple platforms. |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 150 | 2026-03-04T02:31:15Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 831 | 108 | 2026-02-28T16:54:38Z |  Go bindings for the PortAudio audio I/O library. |
 | [gopxl/beep](https://github.com/gopxl/beep) | 521 | 25 | 2026-03-02T12:32:26Z |  A simple library for playback and audio manipulation. |
 | [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) | 452 | 45 | 2026-01-28T08:11:58Z |  Music theory models in Go. |
@@ -23,7 +23,7 @@ Libraries for manipulating audio and music.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 150 | 2026-03-02T10:05:06Z |  A low-level library to play sound on multiple platforms. |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 150 | 2026-03-04T02:31:15Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 831 | 108 | 2026-02-28T16:54:38Z |  Go bindings for the PortAudio audio I/O library. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 390 | 64 | 2026-03-03T20:06:52Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 359 | 61 | 2026-03-03T18:47:23Z |  ID3 decoding and encoding library for Go. |
@@ -40,10 +40,10 @@ Libraries for manipulating audio and music.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 150 | 2026-03-04T02:31:15Z |  A low-level library to play sound on multiple platforms. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 390 | 64 | 2026-03-03T20:06:52Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 359 | 61 | 2026-03-03T18:47:23Z |  ID3 decoding and encoding library for Go. |
 | [gopxl/beep](https://github.com/gopxl/beep) | 521 | 25 | 2026-03-02T12:32:26Z |  A simple library for playback and audio manipulation. |
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 150 | 2026-03-02T10:05:06Z |  A low-level library to play sound on multiple platforms. |
 | [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 408 | 41 | 2026-03-01T15:21:16Z |  Native Go Audio Processing Library. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 831 | 108 | 2026-02-28T16:54:38Z |  Go bindings for the PortAudio audio I/O library. |
 | [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) | 452 | 45 | 2026-01-28T08:11:58Z |  Music theory models in Go. |
