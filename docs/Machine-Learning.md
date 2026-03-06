@@ -12,7 +12,7 @@ Libraries for Machine Learning.
 | [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 256 | 2026-03-03T04:44:55Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 160 | 2026-02-26T06:46:05Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
 | [cdipaolo/goml](https://github.com/cdipaolo/goml) | 2k | 135 | 2026-02-13T10:51:00Z |  On-line Machine Learning in Go. |
-| [gomlx/gomlx](https://github.com/gomlx/gomlx) | 1k | 67 | 2026-03-04T23:17:27Z |  An accelerated Machine Learning framework for Go. |
+| [gomlx/gomlx](https://github.com/gomlx/gomlx) | 1k | 67 | 2026-03-05T07:10:38Z |  An accelerated Machine Learning framework for Go. |
 | [MaxHalford/eaopt](https://github.com/MaxHalford/eaopt) | 906 | 96 | 2026-02-25T23:41:19Z |  An evolutionary optimization library. |
 | [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 875 | 83 | 2026-03-04T10:11:39Z |  Go Interface to Open Neural Network Exchange (ONNX). |
 | [jbrukh/bayesian](https://github.com/jbrukh/bayesian) | 810 | 127 | 2026-02-19T04:22:54Z |  Naive Bayesian Classification for Golang. |
@@ -35,7 +35,7 @@ Libraries for Machine Learning.
 | [schuyler/neural-go](https://github.com/schuyler/neural-go) | 73 | 16 | 2025-12-29T11:43:38Z |  Multilayer perceptron network implemented in Go, with training via backpropagation. |
 | [datastream/libsvm](https://github.com/datastream/libsvm) | 72 | 11 | 2025-10-04T17:33:21Z |  libsvm golang version derived work based on LIBSVM 3.14. |
 | [daviddengcn/go-pr](https://github.com/daviddengcn/go-pr) | 68 | 15 | 2025-11-26T01:47:23Z |  Pattern recognition package in Go lang. |
-| [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 59 | 14 | 2026-01-15T20:00:34Z |  Easy to use Random Forest library for Go. |
+| [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 60 | 14 | 2026-03-05T00:44:56Z |  Easy to use Random Forest library for Go. |
 | [Xamber/Varis](https://github.com/Xamber/Varis) | 55 | 7 | 2025-07-30T21:51:37Z |  Golang Neural Network. |
 | [e-XpertSolutions/go-cluster](https://github.com/e-XpertSolutions/go-cluster) | 44 | 9 | 2025-05-26T01:44:14Z |  Go implementation of the k-modes and k-prototypes clustering algorithms. |
 | [born-ml/born](https://github.com/born-ml/born) | 44 | 4 | 2026-03-04T14:30:11Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
@@ -62,7 +62,7 @@ Libraries for Machine Learning.
 | [ryanbressler/CloudForest](https://github.com/ryanbressler/CloudForest) | 749 | 92 | 2026-01-07T05:11:13Z |  Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go. |
 | [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 875 | 83 | 2026-03-04T10:11:39Z |  Go Interface to Open Neural Network Exchange (ONNX). |
 | [patrikeh/go-deep](https://github.com/patrikeh/go-deep) | 555 | 68 | 2026-02-23T14:26:19Z |  A feature-rich neural network library in Go. |
-| [gomlx/gomlx](https://github.com/gomlx/gomlx) | 1k | 67 | 2026-03-04T23:17:27Z |  An accelerated Machine Learning framework for Go. |
+| [gomlx/gomlx](https://github.com/gomlx/gomlx) | 1k | 67 | 2026-03-05T07:10:38Z |  An accelerated Machine Learning framework for Go. |
 | [goml/gobrain](https://github.com/goml/gobrain) | 567 | 60 | 2026-02-02T12:30:39Z |  Neural Networks written in go. |
 | [thoj/go-galib](https://github.com/thoj/go-galib) | 200 | 41 | 2025-11-19T02:04:48Z |  Genetic Algorithms library written in Go / golang. |
 | [knights-analytics/hugot](https://github.com/knights-analytics/hugot) | 573 | 39 | 2026-03-04T04:57:10Z |  Huggingface transformer pipelines for golang with onnxruntime. |
@@ -76,7 +76,7 @@ Libraries for Machine Learning.
 | [Fontinalis/fonet](https://github.com/Fontinalis/fonet) | 86 | 17 | 2025-06-27T14:52:20Z |  A Deep Neural Network library written in Go. |
 | [schuyler/neural-go](https://github.com/schuyler/neural-go) | 73 | 16 | 2025-12-29T11:43:38Z |  Multilayer perceptron network implemented in Go, with training via backpropagation. |
 | [daviddengcn/go-pr](https://github.com/daviddengcn/go-pr) | 68 | 15 | 2025-11-26T01:47:23Z |  Pattern recognition package in Go lang. |
-| [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 59 | 14 | 2026-01-15T20:00:34Z |  Easy to use Random Forest library for Go. |
+| [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 60 | 14 | 2026-03-05T00:44:56Z |  Easy to use Random Forest library for Go. |
 | [datastream/libsvm](https://github.com/datastream/libsvm) | 72 | 11 | 2025-10-04T17:33:21Z |  libsvm golang version derived work based on LIBSVM 3.14. |
 | [khezen/evoli](https://github.com/khezen/evoli) | 33 | 9 | 2026-02-26T10:46:14Z |  Genetic Algorithm and Particle Swarm Optimization library. |
 | [dathoangnd/gonet](https://github.com/dathoangnd/gonet) | 83 | 9 | 2025-06-13T07:52:12Z |  Neural Network for Go. |
@@ -94,7 +94,8 @@ Libraries for Machine Learning.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gomlx/gomlx](https://github.com/gomlx/gomlx) | 1k | 67 | 2026-03-04T23:17:27Z |  An accelerated Machine Learning framework for Go. |
+| [gomlx/gomlx](https://github.com/gomlx/gomlx) | 1k | 67 | 2026-03-05T07:10:38Z |  An accelerated Machine Learning framework for Go. |
+| [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 60 | 14 | 2026-03-05T00:44:56Z |  Easy to use Random Forest library for Go. |
 | [born-ml/born](https://github.com/born-ml/born) | 44 | 4 | 2026-03-04T14:30:11Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
 | [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 875 | 83 | 2026-03-04T10:11:39Z |  Go Interface to Open Neural Network Exchange (ONNX). |
 | [knights-analytics/hugot](https://github.com/knights-analytics/hugot) | 573 | 39 | 2026-03-04T04:57:10Z |  Huggingface transformer pipelines for golang with onnxruntime. |
@@ -117,7 +118,6 @@ Libraries for Machine Learning.
 | [goml/gobrain](https://github.com/goml/gobrain) | 567 | 60 | 2026-02-02T12:30:39Z |  Neural Networks written in go. |
 | [tomcraven/goga](https://github.com/tomcraven/goga) | 221 | 18 | 2026-01-24T21:50:28Z |  Genetic algorithm library for Go. |
 | [muesli/regommend](https://github.com/muesli/regommend) | 313 | 28 | 2026-01-23T11:10:09Z |  Recommendation & collaborative filtering engine. |
-| [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 59 | 14 | 2026-01-15T20:00:34Z |  Easy to use Random Forest library for Go. |
 | [eaigner/shield](https://github.com/eaigner/shield) | 159 | 33 | 2026-01-14T22:14:47Z |  Bayesian text classifier with flexible tokenizers and storage backends for Go. |
 | [ryanbressler/CloudForest](https://github.com/ryanbressler/CloudForest) | 749 | 92 | 2026-01-07T05:11:13Z |  Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go. |
 | [sgrodriguez/ddt](https://github.com/sgrodriguez/ddt) | 42 | 4 | 2025-12-31T04:46:42Z |  Dynamic decision tree, create trees defining customizable rules. |
