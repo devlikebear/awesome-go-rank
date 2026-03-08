@@ -22,7 +22,7 @@ Libraries for scheduling jobs.
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 32 | 5 | 2026-02-16T09:10:23Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
-| [kahoon/pending](https://github.com/kahoon/pending) | 3 | 0 | 2026-03-06T14:20:19Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
+| [kahoon/pending](https://github.com/kahoon/pending) | 4 | 0 | 2026-03-07T20:56:27Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2026-02-03T11:22:02Z |  A flexible and extensible job scheduling and execution library for Go. |
 
 ### Ranked by Forks
@@ -45,16 +45,16 @@ Libraries for scheduling jobs.
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 32 | 5 | 2026-02-16T09:10:23Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [romshark/sched](https://github.com/romshark/sched) | 28 | 1 | 2025-02-01T14:01:55Z |  A job scheduler with the ability to fast-forward time. |
-| [kahoon/pending](https://github.com/kahoon/pending) | 3 | 0 | 2026-03-06T14:20:19Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
+| [kahoon/pending](https://github.com/kahoon/pending) | 4 | 0 | 2026-03-07T20:56:27Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2026-02-03T11:22:02Z |  A flexible and extensible job scheduling and execution library for Go. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [kahoon/pending](https://github.com/kahoon/pending) | 4 | 0 | 2026-03-07T20:56:27Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 473 | 35 | 2026-03-06T19:21:56Z |  A simple but powerful DAG scheduler and dashboard. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 499 | 27 | 2026-03-06T17:44:14Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
-| [kahoon/pending](https://github.com/kahoon/pending) | 3 | 0 | 2026-03-06T14:20:19Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-03-06T10:49:58Z |  Simple, zero-dependency scheduling library for Go. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 343 | 2026-02-25T03:34:32Z | . |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 32 | 5 | 2026-02-16T09:10:23Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
