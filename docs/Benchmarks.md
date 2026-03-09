@@ -16,6 +16,7 @@
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 127 | 7 | 2026-02-24T08:20:36Z |  Go micro-benchmarks for calculating the speed of language constructs. |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 99 | 22 | 2024-02-06T21:12:26Z |  Framework to compare the performance between different Go versions. |
 | [PuerkitoBio/gocostmodel](https://github.com/PuerkitoBio/gocostmodel) | 62 | 5 | 2025-09-25T21:07:45Z |  Benchmarks of common basic operations for the Go language. |
+| [goptics/vizb](https://github.com/goptics/vizb) | 60 | 6 | 2026-03-07T12:50:33Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [nikolaydubina/go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) | 32 | 2 | 2025-05-17T14:55:36Z |  benchmarks for machine learning inference in Go. |
 | [mrLSD/go-benchmark-app](https://github.com/mrLSD/go-benchmark-app) | 27 | 5 | 2026-02-23T14:37:19Z |  Powerful HTTP-benchmark tool mixed with Аb, Wrk, Siege tools. Gathering statistics and various parameters for benchmarks and comparison results. |
 | [jimrobinson/kvbench](https://github.com/jimrobinson/kvbench) | 26 | 2 | 2023-10-04T00:32:28Z |  Key/Value database benchmark. |
@@ -35,6 +36,7 @@
 | [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 142 | 19 | 2026-03-01T21:23:06Z |  a collection of golang benchmarks. |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 246 | 18 | 2026-02-12T05:37:16Z |  Compare various Image resize algorithms for the Go language. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 127 | 7 | 2026-02-24T08:20:36Z |  Go micro-benchmarks for calculating the speed of language constructs. |
+| [goptics/vizb](https://github.com/goptics/vizb) | 60 | 6 | 2026-03-07T12:50:33Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [PuerkitoBio/gocostmodel](https://github.com/PuerkitoBio/gocostmodel) | 62 | 5 | 2025-09-25T21:07:45Z |  Benchmarks of common basic operations for the Go language. |
 | [mrLSD/go-benchmark-app](https://github.com/mrLSD/go-benchmark-app) | 27 | 5 | 2026-02-23T14:37:19Z |  Powerful HTTP-benchmark tool mixed with Аb, Wrk, Siege tools. Gathering statistics and various parameters for benchmarks and comparison results. |
 | [nikolaydubina/go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) | 32 | 2 | 2025-05-17T14:55:36Z |  benchmarks for machine learning inference in Go. |
@@ -46,6 +48,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [goptics/vizb](https://github.com/goptics/vizb) | 60 | 6 | 2026-03-07T12:50:33Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 120 | 2026-03-07T12:10:58Z |  Skynet 1M threads microbenchmark. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 162 | 2026-03-05T19:34:49Z |  Benchmarks of Go serialization methods. |
 | [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 231 | 2026-03-04T10:31:07Z |  Go web framework benchmark. |
