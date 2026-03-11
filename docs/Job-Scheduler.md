@@ -7,7 +7,7 @@ Libraries for scheduling jobs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 343 | 2026-02-25T03:34:32Z | . |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-03-09T07:29:21Z |  Simple, zero-dependency scheduling library for Go. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-03-10T08:57:36Z |  Simple, zero-dependency scheduling library for Go. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2026-02-03T08:11:10Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 65 | 2026-02-13T11:58:05Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 499 | 27 | 2026-03-06T17:44:14Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
@@ -20,7 +20,7 @@ Libraries for scheduling jobs.
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 13 | 2025-07-25T07:29:50Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 60 | 12 | 2026-01-29T23:39:43Z |  Job scheduler library with database support |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 32 | 5 | 2026-02-16T09:10:23Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
-| [romshark/sched](https://github.com/romshark/sched) | 29 | 1 | 2026-03-09T06:27:08Z |  A job scheduler with the ability to fast-forward time. |
+| [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-03-10T19:11:14Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 4 | 0 | 2026-03-07T20:56:27Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2026-02-03T11:22:02Z |  A flexible and extensible job scheduling and execution library for Go. |
@@ -31,7 +31,7 @@ Libraries for scheduling jobs.
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 343 | 2026-02-25T03:34:32Z | . |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 99 | 2026-02-03T08:11:10Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-03-09T07:29:21Z |  Simple, zero-dependency scheduling library for Go. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-03-10T08:57:36Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 65 | 2026-02-13T11:58:05Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 469 | 51 | 2026-01-26T22:33:59Z |  Cronjobs scheduling made easy. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 473 | 35 | 2026-03-06T19:21:56Z |  A simple but powerful DAG scheduler and dashboard. |
@@ -44,7 +44,7 @@ Libraries for scheduling jobs.
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 60 | 12 | 2026-01-29T23:39:43Z |  Job scheduler library with database support |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 32 | 5 | 2026-02-16T09:10:23Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
-| [romshark/sched](https://github.com/romshark/sched) | 29 | 1 | 2026-03-09T06:27:08Z |  A job scheduler with the ability to fast-forward time. |
+| [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-03-10T19:11:14Z |  A job scheduler with the ability to fast-forward time. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 4 | 0 | 2026-03-07T20:56:27Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 0 | 0 | 2026-02-03T11:22:02Z |  A flexible and extensible job scheduling and execution library for Go. |
 
@@ -52,8 +52,8 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-03-09T07:29:21Z |  Simple, zero-dependency scheduling library for Go. |
-| [romshark/sched](https://github.com/romshark/sched) | 29 | 1 | 2026-03-09T06:27:08Z |  A job scheduler with the ability to fast-forward time. |
+| [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-03-10T19:11:14Z |  A job scheduler with the ability to fast-forward time. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-03-10T08:57:36Z |  Simple, zero-dependency scheduling library for Go. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 4 | 0 | 2026-03-07T20:56:27Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 473 | 35 | 2026-03-06T19:21:56Z |  A simple but powerful DAG scheduler and dashboard. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 499 | 27 | 2026-03-06T17:44:14Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |

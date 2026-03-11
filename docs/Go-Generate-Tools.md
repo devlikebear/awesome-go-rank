@@ -6,10 +6,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 348 | 2026-03-09T07:39:00Z |  Generate Go tests from your source code. |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 348 | 2026-03-10T08:01:42Z |  Generate Go tests from your source code. |
 | [xuri/xgen](https://github.com/xuri/xgen) | 406 | 103 | 2026-02-10T03:15:19Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [DylanMeeus/hasgo](https://github.com/DylanMeeus/hasgo) | 144 | 11 | 2026-02-26T11:34:51Z |  Generate Haskell inspired functions for your slices. |
-| [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 116 | 10 | 2026-03-09T14:23:39Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
+| [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 117 | 10 | 2026-03-10T06:44:35Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [bouk/gonerics](https://github.com/bouk/gonerics) | 112 | 9 | 2026-01-18T21:23:07Z |  Idiomatic Generics in Go. |
 | [kazhuravlev/options-gen](https://github.com/kazhuravlev/options-gen) | 103 | 12 | 2026-02-15T14:47:48Z |  Functional options described by Dave Cheney's post "Functional options for friendly APIs". |
 | [g4s8/envdoc](https://github.com/g4s8/envdoc) | 94 | 9 | 2026-02-12T18:59:31Z |  generate documentation for environment variables from Go source files. |
@@ -22,12 +22,12 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 348 | 2026-03-09T07:39:00Z |  Generate Go tests from your source code. |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 348 | 2026-03-10T08:01:42Z |  Generate Go tests from your source code. |
 | [xuri/xgen](https://github.com/xuri/xgen) | 406 | 103 | 2026-02-10T03:15:19Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [kazhuravlev/options-gen](https://github.com/kazhuravlev/options-gen) | 103 | 12 | 2026-02-15T14:47:48Z |  Functional options described by Dave Cheney's post "Functional options for friendly APIs". |
 | [DylanMeeus/hasgo](https://github.com/DylanMeeus/hasgo) | 144 | 11 | 2026-02-26T11:34:51Z |  Generate Haskell inspired functions for your slices. |
 | [hexdigest/gounit](https://github.com/hexdigest/gounit) | 87 | 11 | 2025-11-17T17:39:26Z |  Generate Go tests using your own templates. |
-| [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 116 | 10 | 2026-03-09T14:23:39Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
+| [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 117 | 10 | 2026-03-10T06:44:35Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [bouk/gonerics](https://github.com/bouk/gonerics) | 112 | 9 | 2026-01-18T21:23:07Z |  Idiomatic Generics in Go. |
 | [g4s8/envdoc](https://github.com/g4s8/envdoc) | 94 | 9 | 2026-02-12T18:59:31Z |  generate documentation for environment variables from Go source files. |
 | [anqiansong/sqlgen](https://github.com/anqiansong/sqlgen) | 85 | 9 | 2025-12-28T08:32:34Z |  Generate gorm, xorm, sqlx, bun, sql code from SQL file or DSN. |
@@ -38,8 +38,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 116 | 10 | 2026-03-09T14:23:39Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 348 | 2026-03-09T07:39:00Z |  Generate Go tests from your source code. |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 348 | 2026-03-10T08:01:42Z |  Generate Go tests from your source code. |
+| [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 117 | 10 | 2026-03-10T06:44:35Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [DylanMeeus/hasgo](https://github.com/DylanMeeus/hasgo) | 144 | 11 | 2026-02-26T11:34:51Z |  Generate Haskell inspired functions for your slices. |
 | [kazhuravlev/options-gen](https://github.com/kazhuravlev/options-gen) | 103 | 12 | 2026-02-15T14:47:48Z |  Functional options described by Dave Cheney's post "Functional options for friendly APIs". |
 | [g4s8/envdoc](https://github.com/g4s8/envdoc) | 94 | 9 | 2026-02-12T18:59:31Z |  generate documentation for environment variables from Go source files. |
