@@ -6,9 +6,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-03-10T22:16:19Z |  A distributed tracing system. |
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 834 | 2026-03-10T23:44:45Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
-| [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 492 | 2026-03-10T17:20:40Z |  No instrumentation tracing for Golang applications via eBPF. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-03-11T22:46:23Z |  A distributed tracing system. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 833 | 2026-03-11T13:00:14Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
+| [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 492 | 2026-03-11T20:09:16Z |  No instrumentation tracing for Golang applications via eBPF. |
 | [arl/statsviz](https://github.com/arl/statsviz) | 4k | 123 | 2026-03-10T17:14:49Z |  Live visualization of your Go application runtime statistics. |
 | [pkg/profile](https://github.com/pkg/profile) | 2k | 121 | 2026-03-09T19:01:52Z |  Simple profiling support package for Go. |
 | [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) | 291 | 11 | 2026-03-10T04:37:05Z |  Automatically add spans to all methods and functions. |
@@ -20,9 +20,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-03-10T22:16:19Z |  A distributed tracing system. |
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 834 | 2026-03-10T23:44:45Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
-| [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 492 | 2026-03-10T17:20:40Z |  No instrumentation tracing for Golang applications via eBPF. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-03-11T22:46:23Z |  A distributed tracing system. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 833 | 2026-03-11T13:00:14Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
+| [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 492 | 2026-03-11T20:09:16Z |  No instrumentation tracing for Golang applications via eBPF. |
 | [arl/statsviz](https://github.com/arl/statsviz) | 4k | 123 | 2026-03-10T17:14:49Z |  Live visualization of your Go application runtime statistics. |
 | [pkg/profile](https://github.com/pkg/profile) | 2k | 121 | 2026-03-09T19:01:52Z |  Simple profiling support package for Go. |
 | [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) | 291 | 11 | 2026-03-10T04:37:05Z |  Automatically add spans to all methods and functions. |
@@ -34,9 +34,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 834 | 2026-03-10T23:44:45Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-03-10T22:16:19Z |  A distributed tracing system. |
-| [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 492 | 2026-03-10T17:20:40Z |  No instrumentation tracing for Golang applications via eBPF. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-03-11T22:46:23Z |  A distributed tracing system. |
+| [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 492 | 2026-03-11T20:09:16Z |  No instrumentation tracing for Golang applications via eBPF. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 833 | 2026-03-11T13:00:14Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
 | [arl/statsviz](https://github.com/arl/statsviz) | 4k | 123 | 2026-03-10T17:14:49Z |  Live visualization of your Go application runtime statistics. |
 | [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) | 291 | 11 | 2026-03-10T04:37:05Z |  Automatically add spans to all methods and functions. |
 | [pkg/profile](https://github.com/pkg/profile) | 2k | 121 | 2026-03-09T19:01:52Z |  Simple profiling support package for Go. |
