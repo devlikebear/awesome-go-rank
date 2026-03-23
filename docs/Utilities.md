@@ -6,58 +6,58 @@ General utilities and tools to make your life easier.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 79k | 3k | 2026-03-21T22:42:31Z |  Command-line fuzzy finder written in Go. |
-| [wagoodman/dive](https://github.com/wagoodman/dive) | 54k | 2k | 2026-03-21T19:59:45Z |  A tool for exploring each layer in a Docker image. |
-| [github/hub](https://github.com/github/hub) | 23k | 2k | 2026-03-20T22:20:34Z |  wrap git commands with additional functionality to interact with github from the terminal. |
-| [samber/lo](https://github.com/samber/lo) | 21k | 938 | 2026-03-21T16:55:55Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [bcicen/ctop](https://github.com/bcicen/ctop) | 18k | 587 | 2026-03-21T14:44:25Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
-| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 18k | 1k | 2026-03-20T09:18:49Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
-| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 16k | 1k | 2026-03-21T23:56:46Z |  Deliver Go binaries as fast and easily as possible. |
-| [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 11k | 409 | 2026-03-20T11:44:50Z |  Interactive cli tool for HTTP inspection. |
-| [knq/usql](https://github.com/knq/usql) | 10k | 386 | 2026-03-20T22:42:47Z |  usql is a universal command-line interface for SQL databases. |
-| [peco/peco](https://github.com/peco/peco) | 8k | 233 | 2026-03-19T15:10:26Z |  Simplistic interactive filtering tool. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 79k | 3k | 2026-03-22T23:05:31Z |  Command-line fuzzy finder written in Go. |
+| [wagoodman/dive](https://github.com/wagoodman/dive) | 54k | 2k | 2026-03-22T21:45:54Z |  A tool for exploring each layer in a Docker image. |
+| [github/hub](https://github.com/github/hub) | 23k | 2k | 2026-03-22T03:47:44Z |  wrap git commands with additional functionality to interact with github from the terminal. |
+| [samber/lo](https://github.com/samber/lo) | 21k | 938 | 2026-03-22T08:26:41Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [bcicen/ctop](https://github.com/bcicen/ctop) | 18k | 587 | 2026-03-22T23:22:13Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
+| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 18k | 1k | 2026-03-22T23:07:39Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
+| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 16k | 1k | 2026-03-22T22:48:23Z |  Deliver Go binaries as fast and easily as possible. |
+| [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 11k | 409 | 2026-03-22T19:18:38Z |  Interactive cli tool for HTTP inspection. |
+| [knq/usql](https://github.com/knq/usql) | 10k | 386 | 2026-03-22T20:42:27Z |  usql is a universal command-line interface for SQL databases. |
+| [peco/peco](https://github.com/peco/peco) | 8k | 233 | 2026-03-22T07:01:09Z |  Simplistic interactive filtering tool. |
 | [thoas/go-funk](https://github.com/thoas/go-funk) | 5k | 276 | 2026-03-18T06:56:30Z |  Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...). |
-| [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 428 | 2026-03-18T06:26:21Z |  Common libraries for writing Go services/applications from Dropbox. |
+| [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 428 | 2026-03-22T13:40:51Z |  Common libraries for writing Go services/applications from Dropbox. |
 | [tdewolff/minify](https://github.com/tdewolff/minify) | 4k | 233 | 2026-03-21T09:18:35Z |  Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats. |
 | [maruel/panicparse](https://github.com/maruel/panicparse) | 4k | 102 | 2026-03-17T08:05:48Z |  Groups similar goroutines and colorizes stack dump. |
-| [minio/mc](https://github.com/minio/mc) | 3k | 667 | 2026-03-21T02:39:41Z |  Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems. |
+| [minio/mc](https://github.com/minio/mc) | 3k | 668 | 2026-03-22T09:44:42Z |  Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems. |
 | [wgliang/goreporter](https://github.com/wgliang/goreporter) | 3k | 265 | 2026-03-20T10:57:35Z |  Golang tool that does static analysis, unit testing, code review and generate code quality report. |
-| [imdario/mergo](https://github.com/imdario/mergo) | 3k | 282 | 2026-03-20T04:28:25Z |  Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements. |
+| [imdario/mergo](https://github.com/imdario/mergo) | 3k | 282 | 2026-03-22T15:15:32Z |  Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements. |
 | [avast/retry-go](https://github.com/avast/retry-go) | 3k | 169 | 2026-03-20T22:35:26Z |  Simple library for retry mechanism. |
 | [create-go-app/cli](https://github.com/create-go-app/cli) | 3k | 268 | 2026-03-20T16:54:53Z |  A powerful CLI for create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) & deploy automation (Ansible, Docker) by running one command. |
-| [megaease/easeprobe](https://github.com/megaease/easeprobe) | 2k | 242 | 2026-03-21T03:12:42Z |  A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification. |
+| [megaease/easeprobe](https://github.com/megaease/easeprobe) | 2k | 242 | 2026-03-22T10:38:40Z |  A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification. |
 | [h2non/filetype](https://github.com/h2non/filetype) | 2k | 187 | 2026-03-17T12:28:55Z |  Small package to infer the file type checking the magic numbers signature. |
-| [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) | 2k | 36 | 2026-03-21T10:32:24Z |  Fault tolerance and resilience patterns for Go. |
+| [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) | 2k | 36 | 2026-03-22T21:03:33Z |  Fault tolerance and resilience patterns for Go. |
 | [asdine/storm](https://github.com/asdine/storm) | 2k | 141 | 2026-03-17T07:11:49Z |  Simple and powerful toolkit for BoltDB. |
-| [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) | 2k | 186 | 2026-03-17T15:55:52Z |  Package for MIME type detection based on magic numbers. |
+| [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) | 2k | 186 | 2026-03-22T15:01:02Z |  Package for MIME type detection based on magic numbers. |
 | [gsamokovarov/jump](https://github.com/gsamokovarov/jump) | 2k | 60 | 2026-03-20T17:03:43Z |  Jump helps you navigate faster by learning your habits. |
-| [joshmedeski/sesh](https://github.com/joshmedeski/sesh) | 2k | 93 | 2026-03-21T21:08:07Z |  Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide. |
+| [joshmedeski/sesh](https://github.com/joshmedeski/sesh) | 2k | 93 | 2026-03-22T18:27:19Z |  Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide. |
 | [tmrts/boilr](https://github.com/tmrts/boilr) | 2k | 117 | 2026-03-07T19:05:07Z |  Blazingly fast CLI tool for creating projects from boilerplate templates. |
 | [davrodpin/mole](https://github.com/davrodpin/mole) | 2k | 97 | 2026-03-19T20:16:44Z |  cli app to easily create ssh tunnels. |
 | [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) | 2k | 51 | 2026-03-11T16:02:02Z |  manage your git repositories in one place. |
 | [georgysavva/scany](https://github.com/georgysavva/scany) | 2k | 76 | 2026-03-19T10:14:42Z |  Library for scanning data from a database into Go structs and more. |
 | [itchyny/bed](https://github.com/itchyny/bed) | 1k | 51 | 2026-03-15T14:17:55Z |  A Vim-like binary editor written in Go. |
-| [guumaster/hostctl](https://github.com/guumaster/hostctl) | 1k | 53 | 2026-03-18T08:40:15Z |  A CLI tool to manage /etc/hosts with easy commands. |
+| [guumaster/hostctl](https://github.com/guumaster/hostctl) | 1k | 53 | 2026-03-22T23:17:00Z |  A CLI tool to manage /etc/hosts with easy commands. |
 | [owenthereal/upterm](https://github.com/owenthereal/upterm) | 1k | 75 | 2026-03-21T20:50:50Z |  A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more. |
 | [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) | 1k | 113 | 2026-02-22T20:33:55Z |  Circuit Breakers in Go. |
 | [alebeck/boring](https://github.com/alebeck/boring) | 1k | 40 | 2026-03-21T22:28:50Z |  Simple command-line SSH tunnel manager. |
-| [git-time-metric/gtm](https://github.com/git-time-metric/gtm) | 1k | 53 | 2026-03-05T00:10:50Z |  Simple, seamless, lightweight time tracking for Git. |
-| [miniscruff/changie](https://github.com/miniscruff/changie) | 868 | 44 | 2026-03-21T06:08:25Z |  Automated changelog tool for preparing releases with lots of customization options. |
+| [git-time-metric/gtm](https://github.com/git-time-metric/gtm) | 1k | 54 | 2026-03-05T00:10:50Z |  Simple, seamless, lightweight time tracking for Git. |
+| [miniscruff/changie](https://github.com/miniscruff/changie) | 868 | 44 | 2026-03-22T00:23:32Z |  Automated changelog tool for preparing releases with lots of customization options. |
 | [immortal/immortal](https://github.com/immortal/immortal) | 832 | 53 | 2026-03-15T13:18:47Z |  \*nix cross-platform (OS agnostic) supervisor. |
 | [cep21/circuit](https://github.com/cep21/circuit) | 812 | 47 | 2026-03-17T20:03:27Z |  An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern. |
 | [golang-design/clipboard](https://github.com/golang-design/clipboard) | 770 | 80 | 2026-03-20T00:41:23Z |  📋 cross-platform clipboard package in Go. |
 | [jonboulle/clockwork](https://github.com/jonboulle/clockwork) | 725 | 62 | 2026-03-09T05:11:14Z |  A simple fake clock for golang. |
 | [alajmo/mani](https://github.com/alajmo/mani) | 671 | 34 | 2026-03-17T10:25:02Z |  CLI tool to help you manage multiple repositories. |
-| [derekparker/delve](https://github.com/derekparker/delve) | 661 | 118 | 2026-03-17T22:04:31Z |  Go debugger. |
+| [derekparker/delve](https://github.com/derekparker/delve) | 661 | 117 | 2026-03-17T22:04:31Z |  Go debugger. |
 | [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) | 654 | 65 | 2026-03-20T19:50:30Z |  Control mouse and keyboard from a smartphone. |
 | [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) | 650 | 60 | 2026-03-06T07:15:50Z |  The management of multiple local services running over different ports made easy. |
-| [mennanov/limiters](https://github.com/mennanov/limiters) | 624 | 60 | 2026-03-20T11:32:01Z |  Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks. |
+| [mennanov/limiters](https://github.com/mennanov/limiters) | 625 | 60 | 2026-03-22T18:15:21Z |  Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks. |
 | [blockloop/scan](https://github.com/blockloop/scan) | 610 | 32 | 2026-03-13T16:14:19Z |  Scan golang `sql.Rows` directly to structs, slices, or primitive types. |
 | [htcat/htcat](https://github.com/htcat/htcat) | 560 | 35 | 2026-03-17T08:05:43Z |  Parallel and Pipelined HTTP GET Utility. |
 | [wesovilabs/koazee](https://github.com/wesovilabs/koazee) | 530 | 30 | 2026-02-23T14:29:56Z |  Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays. |
 | [novalagung/gubrak](https://github.com/novalagung/gubrak) | 513 | 42 | 2026-03-13T13:35:24Z |  Golang utility library with syntactic sugar. It's like lodash, but for golang. |
+| [biter777/countries](https://github.com/biter777/countries) | 504 | 81 | 2026-03-22T00:25:18Z |  Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards. |
 | [matzehuels/stacktower](https://github.com/matzehuels/stacktower) | 504 | 12 | 2026-03-12T03:49:23Z |  Visualize dependency graphs as physical tower structures, inspired by XKCD #2347. |
-| [biter777/countries](https://github.com/biter777/countries) | 503 | 81 | 2026-03-20T22:20:25Z |  Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards. |
 | [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) | 497 | 80 | 2026-03-17T14:03:18Z |  Cross Platform tool to validate configuration files. |
 | [VividCortex/godaemon](https://github.com/VividCortex/godaemon) | 495 | 55 | 2026-03-15T13:14:33Z |  Utility to write daemons. |
 | [ungerik/go-dry](https://github.com/ungerik/go-dry) | 488 | 37 | 2025-12-11T12:42:05Z |  DRY (don't repeat yourself) package for Go. |
@@ -123,7 +123,7 @@ General utilities and tools to make your life easier.
 | [mlimaloureiro/golog](https://github.com/mlimaloureiro/golog) | 63 | 13 | 2025-02-02T23:53:29Z |  Easy and lightweight CLI tool to time track your tasks. |
 | [icza/minquery](https://github.com/icza/minquery) | 61 | 19 | 2026-01-06T00:44:58Z |  MongoDB / mgo.v2 query that supports efficient pagination (cursors to continue listing documents where we left off). |
 | [ztrue/shutdown](https://github.com/ztrue/shutdown) | 60 | 7 | 2026-02-23T14:37:37Z |  App shutdown hooks for `os.Signal` handling. |
-| [syst3mctl/godoclive](https://github.com/syst3mctl/godoclive) | 56 | 3 | 2026-03-21T20:11:09Z |  Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers. |
+| [syst3mctl/godoclive](https://github.com/syst3mctl/godoclive) | 59 | 3 | 2026-03-22T18:39:07Z |  Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers. |
 | [jutkko/copy-pasta](https://github.com/jutkko/copy-pasta) | 56 | 10 | 2026-03-12T09:41:07Z |  Universal multi-workstation clipboard that uses S3 like backend for the storage. |
 | [shoobyban/sshman](https://github.com/shoobyban/sshman) | 55 | 4 | 2026-03-20T09:46:27Z |  SSH Manager for authorized_keys files on multiple remote servers. |
 | [msempere/golarm](https://github.com/msempere/golarm) | 54 | 9 | 2025-03-06T10:38:56Z |  Fire alarms with system events. |
@@ -196,36 +196,36 @@ General utilities and tools to make your life easier.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 79k | 3k | 2026-03-21T22:42:31Z |  Command-line fuzzy finder written in Go. |
-| [github/hub](https://github.com/github/hub) | 23k | 2k | 2026-03-20T22:20:34Z |  wrap git commands with additional functionality to interact with github from the terminal. |
-| [wagoodman/dive](https://github.com/wagoodman/dive) | 54k | 2k | 2026-03-21T19:59:45Z |  A tool for exploring each layer in a Docker image. |
-| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 18k | 1k | 2026-03-20T09:18:49Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
-| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 16k | 1k | 2026-03-21T23:56:46Z |  Deliver Go binaries as fast and easily as possible. |
-| [samber/lo](https://github.com/samber/lo) | 21k | 938 | 2026-03-21T16:55:55Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [minio/mc](https://github.com/minio/mc) | 3k | 667 | 2026-03-21T02:39:41Z |  Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems. |
-| [bcicen/ctop](https://github.com/bcicen/ctop) | 18k | 587 | 2026-03-21T14:44:25Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
-| [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 428 | 2026-03-18T06:26:21Z |  Common libraries for writing Go services/applications from Dropbox. |
-| [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 11k | 409 | 2026-03-20T11:44:50Z |  Interactive cli tool for HTTP inspection. |
-| [knq/usql](https://github.com/knq/usql) | 10k | 386 | 2026-03-20T22:42:47Z |  usql is a universal command-line interface for SQL databases. |
-| [imdario/mergo](https://github.com/imdario/mergo) | 3k | 282 | 2026-03-20T04:28:25Z |  Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 79k | 3k | 2026-03-22T23:05:31Z |  Command-line fuzzy finder written in Go. |
+| [github/hub](https://github.com/github/hub) | 23k | 2k | 2026-03-22T03:47:44Z |  wrap git commands with additional functionality to interact with github from the terminal. |
+| [wagoodman/dive](https://github.com/wagoodman/dive) | 54k | 2k | 2026-03-22T21:45:54Z |  A tool for exploring each layer in a Docker image. |
+| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 18k | 1k | 2026-03-22T23:07:39Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
+| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 16k | 1k | 2026-03-22T22:48:23Z |  Deliver Go binaries as fast and easily as possible. |
+| [samber/lo](https://github.com/samber/lo) | 21k | 938 | 2026-03-22T08:26:41Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [minio/mc](https://github.com/minio/mc) | 3k | 668 | 2026-03-22T09:44:42Z |  Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems. |
+| [bcicen/ctop](https://github.com/bcicen/ctop) | 18k | 587 | 2026-03-22T23:22:13Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
+| [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 428 | 2026-03-22T13:40:51Z |  Common libraries for writing Go services/applications from Dropbox. |
+| [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 11k | 409 | 2026-03-22T19:18:38Z |  Interactive cli tool for HTTP inspection. |
+| [knq/usql](https://github.com/knq/usql) | 10k | 386 | 2026-03-22T20:42:27Z |  usql is a universal command-line interface for SQL databases. |
+| [imdario/mergo](https://github.com/imdario/mergo) | 3k | 282 | 2026-03-22T15:15:32Z |  Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements. |
 | [thoas/go-funk](https://github.com/thoas/go-funk) | 5k | 276 | 2026-03-18T06:56:30Z |  Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...). |
 | [create-go-app/cli](https://github.com/create-go-app/cli) | 3k | 268 | 2026-03-20T16:54:53Z |  A powerful CLI for create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) & deploy automation (Ansible, Docker) by running one command. |
 | [wgliang/goreporter](https://github.com/wgliang/goreporter) | 3k | 265 | 2026-03-20T10:57:35Z |  Golang tool that does static analysis, unit testing, code review and generate code quality report. |
-| [megaease/easeprobe](https://github.com/megaease/easeprobe) | 2k | 242 | 2026-03-21T03:12:42Z |  A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification. |
-| [peco/peco](https://github.com/peco/peco) | 8k | 233 | 2026-03-19T15:10:26Z |  Simplistic interactive filtering tool. |
+| [megaease/easeprobe](https://github.com/megaease/easeprobe) | 2k | 242 | 2026-03-22T10:38:40Z |  A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification. |
+| [peco/peco](https://github.com/peco/peco) | 8k | 233 | 2026-03-22T07:01:09Z |  Simplistic interactive filtering tool. |
 | [tdewolff/minify](https://github.com/tdewolff/minify) | 4k | 233 | 2026-03-21T09:18:35Z |  Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats. |
 | [h2non/filetype](https://github.com/h2non/filetype) | 2k | 187 | 2026-03-17T12:28:55Z |  Small package to infer the file type checking the magic numbers signature. |
-| [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) | 2k | 186 | 2026-03-17T15:55:52Z |  Package for MIME type detection based on magic numbers. |
+| [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) | 2k | 186 | 2026-03-22T15:01:02Z |  Package for MIME type detection based on magic numbers. |
 | [avast/retry-go](https://github.com/avast/retry-go) | 3k | 169 | 2026-03-20T22:35:26Z |  Simple library for retry mechanism. |
 | [asdine/storm](https://github.com/asdine/storm) | 2k | 141 | 2026-03-17T07:11:49Z |  Simple and powerful toolkit for BoltDB. |
-| [derekparker/delve](https://github.com/derekparker/delve) | 661 | 118 | 2026-03-17T22:04:31Z |  Go debugger. |
 | [tmrts/boilr](https://github.com/tmrts/boilr) | 2k | 117 | 2026-03-07T19:05:07Z |  Blazingly fast CLI tool for creating projects from boilerplate templates. |
+| [derekparker/delve](https://github.com/derekparker/delve) | 661 | 117 | 2026-03-17T22:04:31Z |  Go debugger. |
 | [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) | 1k | 113 | 2026-02-22T20:33:55Z |  Circuit Breakers in Go. |
 | [maruel/panicparse](https://github.com/maruel/panicparse) | 4k | 102 | 2026-03-17T08:05:48Z |  Groups similar goroutines and colorizes stack dump. |
 | [davrodpin/mole](https://github.com/davrodpin/mole) | 2k | 97 | 2026-03-19T20:16:44Z |  cli app to easily create ssh tunnels. |
-| [joshmedeski/sesh](https://github.com/joshmedeski/sesh) | 2k | 93 | 2026-03-21T21:08:07Z |  Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide. |
+| [joshmedeski/sesh](https://github.com/joshmedeski/sesh) | 2k | 93 | 2026-03-22T18:27:19Z |  Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide. |
 | [topfreegames/apm](https://github.com/topfreegames/apm) | 168 | 90 | 2026-03-17T07:54:46Z |  Process manager for Golang applications with an HTTP API. |
-| [biter777/countries](https://github.com/biter777/countries) | 503 | 81 | 2026-03-20T22:20:25Z |  Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards. |
+| [biter777/countries](https://github.com/biter777/countries) | 504 | 81 | 2026-03-22T00:25:18Z |  Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards. |
 | [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) | 497 | 80 | 2026-03-17T14:03:18Z |  Cross Platform tool to validate configuration files. |
 | [golang-design/clipboard](https://github.com/golang-design/clipboard) | 770 | 80 | 2026-03-20T00:41:23Z |  📋 cross-platform clipboard package in Go. |
 | [georgysavva/scany](https://github.com/georgysavva/scany) | 2k | 76 | 2026-03-19T10:14:42Z |  Library for scanning data from a database into Go structs and more. |
@@ -234,18 +234,18 @@ General utilities and tools to make your life easier.
 | [ikeikeikeike/go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) | 229 | 64 | 2026-01-30T22:43:02Z |  XML Sitemap generator written in Go. |
 | [jonboulle/clockwork](https://github.com/jonboulle/clockwork) | 725 | 62 | 2026-03-09T05:11:14Z |  A simple fake clock for golang. |
 | [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) | 650 | 60 | 2026-03-06T07:15:50Z |  The management of multiple local services running over different ports made easy. |
+| [mennanov/limiters](https://github.com/mennanov/limiters) | 625 | 60 | 2026-03-22T18:15:21Z |  Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks. |
 | [gsamokovarov/jump](https://github.com/gsamokovarov/jump) | 2k | 60 | 2026-03-20T17:03:43Z |  Jump helps you navigate faster by learning your habits. |
-| [mennanov/limiters](https://github.com/mennanov/limiters) | 624 | 60 | 2026-03-20T11:32:01Z |  Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks. |
 | [VividCortex/godaemon](https://github.com/VividCortex/godaemon) | 495 | 55 | 2026-03-15T13:14:33Z |  Utility to write daemons. |
-| [guumaster/hostctl](https://github.com/guumaster/hostctl) | 1k | 53 | 2026-03-18T08:40:15Z |  A CLI tool to manage /etc/hosts with easy commands. |
-| [git-time-metric/gtm](https://github.com/git-time-metric/gtm) | 1k | 53 | 2026-03-05T00:10:50Z |  Simple, seamless, lightweight time tracking for Git. |
+| [git-time-metric/gtm](https://github.com/git-time-metric/gtm) | 1k | 54 | 2026-03-05T00:10:50Z |  Simple, seamless, lightweight time tracking for Git. |
+| [guumaster/hostctl](https://github.com/guumaster/hostctl) | 1k | 53 | 2026-03-22T23:17:00Z |  A CLI tool to manage /etc/hosts with easy commands. |
 | [pesos/grofer](https://github.com/pesos/grofer) | 376 | 53 | 2025-12-09T07:18:35Z |  A system and resource monitoring tool written in Golang! |
 | [immortal/immortal](https://github.com/immortal/immortal) | 832 | 53 | 2026-03-15T13:18:47Z |  \*nix cross-platform (OS agnostic) supervisor. |
 | [linxGnu/goseaweedfs](https://github.com/linxGnu/goseaweedfs) | 116 | 51 | 2026-03-17T07:14:14Z |  SeaweedFS client library with almost full features. |
 | [itchyny/bed](https://github.com/itchyny/bed) | 1k | 51 | 2026-03-15T14:17:55Z |  A Vim-like binary editor written in Go. |
 | [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) | 2k | 51 | 2026-03-11T16:02:02Z |  manage your git repositories in one place. |
 | [cep21/circuit](https://github.com/cep21/circuit) | 812 | 47 | 2026-03-17T20:03:27Z |  An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern. |
-| [miniscruff/changie](https://github.com/miniscruff/changie) | 868 | 44 | 2026-03-21T06:08:25Z |  Automated changelog tool for preparing releases with lots of customization options. |
+| [miniscruff/changie](https://github.com/miniscruff/changie) | 868 | 44 | 2026-03-22T00:23:32Z |  Automated changelog tool for preparing releases with lots of customization options. |
 | [bndr/gopencils](https://github.com/bndr/gopencils) | 453 | 43 | 2025-03-12T23:16:37Z |  Small and simple package to easily consume REST APIs. |
 | [novalagung/gubrak](https://github.com/novalagung/gubrak) | 513 | 42 | 2026-03-13T13:35:24Z |  Golang utility library with syntactic sugar. It's like lodash, but for golang. |
 | [sadlil/go-trigger](https://github.com/sadlil/go-trigger) | 249 | 41 | 2025-06-11T05:53:36Z |  Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project. |
@@ -253,7 +253,7 @@ General utilities and tools to make your life easier.
 | [mozillazg/request](https://github.com/mozillazg/request) | 423 | 37 | 2026-02-23T14:36:57Z |  Go HTTP Requests for Humans™. |
 | [ungerik/go-dry](https://github.com/ungerik/go-dry) | 488 | 37 | 2025-12-11T12:42:05Z |  DRY (don't repeat yourself) package for Go. |
 | [gobeam/mongo-go-pagination](https://github.com/gobeam/mongo-go-pagination) | 132 | 37 | 2025-07-15T09:52:28Z |  Mongodb Pagination for official mongodb/mongo-go-driver package which supports both normal queries and Aggregation pipelines. |
-| [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) | 2k | 36 | 2026-03-21T10:32:24Z |  Fault tolerance and resilience patterns for Go. |
+| [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) | 2k | 36 | 2026-03-22T21:03:33Z |  Fault tolerance and resilience patterns for Go. |
 | [beefsack/go-rate](https://github.com/beefsack/go-rate) | 406 | 35 | 2026-02-05T20:45:02Z |  Timed rate limiter for Go. |
 | [htcat/htcat](https://github.com/htcat/htcat) | 560 | 35 | 2026-03-17T08:05:43Z |  Parallel and Pipelined HTTP GET Utility. |
 | [shomali11/util](https://github.com/shomali11/util) | 300 | 35 | 2025-12-26T05:58:25Z |  Collection of useful utility functions. (strings, concurrency, manipulations, ...). |
@@ -339,7 +339,7 @@ General utilities and tools to make your life easier.
 | [VividCortex/multitick](https://github.com/VividCortex/multitick) | 71 | 3 | 2026-01-09T20:49:35Z |  Multiplexor for aligned tickers. |
 | [zpatrick/rclient](https://github.com/zpatrick/rclient) | 36 | 3 | 2026-02-23T14:37:21Z |  Readable, flexible, simple-to-use client for REST APIs. |
 | [kazhuravlev/git-tools](https://github.com/kazhuravlev/git-tools) | 30 | 3 | 2026-03-07T17:31:53Z |  Tool to help manage git tags. |
-| [syst3mctl/godoclive](https://github.com/syst3mctl/godoclive) | 56 | 3 | 2026-03-21T20:11:09Z |  Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers. |
+| [syst3mctl/godoclive](https://github.com/syst3mctl/godoclive) | 59 | 3 | 2026-03-22T18:39:07Z |  Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers. |
 | [xta/okrun](https://github.com/xta/okrun) | 16 | 3 | 2022-09-27T09:52:52Z |  go run error steamroller. |
 | [gotidy/ptr](https://github.com/gotidy/ptr) | 28 | 3 | 2025-04-10T20:14:09Z |  Package that provide functions for simplified creation of pointers from constants of basic types. |
 | [leaanthony/slicer](https://github.com/leaanthony/slicer) | 47 | 3 | 2025-04-29T06:12:59Z |  Makes working with slices easier. |
@@ -386,49 +386,49 @@ General utilities and tools to make your life easier.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 16k | 1k | 2026-03-21T23:56:46Z |  Deliver Go binaries as fast and easily as possible. |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 79k | 3k | 2026-03-21T22:42:31Z |  Command-line fuzzy finder written in Go. |
+| [bcicen/ctop](https://github.com/bcicen/ctop) | 18k | 587 | 2026-03-22T23:22:13Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
+| [guumaster/hostctl](https://github.com/guumaster/hostctl) | 1k | 53 | 2026-03-22T23:17:00Z |  A CLI tool to manage /etc/hosts with easy commands. |
+| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 18k | 1k | 2026-03-22T23:07:39Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 79k | 3k | 2026-03-22T23:05:31Z |  Command-line fuzzy finder written in Go. |
+| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 16k | 1k | 2026-03-22T22:48:23Z |  Deliver Go binaries as fast and easily as possible. |
+| [wagoodman/dive](https://github.com/wagoodman/dive) | 54k | 2k | 2026-03-22T21:45:54Z |  A tool for exploring each layer in a Docker image. |
+| [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) | 2k | 36 | 2026-03-22T21:03:33Z |  Fault tolerance and resilience patterns for Go. |
+| [knq/usql](https://github.com/knq/usql) | 10k | 386 | 2026-03-22T20:42:27Z |  usql is a universal command-line interface for SQL databases. |
+| [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 11k | 409 | 2026-03-22T19:18:38Z |  Interactive cli tool for HTTP inspection. |
+| [syst3mctl/godoclive](https://github.com/syst3mctl/godoclive) | 59 | 3 | 2026-03-22T18:39:07Z |  Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers. |
+| [joshmedeski/sesh](https://github.com/joshmedeski/sesh) | 2k | 93 | 2026-03-22T18:27:19Z |  Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide. |
+| [mennanov/limiters](https://github.com/mennanov/limiters) | 625 | 60 | 2026-03-22T18:15:21Z |  Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks. |
+| [imdario/mergo](https://github.com/imdario/mergo) | 3k | 282 | 2026-03-22T15:15:32Z |  Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements. |
+| [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) | 2k | 186 | 2026-03-22T15:01:02Z |  Package for MIME type detection based on magic numbers. |
+| [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 428 | 2026-03-22T13:40:51Z |  Common libraries for writing Go services/applications from Dropbox. |
+| [megaease/easeprobe](https://github.com/megaease/easeprobe) | 2k | 242 | 2026-03-22T10:38:40Z |  A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification. |
+| [minio/mc](https://github.com/minio/mc) | 3k | 668 | 2026-03-22T09:44:42Z |  Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems. |
+| [samber/lo](https://github.com/samber/lo) | 21k | 938 | 2026-03-22T08:26:41Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [peco/peco](https://github.com/peco/peco) | 8k | 233 | 2026-03-22T07:01:09Z |  Simplistic interactive filtering tool. |
+| [github/hub](https://github.com/github/hub) | 23k | 2k | 2026-03-22T03:47:44Z |  wrap git commands with additional functionality to interact with github from the terminal. |
+| [biter777/countries](https://github.com/biter777/countries) | 504 | 81 | 2026-03-22T00:25:18Z |  Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards. |
+| [miniscruff/changie](https://github.com/miniscruff/changie) | 868 | 44 | 2026-03-22T00:23:32Z |  Automated changelog tool for preparing releases with lots of customization options. |
 | [ferama/rospo](https://github.com/ferama/rospo) | 359 | 30 | 2026-03-21T22:38:06Z |  Simple and reliable ssh tunnels with embedded ssh server in Golang. |
 | [alebeck/boring](https://github.com/alebeck/boring) | 1k | 40 | 2026-03-21T22:28:50Z |  Simple command-line SSH tunnel manager. |
-| [joshmedeski/sesh](https://github.com/joshmedeski/sesh) | 2k | 93 | 2026-03-21T21:08:07Z |  Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide. |
 | [owenthereal/upterm](https://github.com/owenthereal/upterm) | 1k | 75 | 2026-03-21T20:50:50Z |  A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more. |
-| [syst3mctl/godoclive](https://github.com/syst3mctl/godoclive) | 56 | 3 | 2026-03-21T20:11:09Z |  Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers. |
-| [wagoodman/dive](https://github.com/wagoodman/dive) | 54k | 2k | 2026-03-21T19:59:45Z |  A tool for exploring each layer in a Docker image. |
 | [gookit/filter](https://github.com/gookit/filter) | 150 | 12 | 2026-03-21T16:57:16Z |  provide filtering, sanitizing, and conversion of Go data. |
-| [samber/lo](https://github.com/samber/lo) | 21k | 938 | 2026-03-21T16:55:55Z |  A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [bcicen/ctop](https://github.com/bcicen/ctop) | 18k | 587 | 2026-03-21T14:44:25Z |  [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics. |
-| [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) | 2k | 36 | 2026-03-21T10:32:24Z |  Fault tolerance and resilience patterns for Go. |
 | [tdewolff/minify](https://github.com/tdewolff/minify) | 4k | 233 | 2026-03-21T09:18:35Z |  Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats. |
-| [miniscruff/changie](https://github.com/miniscruff/changie) | 868 | 44 | 2026-03-21T06:08:25Z |  Automated changelog tool for preparing releases with lots of customization options. |
-| [megaease/easeprobe](https://github.com/megaease/easeprobe) | 2k | 242 | 2026-03-21T03:12:42Z |  A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification. |
-| [minio/mc](https://github.com/minio/mc) | 3k | 667 | 2026-03-21T02:39:41Z |  Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems. |
-| [knq/usql](https://github.com/knq/usql) | 10k | 386 | 2026-03-20T22:42:47Z |  usql is a universal command-line interface for SQL databases. |
 | [avast/retry-go](https://github.com/avast/retry-go) | 3k | 169 | 2026-03-20T22:35:26Z |  Simple library for retry mechanism. |
-| [github/hub](https://github.com/github/hub) | 23k | 2k | 2026-03-20T22:20:34Z |  wrap git commands with additional functionality to interact with github from the terminal. |
-| [biter777/countries](https://github.com/biter777/countries) | 503 | 81 | 2026-03-20T22:20:25Z |  Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards. |
 | [Gituser143/cryptgo](https://github.com/Gituser143/cryptgo) | 159 | 19 | 2026-03-20T21:06:04Z |  Crytpgo is a TUI based application written purely in Go to monitor and observe cryptocurrency prices in real time! |
 | [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) | 654 | 65 | 2026-03-20T19:50:30Z |  Control mouse and keyboard from a smartphone. |
 | [gsamokovarov/jump](https://github.com/gsamokovarov/jump) | 2k | 60 | 2026-03-20T17:03:43Z |  Jump helps you navigate faster by learning your habits. |
 | [create-go-app/cli](https://github.com/create-go-app/cli) | 3k | 268 | 2026-03-20T16:54:53Z |  A powerful CLI for create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) & deploy automation (Ansible, Docker) by running one command. |
-| [asciimoo/wuzz](https://github.com/asciimoo/wuzz) | 11k | 409 | 2026-03-20T11:44:50Z |  Interactive cli tool for HTTP inspection. |
-| [mennanov/limiters](https://github.com/mennanov/limiters) | 624 | 60 | 2026-03-20T11:32:01Z |  Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks. |
 | [wgliang/goreporter](https://github.com/wgliang/goreporter) | 3k | 265 | 2026-03-20T10:57:35Z |  Golang tool that does static analysis, unit testing, code review and generate code quality report. |
 | [shoobyban/sshman](https://github.com/shoobyban/sshman) | 55 | 4 | 2026-03-20T09:46:27Z |  SSH Manager for authorized_keys files on multiple remote servers. |
-| [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | 18k | 1k | 2026-03-20T09:18:49Z |  provides a set of extensions on top of the excellent built-in database/sql package. |
-| [imdario/mergo](https://github.com/imdario/mergo) | 3k | 282 | 2026-03-20T04:28:25Z |  Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements. |
 | [golang-design/clipboard](https://github.com/golang-design/clipboard) | 770 | 80 | 2026-03-20T00:41:23Z |  📋 cross-platform clipboard package in Go. |
 | [davrodpin/mole](https://github.com/davrodpin/mole) | 2k | 97 | 2026-03-19T20:16:44Z |  cli app to easily create ssh tunnels. |
 | [maxbolgarin/lang](https://github.com/maxbolgarin/lang) | 5 | 0 | 2026-03-19T17:31:05Z |  Generic one-liners to work with variables, slices and maps without boilerplate code. |
-| [peco/peco](https://github.com/peco/peco) | 8k | 233 | 2026-03-19T15:10:26Z |  Simplistic interactive filtering tool. |
 | [maxbolgarin/abstract](https://github.com/maxbolgarin/abstract) | 2 | 0 | 2026-03-19T12:57:39Z |  Abstractions and utilities to get rid of boilerplate code in business logic. |
 | [georgysavva/scany](https://github.com/georgysavva/scany) | 2k | 76 | 2026-03-19T10:14:42Z |  Library for scanning data from a database into Go structs and more. |
-| [guumaster/hostctl](https://github.com/guumaster/hostctl) | 1k | 53 | 2026-03-18T08:40:15Z |  A CLI tool to manage /etc/hosts with easy commands. |
 | [thoas/go-funk](https://github.com/thoas/go-funk) | 5k | 276 | 2026-03-18T06:56:30Z |  Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...). |
-| [dropbox/godropbox](https://github.com/dropbox/godropbox) | 4k | 428 | 2026-03-18T06:26:21Z |  Common libraries for writing Go services/applications from Dropbox. |
 | [knbr13/gitcs](https://github.com/knbr13/gitcs/) | 131 | 10 | 2026-03-17T23:54:05Z |  Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine. |
-| [derekparker/delve](https://github.com/derekparker/delve) | 661 | 118 | 2026-03-17T22:04:31Z |  Go debugger. |
+| [derekparker/delve](https://github.com/derekparker/delve) | 661 | 117 | 2026-03-17T22:04:31Z |  Go debugger. |
 | [cep21/circuit](https://github.com/cep21/circuit) | 812 | 47 | 2026-03-17T20:03:27Z |  An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern. |
-| [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) | 2k | 186 | 2026-03-17T15:55:52Z |  Package for MIME type detection based on magic numbers. |
 | [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) | 497 | 80 | 2026-03-17T14:03:18Z |  Cross Platform tool to validate configuration files. |
 | [h2non/filetype](https://github.com/h2non/filetype) | 2k | 187 | 2026-03-17T12:28:55Z |  Small package to infer the file type checking the magic numbers signature. |
 | [maxbolgarin/contem](https://github.com/maxbolgarin/contem) | 4 | 0 | 2026-03-17T10:48:37Z |  Drop-in context.Context replacement for graceful shutdown Go applications. |
@@ -459,7 +459,7 @@ General utilities and tools to make your life easier.
 | [kazhuravlev/git-tools](https://github.com/kazhuravlev/git-tools) | 30 | 3 | 2026-03-07T17:31:53Z |  Tool to help manage git tags. |
 | [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) | 650 | 60 | 2026-03-06T07:15:50Z |  The management of multiple local services running over different ports made easy. |
 | [antham/yogo](https://github.com/antham/yogo) | 45 | 8 | 2026-03-05T19:06:26Z |  Check yopmail mails from command line. |
-| [git-time-metric/gtm](https://github.com/git-time-metric/gtm) | 1k | 53 | 2026-03-05T00:10:50Z |  Simple, seamless, lightweight time tracking for Git. |
+| [git-time-metric/gtm](https://github.com/git-time-metric/gtm) | 1k | 54 | 2026-03-05T00:10:50Z |  Simple, seamless, lightweight time tracking for Git. |
 | [hedhyw/json-log-viewer](https://github.com/hedhyw/json-log-viewer) | 217 | 13 | 2026-03-03T16:56:46Z |  Interactive viewer for JSON logs. |
 | [floatdrop/debounce](https://github.com/floatdrop/debounce) | 35 | 0 | 2026-03-03T15:46:25Z |  A zero-allocation debouncer written in Go. |
 | [mikekonan/go-types](https://github.com/mikekonan/go-types) | 23 | 13 | 2026-03-03T09:47:16Z |  Library providing Go types for store/validation and transfer of ISO-4217, ISO-3166, and other types. |

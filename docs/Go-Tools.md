@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-03-21T13:30:27Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-03-22T13:55:48Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 434 | 2026-03-21T16:58:28Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 282 | 2026-03-20T18:27:37Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 128 | 2026-03-20T13:02:45Z |  Go assembly and source viewer. |
@@ -32,7 +32,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-03-21T13:30:27Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-03-22T13:55:48Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 434 | 2026-03-21T16:58:28Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 282 | 2026-03-20T18:27:37Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 128 | 2026-03-20T13:02:45Z |  Go assembly and source viewer. |
@@ -58,8 +58,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-03-22T13:55:48Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 434 | 2026-03-21T16:58:28Z |  Visualize call graph of your Go program using dot format. |
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-03-21T13:30:27Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 282 | 2026-03-20T18:27:37Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 38 | 2026-03-20T14:40:59Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 128 | 2026-03-20T13:02:45Z |  Go assembly and source viewer. |

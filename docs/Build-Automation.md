@@ -6,8 +6,8 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 23k | 911 | 2026-03-21T23:07:56Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 15k | 808 | 2026-03-21T19:09:45Z |  simple "Make" alternative. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 23k | 910 | 2026-03-22T21:30:56Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 15k | 811 | 2026-03-22T16:48:41Z |  simple "Make" alternative. |
 | [magefile/mage](https://github.com/magefile/mage) | 5k | 272 | 2026-03-21T11:37:08Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-03-20T23:17:12Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-03-20T23:17:16Z |  Modern Make. |
@@ -23,8 +23,8 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 23k | 911 | 2026-03-21T23:07:56Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 15k | 808 | 2026-03-21T19:09:45Z |  simple "Make" alternative. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 23k | 910 | 2026-03-22T21:30:56Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 15k | 811 | 2026-03-22T16:48:41Z |  simple "Make" alternative. |
 | [magefile/mage](https://github.com/magefile/mage) | 5k | 272 | 2026-03-21T11:37:08Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-03-20T23:17:12Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-03-20T23:17:16Z |  Modern Make. |
@@ -40,8 +40,8 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 23k | 911 | 2026-03-21T23:07:56Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 15k | 808 | 2026-03-21T19:09:45Z |  simple "Make" alternative. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 23k | 910 | 2026-03-22T21:30:56Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 15k | 811 | 2026-03-22T16:48:41Z |  simple "Make" alternative. |
 | [magefile/mage](https://github.com/magefile/mage) | 5k | 272 | 2026-03-21T11:37:08Z |  Mage is a make/rake-like build tool using Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-03-20T23:17:16Z |  Modern Make. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-03-20T23:17:12Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
