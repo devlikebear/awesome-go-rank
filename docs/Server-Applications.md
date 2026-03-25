@@ -6,21 +6,21 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 71k | 5k | 2026-03-23T23:19:42Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
-| [minio/minio](https://github.com/minio/minio) | 61k | 7k | 2026-03-23T20:59:15Z |  Minio is a distributed object storage server. |
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 57k | 3k | 2026-03-23T23:24:36Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
-| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-03-23T19:12:35Z |  Highly-available key value store for shared configuration and service discovery. |
-| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 910 | 2026-03-23T16:06:47Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
-| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-03-23T06:46:08Z |  High-performance PHP application server, load-balancer and process manager. |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 71k | 5k | 2026-03-24T23:54:55Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
+| [minio/minio](https://github.com/minio/minio) | 61k | 7k | 2026-03-24T22:41:46Z |  Minio is a distributed object storage server. |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 57k | 3k | 2026-03-24T22:50:47Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-03-24T17:14:32Z |  Highly-available key value store for shared configuration and service discovery. |
+| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 910 | 2026-03-24T20:42:27Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
+| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-03-24T21:41:46Z |  High-performance PHP application server, load-balancer and process manager. |
 | [megaease/easegress](https://github.com/megaease/easegress) | 6k | 490 | 2026-03-21T15:21:22Z |  A cloud native high availability/performance traffic orchestration system with observability and extensibility. |
-| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 102 | 2026-03-23T15:16:25Z |  Make SSH apps, just like that! |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 280 | 2026-03-23T15:49:04Z |  A self contained feature flag solution written in Go and Vue.js |
-| [getfider/fider](https://github.com/getfider/fider) | 4k | 773 | 2026-03-23T16:36:57Z |  Fider is an open platform to collect and organize customer feedback. |
+| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 102 | 2026-03-24T17:10:17Z |  Make SSH apps, just like that! |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 280 | 2026-03-24T10:58:19Z |  A self contained feature flag solution written in Go and Vue.js |
+| [getfider/fider](https://github.com/getfider/fider) | 4k | 773 | 2026-03-24T11:30:44Z |  Fider is an open platform to collect and organize customer feedback. |
 | [cortesi/devd](https://github.com/cortesi/devd) | 3k | 147 | 2026-03-23T14:19:13Z |  Local webserver for developers. |
-| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 146 | 2026-03-23T21:04:08Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
-| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 201 | 2026-03-19T09:33:57Z |  Flagr is an open-source feature flagging and A/B testing service. |
+| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 145 | 2026-03-24T23:03:31Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
+| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 201 | 2026-03-24T13:07:08Z |  Flagr is an open-source feature flagging and A/B testing service. |
 | [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 184 | 2026-03-21T18:29:46Z |  HTTP reverse proxy cache and time series accelerator. |
-| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 203 | 2026-03-23T12:38:07Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
+| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 203 | 2026-03-24T01:33:55Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
 | [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 397 | 2026-03-19T06:33:40Z |  A registry for resilient mid-tier load balancing and failover. |
 | [openrundev/openrun](https://github.com/openrundev/openrun) | 814 | 24 | 2026-03-22T22:37:23Z |  Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team. |
 | [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 572 | 45 | 2026-03-22T12:28:48Z |  Self-hosted music streaming server with built-in web UI and REST API. |
@@ -40,22 +40,22 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-03-23T19:12:35Z |  Highly-available key value store for shared configuration and service discovery. |
-| [minio/minio](https://github.com/minio/minio) | 61k | 7k | 2026-03-23T20:59:15Z |  Minio is a distributed object storage server. |
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 71k | 5k | 2026-03-23T23:19:42Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 57k | 3k | 2026-03-23T23:24:36Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
-| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 910 | 2026-03-23T16:06:47Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
-| [getfider/fider](https://github.com/getfider/fider) | 4k | 773 | 2026-03-23T16:36:57Z |  Fider is an open platform to collect and organize customer feedback. |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-03-24T17:14:32Z |  Highly-available key value store for shared configuration and service discovery. |
+| [minio/minio](https://github.com/minio/minio) | 61k | 7k | 2026-03-24T22:41:46Z |  Minio is a distributed object storage server. |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 71k | 5k | 2026-03-24T23:54:55Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 57k | 3k | 2026-03-24T22:50:47Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
+| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 910 | 2026-03-24T20:42:27Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
+| [getfider/fider](https://github.com/getfider/fider) | 4k | 773 | 2026-03-24T11:30:44Z |  Fider is an open platform to collect and organize customer feedback. |
 | [megaease/easegress](https://github.com/megaease/easegress) | 6k | 490 | 2026-03-21T15:21:22Z |  A cloud native high availability/performance traffic orchestration system with observability and extensibility. |
-| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-03-23T06:46:08Z |  High-performance PHP application server, load-balancer and process manager. |
+| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-03-24T21:41:46Z |  High-performance PHP application server, load-balancer and process manager. |
 | [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 397 | 2026-03-19T06:33:40Z |  A registry for resilient mid-tier load balancing and failover. |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 280 | 2026-03-23T15:49:04Z |  A self contained feature flag solution written in Go and Vue.js |
-| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 203 | 2026-03-23T12:38:07Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
-| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 201 | 2026-03-19T09:33:57Z |  Flagr is an open-source feature flagging and A/B testing service. |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 280 | 2026-03-24T10:58:19Z |  A self contained feature flag solution written in Go and Vue.js |
+| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 203 | 2026-03-24T01:33:55Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
+| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 201 | 2026-03-24T13:07:08Z |  Flagr is an open-source feature flagging and A/B testing service. |
 | [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 184 | 2026-03-21T18:29:46Z |  HTTP reverse proxy cache and time series accelerator. |
 | [cortesi/devd](https://github.com/cortesi/devd) | 3k | 147 | 2026-03-23T14:19:13Z |  Local webserver for developers. |
-| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 146 | 2026-03-23T21:04:08Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
-| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 102 | 2026-03-23T15:16:25Z |  Make SSH apps, just like that! |
+| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 145 | 2026-03-24T23:03:31Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
+| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 102 | 2026-03-24T17:10:17Z |  Make SSH apps, just like that! |
 | [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 133 | 72 | 2026-03-23T10:36:35Z |  Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels. |
 | [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 572 | 45 | 2026-03-22T12:28:48Z |  Self-hosted music streaming server with built-in web UI and REST API. |
 | [openrundev/openrun](https://github.com/openrundev/openrun) | 814 | 24 | 2026-03-22T22:37:23Z |  Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team. |
@@ -74,24 +74,24 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 57k | 3k | 2026-03-23T23:24:36Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 71k | 5k | 2026-03-23T23:19:42Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
-| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 146 | 2026-03-23T21:04:08Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
-| [minio/minio](https://github.com/minio/minio) | 61k | 7k | 2026-03-23T20:59:15Z |  Minio is a distributed object storage server. |
-| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-03-23T19:12:35Z |  Highly-available key value store for shared configuration and service discovery. |
-| [getfider/fider](https://github.com/getfider/fider) | 4k | 773 | 2026-03-23T16:36:57Z |  Fider is an open platform to collect and organize customer feedback. |
-| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 910 | 2026-03-23T16:06:47Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
-| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 280 | 2026-03-23T15:49:04Z |  A self contained feature flag solution written in Go and Vue.js |
-| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 102 | 2026-03-23T15:16:25Z |  Make SSH apps, just like that! |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 71k | 5k | 2026-03-24T23:54:55Z |  Caddy is an alternative, HTTP/2 web server that's easy to configure and use. |
+| [xyproto/algernon](https://github.com/xyproto/algernon) | 3k | 145 | 2026-03-24T23:03:31Z |  HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber. |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 57k | 3k | 2026-03-24T22:50:47Z |  PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more. |
+| [minio/minio](https://github.com/minio/minio) | 61k | 7k | 2026-03-24T22:41:46Z |  Minio is a distributed object storage server. |
+| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-03-24T21:41:46Z |  High-performance PHP application server, load-balancer and process manager. |
+| [drakkan/sftpgo](https://github.com/drakkan/sftpgo) | 12k | 910 | 2026-03-24T20:42:27Z |  Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage. |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52k | 10k | 2026-03-24T17:14:32Z |  Highly-available key value store for shared configuration and service discovery. |
+| [charmbracelet/wish](https://github.com/charmbracelet/wish) | 5k | 102 | 2026-03-24T17:10:17Z |  Make SSH apps, just like that! |
+| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 201 | 2026-03-24T13:07:08Z |  Flagr is an open-source feature flagging and A/B testing service. |
+| [getfider/fider](https://github.com/getfider/fider) | 4k | 773 | 2026-03-24T11:30:44Z |  Fider is an open platform to collect and organize customer feedback. |
+| [markphelps/flipt](https://github.com/markphelps/flipt) | 5k | 280 | 2026-03-24T10:58:19Z |  A self contained feature flag solution written in Go and Vue.js |
+| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 203 | 2026-03-24T01:33:55Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
 | [cortesi/devd](https://github.com/cortesi/devd) | 3k | 147 | 2026-03-23T14:19:13Z |  Local webserver for developers. |
-| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | 2k | 203 | 2026-03-23T12:38:07Z |  A simple, complete and lightweight self-hosted feature flag solution 100% Open Source. |
 | [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 133 | 72 | 2026-03-23T10:36:35Z |  Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels. |
-| [spiral/roadrunner](https://github.com/spiral/roadrunner) | 8k | 421 | 2026-03-23T06:46:08Z |  High-performance PHP application server, load-balancer and process manager. |
 | [openrundev/openrun](https://github.com/openrundev/openrun) | 814 | 24 | 2026-03-22T22:37:23Z |  Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team. |
 | [ironsmile/euterpe](https://github.com/ironsmile/euterpe) | 572 | 45 | 2026-03-22T12:28:48Z |  Self-hosted music streaming server with built-in web UI and REST API. |
 | [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) | 2k | 184 | 2026-03-21T18:29:46Z |  HTTP reverse proxy cache and time series accelerator. |
 | [megaease/easegress](https://github.com/megaease/easegress) | 6k | 490 | 2026-03-21T15:21:22Z |  A cloud native high availability/performance traffic orchestration system with observability and extensibility. |
-| [checkr/flagr](https://github.com/checkr/flagr) | 3k | 201 | 2026-03-19T09:33:57Z |  Flagr is an open-source feature flagging and A/B testing service. |
 | [Bilibili/discovery](https://github.com/Bilibili/discovery) | 2k | 397 | 2026-03-19T06:33:40Z |  A registry for resilient mid-tier load balancing and failover. |
 | [rekby/lets-proxy2](https://github.com/rekby/lets-proxy2) | 102 | 18 | 2026-03-13T21:09:53Z |  Reverse proxy for handle https with issue certificates in fly from lets-encrypt. |
 | [fabiocicerchia/go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 150 | 19 | 2026-01-22T09:57:20Z |  Simple Reverse Proxy with Caching, written in Go, using Redis. |
