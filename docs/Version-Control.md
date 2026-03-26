@@ -6,7 +6,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 7k | 897 | 2026-03-24T22:13:51Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 7k | 898 | 2026-03-25T13:36:21Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 290 | 2026-03-23T01:55:36Z |  gaining advanced insights from Git repository history. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 327 | 2026-03-22T09:35:21Z |  Go bindings for libgit2. |
 | [bmf-san/ggc](https://github.com/bmf-san/ggc) | 274 | 9 | 2026-03-23T11:49:11Z |  A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings. |
@@ -19,7 +19,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 7k | 897 | 2026-03-24T22:13:51Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 7k | 898 | 2026-03-25T13:36:21Z |  highly extensible Git implementation in pure Go. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 327 | 2026-03-22T09:35:21Z |  Go bindings for libgit2. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 290 | 2026-03-23T01:55:36Z |  gaining advanced insights from Git repository history. |
 | [jfrog/froggit-go](https://github.com/jfrog/froggit-go) | 52 | 29 | 2026-03-10T11:47:38Z |  Froggit-Go is a Go library, allowing to perform actions on VCS providers. |
@@ -32,7 +32,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 7k | 897 | 2026-03-24T22:13:51Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 7k | 898 | 2026-03-25T13:36:21Z |  highly extensible Git implementation in pure Go. |
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 122 | 6 | 2026-03-24T15:44:46Z |  Per-repo and shared Git hooks with version control and auto update. |
 | [bmf-san/ggc](https://github.com/bmf-san/ggc) | 274 | 9 | 2026-03-23T11:49:11Z |  A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 290 | 2026-03-23T01:55:36Z |  gaining advanced insights from Git repository history. |
