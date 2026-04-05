@@ -23,6 +23,7 @@ Libraries for scheduling jobs.
 | [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-03-10T19:11:14Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-03-17T02:28:46Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
+| [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 2 | 0 | 2026-04-04T13:42:13Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 1 | 0 | 2026-03-30T02:37:33Z |  A flexible and extensible job scheduling and execution library for Go. |
 
 ### Ranked by Forks
@@ -46,12 +47,14 @@ Libraries for scheduling jobs.
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-03-10T19:11:14Z |  A job scheduler with the ability to fast-forward time. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-03-17T02:28:46Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
+| [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 2 | 0 | 2026-04-04T13:42:13Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 1 | 0 | 2026-03-30T02:37:33Z |  A flexible and extensible job scheduling and execution library for Go. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 2 | 0 | 2026-04-04T13:42:13Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 343 | 2026-04-02T18:05:36Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 94 | 2026-04-01T05:03:38Z |  Simple, zero-dependency scheduling library for Go. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 476 | 35 | 2026-03-31T14:30:26Z |  A simple but powerful DAG scheduler and dashboard. |

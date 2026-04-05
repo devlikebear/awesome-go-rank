@@ -10,7 +10,7 @@ Geographic tools and servers
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 780 | 119 | 2026-03-31T17:00:04Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 531 | 109 | 2026-03-28T17:41:39Z |  A library provides spatial data and geometric algorithms. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 449 | 56 | 2026-04-03T12:38:05Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
-| [uber/h3-go](https://github.com/uber/h3-go) | 415 | 69 | 2026-04-01T19:24:13Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
+| [uber/h3-go](https://github.com/uber/h3-go) | 416 | 69 | 2026-04-04T14:41:48Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 174 | 36 | 2026-03-10T16:08:11Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 172 | 26 | 2026-03-30T05:32:52Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [wroge/wgs84](https://github.com/wroge/wgs84) | 141 | 18 | 2026-03-15T10:07:20Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
@@ -30,7 +30,7 @@ Geographic tools and servers
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 608 | 2026-04-02T10:32:37Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 780 | 119 | 2026-03-31T17:00:04Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 531 | 109 | 2026-03-28T17:41:39Z |  A library provides spatial data and geometric algorithms. |
-| [uber/h3-go](https://github.com/uber/h3-go) | 415 | 69 | 2026-04-01T19:24:13Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
+| [uber/h3-go](https://github.com/uber/h3-go) | 416 | 69 | 2026-04-04T14:41:48Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 449 | 56 | 2026-04-03T12:38:05Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 174 | 36 | 2026-03-10T16:08:11Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 172 | 26 | 2026-03-30T05:32:52Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
@@ -48,9 +48,9 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [uber/h3-go](https://github.com/uber/h3-go) | 416 | 69 | 2026-04-04T14:41:48Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [paulmach/osm](https://github.com/paulmach/osm) | 449 | 56 | 2026-04-03T12:38:05Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 608 | 2026-04-02T10:32:37Z |  Geolocation DB with spatial index and realtime geofencing. |
-| [uber/h3-go](https://github.com/uber/h3-go) | 415 | 69 | 2026-04-01T19:24:13Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 780 | 119 | 2026-03-31T17:00:04Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 172 | 26 | 2026-03-30T05:32:52Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 531 | 109 | 2026-03-28T17:41:39Z |  A library provides spatial data and geometric algorithms. |

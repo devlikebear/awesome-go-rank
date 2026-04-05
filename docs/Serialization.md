@@ -6,7 +6,7 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-04-03T19:02:00Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-04-04T05:44:05Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 305 | 2026-04-02T08:31:03Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 77 | 2026-03-31T12:10:04Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 66 | 2026-03-27T16:46:29Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
@@ -29,7 +29,7 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-04-03T19:02:00Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-04-04T05:44:05Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 305 | 2026-04-02T08:31:03Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 77 | 2026-03-31T12:10:04Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 66 | 2026-03-27T16:46:29Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
@@ -52,8 +52,8 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-04-04T05:44:05Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ghostiam/binstruct](https://github.com/ghostiam/binstruct) | 114 | 19 | 2026-04-03T19:33:07Z |  Golang binary decoder for mapping data into the structure. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-04-03T19:02:00Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 305 | 2026-04-02T08:31:03Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 77 | 2026-03-31T12:10:04Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 66 | 2026-03-27T16:46:29Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
