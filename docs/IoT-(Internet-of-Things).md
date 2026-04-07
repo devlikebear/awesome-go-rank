@@ -10,7 +10,7 @@ Libraries for programming devices of the IoT.
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2026-04-02T11:06:42Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 449 | 2026-04-04T21:40:14Z |  Lightweight data stream processing engine for IoT edge. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 1k | 142 | 2026-04-05T16:20:00Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 135 | 2026-04-04T15:19:22Z |  Kubernetes native IoT development framework. |
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 136 | 2026-04-06T04:20:22Z |  Kubernetes native IoT development framework. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 286 | 2026-03-21T09:59:17Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 422 | 32 | 2026-03-09T02:27:36Z |  Open-Source Platform for Quantified Self & IoT. |
 | [goiot/devices](https://github.com/goiot/devices) | 265 | 31 | 2025-12-23T20:54:01Z |  Suite of libraries for IoT devices, experimental for x/exp/io. |
@@ -29,7 +29,7 @@ Libraries for programming devices of the IoT.
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2026-04-02T11:06:42Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 286 | 2026-03-21T09:59:17Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 1k | 142 | 2026-04-05T16:20:00Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 135 | 2026-04-04T15:19:22Z |  Kubernetes native IoT development framework. |
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 136 | 2026-04-06T04:20:22Z |  Kubernetes native IoT development framework. |
 | [sensorbee/sensorbee](https://github.com/sensorbee/sensorbee) | 230 | 43 | 2025-08-09T14:10:36Z |  Lightweight stream processing engine for IoT. |
 | [amimof/huego](https://github.com/amimof/huego) | 262 | 35 | 2026-03-11T05:56:14Z |  An extensive Philips Hue client library for Go. |
 | [connectordb/connectordb](https://github.com/connectordb/connectordb) | 422 | 32 | 2026-03-09T02:27:36Z |  Open-Source Platform for Quantified Self & IoT. |
@@ -42,11 +42,11 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 136 | 2026-04-06T04:20:22Z |  Kubernetes native IoT development framework. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 1k | 142 | 2026-04-05T16:20:00Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
 | [e154/smart-home](https://github.com/e154/smart-home) | 97 | 13 | 2026-04-05T05:01:39Z |  Software package for IoT automation. |
 | [hybridgroup/gobot](https://github.com/hybridgroup/gobot/) | 9k | 1k | 2026-04-04T22:38:01Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 449 | 2026-04-04T21:40:14Z |  Lightweight data stream processing engine for IoT edge. |
-| [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 135 | 2026-04-04T15:19:22Z |  Kubernetes native IoT development framework. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 292 | 2026-04-02T11:06:42Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 286 | 2026-03-21T09:59:17Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
 | [amimof/huego](https://github.com/amimof/huego) | 262 | 35 | 2026-03-11T05:56:14Z |  An extensive Philips Hue client library for Go. |

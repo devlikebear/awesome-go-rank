@@ -6,14 +6,14 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 45k | 5k | 2026-04-05T23:55:20Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
-| [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-04-05T16:24:50Z |  Golang ebook intro how to build a web app with golang. |
-| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-04-05T20:50:03Z |  List of other amazingly awesome lists. |
-| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-04-05T21:47:58Z |  Curated list of Go design patterns, recipes and idioms. |
-| [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-04-05T13:50:56Z |  Learn Go with test-driven development. |
-| [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-04-05T07:36:54Z |  Learn Go with thousands of examples, exercises, and quizzes. |
-| [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 9k | 1k | 2026-04-05T13:46:06Z |  Go's reference card. |
-| [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | 8k | 654 | 2026-04-05T22:49:23Z |  Clean Architecture template for Golang services. |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 45k | 5k | 2026-04-07T00:09:44Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
+| [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-04-06T11:11:49Z |  Golang ebook intro how to build a web app with golang. |
+| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-04-06T22:11:44Z |  List of other amazingly awesome lists. |
+| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-04-06T23:43:06Z |  Curated list of Go design patterns, recipes and idioms. |
+| [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-04-06T12:51:26Z |  Learn Go with test-driven development. |
+| [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-04-06T13:42:44Z |  Learn Go with thousands of examples, exercises, and quizzes. |
+| [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 9k | 1k | 2026-04-06T17:22:22Z |  Go's reference card. |
+| [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | 8k | 654 | 2026-04-06T17:51:11Z |  Clean Architecture template for Golang services. |
 | [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) | 5k | 528 | 2026-04-03T12:06:50Z |  Examples of Golang compared to Node.js for learning. |
 | [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | 2k | 1k | 2026-04-05T17:48:42Z |  A GitHub repository offering coding challenges for Go technical interview preparation. |
 | [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) | 2k | 459 | 2026-04-01T21:04:59Z |  Many examples to learn Golang. |
@@ -28,15 +28,15 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-04-05T16:24:50Z |  Golang ebook intro how to build a web app with golang. |
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 45k | 5k | 2026-04-05T23:55:20Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
-| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-04-05T20:50:03Z |  List of other amazingly awesome lists. |
-| [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-04-05T13:50:56Z |  Learn Go with test-driven development. |
-| [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-04-05T07:36:54Z |  Learn Go with thousands of examples, exercises, and quizzes. |
-| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-04-05T21:47:58Z |  Curated list of Go design patterns, recipes and idioms. |
-| [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 9k | 1k | 2026-04-05T13:46:06Z |  Go's reference card. |
+| [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-04-06T11:11:49Z |  Golang ebook intro how to build a web app with golang. |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 45k | 5k | 2026-04-07T00:09:44Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
+| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-04-06T22:11:44Z |  List of other amazingly awesome lists. |
+| [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-04-06T12:51:26Z |  Learn Go with test-driven development. |
+| [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-04-06T13:42:44Z |  Learn Go with thousands of examples, exercises, and quizzes. |
+| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-04-06T23:43:06Z |  Curated list of Go design patterns, recipes and idioms. |
+| [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 9k | 1k | 2026-04-06T17:22:22Z |  Go's reference card. |
 | [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | 2k | 1k | 2026-04-05T17:48:42Z |  A GitHub repository offering coding challenges for Go technical interview preparation. |
-| [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | 8k | 654 | 2026-04-05T22:49:23Z |  Clean Architecture template for Golang services. |
+| [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | 8k | 654 | 2026-04-06T17:51:11Z |  Clean Architecture template for Golang services. |
 | [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) | 5k | 528 | 2026-04-03T12:06:50Z |  Examples of Golang compared to Node.js for learning. |
 | [SimonWaldherr/golang-examples](https://github.com/SimonWaldherr/golang-examples) | 2k | 459 | 2026-04-01T21:04:59Z |  Many examples to learn Golang. |
 | [amit-davidson/awesome-golang-workshops](https://github.com/amit-davidson/awesome-golang-workshops) | 525 | 29 | 2026-04-03T01:57:50Z |  A curated list of awesome golang workshops. |
@@ -50,15 +50,15 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 45k | 5k | 2026-04-05T23:55:20Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
-| [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | 8k | 654 | 2026-04-05T22:49:23Z |  Clean Architecture template for Golang services. |
-| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-04-05T21:47:58Z |  Curated list of Go design patterns, recipes and idioms. |
-| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-04-05T20:50:03Z |  List of other amazingly awesome lists. |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 45k | 5k | 2026-04-07T00:09:44Z |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |
+| [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | 28k | 2k | 2026-04-06T23:43:06Z |  Curated list of Go design patterns, recipes and idioms. |
+| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33k | 4k | 2026-04-06T22:11:44Z |  List of other amazingly awesome lists. |
+| [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | 8k | 654 | 2026-04-06T17:51:11Z |  Clean Architecture template for Golang services. |
+| [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 9k | 1k | 2026-04-06T17:22:22Z |  Go's reference card. |
+| [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-04-06T13:42:44Z |  Learn Go with thousands of examples, exercises, and quizzes. |
+| [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-04-06T12:51:26Z |  Learn Go with test-driven development. |
+| [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-04-06T11:11:49Z |  Golang ebook intro how to build a web app with golang. |
 | [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | 2k | 1k | 2026-04-05T17:48:42Z |  A GitHub repository offering coding challenges for Go technical interview preparation. |
-| [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 44k | 11k | 2026-04-05T16:24:50Z |  Golang ebook intro how to build a web app with golang. |
-| [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | 24k | 3k | 2026-04-05T13:50:56Z |  Learn Go with test-driven development. |
-| [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 9k | 1k | 2026-04-05T13:46:06Z |  Go's reference card. |
-| [inancgumus/learngo](https://github.com/inancgumus/learngo) | 20k | 3k | 2026-04-05T07:36:54Z |  Learn Go with thousands of examples, exercises, and quizzes. |
 | [harrytran103/7_days_of_go](https://github.com/harrytran103/7_days_of_go) | 161 | 10 | 2026-04-04T08:37:35Z |  Learn everything about Go in 7 days (from a Nodejs developer). |
 | [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) | 5k | 528 | 2026-04-03T12:06:50Z |  Examples of Golang compared to Node.js for learning. |
 | [amit-davidson/awesome-golang-workshops](https://github.com/amit-davidson/awesome-golang-workshops) | 525 | 29 | 2026-04-03T01:57:50Z |  A curated list of awesome golang workshops. |
