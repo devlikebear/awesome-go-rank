@@ -6,7 +6,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 260 | 2026-04-10T07:09:19Z |  A simple, semantic and developer-friendly time package for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 260 | 2026-04-11T18:57:16Z |  A simple, semantic and developer-friendly time package for golang. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 237 | 2026-04-02T07:54:56Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2026-04-09T06:56:07Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 782 | 55 | 2026-03-25T16:03:13Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
@@ -35,7 +35,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 260 | 2026-04-10T07:09:19Z |  A simple, semantic and developer-friendly time package for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 260 | 2026-04-11T18:57:16Z |  A simple, semantic and developer-friendly time package for golang. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 237 | 2026-04-02T07:54:56Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2026-04-09T06:56:07Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 782 | 55 | 2026-03-25T16:03:13Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
@@ -64,7 +64,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 260 | 2026-04-10T07:09:19Z |  A simple, semantic and developer-friendly time package for golang. |
+| [dromara/carbon](https://github.com/dromara/carbon) | 5k | 260 | 2026-04-11T18:57:16Z |  A simple, semantic and developer-friendly time package for golang. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2026-04-09T15:32:39Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
 | [chmenegatti/go-date-fns](https://github.com/chmenegatti/go-date-fns) | 4 | 0 | 2026-04-09T15:31:32Z |  A comprehensive date utility library for Go, inspired by date-fns, with 140+ pure and immutable functions. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 173 | 2026-04-09T06:56:07Z |  Parse date's without knowing format in advance. |
