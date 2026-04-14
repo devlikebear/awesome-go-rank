@@ -6,9 +6,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-04-12T20:05:03Z |  |
-| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 17k | 2k | 2026-04-12T09:05:24Z |  |
-| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-04-12T22:07:52Z |  |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-04-13T23:45:08Z |  |
+| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 17k | 2k | 2026-04-13T23:26:26Z |  |
+| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-04-13T22:03:46Z |  |
 | [betrybe/playbook-go](https://github.com/betrybe/playbook-go/blob/main/README_EN.md) | 309 | 12 | 2025-07-28T11:26:00Z |  |
 | [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) | 0 | 0 | 0001-01-01T00:00:00Z |  |
 
@@ -16,9 +16,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-04-12T22:07:52Z |  |
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-04-12T20:05:03Z |  |
-| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 17k | 2k | 2026-04-12T09:05:24Z |  |
+| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-04-13T22:03:46Z |  |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-04-13T23:45:08Z |  |
+| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 17k | 2k | 2026-04-13T23:26:26Z |  |
 | [betrybe/playbook-go](https://github.com/betrybe/playbook-go/blob/main/README_EN.md) | 309 | 12 | 2025-07-28T11:26:00Z |  |
 | [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) | 0 | 0 | 0001-01-01T00:00:00Z |  |
 
@@ -26,9 +26,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-04-12T22:07:52Z |  |
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-04-12T20:05:03Z |  |
-| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 17k | 2k | 2026-04-12T09:05:24Z |  |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-04-13T23:45:08Z |  |
+| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 17k | 2k | 2026-04-13T23:26:26Z |  |
+| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-04-13T22:03:46Z |  |
 | [betrybe/playbook-go](https://github.com/betrybe/playbook-go/blob/main/README_EN.md) | 309 | 12 | 2025-07-28T11:26:00Z |  |
 | [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) | 0 | 0 | 0001-01-01T00:00:00Z |  |
 
