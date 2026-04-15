@@ -6,9 +6,9 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 473 | 2026-04-13T16:11:08Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 473 | 2026-04-14T23:56:09Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 226 | 2026-04-13T10:10:05Z |  GPIO for Go, doesn't require cgo. |
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 216 | 2026-04-14T00:09:57Z |  Golang hardware discovery/inspection library. |
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 216 | 2026-04-14T22:30:26Z |  Golang hardware discovery/inspection library. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 69 | 2026-04-11T10:56:17Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 575 | 105 | 2026-04-01T01:04:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 368 | 72 | 2026-03-30T22:46:10Z |  Robot Operating System (ROS) library for Go. |
@@ -20,9 +20,9 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 473 | 2026-04-13T16:11:08Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 473 | 2026-04-14T23:56:09Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 226 | 2026-04-13T10:10:05Z |  GPIO for Go, doesn't require cgo. |
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 216 | 2026-04-14T00:09:57Z |  Golang hardware discovery/inspection library. |
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 216 | 2026-04-14T22:30:26Z |  Golang hardware discovery/inspection library. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 575 | 105 | 2026-04-01T01:04:49Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 368 | 72 | 2026-03-30T22:46:10Z |  Robot Operating System (ROS) library for Go. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 69 | 2026-04-11T10:56:17Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
@@ -34,8 +34,8 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 216 | 2026-04-14T00:09:57Z |  Golang hardware discovery/inspection library. |
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 473 | 2026-04-13T16:11:08Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 473 | 2026-04-14T23:56:09Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 216 | 2026-04-14T22:30:26Z |  Golang hardware discovery/inspection library. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 226 | 2026-04-13T10:10:05Z |  GPIO for Go, doesn't require cgo. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 69 | 2026-04-11T10:56:17Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [dinakars777/moody](https://github.com/dinakars777/moody) | 2 | 0 | 2026-04-08T18:56:02Z |  Hardware event personality daemon for macOS. Monitors USB, charger, lid, and other hardware events and responds with customizable personalities. |
