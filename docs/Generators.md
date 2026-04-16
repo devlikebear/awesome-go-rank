@@ -6,7 +6,7 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 8k | 1k | 2026-04-14T13:44:29Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 8k | 1k | 2026-04-15T09:46:59Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 224 | 2026-04-14T01:44:56Z |  .NET LINQ-like query methods for Go. |
 | [dave/jennifer](https://github.com/dave/jennifer) | 4k | 162 | 2026-04-13T07:47:13Z |  Generate arbitrary Go code without templates. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 1k | 93 | 2026-04-14T17:38:40Z |  Generate decorators for Go interfaces using simple templates. |
@@ -17,7 +17,7 @@ Tools that generate Go code.
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 404 | 22 | 2026-04-06T00:44:21Z |  Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 50 | 9 | 2026-03-17T14:38:36Z |  Feature rich type-to-type copy code generator. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 47 | 1 | 2025-05-23T22:04:57Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
-| [antst/go-apispec](https://github.com/antst/go-apispec) | 27 | 0 | 2026-04-14T09:23:31Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
+| [antst/go-apispec](https://github.com/antst/go-apispec) | 27 | 0 | 2026-04-15T12:01:32Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
 | [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 21 | 1 | 2026-04-08T13:51:56Z |  Generate HTTP server and client from protobuf. |
 | [nikolaydubina/go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) | 15 | 1 | 2026-03-26T10:21:07Z |  Code generation for enum encoding from code comments. |
@@ -26,7 +26,7 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 8k | 1k | 2026-04-14T13:44:29Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 8k | 1k | 2026-04-15T09:46:59Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 224 | 2026-04-14T01:44:56Z |  .NET LINQ-like query methods for Go. |
 | [dave/jennifer](https://github.com/dave/jennifer) | 4k | 162 | 2026-04-13T07:47:13Z |  Generate arbitrary Go code without templates. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 1k | 93 | 2026-04-14T17:38:40Z |  Generate decorators for Go interfaces using simple templates. |
@@ -40,15 +40,15 @@ Tools that generate Go code.
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
 | [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 21 | 1 | 2026-04-08T13:51:56Z |  Generate HTTP server and client from protobuf. |
 | [nikolaydubina/go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) | 15 | 1 | 2026-03-26T10:21:07Z |  Code generation for enum encoding from code comments. |
-| [antst/go-apispec](https://github.com/antst/go-apispec) | 27 | 0 | 2026-04-14T09:23:31Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
+| [antst/go-apispec](https://github.com/antst/go-apispec) | 27 | 0 | 2026-04-15T12:01:32Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [antst/go-apispec](https://github.com/antst/go-apispec) | 27 | 0 | 2026-04-15T12:01:32Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 8k | 1k | 2026-04-15T09:46:59Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 1k | 93 | 2026-04-14T17:38:40Z |  Generate decorators for Go interfaces using simple templates. |
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 8k | 1k | 2026-04-14T13:44:29Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
-| [antst/go-apispec](https://github.com/antst/go-apispec) | 27 | 0 | 2026-04-14T09:23:31Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 224 | 2026-04-14T01:44:56Z |  .NET LINQ-like query methods for Go. |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 841 | 63 | 2026-04-13T12:55:25Z |  Generate converters by defining an interface. |
 | [dave/jennifer](https://github.com/dave/jennifer) | 4k | 162 | 2026-04-13T07:47:13Z |  Generate arbitrary Go code without templates. |
