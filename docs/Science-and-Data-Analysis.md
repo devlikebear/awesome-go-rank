@@ -43,8 +43,8 @@ Libraries for scientific computing and data analyzing.
 | [keilerkonzept/topk](https://github.com/keilerkonzept/topk) | 17 | 3 | 2026-04-10T02:45:35Z |  Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm. |
 | [khezen/rootfinding](https://github.com/khezen/rootfinding) | 12 | 2 | 2025-11-06T10:33:21Z |  root-finding algorithms library for finding roots of quadratic functions. |
 | [seanhagen/bradleyterry](https://github.com/seanhagen/bradleyterry) | 11 | 2 | 2024-10-22T01:01:51Z |  Provides a Bradley-Terry Model for pairwise comparisons. |
+| [scigolib/matlab](https://github.com/scigolib/matlab) | 11 | 0 | 2026-04-16T02:22:56Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [ThePaw/go-gt](https://github.com/ThePaw/go-gt) | 11 | 2 | 2024-08-06T03:42:36Z |  Graph theory algorithms written in "Go" language. |
-| [scigolib/matlab](https://github.com/scigolib/matlab) | 10 | 0 | 2026-04-05T07:10:56Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [MatProGo-dev/MatProInterface.go](https://github.com/MatProGo-dev/MatProInterface.go) | 2 | 0 | 2026-02-20T01:28:47Z |  MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go. |
 | [ndabAP/entitydebs](https://github.com/ndabAP/entitydebs) | 1 | 0 | 2025-11-03T11:01:52Z |  A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser. |
 
@@ -90,7 +90,7 @@ Libraries for scientific computing and data analyzing.
 | [seanhagen/bradleyterry](https://github.com/seanhagen/bradleyterry) | 11 | 2 | 2024-10-22T01:01:51Z |  Provides a Bradley-Terry Model for pairwise comparisons. |
 | [ThePaw/go-gt](https://github.com/ThePaw/go-gt) | 11 | 2 | 2024-08-06T03:42:36Z |  Graph theory algorithms written in "Go" language. |
 | [soypat/godesim](https://github.com/soypat/godesim) | 23 | 1 | 2024-01-05T15:41:16Z |  Extended/multivariable ODE solver framework for event-based simulations with simple API. |
-| [scigolib/matlab](https://github.com/scigolib/matlab) | 10 | 0 | 2026-04-05T07:10:56Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
+| [scigolib/matlab](https://github.com/scigolib/matlab) | 11 | 0 | 2026-04-16T02:22:56Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [MatProGo-dev/MatProInterface.go](https://github.com/MatProGo-dev/MatProInterface.go) | 2 | 0 | 2026-02-20T01:28:47Z |  MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go. |
 | [ndabAP/entitydebs](https://github.com/ndabAP/entitydebs) | 1 | 0 | 2025-11-03T11:01:52Z |  A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser. |
 
@@ -98,6 +98,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [scigolib/matlab](https://github.com/scigolib/matlab) | 11 | 0 | 2026-04-16T02:22:56Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 101 | 2026-04-15T21:53:28Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [claygod/PiHex](https://github.com/claygod/PiHex) | 20 | 4 | 2026-04-15T17:01:48Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
 | [bebop/poly](https://github.com/bebop/poly) | 724 | 73 | 2026-04-14T14:34:06Z |  A Go package for engineering organisms. |
@@ -110,7 +111,6 @@ Libraries for scientific computing and data analyzing.
 | [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 469 | 30 | 2026-04-09T02:15:38Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-04-08T05:40:21Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [HazelnutParadise/insyra](https://github.com/HazelnutParadise/insyra) | 50 | 2 | 2026-04-07T02:39:03Z |  Data analysis library with statistics, visualization, Parquet support, and Python integration. |
-| [scigolib/matlab](https://github.com/scigolib/matlab) | 10 | 0 | 2026-04-05T07:10:56Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [scigolib/hdf5](https://github.com/scigolib/hdf5) | 26 | 3 | 2026-04-05T07:01:26Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 911 | 87 | 2026-04-04T07:24:24Z |  Digital Signal Processing for Go. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 104 | 2026-03-26T14:37:25Z |  general purpose, graphical tool for dealing with streams of data. |

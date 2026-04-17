@@ -8,7 +8,7 @@
 |------------|-------|-------|--------------|-------------|
 | [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 217 | 2026-04-15T13:33:28Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
 | [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-04-15T01:01:39Z |  Free gophers. |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-04-15T09:38:45Z |  Gopher artworks by Ashley McNamara. |
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-04-16T09:24:22Z |  Gopher artworks by Ashley McNamara. |
 | [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 753 | 56 | 2026-04-05T03:52:06Z |  Gopherize yourself. |
 | [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 629 | 29 | 2026-03-13T13:29:03Z |  |
 | [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 606 | 33 | 2026-04-14T14:54:00Z |  |
@@ -24,7 +24,7 @@
 |------------|-------|-------|--------------|-------------|
 | [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 217 | 2026-04-15T13:33:28Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
 | [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-04-15T01:01:39Z |  Free gophers. |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-04-15T09:38:45Z |  Gopher artworks by Ashley McNamara. |
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-04-16T09:24:22Z |  Gopher artworks by Ashley McNamara. |
 | [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 753 | 56 | 2026-04-05T03:52:06Z |  Gopherize yourself. |
 | [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 606 | 33 | 2026-04-14T14:54:00Z |  |
 | [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 629 | 29 | 2026-03-13T13:29:03Z |  |
@@ -38,8 +38,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-04-16T09:24:22Z |  Gopher artworks by Ashley McNamara. |
 | [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 217 | 2026-04-15T13:33:28Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-04-15T09:38:45Z |  Gopher artworks by Ashley McNamara. |
 | [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-04-15T01:01:39Z |  Free gophers. |
 | [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 606 | 33 | 2026-04-14T14:54:00Z |  |
 | [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 753 | 56 | 2026-04-05T03:52:06Z |  Gopherize yourself. |
