@@ -23,7 +23,7 @@ Libraries for working with dates and times.
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 35 | 4 | 2026-02-06T14:33:27Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
 | [GuilhermeCaruso/kair](https://github.com/GuilhermeCaruso/kair) | 24 | 6 | 2024-06-23T06:09:32Z |  Date and Time - Golang Formatting Library. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2026-04-09T15:32:39Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 17 | 2 | 2026-04-16T18:23:58Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 17 | 2 | 2026-04-20T20:39:31Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 14 | 5 | 2025-12-22T16:40:59Z |  C99-compatible strftime formatter. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2026-02-26T12:45:38Z |  Ruby-compatible Strftime function. |
 | [stoewer/go-week](https://github.com/stoewer/go-week) | 11 | 8 | 2025-12-28T00:43:08Z |  An efficient package to work with ISO8601 week dates. |
@@ -55,7 +55,7 @@ Libraries for working with dates and times.
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 14 | 5 | 2025-12-22T16:40:59Z |  C99-compatible strftime formatter. |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 35 | 4 | 2026-02-06T14:33:27Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
 | [osteele/tuesday](https://github.com/osteele/tuesday) | 12 | 3 | 2026-02-26T12:45:38Z |  Ruby-compatible Strftime function. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 17 | 2 | 2026-04-16T18:23:58Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 17 | 2 | 2026-04-20T20:39:31Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [harkaitz/go-faketime](https://github.com/harkaitz/go-faketime) | 5 | 2 | 2025-12-29T23:05:44Z |  A simple `time.Now()` that honors the faketime(1) utility. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 4 | 1 | 2024-12-04T02:43:04Z |  A simple datetime parse pkg. |
 | [chmenegatti/go-date-fns](https://github.com/chmenegatti/go-date-fns) | 4 | 0 | 2026-04-09T15:31:32Z |  A comprehensive date utility library for Go, inspired by date-fns, with 140+ pure and immutable functions. |
@@ -64,9 +64,9 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [goschtalt/approx](https://github.com/goschtalt/approx) | 17 | 2 | 2026-04-20T20:39:31Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 237 | 2026-04-19T01:45:46Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 174 | 2026-04-17T09:43:43Z |  Parse date's without knowing format in advance. |
-| [goschtalt/approx](https://github.com/goschtalt/approx) | 17 | 2 | 2026-04-16T18:23:58Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 511 | 51 | 2026-04-13T21:00:39Z |  Time duration formatting library for Go. |
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 260 | 2026-04-13T07:43:40Z |  A simple, semantic and developer-friendly time package for golang. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2026-04-09T15:32:39Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
