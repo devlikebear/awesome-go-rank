@@ -25,6 +25,7 @@ Libraries for scheduling jobs.
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-04-19T16:55:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 4 | 0 | 2026-04-08T12:28:52Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 1 | 0 | 2026-03-30T02:37:33Z |  A flexible and extensible job scheduling and execution library for Go. |
+| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-21T18:09:01Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
 
 ### Ranked by Forks
 
@@ -49,11 +50,13 @@ Libraries for scheduling jobs.
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-04-19T16:55:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 4 | 0 | 2026-04-08T12:28:52Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 1 | 0 | 2026-03-30T02:37:33Z |  A flexible and extensible job scheduling and execution library for Go. |
+| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-21T18:09:01Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-21T18:09:01Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 94 | 2026-04-20T20:36:42Z |  Simple, zero-dependency scheduling library for Go. |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 34 | 5 | 2026-04-20T10:23:41Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 326 | 25 | 2026-04-20T00:59:42Z |  An easy to use in-process scheduler for recurring tasks in Go. |
