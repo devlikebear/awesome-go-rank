@@ -8,7 +8,7 @@ Libraries for scheduling jobs.
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 342 | 2026-04-16T16:45:46Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 94 | 2026-04-20T20:36:42Z |  Simple, zero-dependency scheduling library for Go. |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-04-10T06:14:44Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-04-22T08:08:31Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-03-16T04:54:17Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 503 | 28 | 2026-04-16T07:14:32Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 477 | 35 | 2026-04-15T20:22:37Z |  A simple but powerful DAG scheduler and dashboard. |
@@ -25,14 +25,14 @@ Libraries for scheduling jobs.
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-04-19T16:55:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 4 | 0 | 2026-04-08T12:28:52Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 1 | 0 | 2026-03-30T02:37:33Z |  A flexible and extensible job scheduling and execution library for Go. |
-| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-21T18:09:01Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
+| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-22T10:22:29Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 342 | 2026-04-16T16:45:46Z | . |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-04-10T06:14:44Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-04-22T08:08:31Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 94 | 2026-04-20T20:36:42Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-03-16T04:54:17Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 469 | 51 | 2026-01-26T22:33:59Z |  Cronjobs scheduling made easy. |
@@ -50,13 +50,14 @@ Libraries for scheduling jobs.
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-04-19T16:55:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 4 | 0 | 2026-04-08T12:28:52Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 1 | 0 | 2026-03-30T02:37:33Z |  A flexible and extensible job scheduling and execution library for Go. |
-| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-21T18:09:01Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
+| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-22T10:22:29Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-21T18:09:01Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
+| [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-22T10:22:29Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-04-22T08:08:31Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 94 | 2026-04-20T20:36:42Z |  Simple, zero-dependency scheduling library for Go. |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 34 | 5 | 2026-04-20T10:23:41Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 326 | 25 | 2026-04-20T00:59:42Z |  An easy to use in-process scheduler for recurring tasks in Go. |
@@ -64,7 +65,6 @@ Libraries for scheduling jobs.
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 342 | 2026-04-16T16:45:46Z | . |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 503 | 28 | 2026-04-16T07:14:32Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 477 | 35 | 2026-04-15T20:22:37Z |  A simple but powerful DAG scheduler and dashboard. |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-04-10T06:14:44Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 4 | 0 | 2026-04-08T12:28:52Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 1 | 0 | 2026-03-30T02:37:33Z |  A flexible and extensible job scheduling and execution library for Go. |
