@@ -6,11 +6,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-04-29T00:37:50Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-04-30T16:09:31Z |  Modern text indexing library for go. |
-| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-04-30T00:05:36Z |  Collection of useful, performant, and thread-safe data structures. |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 364 | 2026-04-30T23:00:41Z |  Distributed, Fault-tolerant task queue. |
-| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 285 | 2026-04-29T00:37:01Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-01T21:47:49Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-05-01T21:00:03Z |  Modern text indexing library for go. |
+| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-05-01T18:03:45Z |  Collection of useful, performant, and thread-safe data structures. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 364 | 2026-05-02T00:18:03Z |  Distributed, Fault-tolerant task queue. |
+| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-04-29T00:37:01Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
 | [kniren/gota](https://github.com/kniren/gota) | 3k | 292 | 2026-04-29T06:27:24Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-04-30T16:42:54Z |  Go package implementing compressed bitsets. |
 | [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-04-29T09:14:49Z |  Go package implementing Bloom filters. |
@@ -19,7 +19,7 @@
 | [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 119 | 2026-04-29T12:57:41Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
 | [liyue201/gostl](https://github.com/liyue201/gostl) | 1k | 115 | 2026-04-29T00:09:59Z |  Data structure and algorithm library for go, designed to provide functions similar to C++ STL. |
 | [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 80 | 2026-04-24T16:56:11Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
-| [shady831213/algorithms](https://github.com/shady831213/algorithms) | 837 | 124 | 2026-04-01T06:07:49Z |  Algorithms and data structures.CLRS study. |
+| [shady831213/algorithms](https://github.com/shady831213/algorithms) | 836 | 124 | 2026-05-01T19:44:20Z |  Algorithms and data structures.CLRS study. |
 | [derekparker/trie](https://github.com/derekparker/trie) | 789 | 115 | 2026-04-09T16:10:17Z |  Trie implementation in Go. |
 | [gammazero/deque](https://github.com/gammazero/deque) | 773 | 67 | 2026-04-20T08:15:07Z |  Fast ring-buffer deque (double-ended queue). |
 | [hbollon/go-edlib](https://github.com/hbollon/go-edlib) | 597 | 28 | 2026-04-23T09:53:07Z |  Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode. |
@@ -68,7 +68,7 @@
 | [s0rg/quadtree](https://github.com/s0rg/quadtree) | 41 | 1 | 2025-11-13T06:58:45Z |  Generic, zero-alloc, 100%-test covered quadtree. |
 | [amallia/go-ef](https://github.com/amallia/go-ef) | 41 | 9 | 2026-01-21T02:33:16Z |  A Go implementation of the Elias-Fano encoding. |
 | [emvi/null](https://github.com/emvi/null) | 39 | 4 | 2026-02-22T06:01:58Z |  Nullable Go types that can be marshalled/unmarshalled to/from JSON. |
-| [gammazero/radixtree](https://github.com/gammazero/radixtree) | 38 | 8 | 2026-04-30T05:45:46Z |  Adaptive radix tree (prefix-tree or compact-trie). |
+| [gammazero/radixtree](https://github.com/gammazero/radixtree) | 38 | 8 | 2026-05-01T06:14:02Z |  Adaptive radix tree (prefix-tree or compact-trie). |
 | [nazar256/parapipe](https://github.com/nazar256/parapipe) | 37 | 5 | 2025-05-29T19:33:20Z |  FIFO Pipeline which parallels execution on each stage while maintaining the order of messages and results. |
 | [StudioSol/set](https://github.com/StudioSol/set) | 30 | 12 | 2026-04-09T16:12:33Z |  Simple set data structure implementation in Go using LinkedHashMap. |
 | [BlackRabbitt/mspm](https://github.com/BlackRabbitt/mspm) | 28 | 4 | 2026-03-19T21:08:46Z |  Multi-String Pattern Matching Algorithm for information retrieval. |
@@ -95,16 +95,16 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-04-29T00:37:50Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
-| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-04-30T00:05:36Z |  Collection of useful, performant, and thread-safe data structures. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-04-30T16:09:31Z |  Modern text indexing library for go. |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 364 | 2026-04-30T23:00:41Z |  Distributed, Fault-tolerant task queue. |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-01T21:47:49Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-05-01T18:03:45Z |  Collection of useful, performant, and thread-safe data structures. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-05-01T21:00:03Z |  Modern text indexing library for go. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 364 | 2026-05-02T00:18:03Z |  Distributed, Fault-tolerant task queue. |
 | [kniren/gota](https://github.com/kniren/gota) | 3k | 292 | 2026-04-29T06:27:24Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
-| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 285 | 2026-04-29T00:37:01Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
+| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-04-29T00:37:01Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
 | [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-04-29T09:14:49Z |  Go package implementing Bloom filters. |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-04-30T16:42:54Z |  Go package implementing compressed bitsets. |
 | [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 187 | 2026-04-29T08:32:45Z |  Go package implementing bitsets. |
-| [shady831213/algorithms](https://github.com/shady831213/algorithms) | 837 | 124 | 2026-04-01T06:07:49Z |  Algorithms and data structures.CLRS study. |
+| [shady831213/algorithms](https://github.com/shady831213/algorithms) | 836 | 124 | 2026-05-01T19:44:20Z |  Algorithms and data structures.CLRS study. |
 | [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 119 | 2026-04-29T12:57:41Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 119 | 2026-04-08T11:46:56Z |  Probabilistic data structures for processing continuous, unbounded streams. |
 | [liyue201/gostl](https://github.com/liyue201/gostl) | 1k | 115 | 2026-04-29T00:09:59Z |  Data structure and algorithm library for go, designed to provide functions similar to C++ STL. |
@@ -140,7 +140,7 @@
 | [free/concurrent-writer](https://github.com/free/concurrent-writer) | 61 | 9 | 2026-04-17T15:31:20Z |  Highly concurrent drop-in replacement for `bufio.Writer`. |
 | [superwhiskers/crunch](https://github.com/superwhiskers/crunch) | 99 | 9 | 2026-02-20T13:18:18Z |  Go package implementing buffers for handling various datatypes easily. |
 | [amallia/go-ef](https://github.com/amallia/go-ef) | 41 | 9 | 2026-01-21T02:33:16Z |  A Go implementation of the Elias-Fano encoding. |
-| [gammazero/radixtree](https://github.com/gammazero/radixtree) | 38 | 8 | 2026-04-30T05:45:46Z |  Adaptive radix tree (prefix-tree or compact-trie). |
+| [gammazero/radixtree](https://github.com/gammazero/radixtree) | 38 | 8 | 2026-05-01T06:14:02Z |  Adaptive radix tree (prefix-tree or compact-trie). |
 | [tejzpr/ordered-concurrently](https://github.com/tejzpr/ordered-concurrently) | 45 | 8 | 2026-02-22T06:02:11Z |  Go module that processes work concurrently and returns output in a channel in the order of input. |
 | [agext/levenshtein](https://github.com/agext/levenshtein) | 90 | 8 | 2025-12-24T13:02:30Z |  Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix. |
 | [edwingeng/deque](https://github.com/edwingeng/deque) | 205 | 7 | 2026-03-26T17:10:14Z |  A highly optimized double-ended queue. |
@@ -184,18 +184,19 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 364 | 2026-04-30T23:00:41Z |  Distributed, Fault-tolerant task queue. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 364 | 2026-05-02T00:18:03Z |  Distributed, Fault-tolerant task queue. |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-01T21:47:49Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-05-01T21:00:03Z |  Modern text indexing library for go. |
+| [shady831213/algorithms](https://github.com/shady831213/algorithms) | 836 | 124 | 2026-05-01T19:44:20Z |  Algorithms and data structures.CLRS study. |
+| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-05-01T18:03:45Z |  Collection of useful, performant, and thread-safe data structures. |
+| [gammazero/radixtree](https://github.com/gammazero/radixtree) | 38 | 8 | 2026-05-01T06:14:02Z |  Adaptive radix tree (prefix-tree or compact-trie). |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-04-30T16:42:54Z |  Go package implementing compressed bitsets. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-04-30T16:09:31Z |  Modern text indexing library for go. |
 | [adrianbrad/queue](https://github.com/adrianbrad/queue) | 340 | 15 | 2026-04-30T15:21:02Z |  Multiple thread-safe, generic queue implementations for Go. |
-| [gammazero/radixtree](https://github.com/gammazero/radixtree) | 38 | 8 | 2026-04-30T05:45:46Z |  Adaptive radix tree (prefix-tree or compact-trie). |
-| [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-04-30T00:05:36Z |  Collection of useful, performant, and thread-safe data structures. |
 | [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 119 | 2026-04-29T12:57:41Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
 | [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-04-29T09:14:49Z |  Go package implementing Bloom filters. |
 | [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 187 | 2026-04-29T08:32:45Z |  Go package implementing bitsets. |
 | [kniren/gota](https://github.com/kniren/gota) | 3k | 292 | 2026-04-29T06:27:24Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-04-29T00:37:50Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
-| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 285 | 2026-04-29T00:37:01Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
+| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-04-29T00:37:01Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
 | [liyue201/gostl](https://github.com/liyue201/gostl) | 1k | 115 | 2026-04-29T00:09:59Z |  Data structure and algorithm library for go, designed to provide functions similar to C++ STL. |
 | [mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map) | 262 | 10 | 2026-04-28T06:58:38Z |  A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map. |
 | [kelindar/bitmap](https://github.com/kelindar/bitmap) | 375 | 29 | 2026-04-28T02:49:31Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
@@ -224,7 +225,6 @@
 | [barweiss/go-tuple](https://github.com/barweiss/go-tuple) | 100 | 5 | 2026-04-09T07:54:54Z |  Generic tuple implementation for Go 1.18+. |
 | [yourbasic/bit](https://github.com/yourbasic/bit) | 168 | 24 | 2026-04-08T12:16:37Z |  Golang set data structure with bonus bit-twiddling functions. |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 119 | 2026-04-08T11:46:56Z |  Probabilistic data structures for processing continuous, unbounded streams. |
-| [shady831213/algorithms](https://github.com/shady831213/algorithms) | 837 | 124 | 2026-04-01T06:07:49Z |  Algorithms and data structures.CLRS study. |
 | [nxdir-s/pipelines](https://github.com/nxdir-s/pipelines) | 15 | 0 | 2026-03-31T08:52:33Z |  Generic pipeline functions for concurrent processing. |
 | [iancmcc/bingo](https://github.com/iancmcc/bingo) | 52 | 5 | 2026-03-28T05:45:03Z |  Fast, zero-allocation, lexicographical-order-preserving packing of native types to bytes. |
 | [embano1/memlog](https://github.com/embano1/memlog) | 138 | 7 | 2026-03-27T07:01:14Z |  An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka. |

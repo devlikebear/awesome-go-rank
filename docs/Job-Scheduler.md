@@ -19,7 +19,7 @@ Libraries for scheduling jobs.
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 107 | 14 | 2026-03-29T16:12:49Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 34 | 5 | 2026-04-20T10:23:41Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 34 | 6 | 2026-04-20T10:23:41Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-03-10T19:11:14Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-04-19T16:55:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
@@ -44,7 +44,7 @@ Libraries for scheduling jobs.
 | [rk/go-cron](https://github.com/rk/go-cron) | 238 | 15 | 2025-05-28T03:47:28Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 107 | 14 | 2026-03-29T16:12:49Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 34 | 5 | 2026-04-20T10:23:41Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 34 | 6 | 2026-04-20T10:23:41Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 19 | 4 | 2025-10-29T18:27:12Z |  A ticker implementation to support cron schedules. |
 | [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-03-10T19:11:14Z |  A job scheduler with the ability to fast-forward time. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-04-19T16:55:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
@@ -63,7 +63,7 @@ Libraries for scheduling jobs.
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 5 | 0 | 2026-04-27T11:00:25Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 478 | 35 | 2026-04-27T01:35:20Z |  A simple but powerful DAG scheduler and dashboard. |
 | [tickstem/cron](https://github.com/tickstem/cron) | 0 | 0 | 2026-04-25T13:02:31Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 34 | 5 | 2026-04-20T10:23:41Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 34 | 6 | 2026-04-20T10:23:41Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 6 | 0 | 2026-04-19T16:55:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 503 | 28 | 2026-04-16T07:14:32Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
