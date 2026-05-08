@@ -6,7 +6,7 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-05-06T05:13:09Z |  Go development plugin for Vim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-05-07T17:44:28Z |  Go development plugin for Vim. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 655 | 2026-05-06T20:25:57Z |  Autocompletion daemon for the Go programming language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 297 | 2026-04-29T19:25:16Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 212 | 2026-05-01T00:00:30Z |  Go mode for GNU/Emacs. |
@@ -20,7 +20,7 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-05-06T05:13:09Z |  Go development plugin for Vim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-05-07T17:44:28Z |  Go development plugin for Vim. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 655 | 2026-05-06T20:25:57Z |  Autocompletion daemon for the Go programming language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 297 | 2026-04-29T19:25:16Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 212 | 2026-05-01T00:00:30Z |  Go mode for GNU/Emacs. |
@@ -34,8 +34,8 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-05-07T17:44:28Z |  Go development plugin for Vim. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 655 | 2026-05-06T20:25:57Z |  Autocompletion daemon for the Go programming language. |
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-05-06T05:13:09Z |  Go development plugin for Vim. |
 | [eaburns/Watch](https://github.com/eaburns/Watch) | 201 | 50 | 2026-05-03T03:28:08Z |  Runs a command in an acme win on file changes. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 714 | 77 | 2026-05-01T09:09:57Z |  Formatting tool for imports. |
 | [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) | 1k | 212 | 2026-05-01T00:00:30Z |  Go mode for GNU/Emacs. |
