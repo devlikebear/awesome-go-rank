@@ -6,7 +6,7 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 341 | 2026-05-04T16:46:17Z | . |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 340 | 2026-05-04T16:46:17Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 94 | 2026-04-30T04:47:30Z |  Simple, zero-dependency scheduling library for Go. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-05-03T03:23:49Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-03-16T04:54:17Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
@@ -32,7 +32,7 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 341 | 2026-05-04T16:46:17Z | . |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 340 | 2026-05-04T16:46:17Z | . |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-05-03T03:23:49Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 94 | 2026-04-30T04:47:30Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-03-16T04:54:17Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
@@ -59,7 +59,7 @@ Libraries for scheduling jobs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 505 | 28 | 2026-05-05T01:47:57Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 341 | 2026-05-04T16:46:17Z | . |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 340 | 2026-05-04T16:46:17Z | . |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-05-03T03:23:49Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [tickstem/heartbeat](https://github.com/tickstem/heartbeat) | 0 | 0 | 2026-05-03T02:09:59Z |  Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 477 | 35 | 2026-05-02T16:40:13Z |  A simple but powerful DAG scheduler and dashboard. |

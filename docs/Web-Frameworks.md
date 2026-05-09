@@ -6,29 +6,29 @@ Full stack web frameworks.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88k | 9k | 2026-05-08T00:14:32Z |  Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity. |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | 40k | 2k | 2026-05-07T18:09:12Z |  An Express.js inspired web framework build on Fasthttp. |
-| [beego/beego](https://github.com/beego/beego) | 32k | 6k | 2026-05-08T00:15:00Z |  beego is an open-source, high-performance web framework for the Go programming language. |
-| [labstack/echo](https://github.com/labstack/echo) | 32k | 2k | 2026-05-07T13:50:54Z |  High performance, minimalist Go web framework. |
-| [go-chi/chi](https://github.com/go-chi/chi) | 22k | 1k | 2026-05-07T21:16:23Z |  Small, fast and expressive HTTP router built on net/context. |
-| [gorilla/mux](https://github.com/gorilla/mux) | 22k | 2k | 2026-05-07T17:04:18Z |  Powerful URL router and dispatcher for golang. |
-| [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 22k | 2k | 2026-05-07T19:32:20Z |  Gofr is an opinionated microservice development framework. |
-| [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 17k | 1k | 2026-05-07T19:07:00Z |  High performance router. Use this and the standard http handlers to form a very high performance web framework. |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88k | 9k | 2026-05-08T22:29:25Z |  Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity. |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | 40k | 2k | 2026-05-09T00:17:33Z |  An Express.js inspired web framework build on Fasthttp. |
+| [beego/beego](https://github.com/beego/beego) | 32k | 6k | 2026-05-08T10:08:26Z |  beego is an open-source, high-performance web framework for the Go programming language. |
+| [labstack/echo](https://github.com/labstack/echo) | 32k | 2k | 2026-05-08T13:31:31Z |  High performance, minimalist Go web framework. |
+| [go-chi/chi](https://github.com/go-chi/chi) | 22k | 1k | 2026-05-08T19:21:45Z |  Small, fast and expressive HTTP router built on net/context. |
+| [gorilla/mux](https://github.com/gorilla/mux) | 22k | 2k | 2026-05-09T00:02:21Z |  Powerful URL router and dispatcher for golang. |
+| [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 22k | 2k | 2026-05-08T23:18:36Z |  Gofr is an opinionated microservice development framework. |
+| [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 17k | 1k | 2026-05-08T06:49:19Z |  High performance router. Use this and the standard http handlers to form a very high performance web framework. |
 | [revel/revel](https://github.com/revel/revel) | 13k | 1k | 2026-05-06T01:39:55Z |  High-productivity web framework for the Go language. |
-| [gogf/gf](https://github.com/gogf/gf) | 13k | 2k | 2026-05-07T02:18:20Z |  GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. |
+| [gogf/gf](https://github.com/gogf/gf) | 13k | 2k | 2026-05-08T18:02:12Z |  GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. |
 | [urfave/negroni](https://github.com/urfave/negroni) | 8k | 575 | 2026-05-07T13:51:02Z |  Idiomatic HTTP middleware for Golang. |
-| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 7k | 623 | 2026-05-07T03:49:47Z |  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices. |
+| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 7k | 623 | 2026-05-08T11:03:32Z |  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices. |
 | [goadesign/goa](https://github.com/goadesign/goa) | 6k | 583 | 2026-05-07T05:12:23Z |  Goa provides a holistic approach for developing remote APIs and microservices in Go. |
-| [goravel/goravel](https://github.com/goravel/goravel) | 5k | 259 | 2026-05-07T04:20:57Z |  A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features. |
-| [danielgtaylor/huma](https://github.com/danielgtaylor/huma/) | 4k | 258 | 2026-05-07T19:17:29Z |  Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI. |
-| [justinas/alice](https://github.com/justinas/alice) | 3k | 152 | 2026-05-07T18:55:16Z |  Painless middleware chaining for Go. |
+| [goravel/goravel](https://github.com/goravel/goravel) | 5k | 259 | 2026-05-08T06:06:09Z |  A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features. |
+| [danielgtaylor/huma](https://github.com/danielgtaylor/huma/) | 4k | 258 | 2026-05-08T13:32:13Z |  Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI. |
+| [justinas/alice](https://github.com/justinas/alice) | 3k | 152 | 2026-05-08T12:28:38Z |  Painless middleware chaining for Go. |
 | [rs/cors](https://github.com/rs/cors) | 3k | 229 | 2026-05-06T15:34:07Z |  Easily add CORS capabilities to your API. |
 | [didip/tollbooth](https://github.com/didip/tollbooth) | 3k | 206 | 2026-05-03T03:29:31Z |  Rate limit HTTP request handler. |
 | [ulule/limiter](https://github.com/ulule/limiter) | 2k | 162 | 2026-05-06T11:21:34Z |  Dead simple rate limit middleware for Go. |
 | [unrolled/render](https://github.com/unrolled/render) | 2k | 149 | 2026-05-02T00:05:29Z |  Go package for easily rendering JSON, XML, and HTML template responses. |
 | [go-goyave/goyave](https://github.com/go-goyave/goyave) | 2k | 82 | 2026-05-07T18:08:01Z |  Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities. |
 | [go-fuego/fuego](https://github.com/go-fuego/fuego) | 2k | 124 | 2026-05-03T19:35:08Z |  The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code. |
-| [axzilla/templui](https://github.com/axzilla/templui) | 2k | 87 | 2026-05-07T14:15:35Z |  Modern UI Components for Go & Templ. |
+| [axzilla/templui](https://github.com/axzilla/templui) | 2k | 87 | 2026-05-08T23:27:35Z |  Modern UI Components for Go & Templ. |
 | [gocraft/web](https://github.com/gocraft/web) | 2k | 117 | 2026-04-21T19:51:21Z |  Mux and middleware package in Go. |
 | [savsgio/atreugo](https://github.com/savsgio/atreugo) | 1k | 76 | 2026-05-07T08:58:13Z |  High performance and extensible micro web framework with zero memory allocations in hot paths. |
 | [go-zoo/bone](https://github.com/go-zoo/bone) | 1k | 101 | 2026-04-08T12:33:38Z |  Lightning Fast HTTP Multiplexer. |
@@ -102,32 +102,32 @@ Full stack web frameworks.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88k | 9k | 2026-05-08T00:14:32Z |  Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity. |
-| [beego/beego](https://github.com/beego/beego) | 32k | 6k | 2026-05-08T00:15:00Z |  beego is an open-source, high-performance web framework for the Go programming language. |
-| [labstack/echo](https://github.com/labstack/echo) | 32k | 2k | 2026-05-07T13:50:54Z |  High performance, minimalist Go web framework. |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | 40k | 2k | 2026-05-07T18:09:12Z |  An Express.js inspired web framework build on Fasthttp. |
-| [gorilla/mux](https://github.com/gorilla/mux) | 22k | 2k | 2026-05-07T17:04:18Z |  Powerful URL router and dispatcher for golang. |
-| [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 22k | 2k | 2026-05-07T19:32:20Z |  Gofr is an opinionated microservice development framework. |
-| [gogf/gf](https://github.com/gogf/gf) | 13k | 2k | 2026-05-07T02:18:20Z |  GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. |
-| [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 17k | 1k | 2026-05-07T19:07:00Z |  High performance router. Use this and the standard http handlers to form a very high performance web framework. |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88k | 9k | 2026-05-08T22:29:25Z |  Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity. |
+| [beego/beego](https://github.com/beego/beego) | 32k | 6k | 2026-05-08T10:08:26Z |  beego is an open-source, high-performance web framework for the Go programming language. |
+| [labstack/echo](https://github.com/labstack/echo) | 32k | 2k | 2026-05-08T13:31:31Z |  High performance, minimalist Go web framework. |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | 40k | 2k | 2026-05-09T00:17:33Z |  An Express.js inspired web framework build on Fasthttp. |
+| [gorilla/mux](https://github.com/gorilla/mux) | 22k | 2k | 2026-05-09T00:02:21Z |  Powerful URL router and dispatcher for golang. |
+| [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 22k | 2k | 2026-05-08T23:18:36Z |  Gofr is an opinionated microservice development framework. |
+| [gogf/gf](https://github.com/gogf/gf) | 13k | 2k | 2026-05-08T18:02:12Z |  GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. |
+| [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 17k | 1k | 2026-05-08T06:49:19Z |  High performance router. Use this and the standard http handlers to form a very high performance web framework. |
 | [revel/revel](https://github.com/revel/revel) | 13k | 1k | 2026-05-06T01:39:55Z |  High-productivity web framework for the Go language. |
-| [go-chi/chi](https://github.com/go-chi/chi) | 22k | 1k | 2026-05-07T21:16:23Z |  Small, fast and expressive HTTP router built on net/context. |
-| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 7k | 623 | 2026-05-07T03:49:47Z |  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices. |
+| [go-chi/chi](https://github.com/go-chi/chi) | 22k | 1k | 2026-05-08T19:21:45Z |  Small, fast and expressive HTTP router built on net/context. |
+| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 7k | 623 | 2026-05-08T11:03:32Z |  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices. |
 | [goadesign/goa](https://github.com/goadesign/goa) | 6k | 583 | 2026-05-07T05:12:23Z |  Goa provides a holistic approach for developing remote APIs and microservices in Go. |
 | [urfave/negroni](https://github.com/urfave/negroni) | 8k | 575 | 2026-05-07T13:51:02Z |  Idiomatic HTTP middleware for Golang. |
-| [goravel/goravel](https://github.com/goravel/goravel) | 5k | 259 | 2026-05-07T04:20:57Z |  A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features. |
-| [danielgtaylor/huma](https://github.com/danielgtaylor/huma/) | 4k | 258 | 2026-05-07T19:17:29Z |  Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI. |
+| [goravel/goravel](https://github.com/goravel/goravel) | 5k | 259 | 2026-05-08T06:06:09Z |  A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features. |
+| [danielgtaylor/huma](https://github.com/danielgtaylor/huma/) | 4k | 258 | 2026-05-08T13:32:13Z |  Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI. |
 | [rs/cors](https://github.com/rs/cors) | 3k | 229 | 2026-05-06T15:34:07Z |  Easily add CORS capabilities to your API. |
 | [didip/tollbooth](https://github.com/didip/tollbooth) | 3k | 206 | 2026-05-03T03:29:31Z |  Rate limit HTTP request handler. |
 | [ulule/limiter](https://github.com/ulule/limiter) | 2k | 162 | 2026-05-06T11:21:34Z |  Dead simple rate limit middleware for Go. |
-| [justinas/alice](https://github.com/justinas/alice) | 3k | 152 | 2026-05-07T18:55:16Z |  Painless middleware chaining for Go. |
+| [justinas/alice](https://github.com/justinas/alice) | 3k | 152 | 2026-05-08T12:28:38Z |  Painless middleware chaining for Go. |
 | [unrolled/render](https://github.com/unrolled/render) | 2k | 149 | 2026-05-02T00:05:29Z |  Go package for easily rendering JSON, XML, and HTML template responses. |
 | [go-fuego/fuego](https://github.com/go-fuego/fuego) | 2k | 124 | 2026-05-03T19:35:08Z |  The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code. |
 | [gocraft/web](https://github.com/gocraft/web) | 2k | 117 | 2026-04-21T19:51:21Z |  Mux and middleware package in Go. |
 | [go-zoo/bone](https://github.com/go-zoo/bone) | 1k | 101 | 2026-04-08T12:33:38Z |  Lightning Fast HTTP Multiplexer. |
 | [i-love-flamingo/flamingo-commerce](https://github.com/i-love-flamingo/flamingo-commerce) | 589 | 95 | 2026-05-02T23:50:18Z |  Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications. |
 | [buaazp/fasthttprouter](https://github.com/buaazp/fasthttprouter) | 870 | 89 | 2026-04-08T19:05:49Z |  High performance router forked from `httprouter`. The first router fit for `fasthttp`. |
-| [axzilla/templui](https://github.com/axzilla/templui) | 2k | 87 | 2026-05-07T14:15:35Z |  Modern UI Components for Go & Templ. |
+| [axzilla/templui](https://github.com/axzilla/templui) | 2k | 87 | 2026-05-08T23:27:35Z |  Modern UI Components for Go & Templ. |
 | [go-goyave/goyave](https://github.com/go-goyave/goyave) | 2k | 82 | 2026-05-07T18:08:01Z |  Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities. |
 | [savsgio/atreugo](https://github.com/savsgio/atreugo) | 1k | 76 | 2026-05-07T08:58:13Z |  High performance and extensible micro web framework with zero memory allocations in hot paths. |
 | [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) | 558 | 70 | 2026-04-29T10:17:09Z |  Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc. |
@@ -198,27 +198,27 @@ Full stack web frameworks.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [beego/beego](https://github.com/beego/beego) | 32k | 6k | 2026-05-08T00:15:00Z |  beego is an open-source, high-performance web framework for the Go programming language. |
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88k | 9k | 2026-05-08T00:14:32Z |  Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity. |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | 40k | 2k | 2026-05-09T00:17:33Z |  An Express.js inspired web framework build on Fasthttp. |
+| [gorilla/mux](https://github.com/gorilla/mux) | 22k | 2k | 2026-05-09T00:02:21Z |  Powerful URL router and dispatcher for golang. |
+| [axzilla/templui](https://github.com/axzilla/templui) | 2k | 87 | 2026-05-08T23:27:35Z |  Modern UI Components for Go & Templ. |
+| [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 22k | 2k | 2026-05-08T23:18:36Z |  Gofr is an opinionated microservice development framework. |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88k | 9k | 2026-05-08T22:29:25Z |  Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity. |
+| [go-chi/chi](https://github.com/go-chi/chi) | 22k | 1k | 2026-05-08T19:21:45Z |  Small, fast and expressive HTTP router built on net/context. |
+| [gogf/gf](https://github.com/gogf/gf) | 13k | 2k | 2026-05-08T18:02:12Z |  GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. |
+| [danielgtaylor/huma](https://github.com/danielgtaylor/huma/) | 4k | 258 | 2026-05-08T13:32:13Z |  Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI. |
+| [labstack/echo](https://github.com/labstack/echo) | 32k | 2k | 2026-05-08T13:31:31Z |  High performance, minimalist Go web framework. |
+| [justinas/alice](https://github.com/justinas/alice) | 3k | 152 | 2026-05-08T12:28:38Z |  Painless middleware chaining for Go. |
+| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 7k | 623 | 2026-05-08T11:03:32Z |  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices. |
+| [beego/beego](https://github.com/beego/beego) | 32k | 6k | 2026-05-08T10:08:26Z |  beego is an open-source, high-performance web framework for the Go programming language. |
+| [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 17k | 1k | 2026-05-08T06:49:19Z |  High performance router. Use this and the standard http handlers to form a very high performance web framework. |
+| [goravel/goravel](https://github.com/goravel/goravel) | 5k | 259 | 2026-05-08T06:06:09Z |  A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features. |
 | [beatlabs/patron](https://github.com/beatlabs/patron) | 127 | 63 | 2026-05-07T23:55:08Z |  Patron is a microservice framework following best cloud practices with a focus on productivity. |
 | [doors-dev/doors](https://github.com/doors-dev/doors) | 113 | 2 | 2026-05-07T22:21:40Z |  Server-driven framework for building stateful, reactive web applications entirely in Go. |
-| [go-chi/chi](https://github.com/go-chi/chi) | 22k | 1k | 2026-05-07T21:16:23Z |  Small, fast and expressive HTTP router built on net/context. |
-| [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 22k | 2k | 2026-05-07T19:32:20Z |  Gofr is an opinionated microservice development framework. |
-| [danielgtaylor/huma](https://github.com/danielgtaylor/huma/) | 4k | 258 | 2026-05-07T19:17:29Z |  Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI. |
-| [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | 17k | 1k | 2026-05-07T19:07:00Z |  High performance router. Use this and the standard http handlers to form a very high performance web framework. |
-| [justinas/alice](https://github.com/justinas/alice) | 3k | 152 | 2026-05-07T18:55:16Z |  Painless middleware chaining for Go. |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | 40k | 2k | 2026-05-07T18:09:12Z |  An Express.js inspired web framework build on Fasthttp. |
 | [go-goyave/goyave](https://github.com/go-goyave/goyave) | 2k | 82 | 2026-05-07T18:08:01Z |  Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities. |
-| [gorilla/mux](https://github.com/gorilla/mux) | 22k | 2k | 2026-05-07T17:04:18Z |  Powerful URL router and dispatcher for golang. |
 | [fox-toolkit/fox](https://github.com/fox-toolkit/fox) | 12 | 0 | 2026-05-07T15:45:51Z |  A high-performance HTTP router for building reverse proxies and API gateways, with first-class support for mutating routes at runtime. |
-| [axzilla/templui](https://github.com/axzilla/templui) | 2k | 87 | 2026-05-07T14:15:35Z |  Modern UI Components for Go & Templ. |
 | [urfave/negroni](https://github.com/urfave/negroni) | 8k | 575 | 2026-05-07T13:51:02Z |  Idiomatic HTTP middleware for Golang. |
-| [labstack/echo](https://github.com/labstack/echo) | 32k | 2k | 2026-05-07T13:50:54Z |  High performance, minimalist Go web framework. |
 | [savsgio/atreugo](https://github.com/savsgio/atreugo) | 1k | 76 | 2026-05-07T08:58:13Z |  High performance and extensible micro web framework with zero memory allocations in hot paths. |
 | [goadesign/goa](https://github.com/goadesign/goa) | 6k | 583 | 2026-05-07T05:12:23Z |  Goa provides a holistic approach for developing remote APIs and microservices in Go. |
-| [goravel/goravel](https://github.com/goravel/goravel) | 5k | 259 | 2026-05-07T04:20:57Z |  A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features. |
-| [cloudwego/hertz](https://github.com/cloudwego/hertz) | 7k | 623 | 2026-05-07T03:49:47Z |  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices. |
-| [gogf/gf](https://github.com/gogf/gf) | 13k | 2k | 2026-05-07T02:18:20Z |  GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. |
 | [VividCortex/siesta](https://github.com/VividCortex/siesta) | 347 | 15 | 2026-05-06T20:22:12Z |  Composable framework to write middleware and handlers. |
 | [carbocation/interpose](https://github.com/carbocation/interpose) | 292 | 16 | 2026-05-06T20:17:54Z |  Minimalist net/http middleware for golang. |
 | [coregx/fursy](https://github.com/coregx/fursy) | 4 | 0 | 2026-05-06T17:01:54Z |  HTTP router with type-safe generic handlers, automatic OpenAPI 3.1 generation from code, and RFC 9457 error responses. |
