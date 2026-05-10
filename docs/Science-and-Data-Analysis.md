@@ -35,7 +35,7 @@ Libraries for scientific computing and data analyzing.
 | [tchayen/triangolatte](https://github.com/tchayen/triangolatte) | 37 | 4 | 2025-07-27T02:32:00Z |  2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. |
 | [kzahedi/goent](https://github.com/kzahedi/goent) | 36 | 4 | 2025-11-15T09:50:06Z |  GO Implementation of Entropy Measures. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 28 | 4 | 2025-02-16T12:30:36Z |  Tiny linear interpolation library. |
-| [scigolib/hdf5](https://github.com/scigolib/hdf5) | 26 | 3 | 2026-04-05T07:01:26Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
+| [scigolib/hdf5](https://github.com/scigolib/hdf5) | 27 | 3 | 2026-05-09T09:59:33Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
 | [soypat/godesim](https://github.com/soypat/godesim) | 23 | 1 | 2024-01-05T15:41:16Z |  Extended/multivariable ODE solver framework for event-based simulations with simple API. |
 | [ChristopherRabotin/ode](https://github.com/ChristopherRabotin/ode) | 22 | 2 | 2023-11-18T05:45:28Z |  Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions. |
 | [OGFris/GoStats](https://github.com/OGFris/GoStats) | 22 | 3 | 2024-10-22T01:08:13Z |  GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions. |
@@ -81,7 +81,7 @@ Libraries for scientific computing and data analyzing.
 | [kzahedi/goent](https://github.com/kzahedi/goent) | 36 | 4 | 2025-11-15T09:50:06Z |  GO Implementation of Entropy Measures. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 28 | 4 | 2025-02-16T12:30:36Z |  Tiny linear interpolation library. |
 | [OGFris/GoStats](https://github.com/OGFris/GoStats) | 22 | 3 | 2024-10-22T01:08:13Z |  GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions. |
-| [scigolib/hdf5](https://github.com/scigolib/hdf5) | 26 | 3 | 2026-04-05T07:01:26Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
+| [scigolib/hdf5](https://github.com/scigolib/hdf5) | 27 | 3 | 2026-05-09T09:59:33Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
 | [keilerkonzept/topk](https://github.com/keilerkonzept/topk) | 18 | 3 | 2026-05-02T16:32:17Z |  Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm. |
 | [db47h/decimal](https://github.com/db47h/decimal) | 44 | 3 | 2025-10-26T17:55:42Z |  Package decimal implements arbitrary-precision decimal floating-point arithmetic. |
 | [HazelnutParadise/insyra](https://github.com/HazelnutParadise/insyra) | 51 | 2 | 2026-05-08T10:02:03Z |  Data analysis library with statistics, visualization, Parquet support, and Python integration. |
@@ -98,6 +98,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [scigolib/hdf5](https://github.com/scigolib/hdf5) | 27 | 3 | 2026-05-09T09:59:33Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 578 | 2026-05-08T14:46:23Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 168 | 23 | 2026-05-08T11:52:18Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [HazelnutParadise/insyra](https://github.com/HazelnutParadise/insyra) | 51 | 2 | 2026-05-08T10:02:03Z |  Data analysis library with statistics, visualization, Parquet support, and Python integration. |
@@ -113,7 +114,6 @@ Libraries for scientific computing and data analyzing.
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 112 | 13 | 2026-04-22T17:34:49Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [scigolib/matlab](https://github.com/scigolib/matlab) | 11 | 0 | 2026-04-16T02:22:56Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [claygod/PiHex](https://github.com/claygod/PiHex) | 20 | 4 | 2026-04-15T17:01:48Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
-| [scigolib/hdf5](https://github.com/scigolib/hdf5) | 26 | 3 | 2026-04-05T07:01:26Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 911 | 87 | 2026-04-04T07:24:24Z |  Digital Signal Processing for Go. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 747 | 75 | 2026-03-25T20:34:50Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 223 | 23 | 2026-03-22T09:38:18Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
