@@ -8,11 +8,11 @@ Libraries for scientific computing and data analyzing.
 |------------|-------|-------|--------------|-------------|
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 578 | 2026-05-08T14:46:23Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 173 | 2026-05-07T03:10:59Z |  Statistics package with common functions missing from the Golang standard library. |
-| [gonum/plot](https://github.com/gonum/plot) | 3k | 203 | 2026-05-07T03:46:41Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [gonum/plot](https://github.com/gonum/plot) | 3k | 203 | 2026-05-10T17:45:28Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-04-29T07:02:37Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 104 | 2026-05-01T19:40:00Z |  general purpose, graphical tool for dealing with streams of data. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 101 | 2026-05-03T03:22:25Z |  Dataframes for machine-learning and statistics (similar to pandas). |
-| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 121 | 2026-05-06T14:23:31Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
+| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 121 | 2026-05-10T17:29:59Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 911 | 87 | 2026-04-04T07:24:24Z |  Digital Signal Processing for Go. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 774 | 107 | 2025-12-15T11:44:20Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 750 | 61 | 2026-03-17T17:36:09Z |  Library of basic graph algorithms. |
@@ -53,10 +53,10 @@ Libraries for scientific computing and data analyzing.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 578 | 2026-05-08T14:46:23Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [gonum/plot](https://github.com/gonum/plot) | 3k | 203 | 2026-05-07T03:46:41Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [gonum/plot](https://github.com/gonum/plot) | 3k | 203 | 2026-05-10T17:45:28Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 173 | 2026-05-07T03:10:59Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-04-29T07:02:37Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
-| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 121 | 2026-05-06T14:23:31Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
+| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 121 | 2026-05-10T17:29:59Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 774 | 107 | 2025-12-15T11:44:20Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 104 | 2026-05-01T19:40:00Z |  general purpose, graphical tool for dealing with streams of data. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 101 | 2026-05-03T03:22:25Z |  Dataframes for machine-learning and statistics (similar to pandas). |
@@ -98,13 +98,13 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [gonum/plot](https://github.com/gonum/plot) | 3k | 203 | 2026-05-10T17:45:28Z |  gonum/plot provides an API for building and drawing plots in Go. |
+| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 121 | 2026-05-10T17:29:59Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [scigolib/hdf5](https://github.com/scigolib/hdf5) | 27 | 3 | 2026-05-09T09:59:33Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 578 | 2026-05-08T14:46:23Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 168 | 23 | 2026-05-08T11:52:18Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [HazelnutParadise/insyra](https://github.com/HazelnutParadise/insyra) | 51 | 2 | 2026-05-08T10:02:03Z |  Data analysis library with statistics, visualization, Parquet support, and Python integration. |
-| [gonum/plot](https://github.com/gonum/plot) | 3k | 203 | 2026-05-07T03:46:41Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 173 | 2026-05-07T03:10:59Z |  Statistics package with common functions missing from the Golang standard library. |
-| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 121 | 2026-05-06T14:23:31Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 101 | 2026-05-03T03:22:25Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 470 | 30 | 2026-05-02T22:35:57Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
 | [keilerkonzept/topk](https://github.com/keilerkonzept/topk) | 18 | 3 | 2026-05-02T16:32:17Z |  Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm. |
