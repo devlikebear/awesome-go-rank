@@ -19,7 +19,7 @@ Geographic tools and servers
 | [hishamkaram/gismanager](https://github.com/hishamkaram/gismanager) | 54 | 10 | 2026-05-07T05:25:04Z |  Publish Your GIS Data(Vector Data) to PostGIS and Geoserver. |
 | [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 37 | 13 | 2026-03-04T13:29:01Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
 | [jorelosorio/web-mercator-projection](https://github.com/jorelosorio/web-mercator-projection) | 9 | 3 | 2024-09-24T06:35:30Z | A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection. |
-| [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2025-11-13T15:27:24Z |  Conversion utilities between H3 indexes and GeoJSON. |
+| [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2026-05-15T17:47:21Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [mmadfox/go-h3geo-dist](https://github.com/mmadfox/go-h3geo-dist) | 2 | 1 | 2023-12-09T19:50:19Z |  Distribution of Uber H3geo cells by virtual nodes. |
 | [kpfaulkner/borders](https://github.com/kpfaulkner/borders) | 0 | 0 | 2025-08-24T05:02:18Z |  Detects image borders and converts to GeoJSON for GIS operations. |
 
@@ -40,7 +40,7 @@ Geographic tools and servers
 | [hishamkaram/gismanager](https://github.com/hishamkaram/gismanager) | 54 | 10 | 2026-05-07T05:25:04Z |  Publish Your GIS Data(Vector Data) to PostGIS and Geoserver. |
 | [maguro/pbf](https://github.com/maguro/pbf) | 55 | 8 | 2026-04-24T02:30:17Z |  OpenStreetMap PBF golang encoder/decoder. |
 | [jorelosorio/web-mercator-projection](https://github.com/jorelosorio/web-mercator-projection) | 9 | 3 | 2024-09-24T06:35:30Z | A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection. |
-| [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2025-11-13T15:27:24Z |  Conversion utilities between H3 indexes and GeoJSON. |
+| [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2026-05-15T17:47:21Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [mmadfox/go-h3geo-dist](https://github.com/mmadfox/go-h3geo-dist) | 2 | 1 | 2023-12-09T19:50:19Z |  Distribution of Uber H3geo cells by virtual nodes. |
 | [kpfaulkner/borders](https://github.com/kpfaulkner/borders) | 0 | 0 | 2025-08-24T05:02:18Z |  Detects image borders and converts to GeoJSON for GIS operations. |
 
@@ -48,6 +48,7 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2026-05-15T17:47:21Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 609 | 2026-05-13T14:52:37Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 782 | 120 | 2026-05-12T17:38:39Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 424 | 70 | 2026-05-09T23:38:11Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
@@ -60,7 +61,6 @@ Geographic tools and servers
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 530 | 109 | 2026-04-13T00:25:52Z |  A library provides spatial data and geometric algorithms. |
 | [wroge/wgs84](https://github.com/wroge/wgs84) | 141 | 18 | 2026-03-15T10:07:20Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
 | [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 37 | 13 | 2026-03-04T13:29:01Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
-| [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2025-11-13T15:27:24Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [kpfaulkner/borders](https://github.com/kpfaulkner/borders) | 0 | 0 | 2025-08-24T05:02:18Z |  Detects image borders and converts to GeoJSON for GIS operations. |
 | [jorelosorio/web-mercator-projection](https://github.com/jorelosorio/web-mercator-projection) | 9 | 3 | 2024-09-24T06:35:30Z | A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection. |
 | [mmadfox/go-h3geo-dist](https://github.com/mmadfox/go-h3geo-dist) | 2 | 1 | 2023-12-09T19:50:19Z |  Distribution of Uber H3geo cells by virtual nodes. |

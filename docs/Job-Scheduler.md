@@ -13,7 +13,7 @@ Libraries for scheduling jobs.
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 505 | 28 | 2026-05-09T07:55:33Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 477 | 35 | 2026-05-02T16:40:13Z |  A simple but powerful DAG scheduler and dashboard. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 469 | 51 | 2026-01-26T22:33:59Z |  Cronjobs scheduling made easy. |
-| [madflojo/tasks](https://github.com/madflojo/tasks) | 328 | 25 | 2026-05-13T23:13:43Z |  An easy to use in-process scheduler for recurring tasks in Go. |
+| [madflojo/tasks](https://github.com/madflojo/tasks) | 329 | 25 | 2026-05-15T14:48:02Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 239 | 15 | 2026-05-13T23:13:06Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [bart6114/cheek](https://github.com/bart6114/cheek) | 195 | 16 | 2026-03-12T13:49:17Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
@@ -39,7 +39,7 @@ Libraries for scheduling jobs.
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 469 | 51 | 2026-01-26T22:33:59Z |  Cronjobs scheduling made easy. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 477 | 35 | 2026-05-02T16:40:13Z |  A simple but powerful DAG scheduler and dashboard. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 505 | 28 | 2026-05-09T07:55:33Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
-| [madflojo/tasks](https://github.com/madflojo/tasks) | 328 | 25 | 2026-05-13T23:13:43Z |  An easy to use in-process scheduler for recurring tasks in Go. |
+| [madflojo/tasks](https://github.com/madflojo/tasks) | 329 | 25 | 2026-05-15T14:48:02Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [bart6114/cheek](https://github.com/bart6114/cheek) | 195 | 16 | 2026-03-12T13:49:17Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 239 | 15 | 2026-05-13T23:13:06Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
@@ -58,7 +58,7 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [madflojo/tasks](https://github.com/madflojo/tasks) | 328 | 25 | 2026-05-13T23:13:43Z |  An easy to use in-process scheduler for recurring tasks in Go. |
+| [madflojo/tasks](https://github.com/madflojo/tasks) | 329 | 25 | 2026-05-15T14:48:02Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [romshark/sched](https://github.com/romshark/sched) | 31 | 1 | 2026-05-13T23:13:24Z |  A job scheduler with the ability to fast-forward time. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-05-13T23:13:16Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 20 | 4 | 2026-05-13T23:13:08Z |  A ticker implementation to support cron schedules. |
