@@ -6,16 +6,16 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 80k | 3k | 2026-05-16T22:48:55Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 612 | 2026-05-16T15:58:08Z |  PDF processor. |
-| [spf13/afero](https://github.com/spf13/afero) | 7k | 561 | 2026-05-16T05:43:37Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 205 | 2026-05-16T14:53:41Z |  Disk usage analyzer with console interface. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 125 | 2026-05-16T23:06:50Z | . |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 80k | 3k | 2026-05-18T00:03:50Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 612 | 2026-05-17T22:07:05Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 7k | 562 | 2026-05-17T13:42:07Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 205 | 2026-05-17T11:16:12Z |  Disk usage analyzer with console interface. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 125 | 2026-05-17T19:18:53Z | . |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 158 | 2026-05-13T23:07:04Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 932 | 136 | 2026-05-14T01:17:23Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 772 | 119 | 2026-04-18T04:23:59Z |  Copy directory recursively. |
 | [no-src/gofs](https://github.com/no-src/gofs) | 528 | 43 | 2026-04-19T00:38:55Z |  A cross-platform real-time file synchronization tool out of the box. |
-| [viant/afs](https://github.com/viant/afs) | 386 | 38 | 2026-05-03T21:58:11Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
+| [viant/afs](https://github.com/viant/afs) | 386 | 38 | 2026-05-17T23:30:35Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 361 | 33 | 2026-05-15T07:06:19Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 295 | 49 | 2026-03-30T14:35:49Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 285 | 45 | 2026-05-05T07:15:05Z |  A package for reading and creating ISO9660 disk images |
@@ -38,18 +38,18 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 80k | 3k | 2026-05-16T22:48:55Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 612 | 2026-05-16T15:58:08Z |  PDF processor. |
-| [spf13/afero](https://github.com/spf13/afero) | 7k | 561 | 2026-05-16T05:43:37Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 205 | 2026-05-16T14:53:41Z |  Disk usage analyzer with console interface. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 80k | 3k | 2026-05-18T00:03:50Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 612 | 2026-05-17T22:07:05Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 7k | 562 | 2026-05-17T13:42:07Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 205 | 2026-05-17T11:16:12Z |  Disk usage analyzer with console interface. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 158 | 2026-05-13T23:07:04Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 932 | 136 | 2026-05-14T01:17:23Z |  File system event notification library with simple API, similar to os/signal. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 125 | 2026-05-16T23:06:50Z | . |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 125 | 2026-05-17T19:18:53Z | . |
 | [otiai10/copy](https://github.com/otiai10/copy) | 772 | 119 | 2026-04-18T04:23:59Z |  Copy directory recursively. |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 295 | 49 | 2026-03-30T14:35:49Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 285 | 45 | 2026-05-05T07:15:05Z |  A package for reading and creating ISO9660 disk images |
 | [no-src/gofs](https://github.com/no-src/gofs) | 528 | 43 | 2026-04-19T00:38:55Z |  A cross-platform real-time file synchronization tool out of the box. |
-| [viant/afs](https://github.com/viant/afs) | 386 | 38 | 2026-05-03T21:58:11Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
+| [viant/afs](https://github.com/viant/afs) | 386 | 38 | 2026-05-17T23:30:35Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 361 | 33 | 2026-05-15T07:06:19Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 131 | 32 | 2026-04-10T04:08:20Z |  Load csv file using tag. |
 | [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 48 | 22 | 2025-05-14T18:15:57Z |  Load gtfs files in go. |
@@ -70,18 +70,18 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 125 | 2026-05-16T23:06:50Z | . |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 80k | 3k | 2026-05-16T22:48:55Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 612 | 2026-05-16T15:58:08Z |  PDF processor. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 205 | 2026-05-16T14:53:41Z |  Disk usage analyzer with console interface. |
-| [spf13/afero](https://github.com/spf13/afero) | 7k | 561 | 2026-05-16T05:43:37Z |  FileSystem Abstraction System for Go. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 80k | 3k | 2026-05-18T00:03:50Z | ). |
+| [viant/afs](https://github.com/viant/afs) | 386 | 38 | 2026-05-17T23:30:35Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 612 | 2026-05-17T22:07:05Z |  PDF processor. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 125 | 2026-05-17T19:18:53Z | . |
+| [spf13/afero](https://github.com/spf13/afero) | 7k | 562 | 2026-05-17T13:42:07Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 205 | 2026-05-17T11:16:12Z |  Disk usage analyzer with console interface. |
 | [coregx/gxpdf](https://github.com/coregx/gxpdf) | 31 | 4 | 2026-05-16T03:00:58Z |  Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 361 | 33 | 2026-05-15T07:06:19Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 932 | 136 | 2026-05-14T01:17:23Z |  File system event notification library with simple API, similar to os/signal. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 158 | 2026-05-13T23:07:04Z |  A package to convert an HTML template to a PDF file. |
 | [xis/baraka](https://github.com/xis/baraka) | 65 | 6 | 2026-05-13T22:39:53Z |  A library to process http file uploads easily. |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 285 | 45 | 2026-05-05T07:15:05Z |  A package for reading and creating ISO9660 disk images |
-| [viant/afs](https://github.com/viant/afs) | 386 | 38 | 2026-05-03T21:58:11Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [adelowo/gulter](https://github.com/adelowo/gulter) | 71 | 3 | 2026-05-01T10:47:47Z |  A simple HTTP middleware to automatically handle all your file upload needs |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 114 | 16 | 2026-04-23T08:42:31Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
 | [no-src/gofs](https://github.com/no-src/gofs) | 528 | 43 | 2026-04-19T00:38:55Z |  A cross-platform real-time file synchronization tool out of the box. |

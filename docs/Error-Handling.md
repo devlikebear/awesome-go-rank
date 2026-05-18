@@ -23,6 +23,7 @@ Libraries for handling errors.
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 7 | 1 | 2023-08-29T00:07:32Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
 | [neuronlabs/errors](https://github.com/neuronlabs/errors) | 6 | 1 | 2023-09-26T23:05:27Z |  Simple golang error handling with classification primitives. |
 | [quantumcycle/metaerr](https://github.com/quantumcycle/metaerr) | 5 | 0 | 2025-08-14T21:14:35Z |  A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces. |
+| [go-errr/go](https://github.com/go-errr/go) | 1 | 0 | 2026-04-26T23:41:23Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
 
 ### Ranked by Forks
 
@@ -45,6 +46,7 @@ Libraries for handling errors.
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 7 | 1 | 2023-08-29T00:07:32Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
 | [neuronlabs/errors](https://github.com/neuronlabs/errors) | 6 | 1 | 2023-09-26T23:05:27Z |  Simple golang error handling with classification primitives. |
 | [quantumcycle/metaerr](https://github.com/quantumcycle/metaerr) | 5 | 0 | 2025-08-14T21:14:35Z |  A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces. |
+| [go-errr/go](https://github.com/go-errr/go) | 1 | 0 | 2026-04-26T23:41:23Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
 
 ### Ranked by Last Updated
 
@@ -58,6 +60,7 @@ Libraries for handling errors.
 | [emperror/emperror](https://github.com/emperror/emperror) | 379 | 18 | 2026-05-13T03:58:09Z |  Error handling tools and best practices for Go libraries and applications. |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | 2k | 70 | 2026-05-10T04:49:22Z |  Go error library with error portability over the network. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 32 | 2026-05-08T19:35:09Z |  A feature rich error package with stack traces, composition of errors and more. |
+| [go-errr/go](https://github.com/go-errr/go) | 1 | 0 | 2026-04-26T23:41:23Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
 | [naughtygopher/errors](https://github.com/naughtygopher/errors) | 75 | 5 | 2026-04-16T13:41:18Z |  Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions. |
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 309 | 8 | 2026-03-27T10:33:04Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
 | [emperror/errors](https://github.com/emperror/errors) | 204 | 13 | 2026-01-29T11:28:24Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
