@@ -6,17 +6,17 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-17T15:19:40Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 700 | 2026-05-16T00:11:44Z |  Modern text indexing library for go. |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-18T21:02:16Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-05-18T16:55:56Z |  Modern text indexing library for go. |
 | [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-05-15T14:58:24Z |  Collection of useful, performant, and thread-safe data structures. |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 387 | 2026-05-17T21:07:48Z |  Distributed, Fault-tolerant task queue. |
-| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-05-17T19:11:14Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
-| [kniren/gota](https://github.com/kniren/gota) | 3k | 290 | 2026-05-13T22:26:37Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
-| [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-05-17T05:17:01Z |  Go package implementing compressed bitsets. |
-| [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-05-17T23:48:26Z |  Go package implementing Bloom filters. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 387 | 2026-05-18T22:07:42Z |  Distributed, Fault-tolerant task queue. |
+| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-05-18T06:33:17Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
+| [kniren/gota](https://github.com/kniren/gota) | 3k | 290 | 2026-05-18T14:52:19Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
+| [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-05-18T01:22:39Z |  Go package implementing compressed bitsets. |
+| [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-05-18T03:51:50Z |  Go package implementing Bloom filters. |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 119 | 2026-05-10T17:45:05Z |  Probabilistic data structures for processing continuous, unbounded streams. |
 | [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 187 | 2026-05-11T20:41:32Z |  Go package implementing bitsets. |
-| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 119 | 2026-05-10T03:27:19Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
+| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 120 | 2026-05-18T06:08:07Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
 | [liyue201/gostl](https://github.com/liyue201/gostl) | 1k | 115 | 2026-05-12T07:45:34Z |  Data structure and algorithm library for go, designed to provide functions similar to C++ STL. |
 | [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 81 | 2026-05-17T19:28:08Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
 | [shady831213/algorithms](https://github.com/shady831213/algorithms) | 840 | 124 | 2026-05-13T22:41:28Z |  Algorithms and data structures.CLRS study. |
@@ -26,7 +26,7 @@
 | [agnivade/levenshtein](https://github.com/agnivade/levenshtein) | 469 | 29 | 2026-05-13T22:29:28Z |  Implementation to calculate levenshtein distance in Go. |
 | [enriquebris/goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) | 435 | 35 | 2026-05-13T22:27:52Z |  Concurrent FIFO queue. |
 | [plar/go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) | 413 | 63 | 2026-05-11T06:46:29Z |  Go implementation of Adaptive Radix Tree. |
-| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 376 | 29 | 2026-05-10T16:24:08Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
+| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 376 | 30 | 2026-05-10T16:24:08Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
 | [hailocab/go-geoindex](https://github.com/hailocab/go-geoindex) | 360 | 47 | 2026-02-15T19:30:28Z |  In-memory geo index. |
 | [adrianbrad/queue](https://github.com/adrianbrad/queue) | 351 | 15 | 2026-05-16T11:18:38Z |  Multiple thread-safe, generic queue implementations for Go. |
 | [linvon/cuckoo-filter](https://github.com/linvon/cuckoo-filter) | 308 | 30 | 2026-04-26T11:32:31Z |  Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available. |
@@ -75,7 +75,7 @@
 | [alvii147/gloop](https://github.com/alvii147/gloop) | 27 | 0 | 2026-05-13T22:41:10Z |  Convenient looping using Go's range-over-func feature. |
 | [twharmon/slices](https://github.com/twharmon/slices) | 23 | 1 | 2026-05-13T22:27:06Z |  Pure, generic functions for slices. |
 | [bobg/merkle](https://github.com/bobg/merkle) | 22 | 2 | 2026-04-09T16:10:04Z |  Space-efficient computation of Merkle root hashes and inclusion proofs. |
-| [OldPanda/bloomfilter](https://github.com/OldPanda/bloomfilter) | 20 | 4 | 2025-12-23T06:20:24Z |  Yet another Bloomfilter implementation in Go, compatible with Java's Guava library. |
+| [OldPanda/bloomfilter](https://github.com/OldPanda/bloomfilter) | 21 | 4 | 2026-05-18T08:41:30Z |  Yet another Bloomfilter implementation in Go, compatible with Java's Guava library. |
 | [xxjwxc/gofal](https://github.com/xxjwxc/gofal) | 20 | 3 | 2026-05-13T22:26:26Z |  fractional api for Go. |
 | [enetx/fsm](https://github.com/enetx/fsm) | 19 | 0 | 2026-05-13T22:40:05Z |  FSM for Go. |
 | [yaa110/goterator](https://github.com/yaa110/goterator) | 18 | 4 | 2026-05-13T22:41:05Z |  Iterator implementation to provide map and reduce functionalities. |
@@ -95,17 +95,17 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-17T15:19:40Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-18T21:02:16Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
 | [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-05-15T14:58:24Z |  Collection of useful, performant, and thread-safe data structures. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 700 | 2026-05-16T00:11:44Z |  Modern text indexing library for go. |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 387 | 2026-05-17T21:07:48Z |  Distributed, Fault-tolerant task queue. |
-| [kniren/gota](https://github.com/kniren/gota) | 3k | 290 | 2026-05-13T22:26:37Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
-| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-05-17T19:11:14Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
-| [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-05-17T23:48:26Z |  Go package implementing Bloom filters. |
-| [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-05-17T05:17:01Z |  Go package implementing compressed bitsets. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-05-18T16:55:56Z |  Modern text indexing library for go. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 387 | 2026-05-18T22:07:42Z |  Distributed, Fault-tolerant task queue. |
+| [kniren/gota](https://github.com/kniren/gota) | 3k | 290 | 2026-05-18T14:52:19Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
+| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-05-18T06:33:17Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
+| [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-05-18T03:51:50Z |  Go package implementing Bloom filters. |
+| [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-05-18T01:22:39Z |  Go package implementing compressed bitsets. |
 | [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 187 | 2026-05-11T20:41:32Z |  Go package implementing bitsets. |
 | [shady831213/algorithms](https://github.com/shady831213/algorithms) | 840 | 124 | 2026-05-13T22:41:28Z |  Algorithms and data structures.CLRS study. |
-| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 119 | 2026-05-10T03:27:19Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
+| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 120 | 2026-05-18T06:08:07Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 119 | 2026-05-10T17:45:05Z |  Probabilistic data structures for processing continuous, unbounded streams. |
 | [liyue201/gostl](https://github.com/liyue201/gostl) | 1k | 115 | 2026-05-12T07:45:34Z |  Data structure and algorithm library for go, designed to provide functions similar to C++ STL. |
 | [derekparker/trie](https://github.com/derekparker/trie) | 789 | 115 | 2026-04-09T16:10:17Z |  Trie implementation in Go. |
@@ -117,8 +117,8 @@
 | [zhuangsirui/binpacker](https://github.com/zhuangsirui/binpacker) | 233 | 38 | 2026-04-09T09:55:17Z |  Binary packer and unpacker helps user build custom binary stream. |
 | [enriquebris/goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) | 435 | 35 | 2026-05-13T22:27:52Z |  Concurrent FIFO queue. |
 | [linvon/cuckoo-filter](https://github.com/linvon/cuckoo-filter) | 308 | 30 | 2026-04-26T11:32:31Z |  Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available. |
+| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 376 | 30 | 2026-05-10T16:24:08Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
 | [agnivade/levenshtein](https://github.com/agnivade/levenshtein) | 469 | 29 | 2026-05-13T22:29:28Z |  Implementation to calculate levenshtein distance in Go. |
-| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 376 | 29 | 2026-05-10T16:24:08Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
 | [hbollon/go-edlib](https://github.com/hbollon/go-edlib) | 599 | 28 | 2026-05-16T17:46:59Z |  Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode. |
 | [yourbasic/bit](https://github.com/yourbasic/bit) | 168 | 24 | 2026-04-08T12:16:37Z |  Golang set data structure with bonus bit-twiddling functions. |
 | [gansidui/skiplist](https://github.com/gansidui/skiplist) | 84 | 24 | 2024-07-09T09:48:52Z |  Skiplist implementation in Go. |
@@ -155,7 +155,7 @@
 | [nazar256/parapipe](https://github.com/nazar256/parapipe) | 38 | 5 | 2026-05-13T22:30:41Z |  FIFO Pipeline which parallels execution on each stage while maintaining the order of messages and results. |
 | [daichi-m/go18ds](https://github.com/daichi-m/go18ds) | 48 | 4 | 2026-05-13T22:26:19Z |  Go Data Structures using Go 1.18 generics. |
 | [yaa110/goterator](https://github.com/yaa110/goterator) | 18 | 4 | 2026-05-13T22:41:05Z |  Iterator implementation to provide map and reduce functionalities. |
-| [OldPanda/bloomfilter](https://github.com/OldPanda/bloomfilter) | 20 | 4 | 2025-12-23T06:20:24Z |  Yet another Bloomfilter implementation in Go, compatible with Java's Guava library. |
+| [OldPanda/bloomfilter](https://github.com/OldPanda/bloomfilter) | 21 | 4 | 2026-05-18T08:41:30Z |  Yet another Bloomfilter implementation in Go, compatible with Java's Guava library. |
 | [emvi/null](https://github.com/emvi/null) | 40 | 4 | 2026-05-13T22:27:18Z |  Nullable Go types that can be marshalled/unmarshalled to/from JSON. |
 | [barweiss/go-tuple](https://github.com/barweiss/go-tuple) | 100 | 4 | 2026-04-09T07:54:54Z |  Generic tuple implementation for Go 1.18+. |
 | [gurukami/typ](https://github.com/gurukami/typ) | 46 | 4 | 2025-07-03T13:13:25Z |  Null Types, Safe primitive type conversion and fetching value from complex structures. |
@@ -184,17 +184,20 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-05-17T23:48:26Z |  Go package implementing Bloom filters. |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 387 | 2026-05-17T21:07:48Z |  Distributed, Fault-tolerant task queue. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 7k | 387 | 2026-05-18T22:07:42Z |  Distributed, Fault-tolerant task queue. |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-18T21:02:16Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 701 | 2026-05-18T16:55:56Z |  Modern text indexing library for go. |
+| [kniren/gota](https://github.com/kniren/gota) | 3k | 290 | 2026-05-18T14:52:19Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
+| [OldPanda/bloomfilter](https://github.com/OldPanda/bloomfilter) | 21 | 4 | 2026-05-18T08:41:30Z |  Yet another Bloomfilter implementation in Go, compatible with Java's Guava library. |
+| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-05-18T06:33:17Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
+| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 120 | 2026-05-18T06:08:07Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
+| [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 256 | 2026-05-18T03:51:50Z |  Go package implementing Bloom filters. |
+| [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-05-18T01:22:39Z |  Go package implementing compressed bitsets. |
 | [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 81 | 2026-05-17T19:28:08Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
-| [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 286 | 2026-05-17T19:11:14Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-05-17T15:19:40Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
-| [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 250 | 2026-05-17T05:17:01Z |  Go package implementing compressed bitsets. |
 | [nxdir-s/pipelines](https://github.com/nxdir-s/pipelines) | 17 | 0 | 2026-05-17T02:25:05Z |  Generic pipeline functions for concurrent processing. |
 | [TheTannerRyan/ring](https://github.com/TheTannerRyan/ring) | 146 | 17 | 2026-05-16T19:36:58Z |  Go implementation of a high performance, thread safe bloom filter. |
 | [hbollon/go-edlib](https://github.com/hbollon/go-edlib) | 599 | 28 | 2026-05-16T17:46:59Z |  Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode. |
 | [adrianbrad/queue](https://github.com/adrianbrad/queue) | 351 | 15 | 2026-05-16T11:18:38Z |  Multiple thread-safe, generic queue implementations for Go. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 700 | 2026-05-16T00:11:44Z |  Modern text indexing library for go. |
 | [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 843 | 2026-05-15T14:58:24Z |  Collection of useful, performant, and thread-safe data structures. |
 | [srfrog/dict](https://github.com/srfrog/dict) | 46 | 6 | 2026-05-14T13:31:57Z |  Python-like dictionaries (dict) for Go. |
 | [shady831213/algorithms](https://github.com/shady831213/algorithms) | 840 | 124 | 2026-05-13T22:41:28Z |  Algorithms and data structures.CLRS study. |
@@ -227,7 +230,6 @@
 | [emvi/null](https://github.com/emvi/null) | 40 | 4 | 2026-05-13T22:27:18Z |  Nullable Go types that can be marshalled/unmarshalled to/from JSON. |
 | [kak-tus/nan](https://github.com/kak-tus/nan) | 87 | 11 | 2026-05-13T22:27:12Z |  Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers. |
 | [twharmon/slices](https://github.com/twharmon/slices) | 23 | 1 | 2026-05-13T22:27:06Z |  Pure, generic functions for slices. |
-| [kniren/gota](https://github.com/kniren/gota) | 3k | 290 | 2026-05-13T22:26:37Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
 | [esimov/gogu](https://github.com/esimov/gogu) | 110 | 9 | 2026-05-13T22:26:34Z |  A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library. |
 | [xxjwxc/gofal](https://github.com/xxjwxc/gofal) | 20 | 3 | 2026-05-13T22:26:26Z |  fractional api for Go. |
 | [daichi-m/go18ds](https://github.com/daichi-m/go18ds) | 48 | 4 | 2026-05-13T22:26:19Z |  Go Data Structures using Go 1.18 generics. |
@@ -236,8 +238,7 @@
 | [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 1k | 187 | 2026-05-11T20:41:32Z |  Go package implementing bitsets. |
 | [plar/go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) | 413 | 63 | 2026-05-11T06:46:29Z |  Go implementation of Adaptive Radix Tree. |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 119 | 2026-05-10T17:45:05Z |  Probabilistic data structures for processing continuous, unbounded streams. |
-| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 376 | 29 | 2026-05-10T16:24:08Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
-| [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 119 | 2026-05-10T03:27:19Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
+| [kelindar/bitmap](https://github.com/kelindar/bitmap) | 376 | 30 | 2026-05-10T16:24:08Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
 | [gammazero/radixtree](https://github.com/gammazero/radixtree) | 39 | 8 | 2026-05-02T14:35:57Z |  Adaptive radix tree (prefix-tree or compact-trie). |
 | [mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map) | 262 | 10 | 2026-04-28T06:58:38Z |  A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map. |
 | [linvon/cuckoo-filter](https://github.com/linvon/cuckoo-filter) | 308 | 30 | 2026-04-26T11:32:31Z |  Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available. |
@@ -260,7 +261,6 @@
 | [igrmk/treemap](https://github.com/igrmk/treemap) | 66 | 10 | 2026-02-12T10:12:42Z |  Generic key-sorted map using a red-black tree under the hood. |
 | [amallia/go-ef](https://github.com/amallia/go-ef) | 41 | 9 | 2026-01-21T02:33:16Z |  A Go implementation of the Elias-Fano encoding. |
 | [francesconi/go-rampart](https://github.com/francesconi/go-rampart) | 106 | 4 | 2025-12-27T23:26:05Z |  Determine how intervals relate to each other. |
-| [OldPanda/bloomfilter](https://github.com/OldPanda/bloomfilter) | 20 | 4 | 2025-12-23T06:20:24Z |  Yet another Bloomfilter implementation in Go, compatible with Java's Guava library. |
 | [aurelien-rainone/go-rquad](https://github.com/aurelien-rainone/go-rquad) | 140 | 9 | 2025-12-02T13:05:01Z |  Region quadtrees with efficient point location and neighbour finding. |
 | [s0rg/quadtree](https://github.com/s0rg/quadtree) | 41 | 1 | 2025-11-13T06:58:45Z |  Generic, zero-alloc, 100%-test covered quadtree. |
 | [ihebu/dsu](https://github.com/ihebu/dsu) | 16 | 1 | 2025-10-31T22:12:48Z |  Disjoint Set data structure implementation in Go. |
