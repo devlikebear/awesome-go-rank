@@ -15,7 +15,7 @@ Libraries for scheduling jobs.
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 469 | 51 | 2026-01-26T22:33:59Z |  Cronjobs scheduling made easy. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 329 | 25 | 2026-05-15T14:48:02Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 239 | 15 | 2026-05-13T23:13:06Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
-| [bart6114/cheek](https://github.com/bart6114/cheek) | 195 | 16 | 2026-03-12T13:49:17Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
+| [bart6114/cheek](https://github.com/bart6114/cheek) | 196 | 16 | 2026-05-20T20:56:25Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 107 | 14 | 2026-03-29T16:12:49Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
@@ -41,7 +41,7 @@ Libraries for scheduling jobs.
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 505 | 29 | 2026-05-09T07:55:33Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 329 | 25 | 2026-05-15T14:48:02Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
-| [bart6114/cheek](https://github.com/bart6114/cheek) | 195 | 16 | 2026-03-12T13:49:17Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
+| [bart6114/cheek](https://github.com/bart6114/cheek) | 196 | 16 | 2026-05-20T20:56:25Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [rk/go-cron](https://github.com/rk/go-cron) | 239 | 15 | 2026-05-13T23:13:06Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 107 | 14 | 2026-03-29T16:12:49Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
@@ -58,6 +58,7 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [bart6114/cheek](https://github.com/bart6114/cheek) | 196 | 16 | 2026-05-20T20:56:25Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 478 | 35 | 2026-05-18T07:40:35Z |  A simple but powerful DAG scheduler and dashboard. |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 329 | 25 | 2026-05-15T14:48:02Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [romshark/sched](https://github.com/romshark/sched) | 31 | 1 | 2026-05-13T23:13:24Z |  A job scheduler with the ability to fast-forward time. |
@@ -76,7 +77,6 @@ Libraries for scheduling jobs.
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 1 | 0 | 2026-03-30T02:37:33Z |  A flexible and extensible job scheduling and execution library for Go. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 107 | 14 | 2026-03-29T16:12:49Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
-| [bart6114/cheek](https://github.com/bart6114/cheek) | 195 | 16 | 2026-03-12T13:49:17Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 469 | 51 | 2026-01-26T22:33:59Z |  Cronjobs scheduling made easy. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 182 | 16 | 2025-10-15T01:40:14Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 
