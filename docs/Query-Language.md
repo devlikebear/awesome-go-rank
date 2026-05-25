@@ -6,8 +6,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-23T11:56:52Z |  go generate based graphql server library. |
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 842 | 2026-05-16T10:43:13Z |  Implementation of GraphQL for Go. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-24T23:31:47Z |  go generate based graphql server library. |
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 842 | 2026-05-24T23:31:46Z |  Implementation of GraphQL for Go. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-05-23T17:26:54Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-05-21T21:20:05Z |  GraphQL server with a focus on ease of use. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 143 | 2026-05-07T00:00:17Z |  A simple Go package to Query over JSON Data. |
@@ -28,8 +28,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-23T11:56:52Z |  go generate based graphql server library. |
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 842 | 2026-05-16T10:43:13Z |  Implementation of GraphQL for Go. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-24T23:31:47Z |  go generate based graphql server library. |
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 842 | 2026-05-24T23:31:46Z |  Implementation of GraphQL for Go. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-05-21T21:20:05Z |  GraphQL server with a focus on ease of use. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-05-23T17:26:54Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 143 | 2026-05-07T00:00:17Z |  A simple Go package to Query over JSON Data. |
@@ -50,11 +50,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-24T23:31:47Z |  go generate based graphql server library. |
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 842 | 2026-05-24T23:31:46Z |  Implementation of GraphQL for Go. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-05-23T17:26:54Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-23T11:56:52Z |  go generate based graphql server library. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 562 | 16 | 2026-05-21T23:10:40Z |  A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-05-21T21:20:05Z |  GraphQL server with a focus on ease of use. |
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 842 | 2026-05-16T10:43:13Z |  Implementation of GraphQL for Go. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 143 | 2026-05-07T00:00:17Z |  A simple Go package to Query over JSON Data. |
 | [SeldonIO/goven](https://github.com/SeldonIO/goven) | 62 | 6 | 2026-04-19T22:18:38Z |  A drop-in query language for any database schema. |
 | [reaganiwadha/grapher](https://github.com/reaganiwadha/grapher) | 3 | 0 | 2026-04-13T10:27:04Z |  A GraphQL field builder utilizing Go generics with extra utilities and features. |
