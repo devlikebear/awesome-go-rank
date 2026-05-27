@@ -6,13 +6,13 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 359 | 2026-05-22T01:28:46Z |  Comprehensive Go bindings for FFmpeg. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 359 | 2026-05-26T23:50:59Z |  Comprehensive Go bindings for FFmpeg. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 932 | 171 | 2026-05-13T23:20:07Z |  Go bindings for FFmpeg av\* libraries. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 916 | 267 | 2026-05-24T20:21:33Z |  Pure Go RTSP server and client library. |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 917 | 267 | 2026-05-26T15:28:37Z |  Pure Go RTSP server and client library. |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 717 | 72 | 2026-05-24T10:34:47Z |  Better C bindings for ffmpeg in GO. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 696 | 126 | 2026-05-09T13:47:43Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 636 | 118 | 2026-05-24T12:19:26Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
-| [asticode/go-astits](https://github.com/asticode/go-astits) | 614 | 63 | 2026-05-25T13:06:34Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
+| [asticode/go-astits](https://github.com/asticode/go-astits) | 615 | 63 | 2026-05-26T06:21:09Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 509 | 58 | 2026-05-20T08:20:22Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 89 | 15 | 2026-03-24T01:24:42Z |  Video capture library for Linux, written in Go. |
 | [Eyevinn/hls-m3u8](https://github.com/Eyevinn/hls-m3u8) | 61 | 15 | 2026-05-03T15:05:38Z |  Parser and generator for HLS (M3U8) playlists; kept up to date with the spec. |
@@ -23,13 +23,13 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 359 | 2026-05-22T01:28:46Z |  Comprehensive Go bindings for FFmpeg. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 916 | 267 | 2026-05-24T20:21:33Z |  Pure Go RTSP server and client library. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 359 | 2026-05-26T23:50:59Z |  Comprehensive Go bindings for FFmpeg. |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 917 | 267 | 2026-05-26T15:28:37Z |  Pure Go RTSP server and client library. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 932 | 171 | 2026-05-13T23:20:07Z |  Go bindings for FFmpeg av\* libraries. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 696 | 126 | 2026-05-09T13:47:43Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 636 | 118 | 2026-05-24T12:19:26Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 717 | 72 | 2026-05-24T10:34:47Z |  Better C bindings for ffmpeg in GO. |
-| [asticode/go-astits](https://github.com/asticode/go-astits) | 614 | 63 | 2026-05-25T13:06:34Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
+| [asticode/go-astits](https://github.com/asticode/go-astits) | 615 | 63 | 2026-05-26T06:21:09Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 509 | 58 | 2026-05-20T08:20:22Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 89 | 15 | 2026-03-24T01:24:42Z |  Video capture library for Linux, written in Go. |
 | [Eyevinn/hls-m3u8](https://github.com/Eyevinn/hls-m3u8) | 61 | 15 | 2026-05-03T15:05:38Z |  Parser and generator for HLS (M3U8) playlists; kept up to date with the spec. |
@@ -40,11 +40,11 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [asticode/go-astits](https://github.com/asticode/go-astits) | 614 | 63 | 2026-05-25T13:06:34Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 916 | 267 | 2026-05-24T20:21:33Z |  Pure Go RTSP server and client library. |
+| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 359 | 2026-05-26T23:50:59Z |  Comprehensive Go bindings for FFmpeg. |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 917 | 267 | 2026-05-26T15:28:37Z |  Pure Go RTSP server and client library. |
+| [asticode/go-astits](https://github.com/asticode/go-astits) | 615 | 63 | 2026-05-26T06:21:09Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 636 | 118 | 2026-05-24T12:19:26Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 717 | 72 | 2026-05-24T10:34:47Z |  Better C bindings for ffmpeg in GO. |
-| [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 359 | 2026-05-22T01:28:46Z |  Comprehensive Go bindings for FFmpeg. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 509 | 58 | 2026-05-20T08:20:22Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 932 | 171 | 2026-05-13T23:20:07Z |  Go bindings for FFmpeg av\* libraries. |
 | [alanzng/manifestor](https://github.com/alanzng/manifestor) | 9 | 1 | 2026-05-13T04:27:25Z |  Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests. |
