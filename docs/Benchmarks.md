@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 228 | 2026-05-26T04:45:13Z |  Go web framework benchmark. |
+| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 228 | 2026-05-27T08:31:41Z |  Go web framework benchmark. |
 | [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 241 | 2026-05-26T09:41:02Z |  Go HTTP request router benchmark and comparison. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 161 | 2026-03-31T01:50:03Z |  Benchmarks of Go serialization methods. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-05-13T23:33:58Z |  Skynet 1M threads microbenchmark. |
@@ -28,7 +28,7 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 241 | 2026-05-26T09:41:02Z |  Go HTTP request router benchmark and comparison. |
-| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 228 | 2026-05-26T04:45:13Z |  Go web framework benchmark. |
+| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 228 | 2026-05-27T08:31:41Z |  Go web framework benchmark. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 161 | 2026-03-31T01:50:03Z |  Benchmarks of Go serialization methods. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-05-13T23:33:58Z |  Skynet 1M threads microbenchmark. |
 | [tylertreat/go-benchmarks](https://github.com/tylertreat/go-benchmarks) | 150 | 23 | 2026-05-13T23:33:25Z |  Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches. |
@@ -48,9 +48,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 228 | 2026-05-27T08:31:41Z |  Go web framework benchmark. |
 | [goptics/vizb](https://github.com/goptics/vizb) | 69 | 6 | 2026-05-26T23:46:26Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 241 | 2026-05-26T09:41:02Z |  Go HTTP request router benchmark and comparison. |
-| [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 228 | 2026-05-26T04:45:13Z |  Go web framework benchmark. |
 | [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-05-14T13:05:05Z |  a collection of golang benchmarks. |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 247 | 18 | 2026-05-13T23:34:02Z |  Compare various Image resize algorithms for the Go language. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-05-13T23:33:58Z |  Skynet 1M threads microbenchmark. |
