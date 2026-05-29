@@ -6,67 +6,67 @@ Libraries for building programs that leverage AI.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 172k | 16k | 2026-05-28T00:18:55Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 47k | 4k | 2026-05-27T22:25:25Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 9k | 1k | 2026-05-27T19:26:00Z |  LangChainGo is a framework for developing applications powered by language models. |
-| [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 961 | 66 | 2026-05-28T00:04:50Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 173k | 16k | 2026-05-29T00:25:30Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 47k | 4k | 2026-05-29T00:12:54Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 9k | 1k | 2026-05-28T21:51:58Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 962 | 66 | 2026-05-28T05:50:52Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
 | [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) | 255 | 39 | 2026-05-26T09:30:57Z |  A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures. |
-| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 109 | 12 | 2026-05-27T23:23:44Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
+| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 109 | 12 | 2026-05-28T23:55:12Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 98 | 3 | 2026-05-13T22:47:34Z |  Manage, load-balance, and failover packs of Ollamas. |
 | [joakimcarlsson/ai](https://github.com/joakimcarlsson/ai) | 25 | 6 | 2026-05-27T08:56:54Z |  A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration. |
 | [Ad3bay0c/routex](https://github.com/Ad3bay0c/routex) | 20 | 4 | 2026-05-21T17:09:02Z |  YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI. |
-| [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 16 | 8 | 2026-05-27T21:48:57Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
+| [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 17 | 8 | 2026-05-28T06:54:45Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
 | [agenticenv/agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) | 16 | 0 | 2026-05-27T07:26:46Z |  Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation. |
 | [zendev-sh/zenflow](https://github.com/zendev-sh/zenflow) | 14 | 2 | 2026-05-27T23:13:56Z |  Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider. |
-| [Colin4k1024/Aetheris](https://github.com/Colin4k1024/Aetheris) | 13 | 0 | 2026-05-27T13:22:28Z |  AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go. |
+| [Colin4k1024/Aetheris](https://github.com/Colin4k1024/Aetheris) | 13 | 0 | 2026-05-28T05:42:33Z |  AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go. |
 | [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) | 13 | 1 | 2026-05-27T08:26:46Z |  MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline. |
 | [harshaneel/localaik](https://github.com/harshaneel/localaik) | 12 | 0 | 2026-05-24T00:26:49Z |  LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend. |
-| [hrygo/hotplex](https://github.com/hrygo/hotplex) | 10 | 5 | 2026-05-27T23:57:49Z |  AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. |
+| [hrygo/hotplex](https://github.com/hrygo/hotplex) | 11 | 5 | 2026-05-28T16:16:16Z |  AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. |
 | [oluwajubelo1/otellix](https://github.com/oluwajubelo1/otellix) | 10 | 1 | 2026-05-05T21:19:27Z |  OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments. |
-| [dakera-ai/dakera-go](https://github.com/dakera-ai/dakera-go) | 1 | 0 | 2026-05-22T22:09:38Z |  Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration. |
+| [dakera-ai/dakera-go](https://github.com/dakera-ai/dakera-go) | 1 | 0 | 2026-05-28T17:17:18Z |  Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 172k | 16k | 2026-05-28T00:18:55Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 47k | 4k | 2026-05-27T22:25:25Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 9k | 1k | 2026-05-27T19:26:00Z |  LangChainGo is a framework for developing applications powered by language models. |
-| [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 961 | 66 | 2026-05-28T00:04:50Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 173k | 16k | 2026-05-29T00:25:30Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 47k | 4k | 2026-05-29T00:12:54Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 9k | 1k | 2026-05-28T21:51:58Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 962 | 66 | 2026-05-28T05:50:52Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
 | [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) | 255 | 39 | 2026-05-26T09:30:57Z |  A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures. |
-| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 109 | 12 | 2026-05-27T23:23:44Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
-| [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 16 | 8 | 2026-05-27T21:48:57Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
+| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 109 | 12 | 2026-05-28T23:55:12Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
+| [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 17 | 8 | 2026-05-28T06:54:45Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
 | [joakimcarlsson/ai](https://github.com/joakimcarlsson/ai) | 25 | 6 | 2026-05-27T08:56:54Z |  A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration. |
-| [hrygo/hotplex](https://github.com/hrygo/hotplex) | 10 | 5 | 2026-05-27T23:57:49Z |  AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. |
+| [hrygo/hotplex](https://github.com/hrygo/hotplex) | 11 | 5 | 2026-05-28T16:16:16Z |  AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. |
 | [Ad3bay0c/routex](https://github.com/Ad3bay0c/routex) | 20 | 4 | 2026-05-21T17:09:02Z |  YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 98 | 3 | 2026-05-13T22:47:34Z |  Manage, load-balance, and failover packs of Ollamas. |
 | [zendev-sh/zenflow](https://github.com/zendev-sh/zenflow) | 14 | 2 | 2026-05-27T23:13:56Z |  Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider. |
 | [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) | 13 | 1 | 2026-05-27T08:26:46Z |  MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline. |
 | [oluwajubelo1/otellix](https://github.com/oluwajubelo1/otellix) | 10 | 1 | 2026-05-05T21:19:27Z |  OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments. |
 | [agenticenv/agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) | 16 | 0 | 2026-05-27T07:26:46Z |  Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation. |
-| [Colin4k1024/Aetheris](https://github.com/Colin4k1024/Aetheris) | 13 | 0 | 2026-05-27T13:22:28Z |  AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go. |
+| [Colin4k1024/Aetheris](https://github.com/Colin4k1024/Aetheris) | 13 | 0 | 2026-05-28T05:42:33Z |  AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go. |
 | [harshaneel/localaik](https://github.com/harshaneel/localaik) | 12 | 0 | 2026-05-24T00:26:49Z |  LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend. |
-| [dakera-ai/dakera-go](https://github.com/dakera-ai/dakera-go) | 1 | 0 | 2026-05-22T22:09:38Z |  Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration. |
+| [dakera-ai/dakera-go](https://github.com/dakera-ai/dakera-go) | 1 | 0 | 2026-05-28T17:17:18Z |  Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 172k | 16k | 2026-05-28T00:18:55Z |  Run large language models locally. |
-| [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 961 | 66 | 2026-05-28T00:04:50Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
-| [hrygo/hotplex](https://github.com/hrygo/hotplex) | 10 | 5 | 2026-05-27T23:57:49Z |  AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. |
-| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 109 | 12 | 2026-05-27T23:23:44Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 173k | 16k | 2026-05-29T00:25:30Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 47k | 4k | 2026-05-29T00:12:54Z |  Open Source OpenAI alternative, self-host AI models. |
+| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 109 | 12 | 2026-05-28T23:55:12Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 9k | 1k | 2026-05-28T21:51:58Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [dakera-ai/dakera-go](https://github.com/dakera-ai/dakera-go) | 1 | 0 | 2026-05-28T17:17:18Z |  Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration. |
+| [hrygo/hotplex](https://github.com/hrygo/hotplex) | 11 | 5 | 2026-05-28T16:16:16Z |  AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. |
+| [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 17 | 8 | 2026-05-28T06:54:45Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
+| [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 962 | 66 | 2026-05-28T05:50:52Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
+| [Colin4k1024/Aetheris](https://github.com/Colin4k1024/Aetheris) | 13 | 0 | 2026-05-28T05:42:33Z |  AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go. |
 | [zendev-sh/zenflow](https://github.com/zendev-sh/zenflow) | 14 | 2 | 2026-05-27T23:13:56Z |  Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 47k | 4k | 2026-05-27T22:25:25Z |  Open Source OpenAI alternative, self-host AI models. |
-| [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 16 | 8 | 2026-05-27T21:48:57Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 9k | 1k | 2026-05-27T19:26:00Z |  LangChainGo is a framework for developing applications powered by language models. |
-| [Colin4k1024/Aetheris](https://github.com/Colin4k1024/Aetheris) | 13 | 0 | 2026-05-27T13:22:28Z |  AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go. |
 | [joakimcarlsson/ai](https://github.com/joakimcarlsson/ai) | 25 | 6 | 2026-05-27T08:56:54Z |  A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration. |
 | [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) | 13 | 1 | 2026-05-27T08:26:46Z |  MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline. |
 | [agenticenv/agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) | 16 | 0 | 2026-05-27T07:26:46Z |  Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation. |
 | [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) | 255 | 39 | 2026-05-26T09:30:57Z |  A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures. |
 | [harshaneel/localaik](https://github.com/harshaneel/localaik) | 12 | 0 | 2026-05-24T00:26:49Z |  LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend. |
-| [dakera-ai/dakera-go](https://github.com/dakera-ai/dakera-go) | 1 | 0 | 2026-05-22T22:09:38Z |  Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration. |
 | [Ad3bay0c/routex](https://github.com/Ad3bay0c/routex) | 20 | 4 | 2026-05-21T17:09:02Z |  YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 98 | 3 | 2026-05-13T22:47:34Z |  Manage, load-balance, and failover packs of Ollamas. |
 | [oluwajubelo1/otellix](https://github.com/oluwajubelo1/otellix) | 10 | 1 | 2026-05-05T21:19:27Z |  OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments. |

@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-26T22:19:08Z |  go generate based graphql server library. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-28T01:35:24Z |  go generate based graphql server library. |
 | [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 842 | 2026-05-24T23:31:46Z |  Implementation of GraphQL for Go. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-05-26T09:35:51Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-05-27T20:11:54Z |  GraphQL server with a focus on ease of use. |
@@ -17,7 +17,7 @@
 | [bhmj/jsonslice](https://github.com/bhmj/jsonslice) | 92 | 11 | 2025-06-17T02:34:06Z |  Jsonpath queries with advanced filters. |
 | [timsolov/rest-query-parser](https://github.com/timsolov/rest-query-parser) | 91 | 22 | 2026-04-10T06:47:47Z |  Query Parser for REST API. Filtering, validations, both `AND`, `OR` operations are supported directly in the query. |
 | [hashicorp/mql](https://github.com/hashicorp/mql) | 65 | 12 | 2026-05-25T08:42:34Z |  Model Query Language (mql) is a query language for your database models. |
-| [SeldonIO/goven](https://github.com/SeldonIO/goven) | 62 | 6 | 2026-05-26T11:50:34Z |  A drop-in query language for any database schema. |
+| [SeldonIO/goven](https://github.com/SeldonIO/goven) | 61 | 6 | 2026-05-28T02:11:52Z |  A drop-in query language for any database schema. |
 | [ccbrown/api-fu](https://github.com/ccbrown/api-fu) | 57 | 4 | 2025-06-18T16:28:25Z |  Comprehensive GraphQL implementation. |
 | [SonicRoshan/straf](https://github.com/SonicRoshan/straf) | 40 | 6 | 2025-06-07T14:17:43Z |  Easily Convert Golang structs to GraphQL objects. |
 | [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) | 30 | 5 | 2026-01-16T13:22:00Z |  A query library for retrieving part of JSON based on JSONPath syntax. |
@@ -28,7 +28,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-26T22:19:08Z |  go generate based graphql server library. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-28T01:35:24Z |  go generate based graphql server library. |
 | [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 842 | 2026-05-24T23:31:46Z |  Implementation of GraphQL for Go. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-05-27T20:11:54Z |  GraphQL server with a focus on ease of use. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-05-26T09:35:51Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
@@ -39,7 +39,7 @@
 | [paololazzari/play](https://github.com/paololazzari/play) | 562 | 16 | 2026-05-21T23:10:40Z |  A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq. |
 | [hashicorp/mql](https://github.com/hashicorp/mql) | 65 | 12 | 2026-05-25T08:42:34Z |  Model Query Language (mql) is a query language for your database models. |
 | [bhmj/jsonslice](https://github.com/bhmj/jsonslice) | 92 | 11 | 2025-06-17T02:34:06Z |  Jsonpath queries with advanced filters. |
-| [SeldonIO/goven](https://github.com/SeldonIO/goven) | 62 | 6 | 2026-05-26T11:50:34Z |  A drop-in query language for any database schema. |
+| [SeldonIO/goven](https://github.com/SeldonIO/goven) | 61 | 6 | 2026-05-28T02:11:52Z |  A drop-in query language for any database schema. |
 | [SonicRoshan/straf](https://github.com/SonicRoshan/straf) | 40 | 6 | 2025-06-07T14:17:43Z |  Easily Convert Golang structs to GraphQL objects. |
 | [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) | 30 | 5 | 2026-01-16T13:22:00Z |  A query library for retrieving part of JSON based on JSONPath syntax. |
 | [ccbrown/api-fu](https://github.com/ccbrown/api-fu) | 57 | 4 | 2025-06-18T16:28:25Z |  Comprehensive GraphQL implementation. |
@@ -50,9 +50,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [SeldonIO/goven](https://github.com/SeldonIO/goven) | 61 | 6 | 2026-05-28T02:11:52Z |  A drop-in query language for any database schema. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-28T01:35:24Z |  go generate based graphql server library. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-05-27T20:11:54Z |  GraphQL server with a focus on ease of use. |
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-05-26T22:19:08Z |  go generate based graphql server library. |
-| [SeldonIO/goven](https://github.com/SeldonIO/goven) | 62 | 6 | 2026-05-26T11:50:34Z |  A drop-in query language for any database schema. |
 | [a8m/rql](https://github.com/a8m/rql) | 367 | 44 | 2026-05-26T11:11:02Z |  Resource Query Language for REST API. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-05-26T09:35:51Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [hashicorp/mql](https://github.com/hashicorp/mql) | 65 | 12 | 2026-05-25T08:42:34Z |  Model Query Language (mql) is a query language for your database models. |
