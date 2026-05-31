@@ -9,7 +9,7 @@ Geographic tools and servers
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 613 | 2026-05-29T16:41:39Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 783 | 120 | 2026-05-26T09:21:01Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 530 | 109 | 2026-04-13T00:25:52Z |  A library provides spatial data and geometric algorithms. |
-| [paulmach/osm](https://github.com/paulmach/osm) | 457 | 56 | 2026-05-23T20:33:57Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
+| [paulmach/osm](https://github.com/paulmach/osm) | 458 | 56 | 2026-05-30T09:54:52Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 430 | 72 | 2026-05-29T09:39:20Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 176 | 36 | 2026-05-22T07:18:37Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 172 | 26 | 2026-04-27T20:49:49Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
@@ -31,7 +31,7 @@ Geographic tools and servers
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 783 | 120 | 2026-05-26T09:21:01Z |  A simple Go-based server for map tiles stored in mbtiles format. |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 530 | 109 | 2026-04-13T00:25:52Z |  A library provides spatial data and geometric algorithms. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 430 | 72 | 2026-05-29T09:39:20Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
-| [paulmach/osm](https://github.com/paulmach/osm) | 457 | 56 | 2026-05-23T20:33:57Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
+| [paulmach/osm](https://github.com/paulmach/osm) | 458 | 56 | 2026-05-30T09:54:52Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 176 | 36 | 2026-05-22T07:18:37Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 172 | 26 | 2026-04-27T20:49:49Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 91 | 22 | 2026-05-04T10:37:02Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
@@ -48,10 +48,10 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [paulmach/osm](https://github.com/paulmach/osm) | 458 | 56 | 2026-05-30T09:54:52Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [tidwall/tile38](https://github.com/tidwall/tile38) | 10k | 613 | 2026-05-29T16:41:39Z |  Geolocation DB with spatial index and realtime geofencing. |
 | [uber/h3-go](https://github.com/uber/h3-go) | 430 | 72 | 2026-05-29T09:39:20Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 783 | 120 | 2026-05-26T09:21:01Z |  A simple Go-based server for map tiles stored in mbtiles format. |
-| [paulmach/osm](https://github.com/paulmach/osm) | 457 | 56 | 2026-05-23T20:33:57Z |  Library for reading, writing and working with OpenStreetMap data and APIs. |
 | [kpfaulkner/borders](https://github.com/kpfaulkner/borders) | 0 | 0 | 2026-05-23T12:28:34Z |  Detects image borders and converts to GeoJSON for GIS operations. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 176 | 36 | 2026-05-22T07:18:37Z |  Go wrapper for GDAL. |
 | [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 6 | 1 | 2026-05-15T17:47:21Z |  Conversion utilities between H3 indexes and GeoJSON. |
