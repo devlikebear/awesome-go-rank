@@ -6,8 +6,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-05-30T22:54:41Z |  A distributed tracing system. |
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 872 | 2026-05-30T21:39:10Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-05-31T22:51:35Z |  A distributed tracing system. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 872 | 2026-05-31T16:32:22Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
 | [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 500 | 2026-05-30T17:35:14Z |  No instrumentation tracing for Golang applications via eBPF. |
 | [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-05-27T12:25:29Z |  Live visualization of your Go application runtime statistics. |
 | [pkg/profile](https://github.com/pkg/profile) | 2k | 121 | 2026-05-23T09:28:07Z |  Simple profiling support package for Go. |
@@ -21,8 +21,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-05-30T22:54:41Z |  A distributed tracing system. |
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 872 | 2026-05-30T21:39:10Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-05-31T22:51:35Z |  A distributed tracing system. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 872 | 2026-05-31T16:32:22Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
 | [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 500 | 2026-05-30T17:35:14Z |  No instrumentation tracing for Golang applications via eBPF. |
 | [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-05-27T12:25:29Z |  Live visualization of your Go application runtime statistics. |
 | [pkg/profile](https://github.com/pkg/profile) | 2k | 121 | 2026-05-23T09:28:07Z |  Simple profiling support package for Go. |
@@ -36,8 +36,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-05-30T22:54:41Z |  A distributed tracing system. |
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 872 | 2026-05-30T21:39:10Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-05-31T22:51:35Z |  A distributed tracing system. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 872 | 2026-05-31T16:32:22Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
 | [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 500 | 2026-05-30T17:35:14Z |  No instrumentation tracing for Golang applications via eBPF. |
 | [go-perfstat/go](https://github.com/go-perfstat/go) | 0 | 0 | 2026-05-28T20:03:37Z |  Lightweight performance statistics and execution time aggregation for Go. |
 | [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-05-27T12:25:29Z |  Live visualization of your Go application runtime statistics. |
