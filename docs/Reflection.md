@@ -6,10 +6,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 460 | 57 | 2026-04-10T06:15:40Z |  Simple struct copying for Go. |
+| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 459 | 57 | 2026-06-01T04:10:55Z |  Simple struct copying for Go. |
 | [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) | 128 | 7 | 2026-05-22T08:43:08Z |  Fast deep copy library. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 64 | 9 | 2025-10-09T08:46:37Z |  Golang source code parsing, usage like reflect package. |
-| [gotidy/copy](https://github.com/gotidy/copy) | 52 | 5 | 2025-10-15T01:40:19Z |  Package for fast copying structs of different types. |
+| [gotidy/copy](https://github.com/gotidy/copy) | 51 | 5 | 2026-06-01T04:01:19Z |  Package for fast copying structs of different types. |
 | [tenntenn/gpath](https://github.com/tenntenn/gpath) | 41 | 4 | 2025-08-11T10:19:04Z |  Library to simplify access struct fields with Go's expression in reflection. |
 | [lvyahui8/goenum](https://github.com/lvyahui8/goenum) | 16 | 1 | 2026-01-21T09:41:43Z |  A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods. |
 | [gontainer/reflectpro](https://github.com/gontainer/reflectpro) | 9 | 0 | 2026-01-20T11:13:25Z |  Callers, copiers, getters and setters for go. |
@@ -20,10 +20,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 460 | 57 | 2026-04-10T06:15:40Z |  Simple struct copying for Go. |
+| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 459 | 57 | 2026-06-01T04:10:55Z |  Simple struct copying for Go. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 64 | 9 | 2025-10-09T08:46:37Z |  Golang source code parsing, usage like reflect package. |
 | [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) | 128 | 7 | 2026-05-22T08:43:08Z |  Fast deep copy library. |
-| [gotidy/copy](https://github.com/gotidy/copy) | 52 | 5 | 2025-10-15T01:40:19Z |  Package for fast copying structs of different types. |
+| [gotidy/copy](https://github.com/gotidy/copy) | 51 | 5 | 2026-06-01T04:01:19Z |  Package for fast copying structs of different types. |
 | [tenntenn/gpath](https://github.com/tenntenn/gpath) | 41 | 4 | 2025-08-11T10:19:04Z |  Library to simplify access struct fields with Go's expression in reflection. |
 | [lvyahui8/goenum](https://github.com/lvyahui8/goenum) | 16 | 1 | 2026-01-21T09:41:43Z |  A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods. |
 | [muir/reflectutils](https://github.com/muir/reflectutils) | 9 | 1 | 2026-03-21T22:12:06Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
@@ -34,13 +34,13 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 459 | 57 | 2026-06-01T04:10:55Z |  Simple struct copying for Go. |
+| [gotidy/copy](https://github.com/gotidy/copy) | 51 | 5 | 2026-06-01T04:01:19Z |  Package for fast copying structs of different types. |
 | [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) | 128 | 7 | 2026-05-22T08:43:08Z |  Fast deep copy library. |
-| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 460 | 57 | 2026-04-10T06:15:40Z |  Simple struct copying for Go. |
 | [muir/reflectutils](https://github.com/muir/reflectutils) | 9 | 1 | 2026-03-21T22:12:06Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
 | [lvyahui8/goenum](https://github.com/lvyahui8/goenum) | 16 | 1 | 2026-01-21T09:41:43Z |  A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods. |
 | [gontainer/reflectpro](https://github.com/gontainer/reflectpro) | 9 | 0 | 2026-01-20T11:13:25Z |  Callers, copiers, getters and setters for go. |
 | [rekby/objwalker](https://github.com/rekby/objwalker) | 4 | 0 | 2025-11-24T07:59:46Z |  Walk by go objects with reflection. |
-| [gotidy/copy](https://github.com/gotidy/copy) | 52 | 5 | 2025-10-15T01:40:19Z |  Package for fast copying structs of different types. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 64 | 9 | 2025-10-09T08:46:37Z |  Golang source code parsing, usage like reflect package. |
 | [tenntenn/gpath](https://github.com/tenntenn/gpath) | 41 | 4 | 2025-08-11T10:19:04Z |  Library to simplify access struct fields with Go's expression in reflection. |
 
