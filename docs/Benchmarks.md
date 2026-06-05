@@ -12,7 +12,7 @@
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-05-13T23:33:58Z |  Skynet 1M threads microbenchmark. |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 246 | 18 | 2026-05-30T12:32:06Z |  Compare various Image resize algorithms for the Go language. |
 | [tylertreat/go-benchmarks](https://github.com/tylertreat/go-benchmarks) | 150 | 23 | 2026-05-13T23:33:25Z |  Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches. |
-| [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-05-14T13:05:05Z |  a collection of golang benchmarks. |
+| [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 144 | 19 | 2026-06-04T06:25:38Z |  a collection of golang benchmarks. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 128 | 7 | 2026-03-18T10:28:49Z |  Go micro-benchmarks for calculating the speed of language constructs. |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 100 | 22 | 2026-04-14T06:40:39Z |  Framework to compare the performance between different Go versions. |
 | [goptics/vizb](https://github.com/goptics/vizb) | 69 | 6 | 2026-06-03T10:47:31Z |  A CLI tool to visualize Go benchmark data in 4D. |
@@ -33,7 +33,7 @@
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-05-13T23:33:58Z |  Skynet 1M threads microbenchmark. |
 | [tylertreat/go-benchmarks](https://github.com/tylertreat/go-benchmarks) | 150 | 23 | 2026-05-13T23:33:25Z |  Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches. |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 100 | 22 | 2026-04-14T06:40:39Z |  Framework to compare the performance between different Go versions. |
-| [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-05-14T13:05:05Z |  a collection of golang benchmarks. |
+| [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 144 | 19 | 2026-06-04T06:25:38Z |  a collection of golang benchmarks. |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 246 | 18 | 2026-05-30T12:32:06Z |  Compare various Image resize algorithms for the Go language. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 128 | 7 | 2026-03-18T10:28:49Z |  Go micro-benchmarks for calculating the speed of language constructs. |
 | [goptics/vizb](https://github.com/goptics/vizb) | 69 | 6 | 2026-06-03T10:47:31Z |  A CLI tool to visualize Go benchmark data in 4D. |
@@ -48,12 +48,12 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 144 | 19 | 2026-06-04T06:25:38Z |  a collection of golang benchmarks. |
 | [goptics/vizb](https://github.com/goptics/vizb) | 69 | 6 | 2026-06-03T10:47:31Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 161 | 2026-06-01T13:05:46Z |  Benchmarks of Go serialization methods. |
 | [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 227 | 2026-06-01T00:52:15Z |  Go web framework benchmark. |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 246 | 18 | 2026-05-30T12:32:06Z |  Compare various Image resize algorithms for the Go language. |
 | [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 241 | 2026-05-26T09:41:02Z |  Go HTTP request router benchmark and comparison. |
-| [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-05-14T13:05:05Z |  a collection of golang benchmarks. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-05-13T23:33:58Z |  Skynet 1M threads microbenchmark. |
 | [jimrobinson/kvbench](https://github.com/jimrobinson/kvbench) | 27 | 2 | 2026-05-13T23:33:57Z |  Key/Value database benchmark. |
 | [PuerkitoBio/gocostmodel](https://github.com/PuerkitoBio/gocostmodel) | 63 | 5 | 2026-05-13T23:33:51Z |  Benchmarks of common basic operations for the Go language. |
