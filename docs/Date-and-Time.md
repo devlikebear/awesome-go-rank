@@ -7,7 +7,7 @@ Libraries for working with dates and times.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 263 | 2026-06-05T06:17:44Z |  A simple, semantic and developer-friendly time package for golang. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2026-06-01T03:55:43Z |  Now is a time toolkit for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2026-06-06T19:37:04Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 175 | 2026-06-05T10:48:26Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 781 | 55 | 2026-04-30T02:48:46Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 513 | 51 | 2026-05-21T08:02:14Z |  Time duration formatting library for Go. |
@@ -36,7 +36,7 @@ Libraries for working with dates and times.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 263 | 2026-06-05T06:17:44Z |  A simple, semantic and developer-friendly time package for golang. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2026-06-01T03:55:43Z |  Now is a time toolkit for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2026-06-06T19:37:04Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 175 | 2026-06-05T10:48:26Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 781 | 55 | 2026-04-30T02:48:46Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 513 | 51 | 2026-05-21T08:02:14Z |  Time duration formatting library for Go. |
@@ -64,6 +64,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2026-06-06T19:37:04Z |  Now is a time toolkit for golang. |
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 17 | 2 | 2026-06-05T18:23:17Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 175 | 2026-06-05T10:48:26Z |  Parse date's without knowing format in advance. |
 | [chmenegatti/go-date-fns](https://github.com/chmenegatti/go-date-fns) | 5 | 0 | 2026-06-05T08:12:01Z |  A comprehensive date utility library for Go, inspired by date-fns, with 140+ pure and immutable functions. |
@@ -72,7 +73,6 @@ Libraries for working with dates and times.
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 239 | 26 | 2026-06-02T15:41:26Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 36 | 4 | 2026-06-02T13:46:01Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 176 | 22 | 2026-06-02T07:46:01Z |  Calculate the sunrise and sunset times for a given location. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 238 | 2026-06-01T03:55:43Z |  Now is a time toolkit for golang. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 513 | 51 | 2026-05-21T08:02:14Z |  Time duration formatting library for Go. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 118 | 11 | 2026-05-21T08:02:06Z |  Convert string to duration. Support time.Duration returned string and more. |
 | [wlbr/feiertage](https://github.com/wlbr/feiertage) | 52 | 9 | 2026-05-18T16:51:44Z |  Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving... |
