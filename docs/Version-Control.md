@@ -13,7 +13,7 @@ Libraries for version control.
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 123 | 8 | 2026-05-14T14:50:37Z |  Per-repo and shared Git hooks with version control and auto update. |
 | [sourcegraph/go-vcs](https://github.com/sourcegraph/go-vcs) | 80 | 18 | 2024-11-26T21:28:23Z |  manipulate and inspect VCS repositories in Go. |
 | [jfrog/froggit-go](https://github.com/jfrog/froggit-go) | 53 | 28 | 2026-05-07T11:45:55Z |  Froggit-Go is a Go library, allowing to perform actions on VCS providers. |
-| [Alejandro-M-P/git-courer](https://github.com/Alejandro-M-P/git-courer) | 36 | 4 | 2026-06-12T20:50:14Z |  Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage. |
+| [Alejandro-M-P/git-courer](https://github.com/Alejandro-M-P/git-courer) | 37 | 4 | 2026-06-13T12:12:57Z |  Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage. |
 | [Omibranch/gitty](https://github.com/Omibranch/gitty) | 23 | 0 | 2026-06-07T11:45:20Z |  Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies. |
 | [beyang/hgo](https://github.com/beyang/hgo) | 16 | 4 | 2026-02-08T12:01:57Z |  Hgo is a collection of Go packages providing read-access to local Mercurial repositories. |
 
@@ -28,7 +28,7 @@ Libraries for version control.
 | [sourcegraph/go-vcs](https://github.com/sourcegraph/go-vcs) | 80 | 18 | 2024-11-26T21:28:23Z |  manipulate and inspect VCS repositories in Go. |
 | [bmf-san/ggc](https://github.com/bmf-san/ggc) | 284 | 10 | 2026-06-10T01:40:26Z |  A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings. |
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 123 | 8 | 2026-05-14T14:50:37Z |  Per-repo and shared Git hooks with version control and auto update. |
-| [Alejandro-M-P/git-courer](https://github.com/Alejandro-M-P/git-courer) | 36 | 4 | 2026-06-12T20:50:14Z |  Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage. |
+| [Alejandro-M-P/git-courer](https://github.com/Alejandro-M-P/git-courer) | 37 | 4 | 2026-06-13T12:12:57Z |  Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage. |
 | [beyang/hgo](https://github.com/beyang/hgo) | 16 | 4 | 2026-02-08T12:01:57Z |  Hgo is a collection of Go packages providing read-access to local Mercurial repositories. |
 | [Omibranch/gitty](https://github.com/Omibranch/gitty) | 23 | 0 | 2026-06-07T11:45:20Z |  Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies. |
 
@@ -36,7 +36,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Alejandro-M-P/git-courer](https://github.com/Alejandro-M-P/git-courer) | 36 | 4 | 2026-06-12T20:50:14Z |  Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage. |
+| [Alejandro-M-P/git-courer](https://github.com/Alejandro-M-P/git-courer) | 37 | 4 | 2026-06-13T12:12:57Z |  Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage. |
 | [go-git/go-git](https://github.com/go-git/go-git) | 8k | 954 | 2026-06-12T17:29:34Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 290 | 2026-06-12T10:08:57Z |  gaining advanced insights from Git repository history. |
 | [bmf-san/ggc](https://github.com/bmf-san/ggc) | 284 | 10 | 2026-06-10T01:40:26Z |  A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings. |

@@ -17,9 +17,9 @@ Tools that generate Go code.
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 403 | 23 | 2026-05-15T11:19:04Z |  Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 50 | 9 | 2026-03-17T14:38:36Z |  Feature rich type-to-type copy code generator. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 47 | 1 | 2025-05-23T22:04:57Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
-| [antst/go-apispec](https://github.com/antst/go-apispec) | 30 | 0 | 2026-06-12T11:51:51Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
+| [antst/go-apispec](https://github.com/antst/go-apispec) | 30 | 0 | 2026-06-13T12:46:47Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
+| [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 23 | 2 | 2026-06-13T01:44:29Z |  Generate HTTP server and client from protobuf. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
-| [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 22 | 2 | 2026-04-24T13:09:11Z |  Generate HTTP server and client from protobuf. |
 | [nikolaydubina/go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) | 15 | 1 | 2026-06-06T20:27:40Z |  Code generation for enum encoding from code comments. |
 
 ### Ranked by Forks
@@ -36,17 +36,18 @@ Tools that generate Go code.
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 431 | 36 | 2026-06-12T09:50:20Z |  Command line tool for generating interface definitions. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 403 | 23 | 2026-05-15T11:19:04Z |  Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 50 | 9 | 2026-03-17T14:38:36Z |  Feature rich type-to-type copy code generator. |
-| [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 22 | 2 | 2026-04-24T13:09:11Z |  Generate HTTP server and client from protobuf. |
+| [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 23 | 2 | 2026-06-13T01:44:29Z |  Generate HTTP server and client from protobuf. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 47 | 1 | 2025-05-23T22:04:57Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
 | [nikolaydubina/go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) | 15 | 1 | 2026-06-06T20:27:40Z |  Code generation for enum encoding from code comments. |
-| [antst/go-apispec](https://github.com/antst/go-apispec) | 30 | 0 | 2026-06-12T11:51:51Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
+| [antst/go-apispec](https://github.com/antst/go-apispec) | 30 | 0 | 2026-06-13T12:46:47Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [antst/go-apispec](https://github.com/antst/go-apispec) | 30 | 0 | 2026-06-12T11:51:51Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
+| [antst/go-apispec](https://github.com/antst/go-apispec) | 30 | 0 | 2026-06-13T12:46:47Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
+| [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 23 | 2 | 2026-06-13T01:44:29Z |  Generate HTTP server and client from protobuf. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 431 | 36 | 2026-06-12T09:50:20Z |  Command line tool for generating interface definitions. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 225 | 2026-06-12T09:46:55Z |  .NET LINQ-like query methods for Go. |
 | [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 8k | 1k | 2026-06-12T06:42:31Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
@@ -57,7 +58,6 @@ Tools that generate Go code.
 | [nikolaydubina/go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) | 15 | 1 | 2026-06-06T20:27:40Z |  Code generation for enum encoding from code comments. |
 | [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | 1k | 45 | 2026-06-03T17:35:52Z |  Derives functions from input types |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 403 | 23 | 2026-05-15T11:19:04Z |  Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default. |
-| [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 22 | 2 | 2026-04-24T13:09:11Z |  Generate HTTP server and client from protobuf. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 50 | 9 | 2026-03-17T14:38:36Z |  Feature rich type-to-type copy code generator. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 47 | 1 | 2025-05-23T22:04:57Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
