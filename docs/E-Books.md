@@ -6,9 +6,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-06-15T21:15:31Z |  A curated list of Go books. |
-| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-06-15T07:46:20Z |  |
-| [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 655 | 2026-06-15T03:00:27Z |  A book focusing on Go `go/*` packages. |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-06-16T15:06:53Z |  A curated list of Go books. |
+| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-06-16T14:54:04Z |  |
+| [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 655 | 2026-06-16T03:24:27Z |  A book focusing on Go `go/*` packages. |
 | [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3k | 273 | 2026-06-15T17:10:16Z |  |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2k | 276 | 2026-06-14T00:16:28Z |  |
 | [volodymyrprokopyuk/go-blockchain](https://github.com/volodymyrprokopyuk/go-blockchain) | 542 | 47 | 2026-06-13T20:52:35Z |  The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC. |
@@ -18,9 +18,9 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-06-15T21:15:31Z |  A curated list of Go books. |
-| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-06-15T07:46:20Z |  |
-| [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 655 | 2026-06-15T03:00:27Z |  A book focusing on Go `go/*` packages. |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-06-16T15:06:53Z |  A curated list of Go books. |
+| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-06-16T14:54:04Z |  |
+| [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 655 | 2026-06-16T03:24:27Z |  A book focusing on Go `go/*` packages. |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2k | 276 | 2026-06-14T00:16:28Z |  |
 | [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3k | 273 | 2026-06-15T17:10:16Z |  |
 | [volodymyrprokopyuk/go-blockchain](https://github.com/volodymyrprokopyuk/go-blockchain) | 542 | 47 | 2026-06-13T20:52:35Z |  The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC. |
@@ -30,10 +30,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-06-15T21:15:31Z |  A curated list of Go books. |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-06-16T15:06:53Z |  A curated list of Go books. |
+| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-06-16T14:54:04Z |  |
+| [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 655 | 2026-06-16T03:24:27Z |  A book focusing on Go `go/*` packages. |
 | [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3k | 273 | 2026-06-15T17:10:16Z |  |
-| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-06-15T07:46:20Z |  |
-| [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 655 | 2026-06-15T03:00:27Z |  A book focusing on Go `go/*` packages. |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2k | 276 | 2026-06-14T00:16:28Z |  |
 | [volodymyrprokopyuk/go-blockchain](https://github.com/volodymyrprokopyuk/go-blockchain) | 542 | 47 | 2026-06-13T20:52:35Z |  The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC. |
 | [thedevsir/gosuccinctly](https://github.com/thedevsir/gosuccinctly) | 23 | 1 | 2025-10-08T19:24:28Z |  in Persian. |
