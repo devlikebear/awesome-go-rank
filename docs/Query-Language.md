@@ -6,8 +6,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-15T18:09:43Z |  go generate based graphql server library. |
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-14T22:37:35Z |  Implementation of GraphQL for Go. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-17T15:57:34Z |  go generate based graphql server library. |
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-17T13:59:07Z |  Implementation of GraphQL for Go. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-06-15T14:56:00Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 492 | 2026-06-05T00:04:12Z |  GraphQL server with a focus on ease of use. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 143 | 2026-06-15T08:01:21Z |  A simple Go package to Query over JSON Data. |
@@ -28,8 +28,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-15T18:09:43Z |  go generate based graphql server library. |
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-14T22:37:35Z |  Implementation of GraphQL for Go. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-17T15:57:34Z |  go generate based graphql server library. |
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-17T13:59:07Z |  Implementation of GraphQL for Go. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 492 | 2026-06-05T00:04:12Z |  GraphQL server with a focus on ease of use. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-06-15T14:56:00Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 143 | 2026-06-15T08:01:21Z |  A simple Go package to Query over JSON Data. |
@@ -50,10 +50,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-15T18:09:43Z |  go generate based graphql server library. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-17T15:57:34Z |  go generate based graphql server library. |
+| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-17T13:59:07Z |  Implementation of GraphQL for Go. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-06-15T14:56:00Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) | 2k | 143 | 2026-06-15T08:01:21Z |  A simple Go package to Query over JSON Data. |
-| [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-14T22:37:35Z |  Implementation of GraphQL for Go. |
 | [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) | 31 | 5 | 2026-06-14T19:24:05Z |  A query library for retrieving part of JSON based on JSONPath syntax. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 571 | 16 | 2026-06-13T16:49:20Z |  A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq. |
 | [a8m/rql](https://github.com/a8m/rql) | 366 | 44 | 2026-06-06T05:02:21Z |  Resource Query Language for REST API. |
