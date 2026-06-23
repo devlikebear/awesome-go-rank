@@ -21,7 +21,6 @@
 | [jimrobinson/kvbench](https://github.com/jimrobinson/kvbench) | 27 | 2 | 2026-05-13T23:33:57Z |  Key/Value database benchmark. |
 | [mrLSD/go-benchmark-app](https://github.com/mrLSD/go-benchmark-app) | 27 | 5 | 2026-05-13T23:33:23Z |  Powerful HTTP-benchmark tool mixed with Аb, Wrk, Siege tools. Gathering statistics and various parameters for benchmarks and comparison results. |
 | [zerosnake0/go-json-benchmark](https://github.com/zerosnake0/go-json-benchmark) | 11 | 1 | 2025-08-04T14:40:12Z |  Go JSON benchmark. |
-| [tyler-smith/golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) | 0 | 0 | 0001-01-01T00:00:00Z |  Collection of benchmarks for popular Go database/SQL utilities. |
 
 ### Ranked by Forks
 
@@ -42,7 +41,6 @@
 | [nikolaydubina/go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) | 33 | 2 | 2026-06-06T20:27:34Z |  benchmarks for machine learning inference in Go. |
 | [jimrobinson/kvbench](https://github.com/jimrobinson/kvbench) | 27 | 2 | 2026-05-13T23:33:57Z |  Key/Value database benchmark. |
 | [zerosnake0/go-json-benchmark](https://github.com/zerosnake0/go-json-benchmark) | 11 | 1 | 2025-08-04T14:40:12Z |  Go JSON benchmark. |
-| [tyler-smith/golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) | 0 | 0 | 0001-01-01T00:00:00Z |  Collection of benchmarks for popular Go database/SQL utilities. |
 
 ### Ranked by Last Updated
 
@@ -63,5 +61,4 @@
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 100 | 22 | 2026-04-14T06:40:39Z |  Framework to compare the performance between different Go versions. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 128 | 7 | 2026-03-18T10:28:49Z |  Go micro-benchmarks for calculating the speed of language constructs. |
 | [zerosnake0/go-json-benchmark](https://github.com/zerosnake0/go-json-benchmark) | 11 | 1 | 2025-08-04T14:40:12Z |  Go JSON benchmark. |
-| [tyler-smith/golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) | 0 | 0 | 0001-01-01T00:00:00Z |  Collection of benchmarks for popular Go database/SQL utilities. |
 
