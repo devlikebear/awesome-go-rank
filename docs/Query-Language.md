@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-23T07:46:42Z |  go generate based graphql server library. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-24T17:05:52Z |  go generate based graphql server library. |
 | [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-23T01:29:43Z |  Implementation of GraphQL for Go. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-06-23T04:34:07Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-06-23T18:10:39Z |  GraphQL server with a focus on ease of use. |
@@ -28,7 +28,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-23T07:46:42Z |  go generate based graphql server library. |
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-24T17:05:52Z |  go generate based graphql server library. |
 | [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-23T01:29:43Z |  Implementation of GraphQL for Go. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-06-23T18:10:39Z |  GraphQL server with a focus on ease of use. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-06-23T04:34:07Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
@@ -50,8 +50,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-24T17:05:52Z |  go generate based graphql server library. |
 | [neelance/graphql-go](https://github.com/neelance/graphql-go) | 5k | 493 | 2026-06-23T18:10:39Z |  GraphQL server with a focus on ease of use. |
-| [99designs/gqlgen](https://github.com/99designs/gqlgen) | 11k | 1k | 2026-06-23T07:46:42Z |  go generate based graphql server library. |
 | [tomwright/dasel](https://github.com/tomwright/dasel) | 8k | 167 | 2026-06-23T04:34:07Z |  Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies. |
 | [graphql-go/graphql](https://github.com/graphql-go/graphql) | 10k | 841 | 2026-06-23T01:29:43Z |  Implementation of GraphQL for Go. |
 | [paololazzari/play](https://github.com/paololazzari/play) | 572 | 16 | 2026-06-19T08:55:42Z |  A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq. |

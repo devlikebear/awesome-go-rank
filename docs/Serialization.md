@@ -8,7 +8,7 @@ Libraries and tools for binary serialization.
 |------------|-------|-------|--------------|-------------|
 | [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-06-22T13:31:50Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 311 | 2026-06-12T09:45:14Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
-| [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-06-21T22:27:51Z |  Small, safe, and easy CBOR encoding and decoding library. |
+| [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-06-24T18:57:08Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 68 | 2026-06-22T10:06:19Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 757 | 55 | 2026-05-15T07:57:08Z |  Code generation for the Colfer binary format. |
 | [emicklei/proto](https://github.com/emicklei/proto) | 616 | 69 | 2026-05-07T20:39:18Z |  Parser and writer for Google ProtocolBuffers .proto files. |
@@ -33,7 +33,7 @@ Libraries and tools for binary serialization.
 |------------|-------|-------|--------------|-------------|
 | [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-06-22T13:31:50Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 311 | 2026-06-12T09:45:14Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
-| [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-06-21T22:27:51Z |  Small, safe, and easy CBOR encoding and decoding library. |
+| [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-06-24T18:57:08Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [emicklei/proto](https://github.com/emicklei/proto) | 616 | 69 | 2026-05-07T20:39:18Z |  Parser and writer for Google ProtocolBuffers .proto files. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 68 | 2026-06-22T10:06:19Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 757 | 55 | 2026-05-15T07:57:08Z |  Code generation for the Colfer binary format. |
@@ -56,10 +56,10 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-06-24T18:57:08Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [mus-format/mus-go](https://github.com/mus-format/mus-go) | 143 | 5 | 2026-06-22T23:04:09Z |  MUS format serializer for Go. |
 | [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-06-22T13:31:50Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 68 | 2026-06-22T10:06:19Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
-| [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-06-21T22:27:51Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 170 | 43 | 2026-06-15T10:18:15Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 311 | 2026-06-12T09:45:14Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 757 | 55 | 2026-05-15T07:57:08Z |  Code generation for the Colfer binary format. |
