@@ -28,7 +28,7 @@ Libraries for Machine Learning.
 | [thoj/go-galib](https://github.com/thoj/go-galib) | 202 | 41 | 2026-04-07T12:35:13Z |  Genetic Algorithms library written in Go / golang. |
 | [eaigner/shield](https://github.com/eaigner/shield) | 160 | 31 | 2026-03-19T21:15:28Z |  Bayesian text classifier with flexible tokenizers and storage backends for Go. |
 | [white-pony/go-fann](https://github.com/white-pony/go-fann) | 118 | 22 | 2026-03-25T16:41:05Z |  Go bindings for Fast Artificial Neural Networks(FANN) library. |
-| [born-ml/born](https://github.com/born-ml/born) | 104 | 10 | 2026-06-26T17:24:36Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
+| [born-ml/born](https://github.com/born-ml/born) | 104 | 10 | 2026-06-28T06:23:04Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
 | [asafschers/goscore](https://github.com/asafschers/goscore) | 101 | 23 | 2025-10-30T07:52:50Z |  Go Scoring API for PMML. |
 | [surenderthakran/gomind](https://github.com/surenderthakran/gomind) | 98 | 8 | 2025-09-02T03:11:24Z |  A simplistic Neural Network Library in Go. |
 | [Fontinalis/fonet](https://github.com/Fontinalis/fonet) | 86 | 17 | 2025-06-27T14:52:20Z |  A Deep Neural Network library written in Go. |
@@ -81,7 +81,7 @@ Libraries for Machine Learning.
 | [malaschitz/randomForest](https://github.com/malaschitz/randomForest) | 60 | 14 | 2026-03-05T00:44:56Z |  Easy to use Random Forest library for Go. |
 | [khezen/evoli](https://github.com/khezen/evoli) | 33 | 11 | 2026-02-26T10:46:14Z |  Genetic Algorithm and Particle Swarm Optimization library. |
 | [datastream/libsvm](https://github.com/datastream/libsvm) | 72 | 11 | 2025-10-04T17:33:21Z |  libsvm golang version derived work based on LIBSVM 3.14. |
-| [born-ml/born](https://github.com/born-ml/born) | 104 | 10 | 2026-06-26T17:24:36Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
+| [born-ml/born](https://github.com/born-ml/born) | 104 | 10 | 2026-06-28T06:23:04Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
 | [dathoangnd/gonet](https://github.com/dathoangnd/gonet) | 82 | 9 | 2026-03-30T05:36:28Z |  Neural Network for Go. |
 | [e-XpertSolutions/go-cluster](https://github.com/e-XpertSolutions/go-cluster) | 44 | 9 | 2025-05-26T01:44:14Z |  Go implementation of the k-modes and k-prototypes clustering algorithms. |
 | [surenderthakran/gomind](https://github.com/surenderthakran/gomind) | 98 | 8 | 2025-09-02T03:11:24Z |  A simplistic Neural Network Library in Go. |
@@ -98,11 +98,11 @@ Libraries for Machine Learning.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [born-ml/born](https://github.com/born-ml/born) | 104 | 10 | 2026-06-28T06:23:04Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
 | [gomlx/gomlx](https://github.com/gomlx/gomlx) | 1k | 76 | 2026-06-27T14:27:41Z |  An accelerated Machine Learning framework for Go. |
 | [knights-analytics/hugot](https://github.com/knights-analytics/hugot) | 617 | 41 | 2026-06-27T14:09:48Z |  Huggingface transformer pipelines for golang with onnxruntime. |
 | [muesli/regommend](https://github.com/muesli/regommend) | 313 | 28 | 2026-06-27T13:13:32Z |  Recommendation & collaborative filtering engine. |
 | [jbrukh/bayesian](https://github.com/jbrukh/bayesian) | 813 | 128 | 2026-06-27T13:12:45Z |  Naive Bayesian Classification for Golang. |
-| [born-ml/born](https://github.com/born-ml/born) | 104 | 10 | 2026-06-26T17:24:36Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
 | [georgebuilds/anneal](https://github.com/georgebuilds/anneal) | 30 | 0 | 2026-06-26T14:44:34Z |  Machine learning compiler in Go, a from-scratch tinygrad port with a WebGPU backend. |
 | [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) | 899 | 83 | 2026-06-25T11:32:21Z |  Go Interface to Open Neural Network Exchange (ONNX). |
 | [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 6k | 451 | 2026-06-25T11:00:37Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
