@@ -6,11 +6,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-06-26T16:32:04Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-06-29T20:50:53Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-06-28T14:11:50Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-06-27T11:51:39Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-06-25T04:34:59Z |  Go assembly and source viewer. |
-| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 42 | 2026-06-28T16:27:18Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 42 | 2026-06-29T12:04:13Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 861 | 25 | 2026-06-25T13:35:03Z |  Enrich `go test` outputs with text decorations. |
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 683 | 20 | 2026-06-24T15:17:55Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 408 | 19 | 2026-06-19T14:24:44Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
@@ -32,11 +32,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-06-26T16:32:04Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-06-29T20:50:53Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-06-28T14:11:50Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-06-27T11:51:39Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-06-25T04:34:59Z |  Go assembly and source viewer. |
-| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 42 | 2026-06-28T16:27:18Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 42 | 2026-06-29T12:04:13Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 861 | 25 | 2026-06-25T13:35:03Z |  Enrich `go test` outputs with text decorations. |
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 683 | 20 | 2026-06-24T15:17:55Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 408 | 19 | 2026-06-19T14:24:44Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
@@ -58,10 +58,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 42 | 2026-06-28T16:27:18Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-06-29T20:50:53Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 42 | 2026-06-29T12:04:13Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-06-28T14:11:50Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-06-27T11:51:39Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-06-26T16:32:04Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 861 | 25 | 2026-06-25T13:35:03Z |  Enrich `go test` outputs with text decorations. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-06-25T04:34:59Z |  Go assembly and source viewer. |
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 683 | 20 | 2026-06-24T15:17:55Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
