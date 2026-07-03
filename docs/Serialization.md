@@ -6,12 +6,12 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-07-01T20:04:16Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-07-02T12:25:59Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 311 | 2026-06-30T02:56:37Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-07-02T00:06:42Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 68 | 2026-06-22T10:06:19Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 757 | 55 | 2026-05-15T07:57:08Z |  Code generation for the Colfer binary format. |
-| [emicklei/proto](https://github.com/emicklei/proto) | 616 | 69 | 2026-05-07T20:39:18Z |  Parser and writer for Google ProtocolBuffers .proto files. |
+| [emicklei/proto](https://github.com/emicklei/proto) | 615 | 69 | 2026-07-02T01:36:43Z |  Parser and writer for Google ProtocolBuffers .proto files. |
 | [glycerine/go-capnproto](https://github.com/glycerine/go-capnproto) | 287 | 20 | 2025-07-25T15:28:24Z |  Cap'n Proto library and parser for go. |
 | [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 170 | 43 | 2026-06-15T10:18:15Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
 | [tuvistavie/structomap](https://github.com/tuvistavie/structomap) | 145 | 11 | 2026-04-08T06:50:13Z |  Library to easily and dynamically generate maps from static structures. |
@@ -31,10 +31,10 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-07-01T20:04:16Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-07-02T12:25:59Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 311 | 2026-06-30T02:56:37Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-07-02T00:06:42Z |  Small, safe, and easy CBOR encoding and decoding library. |
-| [emicklei/proto](https://github.com/emicklei/proto) | 616 | 69 | 2026-05-07T20:39:18Z |  Parser and writer for Google ProtocolBuffers .proto files. |
+| [emicklei/proto](https://github.com/emicklei/proto) | 615 | 69 | 2026-07-02T01:36:43Z |  Parser and writer for Google ProtocolBuffers .proto files. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 68 | 2026-06-22T10:06:19Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 757 | 55 | 2026-05-15T07:57:08Z |  Code generation for the Colfer binary format. |
 | [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 170 | 43 | 2026-06-15T10:18:15Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
@@ -56,14 +56,14 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-07-02T12:25:59Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [emicklei/proto](https://github.com/emicklei/proto) | 615 | 69 | 2026-07-02T01:36:43Z |  Parser and writer for Google ProtocolBuffers .proto files. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 79 | 2026-07-02T00:06:42Z |  Small, safe, and easy CBOR encoding and decoding library. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-07-01T20:04:16Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 311 | 2026-06-30T02:56:37Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [mus-format/mus-go](https://github.com/mus-format/mus-go) | 143 | 5 | 2026-06-22T23:04:09Z |  MUS format serializer for Go. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 68 | 2026-06-22T10:06:19Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
 | [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 170 | 43 | 2026-06-15T10:18:15Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
 | [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) | 757 | 55 | 2026-05-15T07:57:08Z |  Code generation for the Colfer binary format. |
-| [emicklei/proto](https://github.com/emicklei/proto) | 616 | 69 | 2026-05-07T20:39:18Z |  Parser and writer for Google ProtocolBuffers .proto files. |
 | [tuvistavie/structomap](https://github.com/tuvistavie/structomap) | 145 | 11 | 2026-04-08T06:50:13Z |  Library to easily and dynamically generate maps from static structures. |
 | [ghostiam/binstruct](https://github.com/ghostiam/binstruct) | 114 | 19 | 2026-04-03T19:33:07Z |  Golang binary decoder for mapping data into the structure. |
 | [32leaves/bel](https://github.com/32leaves/bel) | 46 | 10 | 2026-03-10T04:37:46Z |  Generate TypeScript interfaces from Go structs/interfaces. Useful for JSON RPC. |

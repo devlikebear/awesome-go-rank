@@ -6,9 +6,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 917 | 2026-07-01T18:33:22Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 16k | 854 | 2026-07-01T19:58:49Z |  simple "Make" alternative. |
-| [magefile/mage](https://github.com/magefile/mage) | 5k | 276 | 2026-07-01T17:53:38Z |  Mage is a make/rake-like build tool using Go. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 918 | 2026-07-02T20:23:01Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 855 | 2026-07-02T20:49:45Z |  simple "Make" alternative. |
+| [magefile/mage](https://github.com/magefile/mage) | 5k | 275 | 2026-07-02T23:35:42Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-06-25T22:48:55Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-06-23T00:55:14Z |  Modern Make. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 34 | 2026-06-28T13:36:13Z |  Task runner with README.md defined tasks, executable markdown. |
@@ -24,9 +24,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 917 | 2026-07-01T18:33:22Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 16k | 854 | 2026-07-01T19:58:49Z |  simple "Make" alternative. |
-| [magefile/mage](https://github.com/magefile/mage) | 5k | 276 | 2026-07-01T17:53:38Z |  Mage is a make/rake-like build tool using Go. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 918 | 2026-07-02T20:23:01Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 855 | 2026-07-02T20:49:45Z |  simple "Make" alternative. |
+| [magefile/mage](https://github.com/magefile/mage) | 5k | 275 | 2026-07-02T23:35:42Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-06-25T22:48:55Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-06-23T00:55:14Z |  Modern Make. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 322 | 42 | 2026-06-14T15:23:31Z |  Concurrent task runner. |
@@ -42,9 +42,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 16k | 854 | 2026-07-01T19:58:49Z |  simple "Make" alternative. |
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 917 | 2026-07-01T18:33:22Z |  Air - Live reload for Go apps. |
-| [magefile/mage](https://github.com/magefile/mage) | 5k | 276 | 2026-07-01T17:53:38Z |  Mage is a make/rake-like build tool using Go. |
+| [magefile/mage](https://github.com/magefile/mage) | 5k | 275 | 2026-07-02T23:35:42Z |  Mage is a make/rake-like build tool using Go. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 855 | 2026-07-02T20:49:45Z |  simple "Make" alternative. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 918 | 2026-07-02T20:23:01Z |  Air - Live reload for Go apps. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 34 | 2026-06-28T13:36:13Z |  Task runner with README.md defined tasks, executable markdown. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-06-25T22:48:55Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-06-23T00:55:14Z |  Modern Make. |
