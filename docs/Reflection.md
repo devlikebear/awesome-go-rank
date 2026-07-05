@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 459 | 57 | 2026-06-18T08:50:43Z |  Simple struct copying for Go. |
+| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 460 | 57 | 2026-07-04T19:11:11Z |  Simple struct copying for Go. |
 | [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) | 129 | 7 | 2026-07-02T18:44:32Z |  Fast deep copy library. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 65 | 9 | 2026-06-17T16:58:16Z |  Golang source code parsing, usage like reflect package. |
 | [gotidy/copy](https://github.com/gotidy/copy) | 51 | 5 | 2026-06-01T04:01:19Z |  Package for fast copying structs of different types. |
@@ -20,7 +20,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 459 | 57 | 2026-06-18T08:50:43Z |  Simple struct copying for Go. |
+| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 460 | 57 | 2026-07-04T19:11:11Z |  Simple struct copying for Go. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 65 | 9 | 2026-06-17T16:58:16Z |  Golang source code parsing, usage like reflect package. |
 | [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) | 129 | 7 | 2026-07-02T18:44:32Z |  Fast deep copy library. |
 | [gotidy/copy](https://github.com/gotidy/copy) | 51 | 5 | 2026-06-01T04:01:19Z |  Package for fast copying structs of different types. |
@@ -34,8 +34,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 460 | 57 | 2026-07-04T19:11:11Z |  Simple struct copying for Go. |
 | [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) | 129 | 7 | 2026-07-02T18:44:32Z |  Fast deep copy library. |
-| [ulule/deepcopier](https://github.com/ulule/deepcopier) | 459 | 57 | 2026-06-18T08:50:43Z |  Simple struct copying for Go. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 65 | 9 | 2026-06-17T16:58:16Z |  Golang source code parsing, usage like reflect package. |
 | [gotidy/copy](https://github.com/gotidy/copy) | 51 | 5 | 2026-06-01T04:01:19Z |  Package for fast copying structs of different types. |
 | [muir/reflectutils](https://github.com/muir/reflectutils) | 9 | 1 | 2026-03-21T22:12:06Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
