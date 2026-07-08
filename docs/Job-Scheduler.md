@@ -7,7 +7,7 @@ Libraries for scheduling jobs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 340 | 2026-07-03T22:07:46Z | . |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-07-06T09:44:45Z |  Simple, zero-dependency scheduling library for Go. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-07-07T08:31:09Z |  Simple, zero-dependency scheduling library for Go. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-06-24T18:38:12Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 65 | 2026-06-06T16:34:56Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 512 | 28 | 2026-07-06T07:05:03Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
@@ -36,7 +36,7 @@ Libraries for scheduling jobs.
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 4k | 340 | 2026-07-03T22:07:46Z | . |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-06-24T18:38:12Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-07-06T09:44:45Z |  Simple, zero-dependency scheduling library for Go. |
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-07-07T08:31:09Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 65 | 2026-06-06T16:34:56Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 469 | 51 | 2026-01-26T22:33:59Z |  Cronjobs scheduling made easy. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 482 | 36 | 2026-06-06T19:27:31Z |  A simple but powerful DAG scheduler and dashboard. |
@@ -62,10 +62,10 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-07-07T08:31:09Z |  Simple, zero-dependency scheduling library for Go. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 6 | 0 | 2026-07-06T10:38:28Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
 | [tickstem/heartbeat](https://github.com/tickstem/heartbeat) | 1 | 0 | 2026-07-06T10:16:38Z |  Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving. |
 | [tickstem/cron](https://github.com/tickstem/cron) | 1 | 0 | 2026-07-06T10:16:37Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
-| [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 95 | 2026-07-06T09:44:45Z |  Simple, zero-dependency scheduling library for Go. |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 35 | 6 | 2026-07-06T09:28:25Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [netresearch/ofelia](https://github.com/netresearch/ofelia) | 62 | 5 | 2026-07-06T09:14:12Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
 | [netresearch/go-cron](https://github.com/netresearch/go-cron) | 45 | 5 | 2026-07-06T09:14:11Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
