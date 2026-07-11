@@ -8,7 +8,7 @@ Libraries for manipulating video.
 |------------|-------|-------|--------------|-------------|
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 361 | 2026-07-08T12:31:26Z |  Comprehensive Go bindings for FFmpeg. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 932 | 172 | 2026-07-05T04:44:23Z |  Go bindings for FFmpeg av\* libraries. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 928 | 268 | 2026-07-09T13:43:32Z |  Pure Go RTSP server and client library. |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 929 | 268 | 2026-07-10T05:52:39Z |  Pure Go RTSP server and client library. |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 722 | 76 | 2026-07-07T14:58:56Z |  Better C bindings for ffmpeg in GO. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 701 | 130 | 2026-07-08T06:57:48Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 642 | 120 | 2026-07-09T19:53:06Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
@@ -24,7 +24,7 @@ Libraries for manipulating video.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 361 | 2026-07-08T12:31:26Z |  Comprehensive Go bindings for FFmpeg. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 928 | 268 | 2026-07-09T13:43:32Z |  Pure Go RTSP server and client library. |
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 929 | 268 | 2026-07-10T05:52:39Z |  Pure Go RTSP server and client library. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 932 | 172 | 2026-07-05T04:44:23Z |  Go bindings for FFmpeg av\* libraries. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 701 | 130 | 2026-07-08T06:57:48Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 642 | 120 | 2026-07-09T19:53:06Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
@@ -40,8 +40,8 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 929 | 268 | 2026-07-10T05:52:39Z |  Pure Go RTSP server and client library. |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 642 | 120 | 2026-07-09T19:53:06Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
-| [aler9/gortsplib](https://github.com/aler9/gortsplib) | 928 | 268 | 2026-07-09T13:43:32Z |  Pure Go RTSP server and client library. |
 | [giorgisio/goav](https://github.com/giorgisio/goav) | 2k | 361 | 2026-07-08T12:31:26Z |  Comprehensive Go bindings for FFmpeg. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 701 | 130 | 2026-07-08T06:57:48Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 722 | 76 | 2026-07-07T14:58:56Z |  Better C bindings for ffmpeg in GO. |

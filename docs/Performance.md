@@ -6,10 +6,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-07-09T17:20:39Z |  A distributed tracing system. |
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 876 | 2026-07-09T22:54:20Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-07-10T20:48:42Z |  A distributed tracing system. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 876 | 2026-07-10T11:10:31Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
 | [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 501 | 2026-07-09T04:21:12Z |  No instrumentation tracing for Golang applications via eBPF. |
-| [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-07-08T12:38:52Z |  Live visualization of your Go application runtime statistics. |
+| [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-07-10T21:25:05Z |  Live visualization of your Go application runtime statistics. |
 | [pkg/profile](https://github.com/pkg/profile) | 2k | 121 | 2026-06-28T12:11:05Z |  Simple profiling support package for Go. |
 | [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) | 298 | 14 | 2026-07-06T09:15:46Z |  Automatically add spans to all methods and functions. |
 | [joetifa2003/mm-go](https://github.com/joetifa2003/mm-go) | 194 | 10 | 2026-07-09T05:45:04Z |  Generic manual memory management for golang. |
@@ -21,10 +21,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-07-09T17:20:39Z |  A distributed tracing system. |
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 876 | 2026-07-09T22:54:20Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-07-10T20:48:42Z |  A distributed tracing system. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 876 | 2026-07-10T11:10:31Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
 | [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 501 | 2026-07-09T04:21:12Z |  No instrumentation tracing for Golang applications via eBPF. |
-| [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-07-08T12:38:52Z |  Live visualization of your Go application runtime statistics. |
+| [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-07-10T21:25:05Z |  Live visualization of your Go application runtime statistics. |
 | [pkg/profile](https://github.com/pkg/profile) | 2k | 121 | 2026-06-28T12:11:05Z |  Simple profiling support package for Go. |
 | [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) | 298 | 14 | 2026-07-06T09:15:46Z |  Automatically add spans to all methods and functions. |
 | [joetifa2003/mm-go](https://github.com/joetifa2003/mm-go) | 194 | 10 | 2026-07-09T05:45:04Z |  Generic manual memory management for golang. |
@@ -36,11 +36,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 876 | 2026-07-09T22:54:20Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-07-09T17:20:39Z |  A distributed tracing system. |
+| [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-07-10T21:25:05Z |  Live visualization of your Go application runtime statistics. |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23k | 3k | 2026-07-10T20:48:42Z |  A distributed tracing system. |
+| [cilium/ebpf](https://github.com/cilium/ebpf) | 8k | 876 | 2026-07-10T11:10:31Z |  Provides utilities for loading, compiling, and debugging eBPF programs. |
 | [joetifa2003/mm-go](https://github.com/joetifa2003/mm-go) | 194 | 10 | 2026-07-09T05:45:04Z |  Generic manual memory management for golang. |
 | [pixie-labs/pixie](https://github.com/pixie-labs/pixie) | 6k | 501 | 2026-07-09T04:21:12Z |  No instrumentation tracing for Golang applications via eBPF. |
-| [arl/statsviz](https://github.com/arl/statsviz) | 4k | 124 | 2026-07-08T12:38:52Z |  Live visualization of your Go application runtime statistics. |
 | [go-perfstat/go](https://github.com/go-perfstat/go) | 1 | 0 | 2026-07-07T21:20:56Z |  Lightweight performance statistics and execution time aggregation for Go. |
 | [nikolaydubina/go-instrument](https://github.com/nikolaydubina/go-instrument) | 298 | 14 | 2026-07-06T09:15:46Z |  Automatically add spans to all methods and functions. |
 | [hedhyw/otelinji](https://github.com/hedhyw/otelinji) | 28 | 0 | 2026-07-06T08:20:19Z |  OpenTelemetry auto-instrumentation tool for adding spans to functions. |
