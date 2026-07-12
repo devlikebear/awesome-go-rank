@@ -100,12 +100,12 @@ func loadSnapshot(path string) (*Snapshot, error) {
 		}
 		return nil, fmt.Errorf("open snapshot %s: %w", path, err)
 	}
-	defer file.Close()
+	defer func() { _ = file.Close() }()
 	reader, err := gzip.NewReader(file)
 	if err != nil {
 		return nil, fmt.Errorf("open snapshot gzip %s: %w", path, err)
 	}
-	defer reader.Close()
+	defer func() { _ = reader.Close() }()
 	var snapshot Snapshot
 	if err := json.NewDecoder(reader).Decode(&snapshot); err != nil {
 		return nil, fmt.Errorf("decode snapshot %s: %w", path, err)

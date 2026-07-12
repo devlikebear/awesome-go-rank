@@ -43,7 +43,7 @@ func Load(filePath string) (*Cache, error) {
 	if err != nil {
 		return nil, fmt.Errorf("failed to open cache file: %w", err)
 	}
-	defer file.Close()
+	defer func() { _ = file.Close() }()
 
 	var cache Cache
 	if err := json.NewDecoder(file).Decode(&cache); err != nil {
@@ -59,7 +59,7 @@ func Load(filePath string) (*Cache, error) {
 }
 
 // Save saves the cache to a JSON file
-func (c *Cache) Save(filePath string) error {
+func (c *Cache) Save(filePath string) (err error) {
 	// Create directory if it doesn't exist
 	dir := filepath.Dir(filePath)
 	if err := os.MkdirAll(dir, 0755); err != nil {
@@ -73,7 +73,11 @@ func (c *Cache) Save(filePath string) error {
 	if err != nil {
 		return fmt.Errorf("failed to create cache file: %w", err)
 	}
-	defer file.Close()
+	defer func() {
+		if closeErr := file.Close(); err == nil {
+			err = closeErr
+		}
+	}()
 
 	encoder := json.NewEncoder(file)
 	encoder.SetIndent("", "  ")

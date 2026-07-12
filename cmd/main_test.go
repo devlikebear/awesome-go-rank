@@ -52,7 +52,7 @@ func TestWriteRepositoriesToFile(t *testing.T) {
 	}
 
 	var buf bytes.Buffer
-	writeRepositoriesToFile("Test Title", repos, &buf)
+	assert.NoError(t, writeRepositoriesToFile("Test Title", repos, &buf))
 
 	output := buf.String()
 
@@ -200,7 +200,7 @@ func TestWriteRepositoriesToFile_Formatting(t *testing.T) {
 	}
 
 	var buf bytes.Buffer
-	writeRepositoriesToFile("Title", repos, &buf)
+	assert.NoError(t, writeRepositoriesToFile("Title", repos, &buf))
 
 	output := buf.String()
 
@@ -225,7 +225,7 @@ func TestWriteRepositoriesToFile_DescriptionTrimming(t *testing.T) {
 	}
 
 	var buf bytes.Buffer
-	writeRepositoriesToFile("Title", repos, &buf)
+	assert.NoError(t, writeRepositoriesToFile("Title", repos, &buf))
 
 	output := buf.String()
 
@@ -273,7 +273,7 @@ func TestWriteRepositoriesToFile_MultipleRepos(t *testing.T) {
 	}
 
 	var buf bytes.Buffer
-	writeRepositoriesToFile("Multiple Repos", repos, &buf)
+	assert.NoError(t, writeRepositoriesToFile("Multiple Repos", repos, &buf))
 
 	output := buf.String()
 

@@ -49,7 +49,9 @@ func TestFetchAndRankRepositoriesUsesBoundedWorkerPool(t *testing.T) {
 	var readme strings.Builder
 	readme.WriteString("## Database\n")
 	for i := 0; i < 24; i++ {
-		fmt.Fprintf(&readme, "- [repo-%d](https://github.com/example/repo-%d) - Test.\n", i, i)
+		if _, err := fmt.Fprintf(&readme, "- [repo-%d](https://github.com/example/repo-%d) - Test.\n", i, i); err != nil {
+			t.Fatal(err)
+		}
 	}
 	client := &concurrencyGithubClient{readme: readme.String()}
 	cfg := config.Default()

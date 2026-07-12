@@ -39,19 +39,28 @@ func printRepositories(title string, repositories []awesomego.Repository) {
 
 // writeRepositoriesToFile writes a ranked list of repositories to a file
 func writeRepositoriesToFile(title string, repositories []awesomego.Repository,
-	file io.Writer) {
-	fmt.Fprintf(file, "### %s\n\n", title)
-	fmt.Fprintf(file, "| Repository | Stars | Forks | Last Updated | Description | \n")
-	fmt.Fprintf(file, "|------------|-------|-------|--------------|-------------|\n")
+	file io.Writer) error {
+	if _, err := fmt.Fprintf(file, "### %s\n\n", title); err != nil {
+		return err
+	}
+	if _, err := fmt.Fprintln(file, "| Repository | Stars | Forks | Last Updated | Description | "); err != nil {
+		return err
+	}
+	if _, err := fmt.Fprintln(file, "|------------|-------|-------|--------------|-------------|"); err != nil {
+		return err
+	}
 	for _, repo := range repositories {
-		fmt.Fprintf(file, "| [%s](%s) | %s | %s | %v | %s |\n", repo.Name,
+		if _, err := fmt.Fprintf(file, "| [%s](%s) | %s | %s | %v | %s |\n", repo.Name,
 			repo.URL,
 			stringutil.FormatMetricNumber(repo.Stars),
 			stringutil.FormatMetricNumber(repo.Forks),
 			repo.LastUpdated.Format("2006-01-02T15:04:05Z"),
-			strings.Trim(repo.Description, "-"))
+			strings.Trim(repo.Description, "-")); err != nil {
+			return err
+		}
 	}
-	fmt.Fprintf(file, "\n")
+	_, err := fmt.Fprintln(file)
+	return err
 }
 
 // generateTableOfContents creates the table of contents section
@@ -74,8 +83,8 @@ func generateTableOfContents(sections map[string]awesomego.Section,
 		if len(repo) == 0 {
 			continue
 		}
-		sb.WriteString(fmt.Sprintf("* [%s](docs/%s.md)<br/>%s\n",
-			section.Name, convertToFilename(section.Name), section.Description))
+		_, _ = fmt.Fprintf(&sb, "* [%s](docs/%s.md)<br/>%s\n",
+			section.Name, convertToFilename(section.Name), section.Description)
 	}
 
 	return sb.String()
@@ -86,7 +95,7 @@ func writeReadmeHeader(w io.Writer) error {
 	_, err := w.Write([]byte(`# Awesome Go Ranking
 
 [![Website](https://img.shields.io/badge/Website-awesome--go--rank.vercel.app-blue?style=for-the-badge&logo=vercel)](https://awesome-go-rank.vercel.app/)
-[![Go Version](https://img.shields.io/badge/Go-1.23-00ADD8?style=for-the-badge&logo=go)](go.mod)
+[![Go Version](https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go)](go.mod)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](web/package.json)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -205,12 +214,16 @@ func exportJSON(ag *awesomego.AwesomeGo, cfg *config.Config) error {
 }
 
 // writeReadme writes the main README.md file
-func writeReadme(ag *awesomego.AwesomeGo, specificSection string) error {
+func writeReadme(ag *awesomego.AwesomeGo, specificSection string) (err error) {
 	outputFile, err := os.Create("README.md")
 	if err != nil {
 		return err
 	}
-	defer outputFile.Close()
+	defer func() {
+		if closeErr := outputFile.Close(); err == nil {
+			err = closeErr
+		}
+	}()
 
 	// Write header
 	if err := writeReadmeHeader(outputFile); err != nil {
@@ -260,20 +273,26 @@ func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string, verbose 
 }
 
 // writeSectionFile writes a single section's markdown file
-func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, verbose bool) error {
+func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, verbose bool) (err error) {
 	filename := "docs/" + convertToFilename(section.Name) + ".md"
 
 	outputFile, err := os.Create(filename)
 	if err != nil {
 		return fmt.Errorf("error creating %s: %w", filename, err)
 	}
-	defer outputFile.Close()
+	defer func() {
+		if closeErr := outputFile.Close(); err == nil {
+			err = closeErr
+		}
+	}()
 
 	// Write section header
 	if verbose {
 		fmt.Printf("## %s\n\n%s\n\n", section.Name, section.Description)
 	}
-	fmt.Fprintf(outputFile, "## %s\n\n%s\n\n", section.Name, section.Description)
+	if _, err := fmt.Fprintf(outputFile, "## %s\n\n%s\n\n", section.Name, section.Description); err != nil {
+		return err
+	}
 
 	// Write rankings by Stars
 	sort.Slice(repo, func(i, j int) bool {
@@ -282,7 +301,9 @@ func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, v
 	if verbose {
 		printRepositories("\nRanked by Stars", repo)
 	}
-	writeRepositoriesToFile("Ranked by Stars", repo, outputFile)
+	if err := writeRepositoriesToFile("Ranked by Stars", repo, outputFile); err != nil {
+		return err
+	}
 
 	// Write rankings by Forks
 	sort.Slice(repo, func(i, j int) bool {
@@ -291,7 +312,9 @@ func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, v
 	if verbose {
 		printRepositories("\nRanked by Forks", repo)
 	}
-	writeRepositoriesToFile("Ranked by Forks", repo, outputFile)
+	if err := writeRepositoriesToFile("Ranked by Forks", repo, outputFile); err != nil {
+		return err
+	}
 
 	// Write rankings by Last Updated
 	sort.Slice(repo, func(i, j int) bool {
@@ -300,14 +323,16 @@ func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, v
 	if verbose {
 		printRepositories("\nRanked by Last Updated", repo)
 	}
-	writeRepositoriesToFile("Ranked by Last Updated", repo, outputFile)
+	if err := writeRepositoriesToFile("Ranked by Last Updated", repo, outputFile); err != nil {
+		return err
+	}
 
 	return nil
 }
 
 // convertToFilename converts section name to lowercase and replaces spaces with hyphens
 func convertToFilename(name string) string {
-	return strings.Replace(name, " ", "-", -1)
+	return strings.ReplaceAll(name, " ", "-")
 }
 
 func main() {

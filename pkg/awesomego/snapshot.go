@@ -47,18 +47,18 @@ func SaveSnapshot(repos map[string][]Repository, dir string, capturedAt time.Tim
 		return "", fmt.Errorf("create temporary snapshot: %w", err)
 	}
 	tempPath := temp.Name()
-	defer os.Remove(tempPath)
+	defer func() { _ = os.Remove(tempPath) }()
 
 	gzipWriter := gzip.NewWriter(temp)
 	encoder := json.NewEncoder(gzipWriter)
 	encoder.SetIndent("", "  ")
 	if err := encoder.Encode(snapshot); err != nil {
-		gzipWriter.Close()
-		temp.Close()
+		_ = gzipWriter.Close()
+		_ = temp.Close()
 		return "", fmt.Errorf("encode snapshot: %w", err)
 	}
 	if err := gzipWriter.Close(); err != nil {
-		temp.Close()
+		_ = temp.Close()
 		return "", fmt.Errorf("close snapshot compressor: %w", err)
 	}
 	if err := temp.Close(); err != nil {

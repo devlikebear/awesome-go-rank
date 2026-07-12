@@ -67,7 +67,7 @@ func NewJSONExporter(repos map[string][]Repository, sections map[string]Section)
 }
 
 // Export exports the data to a JSON file
-func (je *JSONExporter) Export(outputPath, sourceOwner, sourceRepo string) error {
+func (je *JSONExporter) Export(outputPath, sourceOwner, sourceRepo string) (err error) {
 	// Create output directory if it doesn't exist
 	dir := filepath.Dir(outputPath)
 	if err := os.MkdirAll(dir, 0755); err != nil {
@@ -82,7 +82,11 @@ func (je *JSONExporter) Export(outputPath, sourceOwner, sourceRepo string) error
 	if err != nil {
 		return fmt.Errorf("failed to create output file: %w", err)
 	}
-	defer file.Close()
+	defer func() {
+		if closeErr := file.Close(); err == nil {
+			err = closeErr
+		}
+	}()
 
 	// Encode JSON with indentation
 	encoder := json.NewEncoder(file)

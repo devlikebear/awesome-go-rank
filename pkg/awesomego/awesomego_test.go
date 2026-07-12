@@ -97,7 +97,9 @@ func TestFetchAndRankRepositoriesFailureThreshold(t *testing.T) {
 			var lines strings.Builder
 			lines.WriteString("## Database\n")
 			for i := 0; i < 100; i++ {
-				fmt.Fprintf(&lines, "- [repo-%d](https://github.com/example/repo-%d) - Test.\n", i, i)
+				if _, err := fmt.Fprintf(&lines, "- [repo-%d](https://github.com/example/repo-%d) - Test.\n", i, i); err != nil {
+					t.Fatal(err)
+				}
 			}
 
 			readmeResponse := map[string]any{

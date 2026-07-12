@@ -34,12 +34,12 @@ func TestSaveSnapshotWritesVersionedGzip(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	defer file.Close()
+	defer func() { _ = file.Close() }()
 	reader, err := gzip.NewReader(file)
 	if err != nil {
 		t.Fatal(err)
 	}
-	defer reader.Close()
+	defer func() { _ = reader.Close() }()
 
 	var snapshot Snapshot
 	if err := json.NewDecoder(reader).Decode(&snapshot); err != nil {

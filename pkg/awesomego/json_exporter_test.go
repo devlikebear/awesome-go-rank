@@ -70,7 +70,7 @@ func TestJSONExporter_Export(t *testing.T) {
 	// Read and parse JSON
 	file, err := os.Open(outputPath)
 	require.NoError(t, err)
-	defer file.Close()
+	defer func() { _ = file.Close() }()
 
 	var output JSONOutput
 	err = json.NewDecoder(file).Decode(&output)
@@ -135,10 +135,10 @@ func TestJSONExporter_Export_EmptySection(t *testing.T) {
 	// Read output
 	file, err := os.Open(outputPath)
 	require.NoError(t, err)
-	defer file.Close()
+	defer func() { _ = file.Close() }()
 
 	var output JSONOutput
-	json.NewDecoder(file).Decode(&output)
+	require.NoError(t, json.NewDecoder(file).Decode(&output))
 
 	// Empty sections should be excluded
 	assert.Equal(t, 1, len(output.Sections))
