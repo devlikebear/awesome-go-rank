@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"math"
+	"net/url"
 	"regexp"
 	"strings"
 	"sync"
@@ -20,9 +21,21 @@ import (
 var (
 	sectionRe = regexp.MustCompile(`^## (.+)$`)
 	repoRe    = regexp.MustCompile(`- \[(.+)\]\((https:\/\/github\.com\/[^)]+)\)(.*$)`)
-	// Match github.com/owner/repo with optional trailing path, slash, or query params
-	repoURLRe = regexp.MustCompile(`^https://github\.com/([^/]+)/([^/?#]+)`)
 )
+
+var githubReservedPaths = map[string]struct{}{
+	"about": {}, "apps": {}, "collections": {}, "events": {}, "explore": {},
+	"features": {}, "join": {}, "login": {}, "marketplace": {}, "new": {},
+	"notifications": {}, "orgs": {}, "search": {}, "settings": {}, "sponsors": {},
+	"topics": {}, "trending": {}, "users": {},
+}
+
+var githubNonRepositoryPages = map[string]struct{}{
+	"actions": {}, "branches": {}, "commits": {}, "discussions": {}, "forks": {},
+	"graphs": {}, "issues": {}, "network": {}, "projects": {}, "pulls": {},
+	"releases": {}, "security": {}, "settings": {}, "stargazers": {}, "tags": {},
+	"watchers": {}, "wiki": {},
+}
 
 // rateLimiter implements a simple rate limiting mechanism
 type rateLimiter struct {
@@ -71,7 +84,7 @@ type Repository struct {
 
 // Section is a struct that represents a section in the Awesome Go list.
 type Section struct {
-	Name string
+	Name        string
 	Description string
 }
 
@@ -125,7 +138,7 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 	reposCount := 0
 	for section, repos := range ag.repos {
 		// Skip section if specificSection is set and the section is not contain the specificSection
-		if specificSection != "" && !strings.Contains(specificSection, section) {
+		if !MatchesSection(specificSection, section) {
 			continue
 		}
 		reposCount += len(repos)
@@ -139,10 +152,12 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 	var cnt int32 = 0
 	var progressBarMutex sync.Mutex
 	var reposMutex sync.Mutex
+	failedRepos := make(map[string]map[int]struct{})
+	var failedCount int32
 
 	for section, repos := range ag.repos {
 		// Skip section if specificSection is set and the section is not contain the specificSection
-		if specificSection != "" && !strings.Contains(specificSection, section) {
+		if !MatchesSection(specificSection, section) {
 			continue
 		}
 
@@ -154,7 +169,7 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 			atomic.AddInt32(&cnt, 1)
 
 			wg.Add(1)
-			go func(i int, repos []Repository) {
+			go func(section string, i int, repos []Repository) {
 				defer wg.Done()
 
 				owner, name := extractRepoURLs(repos[i].URL)
@@ -177,6 +192,13 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 					}, ag.maxRetries)
 
 					if err != nil {
+						reposMutex.Lock()
+						if failedRepos[section] == nil {
+							failedRepos[section] = make(map[int]struct{})
+						}
+						failedRepos[section][i] = struct{}{}
+						reposMutex.Unlock()
+						atomic.AddInt32(&failedCount, 1)
 						logger.Error("Failed to fetch repository after retries",
 							zap.String("owner", owner),
 							zap.String("repo", name),
@@ -186,7 +208,7 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 				progressBarMutex.Lock()
 				progressBar.Increment() // Update progress bar
 				progressBarMutex.Unlock()
-			}(i, repos)
+			}(section, i, repos)
 
 		}
 	}
@@ -194,6 +216,33 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 	wg.Wait()
 
 	progressBar.Finish() // Complete progress bar
+
+	for section, failed := range failedRepos {
+		repos := ag.repos[section]
+		collected := make([]Repository, 0, len(repos)-len(failed))
+		for i, repo := range repos {
+			if _, wasFailed := failed[i]; !wasFailed {
+				collected = append(collected, repo)
+			}
+		}
+		ag.repos[section] = collected
+	}
+
+	attempted := atomic.LoadInt32(&cnt)
+	failed := atomic.LoadInt32(&failedCount)
+	rateLimit := ag.client.GetRateLimitInfo()
+	logger.Info("Repository collection summary",
+		zap.Int32("collected", attempted-failed),
+		zap.Int32("failed", failed),
+		zap.Int("rate_limit_remaining", rateLimit.Remaining))
+
+	if attempted > 0 {
+		failureRate := float64(failed) / float64(attempted)
+		if failureRate > ag.config.Collection.FailureThreshold {
+			return fmt.Errorf("repository collection failure rate %.2f%% exceeds threshold %.2f%% (%d/%d)",
+				failureRate*100, ag.config.Collection.FailureThreshold*100, failed, attempted)
+		}
+	}
 
 	return nil
 }
@@ -224,10 +273,10 @@ func (ag *AwesomeGo) parseMarkdown(input string) {
 			if currentSection != "" && owner != "" && name != "" {
 				ag.repos[currentSection] = append(ag.repos[currentSection],
 					Repository{
-						Name:  owner + "/" + name,
-						URL:   url,
-						Stars: 0,
-						Forks: 0,
+						Name:        owner + "/" + name,
+						URL:         url,
+						Stars:       0,
+						Forks:       0,
 						Description: strings.TrimSpace(repoMatches[3]),
 					})
 			}
@@ -235,7 +284,7 @@ func (ag *AwesomeGo) parseMarkdown(input string) {
 			// Check if the line is a section description
 			if currentSection != "" && strings.HasPrefix(line, "_") {
 				ag.sections[currentSection] = Section{
-					Name: currentSection,
+					Name:        currentSection,
 					Description: strings.Trim(line, "_"),
 				}
 			}
@@ -243,32 +292,30 @@ func (ag *AwesomeGo) parseMarkdown(input string) {
 	}
 }
 
+// MatchesSection reports whether an optional requested section exactly matches a section name.
+func MatchesSection(requested, actual string) bool {
+	return requested == "" || strings.EqualFold(strings.TrimSpace(requested), strings.TrimSpace(actual))
+}
 
-// extractRepoURLs extracts the owner and repository name from a GitHub repository URL.
+// extractRepoURLs extracts the owner and repository name from a direct GitHub repository URL.
 func extractRepoURLs(input string) (owner, repo string) {
-	matches := repoURLRe.FindStringSubmatch(input)
-	if len(matches) == 3 {
-		owner, repo = matches[1], matches[2]
-
-		// Filter out non-repository URLs
-		invalidOwners := map[string]bool{
-			"marketplace": true,
-			"trending":    true,
-			"golang":      true, // golang/go is valid, but other golang/* paths might not be
-		}
-
-		// Skip if owner is in the invalid list (except for specific cases)
-		if invalidOwners[owner] {
-			return "", ""
-		}
-
-		// Skip if repo looks like it might be a path segment
-		if repo == "wiki" || repo == "issues" || repo == "blob" || repo == "tree" {
+	parsed, err := url.Parse(input)
+	if err != nil || parsed.Scheme != "https" || !strings.EqualFold(parsed.Host, "github.com") {
+		return "", ""
+	}
+	parts := strings.Split(strings.Trim(parsed.Path, "/"), "/")
+	if len(parts) < 2 || parts[0] == "" || parts[1] == "" {
+		return "", ""
+	}
+	if _, reserved := githubReservedPaths[strings.ToLower(parts[0])]; reserved {
+		return "", ""
+	}
+	if len(parts) > 2 {
+		if _, nonRepositoryPage := githubNonRepositoryPages[strings.ToLower(parts[2])]; nonRepositoryPage {
 			return "", ""
 		}
 	}
-
-	return owner, repo
+	return parts[0], parts[1]
 }
 
 // Repositories returns the repositories in the Awesome Go list.

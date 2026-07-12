@@ -230,7 +230,7 @@ func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string) error {
 		}
 
 		// Skip if specific section is set and doesn't match
-		if specificSection != "" && !strings.Contains(specificSection, section.Name) {
+		if !awesomego.MatchesSection(specificSection, section.Name) {
 			continue
 		}
 

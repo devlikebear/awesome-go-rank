@@ -2,6 +2,7 @@ package awesomego
 
 import (
 	"context"
+	"encoding/base64"
 	"net/http"
 	"testing"
 	"time"
@@ -99,10 +100,13 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_ValidOwnerA
 ## Authentication
 - [awesome-lib](https://github.com/user/awesome-lib) - Great library`
 
-	// Mock the raw.githubusercontent.com response
+	// Mock the GitHub repository contents API response. It follows the default branch.
 	httpmock.RegisterResponder("GET",
-		"https://raw.githubusercontent.com/avelino/awesome-go/main/README.md",
-		httpmock.NewStringResponder(200, mockMarkdown))
+		"https://api.github.com/repos/avelino/awesome-go/readme",
+		httpmock.NewJsonResponderOrPanic(200, map[string]interface{}{
+			"encoding": "base64",
+			"content":  base64.StdEncoding.EncodeToString([]byte(mockMarkdown)),
+		}))
 
 	// Fetch the repositories
 	markdown, err := s.client.FetchReadmeMarkdown(context.Background(), "avelino", "awesome-go")
@@ -116,8 +120,8 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_ValidOwnerA
 func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_InvalidOwner() {
 	// Mock 404 response for invalid owner
 	httpmock.RegisterResponder("GET",
-		"https://raw.githubusercontent.com/invalid/awesome-go/main/README.md",
-		httpmock.NewStringResponder(404, "404: Not Found"))
+		"https://api.github.com/repos/invalid/awesome-go/readme",
+		httpmock.NewJsonResponderOrPanic(404, map[string]string{"message": "Not Found"}))
 
 	// Fetch the repositories
 	markdown, err := s.client.FetchReadmeMarkdown(context.Background(), "invalid", "awesome-go")
@@ -130,8 +134,8 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_InvalidOwne
 func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_InvalidRepo() {
 	// Mock 404 response for invalid repo
 	httpmock.RegisterResponder("GET",
-		"https://raw.githubusercontent.com/avelino/invalid/main/README.md",
-		httpmock.NewStringResponder(404, "404: Not Found"))
+		"https://api.github.com/repos/avelino/invalid/readme",
+		httpmock.NewJsonResponderOrPanic(404, map[string]string{"message": "Not Found"}))
 
 	// Fetch the repositories
 	markdown, err := s.client.FetchReadmeMarkdown(context.Background(), "avelino", "invalid")

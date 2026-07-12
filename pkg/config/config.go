@@ -30,11 +30,17 @@ type RateLimitConfig struct {
 	BackoffMultiplier float64
 }
 
+// CollectionConfig controls repository collection behavior.
+type CollectionConfig struct {
+	FailureThreshold float64
+}
+
 // Config holds all application configuration
 type Config struct {
-	GitHub    GitHubConfig
-	Output    OutputConfig
-	RateLimit RateLimitConfig
+	GitHub     GitHubConfig
+	Output     OutputConfig
+	RateLimit  RateLimitConfig
+	Collection CollectionConfig
 }
 
 // Default returns a Config with default values
@@ -57,6 +63,7 @@ func Default() *Config {
 			MaxRetries:        3,
 			BackoffMultiplier: 2.0,
 		},
+		Collection: CollectionConfig{FailureThreshold: 0.10},
 	}
 }
 
@@ -111,6 +118,13 @@ func FromEnv() (*Config, error) {
 		}
 		cfg.RateLimit.MaxRetries = val
 	}
+	if threshold := os.Getenv("FAILURE_THRESHOLD"); threshold != "" {
+		val, err := strconv.ParseFloat(threshold, 64)
+		if err != nil {
+			return nil, fmt.Errorf("invalid FAILURE_THRESHOLD: %w", err)
+		}
+		cfg.Collection.FailureThreshold = val
+	}
 
 	return cfg, nil
 }
@@ -131,6 +145,9 @@ func (c *Config) Validate() error {
 	}
 	if c.RateLimit.MaxRetries < 0 {
 		return fmt.Errorf("max retries must be non-negative")
+	}
+	if c.Collection.FailureThreshold < 0 || c.Collection.FailureThreshold > 1 {
+		return fmt.Errorf("failure threshold must be between 0 and 1")
 	}
 	return nil
 }

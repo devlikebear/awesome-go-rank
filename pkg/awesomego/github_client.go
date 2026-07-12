@@ -3,8 +3,6 @@ package awesomego
 import (
 	"context"
 	"fmt"
-	"io"
-	"net/http"
 	"sync"
 	"time"
 
@@ -128,22 +126,14 @@ func (gc *GithubClient) waitIfNeeded() {
 
 // FetchReadmeMarkdown fetches the README.md file of a given repository.
 func (ag *GithubClient) FetchReadmeMarkdown(ctx context.Context, owner, repo string) (string, error) {
-	readmeURL := fmt.Sprintf("https://raw.githubusercontent.com/%s/%s/main/README.md", owner, repo)
-	req, err := http.NewRequestWithContext(ctx, http.MethodGet, readmeURL, nil)
+	readme, resp, err := ag.client.Repositories.GetReadme(ctx, owner, repo, nil)
 	if err != nil {
-		return "", err
+		return "", fmt.Errorf("failed to fetch README.md: %w", err)
 	}
-
-	resp, err := http.DefaultClient.Do(req)
+	ag.updateRateLimitInfo(resp)
+	content, err := readme.GetContent()
 	if err != nil {
-		return "", err
+		return "", fmt.Errorf("failed to decode README.md: %w", err)
 	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode >= 400 {
-		return "", fmt.Errorf("failed to fetch README.md: %s", resp.Status)
-	}
-
-	readmeMarkdown, _ := io.ReadAll(resp.Body)
-	return string(readmeMarkdown), nil
+	return content, nil
 }

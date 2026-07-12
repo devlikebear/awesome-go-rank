@@ -63,8 +63,8 @@ func TestWriteRepositoriesToFile(t *testing.T) {
 
 	// Verify repo entries
 	assert.Contains(t, output, "[user/repo1](https://github.com/user/repo1)")
-	assert.Contains(t, output, "1k") // Stars formatted
-	assert.Contains(t, output, "100") // Forks
+	assert.Contains(t, output, "1k")               // Stars formatted
+	assert.Contains(t, output, "100")              // Forks
 	assert.Contains(t, output, "Test description") // Description trimmed
 
 	assert.Contains(t, output, "[user/repo2](https://github.com/user/repo2)")
@@ -142,6 +142,11 @@ func TestGenerateTableOfContents_EmptySection(t *testing.T) {
 
 	// Empty sections should not be included
 	assert.NotContains(t, toc, "Empty")
+}
+
+func TestWriteSectionFilesUsesExactSectionMatch(t *testing.T) {
+	assert.True(t, awesomego.MatchesSection("Database", "database"))
+	assert.False(t, awesomego.MatchesSection("Database", "Data"))
 }
 
 func TestConfig_Validation(t *testing.T) {

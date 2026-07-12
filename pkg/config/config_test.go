@@ -28,6 +28,7 @@ func TestDefault(t *testing.T) {
 	assert.Equal(t, 100*time.Millisecond, cfg.RateLimit.MinInterval)
 	assert.Equal(t, 3, cfg.RateLimit.MaxRetries)
 	assert.Equal(t, 2.0, cfg.RateLimit.BackoffMultiplier)
+	assert.Equal(t, 0.10, cfg.Collection.FailureThreshold)
 }
 
 func TestFromEnv_Defaults(t *testing.T) {
@@ -89,6 +90,15 @@ func TestFromEnv_RateLimitConfig(t *testing.T) {
 	assert.Equal(t, 5, cfg.RateLimit.RequestsPerSecond)
 	assert.Equal(t, 200*time.Millisecond, cfg.RateLimit.MinInterval)
 	assert.Equal(t, 5, cfg.RateLimit.MaxRetries)
+}
+
+func TestFromEnv_FailureThreshold(t *testing.T) {
+	clearEnvVars(t)
+	t.Setenv("FAILURE_THRESHOLD", "0.25")
+
+	cfg, err := FromEnv()
+	require.NoError(t, err)
+	assert.Equal(t, 0.25, cfg.Collection.FailureThreshold)
 }
 
 func TestFromEnv_InvalidRateLimit(t *testing.T) {
@@ -307,6 +317,7 @@ func clearEnvVars(t *testing.T) {
 		"ENABLE_CONSOLE",
 		"RATE_LIMIT_RPS",
 		"MAX_RETRIES",
+		"FAILURE_THRESHOLD",
 	}
 	for _, v := range vars {
 		os.Unsetenv(v)
