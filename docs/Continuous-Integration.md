@@ -6,18 +6,18 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 37k | 3k | 2026-07-10T22:32:29Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 7k | 614 | 2026-07-11T01:07:11Z |  Woodpecker is a community fork of the Drone CI system. |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 453 | 2026-07-10T07:40:16Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-07-10T22:17:21Z | . |
-| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 957 | 103 | 2026-06-20T22:26:07Z |  Abstruse is a distributed CI platform. |
-| [mattn/goveralls](https://github.com/mattn/goveralls) | 796 | 136 | 2026-07-08T12:29:43Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
+| [drone/drone](https://github.com/drone/drone) | 37k | 3k | 2026-07-12T01:15:20Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 7k | 615 | 2026-07-12T01:19:25Z |  Woodpecker is a community fork of the Drone CI system. |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 453 | 2026-07-11T18:05:59Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-07-11T16:37:36Z | . |
+| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 958 | 103 | 2026-07-11T09:11:33Z |  Abstruse is a distributed CI platform. |
+| [mattn/goveralls](https://github.com/mattn/goveralls) | 795 | 136 | 2026-07-11T20:33:57Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
 | [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) | 597 | 12 | 2026-07-04T17:41:43Z |  go test output for humans. |
 | [pikoci/pikoci](https://github.com/pikoci/pikoci) | 156 | 4 | 2026-07-09T16:10:34Z |  Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners. |
 | [go-playground/overalls](https://github.com/go-playground/overalls) | 116 | 25 | 2025-10-22T15:26:37Z |  Multi-Package go project coverprofile for tools like goveralls. |
 | [nikogura/gomason](https://github.com/nikogura/gomason) | 69 | 9 | 2026-07-06T09:15:40Z |  Test, Build, Sign, and Publish your go binaries from a clean workspace. |
 | [opnlabs/dot](https://github.com/opnlabs/dot) | 36 | 0 | 2026-06-28T14:35:38Z |  A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages. |
-| [s0ders/go-semver-release](https://github.com/s0ders/go-semver-release) | 25 | 4 | 2026-07-06T09:50:24Z |  Automate the semantic versioning of Git repositories. |
+| [s0ders/go-semver-release](https://github.com/s0ders/go-semver-release) | 26 | 4 | 2026-07-11T18:49:05Z |  Automate the semantic versioning of Git repositories. |
 | [gha-common/go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) | 24 | 2 | 2026-05-13T22:43:10Z |  A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free. |
 | [jidicula/go-fuzz-action](https://github.com/jidicula/go-fuzz-action) | 21 | 2 | 2026-07-06T08:34:48Z |  Use Go 1.18's built-in fuzz testing in GitHub Actions. |
 | [LawrenceWoodman/roveralls](https://github.com/LawrenceWoodman/roveralls) | 21 | 5 | 2026-05-13T22:42:19Z |  Recursive coverage testing tool. |
@@ -26,18 +26,18 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 37k | 3k | 2026-07-10T22:32:29Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 7k | 614 | 2026-07-11T01:07:11Z |  Woodpecker is a community fork of the Drone CI system. |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 453 | 2026-07-10T07:40:16Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-07-10T22:17:21Z | . |
-| [mattn/goveralls](https://github.com/mattn/goveralls) | 796 | 136 | 2026-07-08T12:29:43Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
-| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 957 | 103 | 2026-06-20T22:26:07Z |  Abstruse is a distributed CI platform. |
+| [drone/drone](https://github.com/drone/drone) | 37k | 3k | 2026-07-12T01:15:20Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 7k | 615 | 2026-07-12T01:19:25Z |  Woodpecker is a community fork of the Drone CI system. |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 453 | 2026-07-11T18:05:59Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-07-11T16:37:36Z | . |
+| [mattn/goveralls](https://github.com/mattn/goveralls) | 795 | 136 | 2026-07-11T20:33:57Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
+| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 958 | 103 | 2026-07-11T09:11:33Z |  Abstruse is a distributed CI platform. |
 | [go-playground/overalls](https://github.com/go-playground/overalls) | 116 | 25 | 2025-10-22T15:26:37Z |  Multi-Package go project coverprofile for tools like goveralls. |
 | [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) | 597 | 12 | 2026-07-04T17:41:43Z |  go test output for humans. |
 | [nikogura/gomason](https://github.com/nikogura/gomason) | 69 | 9 | 2026-07-06T09:15:40Z |  Test, Build, Sign, and Publish your go binaries from a clean workspace. |
 | [LawrenceWoodman/roveralls](https://github.com/LawrenceWoodman/roveralls) | 21 | 5 | 2026-05-13T22:42:19Z |  Recursive coverage testing tool. |
 | [pikoci/pikoci](https://github.com/pikoci/pikoci) | 156 | 4 | 2026-07-09T16:10:34Z |  Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners. |
-| [s0ders/go-semver-release](https://github.com/s0ders/go-semver-release) | 25 | 4 | 2026-07-06T09:50:24Z |  Automate the semantic versioning of Git repositories. |
+| [s0ders/go-semver-release](https://github.com/s0ders/go-semver-release) | 26 | 4 | 2026-07-11T18:49:05Z |  Automate the semantic versioning of Git repositories. |
 | [gha-common/go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) | 24 | 2 | 2026-05-13T22:43:10Z |  A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free. |
 | [jidicula/go-fuzz-action](https://github.com/jidicula/go-fuzz-action) | 21 | 2 | 2026-07-06T08:34:48Z |  Use Go 1.18's built-in fuzz testing in GitHub Actions. |
 | [opnlabs/dot](https://github.com/opnlabs/dot) | 36 | 0 | 2026-06-28T14:35:38Z |  A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages. |
@@ -46,18 +46,18 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 7k | 614 | 2026-07-11T01:07:11Z |  Woodpecker is a community fork of the Drone CI system. |
-| [drone/drone](https://github.com/drone/drone) | 37k | 3k | 2026-07-10T22:32:29Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-07-10T22:17:21Z | . |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 453 | 2026-07-10T07:40:16Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 7k | 615 | 2026-07-12T01:19:25Z |  Woodpecker is a community fork of the Drone CI system. |
+| [drone/drone](https://github.com/drone/drone) | 37k | 3k | 2026-07-12T01:15:20Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [mattn/goveralls](https://github.com/mattn/goveralls) | 795 | 136 | 2026-07-11T20:33:57Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
+| [s0ders/go-semver-release](https://github.com/s0ders/go-semver-release) | 26 | 4 | 2026-07-11T18:49:05Z |  Automate the semantic versioning of Git repositories. |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 453 | 2026-07-11T18:05:59Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-07-11T16:37:36Z | . |
+| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 958 | 103 | 2026-07-11T09:11:33Z |  Abstruse is a distributed CI platform. |
 | [pikoci/pikoci](https://github.com/pikoci/pikoci) | 156 | 4 | 2026-07-09T16:10:34Z |  Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners. |
-| [mattn/goveralls](https://github.com/mattn/goveralls) | 796 | 136 | 2026-07-08T12:29:43Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
-| [s0ders/go-semver-release](https://github.com/s0ders/go-semver-release) | 25 | 4 | 2026-07-06T09:50:24Z |  Automate the semantic versioning of Git repositories. |
 | [nikogura/gomason](https://github.com/nikogura/gomason) | 69 | 9 | 2026-07-06T09:15:40Z |  Test, Build, Sign, and Publish your go binaries from a clean workspace. |
 | [jidicula/go-fuzz-action](https://github.com/jidicula/go-fuzz-action) | 21 | 2 | 2026-07-06T08:34:48Z |  Use Go 1.18's built-in fuzz testing in GitHub Actions. |
 | [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) | 597 | 12 | 2026-07-04T17:41:43Z |  go test output for humans. |
 | [opnlabs/dot](https://github.com/opnlabs/dot) | 36 | 0 | 2026-06-28T14:35:38Z |  A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages. |
-| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 957 | 103 | 2026-06-20T22:26:07Z |  Abstruse is a distributed CI platform. |
 | [gha-common/go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) | 24 | 2 | 2026-05-13T22:43:10Z |  A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free. |
 | [LawrenceWoodman/roveralls](https://github.com/LawrenceWoodman/roveralls) | 21 | 5 | 2026-05-13T22:42:19Z |  Recursive coverage testing tool. |
 | [go-playground/overalls](https://github.com/go-playground/overalls) | 116 | 25 | 2025-10-22T15:26:37Z |  Multi-Package go project coverprofile for tools like goveralls. |
