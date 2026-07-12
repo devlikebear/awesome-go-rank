@@ -1,6 +1,6 @@
 "use client"
 
-import { Section } from "@/lib/data"
+import type { Section } from "@/lib/data"
 import { ChevronDown } from "lucide-react"
 import { useState } from "react"
 

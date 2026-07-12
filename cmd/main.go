@@ -153,13 +153,18 @@ func runRanking(cmdConfig Config) error {
 		return fmt.Errorf("failed to fetch repositories: %w", err)
 	}
 
-	capturedAt := time.Now().UTC()
-	snapshotDir := filepath.Join("data", "snapshots")
-	if _, err := awesomego.SaveSnapshot(ag.Repositories(), snapshotDir, capturedAt); err != nil {
-		return fmt.Errorf("failed to save repository snapshot: %w", err)
-	}
-	if err := awesomego.ThinSnapshots(snapshotDir, capturedAt, 90); err != nil {
-		return fmt.Errorf("failed to thin repository snapshots: %w", err)
+	if cmdConfig.SpecificSection == "" && cmdConfig.Limit == 0 {
+		capturedAt := time.Now().UTC()
+		snapshotDir := filepath.Join("data", "snapshots")
+		if _, err := awesomego.SaveSnapshot(ag.Repositories(), snapshotDir, capturedAt); err != nil {
+			return fmt.Errorf("failed to save repository snapshot: %w", err)
+		}
+		if err := awesomego.EnrichRepositoryTrends(ag.Repositories(), snapshotDir, capturedAt); err != nil {
+			return fmt.Errorf("failed to calculate repository trends: %w", err)
+		}
+		if err := awesomego.ThinSnapshots(snapshotDir, capturedAt, 90); err != nil {
+			return fmt.Errorf("failed to thin repository snapshots: %w", err)
+		}
 	}
 
 	// Create output directory if it doesn't exist
@@ -190,8 +195,8 @@ func runRanking(cmdConfig Config) error {
 func exportJSON(ag *awesomego.AwesomeGo, cfg *config.Config) error {
 	exporter := awesomego.NewJSONExporter(ag.Repositories(), ag.Sections())
 
-	// Export to public/data/repos.json
-	outputPath := "public/data/repos.json"
+	// web/public/data is the single canonical location consumed by the static site.
+	outputPath := filepath.Join("web", "public", "data", "repos.json")
 	if err := exporter.Export(outputPath, cfg.GitHub.Owner, cfg.GitHub.Repository); err != nil {
 		return err
 	}

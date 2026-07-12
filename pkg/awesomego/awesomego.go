@@ -69,13 +69,18 @@ func retryWithBackoff(ctx context.Context, fn func() error, maxRetries int) erro
 
 // Repository is a struct that represents a repository.
 type Repository struct {
-	Name        string
-	URL         string
-	Stars       int
-	Forks       int
-	LastUpdated time.Time
-	Description string
-	Archived    bool
+	Name           string
+	URL            string
+	Stars          int
+	Forks          int
+	LastUpdated    time.Time
+	Description    string
+	Archived       bool
+	StarsDelta7d   *int
+	StarsDelta30d  *int
+	StarsGrowth7d  *float64
+	StarsGrowth30d *float64
+	IsNew          bool
 }
 
 // Section is a struct that represents a section in the Awesome Go list.

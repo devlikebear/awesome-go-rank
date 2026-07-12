@@ -1,6 +1,6 @@
-import { Star, GitFork, Clock } from "lucide-react"
+import { Archive, Clock, GitFork, Star, TrendingDown, TrendingUp } from "lucide-react"
 import { formatNumber, formatDate } from "@/lib/utils"
-import { Repo } from "@/lib/data"
+import type { Repo } from "@/lib/data"
 
 interface RepoCardProps {
   repo: Repo
@@ -28,6 +28,14 @@ export function RepoCard({ repo, rank }: RepoCardProps) {
                 {repo.name}
               </a>
             </h3>
+            {repo.isNew && (
+              <span className="rounded-full bg-blue-500/10 px-2 py-1 text-xs font-medium text-blue-600">New</span>
+            )}
+            {repo.archived && (
+              <span className="flex items-center gap-1 rounded-full bg-muted px-2 py-1 text-xs font-medium text-muted-foreground">
+                <Archive className="h-3 w-3" /> Archived
+              </span>
+            )}
           </div>
 
           <p className="text-sm text-muted-foreground line-clamp-2 mb-4">
@@ -49,6 +57,14 @@ export function RepoCard({ repo, rank }: RepoCardProps) {
               <Clock className="h-4 w-4" />
               <span className="text-xs">{formatDate(repo.lastUpdated)}</span>
             </div>
+            {repo.starsDelta7d != null && (
+              <div className="flex items-center gap-1 text-emerald-600" title="Stars gained in the last 7 days">
+                {repo.starsDelta7d >= 0 ? <TrendingUp className="h-4 w-4" /> : <TrendingDown className="h-4 w-4" />}
+                <span className="text-xs font-medium">
+                  {repo.starsDelta7d >= 0 ? "+" : ""}{formatNumber(repo.starsDelta7d)} weekly
+                </span>
+              </div>
+            )}
           </div>
         </div>
 

@@ -22,15 +22,10 @@ jobs:
         chmod u+x ./bin/linux/amd64/awesome-go-rank
         ./bin/linux/amd64/awesome-go-rank
 
-    - name: Copy JSON to web directory
-      run: |
-        mkdir -p web/public/data
-        cp public/data/repos.json web/public/data/repos.json
-
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update ranking
         commit_user_name: GitHub Actions
         commit_user_email: actions@github.com
-        file_pattern: README.md docs/*.md public/data/repos.json web/public/data/repos.json data/snapshots/*.json.gz
+        file_pattern: README.md docs/*.md web/public/data/repos.json data/snapshots/*.json.gz

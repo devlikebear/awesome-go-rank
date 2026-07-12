@@ -1,161 +1,34 @@
-"use client"
+import Link from "next/link"
+import { Package, TrendingUp } from "lucide-react"
+import { RepoExplorer } from "@/components/repo-explorer"
+import { getRepoData, selectInitialData, slugifySection } from "@/lib/data"
 
-import { useState, useMemo, useCallback, useEffect } from "react"
-import { RepoCard } from "@/components/repo-card"
-import { SearchBar } from "@/components/search-bar"
-import { FilterPanel } from "@/components/filter-panel"
-import { SortControls, SortOption, SortOrder } from "@/components/sort-controls"
-import { Repo, Section, RepoData } from "@/lib/data"
-import { TrendingUp, Package, Star } from "lucide-react"
+export const dynamic = "force-static"
 
-export default function HomePage() {
-  const [searchQuery, setSearchQuery] = useState("")
-  const [selectedSection, setSelectedSection] = useState("")
-  const [minStars, setMinStars] = useState(0)
-  const [sortBy, setSortBy] = useState<SortOption>("stars")
-  const [sortOrder, setSortOrder] = useState<SortOrder>("desc")
-  const [data, setData] = useState<RepoData>({
-    updatedAt: new Date().toISOString(),
-    totalRepos: 0,
-    totalSections: 0,
-    sections: [],
-    metadata: {
-      sourceOwner: "avelino",
-      sourceRepo: "awesome-go",
-      sourceUrl: "https://github.com/avelino/awesome-go",
-      generatedBy: "awesome-go-rank",
-      version: "1.0.0"
-    }
-  })
-  const [loading, setLoading] = useState(true)
+const INITIAL_REPO_LIMIT = 50
 
-  // Load data from JSON file
-  useEffect(() => {
-    fetch('/data/repos.json')
-      .then(res => res.json())
-      .then(data => {
-        setData(data)
-        setLoading(false)
-      })
-      .catch(err => {
-        console.error('Failed to load repository data:', err)
-        setLoading(false)
-      })
-  }, [])
-
-  // Filter and sort repositories
-  const filteredRepos = useMemo(() => {
-    let repos: Repo[] = []
-
-    // Get repos from selected section or all sections
-    if (selectedSection) {
-      const section = data.sections.find((s) => s.name === selectedSection)
-      if (section) {
-        repos = [...section.repos]
-      }
-    } else {
-      // Get all repos from all sections
-      repos = data.sections.flatMap((s) => s.repos)
-
-      // Remove duplicates based on URL
-      const seen = new Set<string>()
-      repos = repos.filter((repo) => {
-        if (seen.has(repo.url)) {
-          return false
-        }
-        seen.add(repo.url)
-        return true
-      })
-    }
-
-    // Apply search filter
-    if (searchQuery) {
-      const query = searchQuery.toLowerCase()
-      repos = repos.filter(
-        (repo) =>
-          repo.name.toLowerCase().includes(query) ||
-          (repo.description && repo.description.toLowerCase().includes(query))
-      )
-    }
-
-    // Apply stars filter
-    repos = repos.filter((repo) => repo.stars >= minStars)
-
-    // Apply sorting
-    const sortMultiplier = sortOrder === "desc" ? -1 : 1
-    switch (sortBy) {
-      case "stars":
-        repos.sort((a, b) => sortMultiplier * (b.stars - a.stars))
-        break
-      case "forks":
-        repos.sort((a, b) => sortMultiplier * (b.forks - a.forks))
-        break
-      case "updated":
-        repos.sort(
-          (a, b) =>
-            sortMultiplier * (new Date(b.lastUpdated).getTime() -
-            new Date(a.lastUpdated).getTime())
-        )
-        break
-    }
-
-    return repos
-  }, [data, selectedSection, searchQuery, minStars, sortBy, sortOrder])
-
-  const handleSearch = useCallback((query: string) => {
-    setSearchQuery(query)
-  }, [])
-
-  const handleSectionChange = useCallback((section: string) => {
-    setSelectedSection(section)
-  }, [])
-
-  const handleMinStarsChange = useCallback((stars: number) => {
-    setMinStars(stars)
-  }, [])
-
-  const handleSortChange = useCallback((sort: SortOption) => {
-    setSortBy(sort)
-  }, [])
-
-  const handleSortOrderChange = useCallback((order: SortOrder) => {
-    setSortOrder(order)
-  }, [])
-
-  if (loading) {
-    return (
-      <div className="container mx-auto px-4 py-8 flex items-center justify-center min-h-screen">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-          <p className="text-muted-foreground">Loading repository data...</p>
-        </div>
-      </div>
-    )
-  }
+export default async function HomePage() {
+  const data = await getRepoData()
+  const initialData = selectInitialData(data, INITIAL_REPO_LIMIT)
 
   return (
     <div className="container mx-auto px-4 py-8">
-      {/* Hero Section */}
-      <div className="text-center mb-12">
+      <section className="text-center mb-12">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent">
           Discover Amazing Go Projects
         </h1>
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-          Explore {data.totalRepos.toLocaleString()} curated Go repositories
-          from{" "}
+          Explore {data.totalRepos.toLocaleString()} curated Go repositories from{" "}
           <a
-            href="https://github.com/avelino/awesome-go"
-            target="_blank"
-            rel="noopener noreferrer"
+            href={data.metadata.sourceUrl}
             className="underline hover:text-foreground"
           >
             awesome-go
           </a>
         </p>
-      </div>
+      </section>
 
-      {/* Stats Cards */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+      <section className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10" aria-label="Ranking statistics">
         <div className="rounded-lg border bg-card p-6">
           <div className="flex items-center gap-4">
             <div className="p-3 rounded-full bg-blue-500/10">
@@ -167,7 +40,6 @@ export default function HomePage() {
             </div>
           </div>
         </div>
-
         <div className="rounded-lg border bg-card p-6">
           <div className="flex items-center gap-4">
             <div className="p-3 rounded-full bg-purple-500/10">
@@ -179,70 +51,24 @@ export default function HomePage() {
             </div>
           </div>
         </div>
+      </section>
 
-        <div className="rounded-lg border bg-card p-6">
-          <div className="flex items-center gap-4">
-            <div className="p-3 rounded-full bg-yellow-500/10">
-              <Star className="h-6 w-6 text-yellow-500" />
-            </div>
-            <div>
-              <p className="text-sm text-muted-foreground">Filtered Results</p>
-              <p className="text-2xl font-bold">{filteredRepos.length.toLocaleString()}</p>
-            </div>
-          </div>
+      <nav className="mb-10" aria-labelledby="category-heading">
+        <h2 id="category-heading" className="text-2xl font-bold mb-4">Browse Go library categories</h2>
+        <div className="flex flex-wrap gap-2">
+          {data.sections.map((section) => (
+            <Link
+              key={section.name}
+              href={`/sections/${slugifySection(section.name)}`}
+              className="rounded-full border bg-card px-3 py-1.5 text-sm hover:border-primary/50 hover:text-primary"
+            >
+              {section.name} ({section.repoCount})
+            </Link>
+          ))}
         </div>
-      </div>
+      </nav>
 
-      {/* Search Bar */}
-      <div className="flex justify-center mb-8">
-        <SearchBar onSearch={handleSearch} />
-      </div>
-
-      {/* Main Content */}
-      <div className="flex flex-col lg:flex-row gap-8">
-        {/* Filters Sidebar */}
-        <FilterPanel
-          sections={data.sections}
-          selectedSection={selectedSection}
-          onSectionChange={handleSectionChange}
-          minStars={minStars}
-          onMinStarsChange={handleMinStarsChange}
-        />
-
-        {/* Repository List */}
-        <div className="flex-1">
-          {/* Sort Controls */}
-          <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold">
-              {selectedSection || "All Repositories"}
-            </h2>
-            <SortControls
-              sortBy={sortBy}
-              sortOrder={sortOrder}
-              onSortChange={handleSortChange}
-              onSortOrderChange={handleSortOrderChange}
-            />
-          </div>
-
-          {/* Results */}
-          {filteredRepos.length === 0 ? (
-            <div className="text-center py-12">
-              <p className="text-muted-foreground text-lg">
-                No repositories found matching your criteria.
-              </p>
-              <p className="text-sm text-muted-foreground mt-2">
-                Try adjusting your filters or search query.
-              </p>
-            </div>
-          ) : (
-            <div className="space-y-4">
-              {filteredRepos.map((repo, index) => (
-                <RepoCard key={repo.url} repo={repo} rank={index + 1} />
-              ))}
-            </div>
-          )}
-        </div>
-      </div>
+      <RepoExplorer initialData={initialData} />
     </div>
   )
 }

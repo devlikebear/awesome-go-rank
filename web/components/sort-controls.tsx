@@ -2,7 +2,7 @@
 
 import { ArrowUpDown, ArrowUp, ArrowDown } from "lucide-react"
 
-export type SortOption = "stars" | "forks" | "updated"
+export type SortOption = "stars" | "forks" | "updated" | "trending"
 export type SortOrder = "asc" | "desc"
 
 interface SortControlsProps {
@@ -17,6 +17,7 @@ export function SortControls({ sortBy, sortOrder, onSortChange, onSortOrderChang
     { value: "stars", label: "Stars" },
     { value: "forks", label: "Forks" },
     { value: "updated", label: "Recently Updated" },
+    { value: "trending", label: "Trending (30d)" },
   ]
 
   return (

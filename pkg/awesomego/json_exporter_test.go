@@ -38,6 +38,8 @@ func TestJSONExporter_Export(t *testing.T) {
 				Forks:       100,
 				LastUpdated: time.Date(2024, 1, 1, 0, 0, 0, 0, time.UTC),
 				Description: "Auth library",
+				Archived:    true,
+				IsNew:       true,
 			},
 		},
 		"Database": {
@@ -89,6 +91,8 @@ func TestJSONExporter_Export(t *testing.T) {
 	assert.Equal(t, 1, output.Sections[0].RepoCount)
 	assert.Equal(t, "user/auth-lib", output.Sections[0].Repos[0].Name)
 	assert.Equal(t, 1000, output.Sections[0].Repos[0].Stars)
+	assert.True(t, output.Sections[0].Repos[0].Archived)
+	assert.True(t, output.Sections[0].Repos[0].IsNew)
 }
 
 func TestJSONExporter_Export_CreatesDirectory(t *testing.T) {
@@ -230,4 +234,8 @@ func TestJSONOutput_JSONFormat(t *testing.T) {
 	assert.Contains(t, jsonStr, "metadata")
 	assert.Contains(t, jsonStr, "sourceOwner")
 	assert.Contains(t, jsonStr, "generatedBy")
+	assert.Contains(t, jsonStr, `"starsDelta7d": null`)
+	assert.Contains(t, jsonStr, `"starsDelta30d": null`)
+	assert.Contains(t, jsonStr, `"archived": false`)
+	assert.Contains(t, jsonStr, `"isNew": false`)
 }
