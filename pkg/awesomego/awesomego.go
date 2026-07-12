@@ -2,8 +2,9 @@ package awesomego
 
 import (
 	"context"
+	cryptorand "crypto/rand"
 	"fmt"
-	"math/rand"
+	"math/big"
 	"net/url"
 	"regexp"
 	"sort"
@@ -54,7 +55,7 @@ func retryWithBackoff(ctx context.Context, fn func() error, maxRetries int) erro
 		}
 		if i < attempts-1 {
 			base := time.Duration(1<<i) * time.Second
-			waitTime := time.Duration(float64(base) * (0.5 + rand.Float64()))
+			waitTime := jitteredBackoff(base)
 			timer := time.NewTimer(waitTime)
 			select {
 			case <-ctx.Done():
@@ -65,6 +66,14 @@ func retryWithBackoff(ctx context.Context, fn func() error, maxRetries int) erro
 		}
 	}
 	return fmt.Errorf("max attempts (%d) exceeded: %w", attempts, err)
+}
+
+func jitteredBackoff(base time.Duration) time.Duration {
+	jitter, err := cryptorand.Int(cryptorand.Reader, big.NewInt(int64(base)))
+	if err != nil {
+		return base
+	}
+	return base/2 + time.Duration(jitter.Int64())
 }
 
 // Repository is a struct that represents a repository.

@@ -32,7 +32,7 @@ type SnapshotRepository struct {
 
 // SaveSnapshot writes a deterministic gzip-compressed snapshot for capturedAt.
 func SaveSnapshot(repos map[string][]Repository, dir string, capturedAt time.Time) (string, error) {
-	if err := os.MkdirAll(dir, 0o755); err != nil {
+	if err := os.MkdirAll(dir, 0o750); err != nil {
 		return "", fmt.Errorf("create snapshot directory: %w", err)
 	}
 
@@ -64,7 +64,7 @@ func SaveSnapshot(repos map[string][]Repository, dir string, capturedAt time.Tim
 	if err := temp.Close(); err != nil {
 		return "", fmt.Errorf("close snapshot file: %w", err)
 	}
-	if err := os.Chmod(tempPath, 0o644); err != nil {
+	if err := os.Chmod(tempPath, 0o600); err != nil {
 		return "", fmt.Errorf("set snapshot permissions: %w", err)
 	}
 	if err := os.Rename(tempPath, outputPath); err != nil {

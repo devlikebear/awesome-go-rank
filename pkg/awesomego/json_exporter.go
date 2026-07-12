@@ -70,7 +70,7 @@ func NewJSONExporter(repos map[string][]Repository, sections map[string]Section)
 func (je *JSONExporter) Export(outputPath, sourceOwner, sourceRepo string) (err error) {
 	// Create output directory if it doesn't exist
 	dir := filepath.Dir(outputPath)
-	if err := os.MkdirAll(dir, 0755); err != nil {
+	if err := os.MkdirAll(dir, 0o750); err != nil {
 		return fmt.Errorf("failed to create output directory: %w", err)
 	}
 
@@ -78,7 +78,7 @@ func (je *JSONExporter) Export(outputPath, sourceOwner, sourceRepo string) (err 
 	output := je.buildJSONOutput(sourceOwner, sourceRepo)
 
 	// Create output file
-	file, err := os.Create(outputPath)
+	file, err := os.OpenFile(outputPath, os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0o600) // #nosec G304 -- output path is explicitly supplied by the caller.
 	if err != nil {
 		return fmt.Errorf("failed to create output file: %w", err)
 	}

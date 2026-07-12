@@ -22,12 +22,27 @@ func TestSaveSnapshotWritesVersionedGzip(t *testing.T) {
 		}},
 	}
 
-	path, err := SaveSnapshot(repos, t.TempDir(), capturedAt)
+	dir := filepath.Join(t.TempDir(), "snapshots")
+	path, err := SaveSnapshot(repos, dir, capturedAt)
 	if err != nil {
 		t.Fatal(err)
 	}
 	if filepath.Base(path) != "2026-07-12.json.gz" {
 		t.Fatalf("unexpected snapshot path: %s", path)
+	}
+	dirInfo, err := os.Stat(dir)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got := dirInfo.Mode().Perm(); got != 0o750 {
+		t.Fatalf("snapshot directory mode = %o, want 750", got)
+	}
+	fileInfo, err := os.Stat(path)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got := fileInfo.Mode().Perm(); got != 0o600 {
+		t.Fatalf("snapshot file mode = %o, want 600", got)
 	}
 
 	file, err := os.Open(path)

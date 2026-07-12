@@ -178,7 +178,7 @@ func runRanking(cmdConfig Config) error {
 
 	// Create output directory if it doesn't exist
 	docsPath := cfg.GetDocsPath()
-	if err := os.MkdirAll(docsPath, 0755); err != nil {
+	if err := os.MkdirAll(docsPath, 0o750); err != nil {
 		return fmt.Errorf("failed to create docs directory: %w", err)
 	}
 
@@ -215,7 +215,7 @@ func exportJSON(ag *awesomego.AwesomeGo, cfg *config.Config) error {
 
 // writeReadme writes the main README.md file
 func writeReadme(ag *awesomego.AwesomeGo, specificSection string) (err error) {
-	outputFile, err := os.Create("README.md")
+	outputFile, err := os.OpenFile("README.md", os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0o600)
 	if err != nil {
 		return err
 	}
@@ -276,7 +276,7 @@ func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string, verbose 
 func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, verbose bool) (err error) {
 	filename := "docs/" + convertToFilename(section.Name) + ".md"
 
-	outputFile, err := os.Create(filename)
+	outputFile, err := os.OpenFile(filename, os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0o600) // #nosec G304 -- filename is derived from a sanitized section name.
 	if err != nil {
 		return fmt.Errorf("error creating %s: %w", filename, err)
 	}
@@ -332,7 +332,8 @@ func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, v
 
 // convertToFilename converts section name to lowercase and replaces spaces with hyphens
 func convertToFilename(name string) string {
-	return strings.ReplaceAll(name, " ", "-")
+	replacer := strings.NewReplacer(" ", "-", "/", "-", `\`, "-")
+	return replacer.Replace(name)
 }
 
 func main() {

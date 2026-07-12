@@ -93,7 +93,7 @@ func loadLatestSnapshotBefore(dir string, before time.Time) (*Snapshot, error) {
 }
 
 func loadSnapshot(path string) (*Snapshot, error) {
-	file, err := os.Open(path)
+	file, err := os.Open(path) // #nosec G304 -- path is constructed from the internal snapshot directory and an ISO date filename.
 	if err != nil {
 		if os.IsNotExist(err) {
 			return nil, nil

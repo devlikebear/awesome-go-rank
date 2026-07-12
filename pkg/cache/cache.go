@@ -39,7 +39,7 @@ func Load(filePath string) (*Cache, error) {
 		return New(), nil
 	}
 
-	file, err := os.Open(filePath)
+	file, err := os.Open(filePath) // #nosec G304 -- loading an explicit caller-provided cache path is this API's purpose.
 	if err != nil {
 		return nil, fmt.Errorf("failed to open cache file: %w", err)
 	}
@@ -62,14 +62,14 @@ func Load(filePath string) (*Cache, error) {
 func (c *Cache) Save(filePath string) (err error) {
 	// Create directory if it doesn't exist
 	dir := filepath.Dir(filePath)
-	if err := os.MkdirAll(dir, 0755); err != nil {
+	if err := os.MkdirAll(dir, 0o750); err != nil {
 		return fmt.Errorf("failed to create cache directory: %w", err)
 	}
 
 	// Update timestamp
 	c.UpdatedAt = time.Now()
 
-	file, err := os.Create(filePath)
+	file, err := os.OpenFile(filePath, os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0o600) // #nosec G304 -- saving to an explicit caller-provided cache path is this API's purpose.
 	if err != nil {
 		return fmt.Errorf("failed to create cache file: %w", err)
 	}

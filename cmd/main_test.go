@@ -21,6 +21,7 @@ func TestConvertToFilename(t *testing.T) {
 		{"multiple spaces", "test  section  name", "test--section--name"},
 		{"no spaces", "Authentication", "Authentication"},
 		{"mixed case with spaces", "Web Frameworks", "Web-Frameworks"},
+		{"path separators", `Parsers/Encoders\Decoders`, "Parsers-Encoders-Decoders"},
 	}
 
 	for _, tt := range tests {
