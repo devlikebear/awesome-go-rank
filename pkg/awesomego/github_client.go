@@ -75,6 +75,7 @@ func (gc *GithubClient) FetchRepository(ctx context.Context, owner, repo string)
 		Stars:       repoInfo.GetStargazersCount(),
 		Forks:       repoInfo.GetForksCount(),
 		LastUpdated: repoInfo.GetUpdatedAt().Time,
+		Archived:    repoInfo.GetArchived(),
 	}, nil
 }
 

@@ -4,8 +4,10 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
+	"time"
 
 	"github.com/devlikebear/awesome-go-rank/pkg/awesomego"
 	"github.com/devlikebear/awesome-go-rank/pkg/config"
@@ -148,6 +150,15 @@ func runRanking(cmdConfig Config) error {
 	ag := awesomego.NewAwesomeGo(client, cfg)
 	if err := ag.FetchAndRankRepositories(cmdConfig.SpecificSection, cmdConfig.Limit); err != nil {
 		return fmt.Errorf("failed to fetch repositories: %w", err)
+	}
+
+	capturedAt := time.Now().UTC()
+	snapshotDir := filepath.Join("data", "snapshots")
+	if _, err := awesomego.SaveSnapshot(ag.Repositories(), snapshotDir, capturedAt); err != nil {
+		return fmt.Errorf("failed to save repository snapshot: %w", err)
+	}
+	if err := awesomego.ThinSnapshots(snapshotDir, capturedAt, 90); err != nil {
+		return fmt.Errorf("failed to thin repository snapshots: %w", err)
 	}
 
 	// Create output directory if it doesn't exist

@@ -47,6 +47,7 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchRepository_ValidOwnerAndRe
 			"stargazers_count": 12345,
 			"forks_count":      1234,
 			"updated_at":       "2024-01-01T00:00:00Z",
+			"archived":         true,
 		}))
 
 	// Fetch the repositories
@@ -55,6 +56,7 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchRepository_ValidOwnerAndRe
 	s.Equal("avelino/awesome-go", repo.Name)
 	s.Equal(12345, repo.Stars)
 	s.Equal(1234, repo.Forks)
+	s.True(repo.Archived)
 
 	// Verify the expected number of calls
 	s.Equal(1, httpmock.GetTotalCallCount())

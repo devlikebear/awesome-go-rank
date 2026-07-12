@@ -80,6 +80,7 @@ type Repository struct {
 	Forks       int
 	LastUpdated time.Time
 	Description string
+	Archived    bool
 }
 
 // Section is a struct that represents a section in the Awesome Go list.

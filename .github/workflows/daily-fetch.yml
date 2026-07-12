@@ -33,3 +33,4 @@ jobs:
         commit_message: Update ranking
         commit_user_name: GitHub Actions
         commit_user_email: actions@github.com
+        file_pattern: README.md docs/*.md public/data/repos.json web/public/data/repos.json data/snapshots/*.json.gz
