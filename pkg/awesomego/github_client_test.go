@@ -7,6 +7,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/google/go-github/v68/github"
 	"github.com/jarcoal/httpmock"
 	"github.com/stretchr/testify/suite"
 )
@@ -176,6 +177,19 @@ func (s *GithubClientTestSuite) TestGithubClient_ParseRepositoryResponse() {
 	s.Equal(999, repo.Stars)
 	s.Equal(99, repo.Forks)
 	s.Equal(updatedTime, repo.LastUpdated)
+}
+
+func (s *GithubClientTestSuite) TestGithubClient_RecordsExhaustedRateLimit() {
+	reset := time.Now().Add(time.Minute)
+	s.client.updateRateLimitInfo(&github.Response{Rate: github.Rate{
+		Remaining: 0,
+		Limit:     5000,
+		Reset:     github.Timestamp{Time: reset},
+	}})
+
+	info := s.client.GetRateLimitInfo()
+	s.Equal(0, info.Remaining)
+	s.Equal(5000, info.Limit)
 }
 
 // TestGithubClientTestSuite runs the test suite

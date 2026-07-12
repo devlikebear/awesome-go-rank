@@ -21,6 +21,7 @@ type Config struct {
 	SpecificSection string
 	Limit           int
 	OutputDir       string
+	Verbose         bool
 }
 
 // printRepositories prints repositories to stdout
@@ -173,7 +174,7 @@ func runRanking(cmdConfig Config) error {
 	}
 
 	// Write section files
-	if err := writeSectionFiles(ag, cmdConfig.SpecificSection); err != nil {
+	if err := writeSectionFiles(ag, cmdConfig.SpecificSection, cmdConfig.Verbose); err != nil {
 		return fmt.Errorf("failed to write section files: %w", err)
 	}
 
@@ -221,7 +222,7 @@ func writeReadme(ag *awesomego.AwesomeGo, specificSection string) error {
 }
 
 // writeSectionFiles writes individual section markdown files
-func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string) error {
+func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string, verbose bool) error {
 	repositories := ag.Repositories()
 	sections := ag.Sections()
 
@@ -245,7 +246,7 @@ func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string) error {
 			continue
 		}
 
-		if err := writeSectionFile(&section, repo); err != nil {
+		if err := writeSectionFile(&section, repo, verbose); err != nil {
 			return err
 		}
 	}
@@ -254,7 +255,7 @@ func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string) error {
 }
 
 // writeSectionFile writes a single section's markdown file
-func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository) error {
+func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, verbose bool) error {
 	filename := "docs/" + convertToFilename(section.Name) + ".md"
 
 	outputFile, err := os.Create(filename)
@@ -264,28 +265,36 @@ func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository) e
 	defer outputFile.Close()
 
 	// Write section header
-	fmt.Printf("## %s\n\n%s\n\n", section.Name, section.Description)
+	if verbose {
+		fmt.Printf("## %s\n\n%s\n\n", section.Name, section.Description)
+	}
 	fmt.Fprintf(outputFile, "## %s\n\n%s\n\n", section.Name, section.Description)
 
 	// Write rankings by Stars
 	sort.Slice(repo, func(i, j int) bool {
 		return repo[i].Stars > repo[j].Stars
 	})
-	printRepositories("\nRanked by Stars", repo)
+	if verbose {
+		printRepositories("\nRanked by Stars", repo)
+	}
 	writeRepositoriesToFile("Ranked by Stars", repo, outputFile)
 
 	// Write rankings by Forks
 	sort.Slice(repo, func(i, j int) bool {
 		return repo[i].Forks > repo[j].Forks
 	})
-	printRepositories("\nRanked by Forks", repo)
+	if verbose {
+		printRepositories("\nRanked by Forks", repo)
+	}
 	writeRepositoriesToFile("Ranked by Forks", repo, outputFile)
 
 	// Write rankings by Last Updated
 	sort.Slice(repo, func(i, j int) bool {
 		return repo[i].LastUpdated.After(repo[j].LastUpdated)
 	})
-	printRepositories("\nRanked by Last Updated", repo)
+	if verbose {
+		printRepositories("\nRanked by Last Updated", repo)
+	}
 	writeRepositoriesToFile("Ranked by Last Updated", repo, outputFile)
 
 	return nil
@@ -300,6 +309,7 @@ func main() {
 	var (
 		specificSection string
 		limit           int
+		verbose         bool
 	)
 
 	rootCmd := &cobra.Command{
@@ -311,6 +321,7 @@ func main() {
 				SpecificSection: specificSection,
 				Limit:           limit,
 				OutputDir:       ".",
+				Verbose:         verbose,
 			}
 
 			if err := runRanking(config); err != nil {
@@ -324,6 +335,7 @@ func main() {
 
 	rootCmd.Flags().StringVarP(&specificSection, "section", "s", "", "A specific section to rank")
 	rootCmd.Flags().IntVarP(&limit, "limit", "l", 0, "Limit the number of results")
+	rootCmd.Flags().BoolVarP(&verbose, "verbose", "v", false, "Print repository details")
 
 	if err := rootCmd.Execute(); err != nil {
 		fmt.Println(err)

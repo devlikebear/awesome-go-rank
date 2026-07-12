@@ -3,12 +3,12 @@ package awesomego
 import (
 	"context"
 	"fmt"
-	"math"
+	"math/rand"
 	"net/url"
 	"regexp"
+	"sort"
 	"strings"
 	"sync"
-	"sync/atomic"
 	"time"
 
 	"github.com/cheggaaa/pb/v3"
@@ -37,39 +37,34 @@ var githubNonRepositoryPages = map[string]struct{}{
 	"watchers": {}, "wiki": {},
 }
 
-// rateLimiter implements a simple rate limiting mechanism
-type rateLimiter struct {
-	lastCall    time.Time
-	mu          sync.Mutex
-	minInterval time.Duration
-}
-
-// Wait blocks until enough time has passed since the last call
-func (rl *rateLimiter) Wait() {
-	rl.mu.Lock()
-	defer rl.mu.Unlock()
-
-	elapsed := time.Since(rl.lastCall)
-	if elapsed < rl.minInterval {
-		time.Sleep(rl.minInterval - elapsed)
-	}
-	rl.lastCall = time.Now()
-}
-
 // retryWithBackoff retries a function with exponential backoff
-func retryWithBackoff(fn func() error, maxRetries int) error {
+func retryWithBackoff(ctx context.Context, fn func() error, maxRetries int) error {
+	attempts := maxRetries
+	if attempts < 1 {
+		attempts = 1
+	}
 	var err error
-	for i := 0; i < maxRetries; i++ {
+	for i := 0; i < attempts; i++ {
+		if err := ctx.Err(); err != nil {
+			return err
+		}
 		err = fn()
 		if err == nil {
 			return nil
 		}
-		if i < maxRetries-1 {
-			waitTime := time.Duration(math.Pow(2, float64(i))) * time.Second
-			time.Sleep(waitTime)
+		if i < attempts-1 {
+			base := time.Duration(1<<i) * time.Second
+			waitTime := time.Duration(float64(base) * (0.5 + rand.Float64()))
+			timer := time.NewTimer(waitTime)
+			select {
+			case <-ctx.Done():
+				timer.Stop()
+				return ctx.Err()
+			case <-timer.C:
+			}
 		}
 	}
-	return fmt.Errorf("max retries (%d) exceeded: %w", maxRetries, err)
+	return fmt.Errorf("max attempts (%d) exceeded: %w", attempts, err)
 }
 
 // Repository is a struct that represents a repository.
@@ -91,12 +86,11 @@ type Section struct {
 
 // AwesomeGo is the main struct for the awesome-go-ranking package.
 type AwesomeGo struct {
-	client      IGithubClient
-	repos       map[string][]Repository
-	sections    map[string]Section
-	rateLimiter *rateLimiter
-	config      *config.Config
-	maxRetries  int
+	client     IGithubClient
+	repos      map[string][]Repository
+	sections   map[string]Section
+	config     *config.Config
+	maxRetries int
 }
 
 // NewAwesomeGo creates a new AwesomeGo instance.
@@ -110,133 +104,103 @@ func NewAwesomeGo(client IGithubClient, cfg *config.Config) *AwesomeGo {
 		sections:   make(map[string]Section),
 		config:     cfg,
 		maxRetries: cfg.RateLimit.MaxRetries,
-		rateLimiter: &rateLimiter{
-			minInterval: cfg.RateLimit.MinInterval,
-			lastCall:    time.Now(),
-		},
 	}
 }
 
 // fetchRepoInfo fetches the repository info from GitHub.
-func (ag *AwesomeGo) fetchRepoInfo(owner, repo string) (*Repository, error) {
-	ctx := context.Background()
+func (ag *AwesomeGo) fetchRepoInfo(ctx context.Context, owner, repo string) (*Repository, error) {
 	return ag.client.FetchRepository(ctx, owner, repo)
 }
 
 // FetchAndRankRepositories fetches the repositories in the Awesome Go list
 func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int) error {
+	return ag.FetchAndRankRepositoriesContext(context.Background(), specificSection, limit)
+}
+
+type repositoryJob struct {
+	section string
+	index   int
+	repo    Repository
+}
+
+type repositoryResult struct {
+	repositoryJob
+	err error
+}
+
+// FetchAndRankRepositoriesContext fetches repositories with cancellation support.
+func (ag *AwesomeGo) FetchAndRankRepositoriesContext(ctx context.Context, specificSection string, limit int) error {
 	owner := ag.config.GitHub.Owner
 	repo := ag.config.GitHub.Repository
-	readmeMarkdown, err := ag.client.FetchReadmeMarkdown(context.Background(), owner, repo)
+	readmeMarkdown, err := ag.client.FetchReadmeMarkdown(ctx, owner, repo)
 	if err != nil {
 		return err
 	}
 
-	//repoURLs := extractRepoURLs(readmeMarkdown)
 	ag.parseMarkdown(readmeMarkdown)
 
-	// Accumulate repositories
-	reposCount := 0
-	for section, repos := range ag.repos {
-		// Skip section if specificSection is set and the section is not contain the specificSection
-		if !MatchesSection(specificSection, section) {
-			continue
-		}
-		reposCount += len(repos)
+	jobs := ag.collectionJobs(specificSection, limit)
+	progressBar := pb.StartNew(len(jobs))
+	jobChannel := make(chan repositoryJob, len(jobs))
+	resultChannel := make(chan repositoryResult, len(jobs))
+	workers := ag.config.Collection.Workers
+	if workers > len(jobs) {
+		workers = len(jobs)
+	}
+	if workers < 1 && len(jobs) > 0 {
+		workers = 1
 	}
 
-	// Initialize progress bar
-	progressBar := pb.StartNew(reposCount)
-
-	// Parallelize fetching repository info
 	var wg sync.WaitGroup
-	var cnt int32 = 0
-	var progressBarMutex sync.Mutex
-	var reposMutex sync.Mutex
-	failedRepos := make(map[string]map[int]struct{})
-	var failedCount int32
+	for i := 0; i < workers; i++ {
+		wg.Add(1)
+		go func() {
+			defer wg.Done()
+			for job := range jobChannel {
+				resultChannel <- ag.collectRepository(ctx, job)
+			}
+		}()
+	}
+	for _, job := range jobs {
+		jobChannel <- job
+	}
+	close(jobChannel)
+	go func() {
+		wg.Wait()
+		close(resultChannel)
+	}()
 
-	for section, repos := range ag.repos {
-		// Skip section if specificSection is set and the section is not contain the specificSection
-		if !MatchesSection(specificSection, section) {
+	successful := make(map[string]map[int]Repository)
+	failed := 0
+	for result := range resultChannel {
+		progressBar.Increment()
+		if result.err != nil {
+			failed++
+			owner, name := extractRepoURLs(result.repo.URL)
+			logger.Error("Failed to fetch repository after retries",
+				zap.String("owner", owner),
+				zap.String("repo", name),
+				zap.Error(result.err))
 			continue
 		}
-
-		for i := range repos {
-			// Stop if we reach the limit
-			if limit > 0 && atomic.LoadInt32(&cnt) >= int32(limit) {
-				break
-			}
-			atomic.AddInt32(&cnt, 1)
-
-			wg.Add(1)
-			go func(section string, i int, repos []Repository) {
-				defer wg.Done()
-
-				owner, name := extractRepoURLs(repos[i].URL)
-				if owner != "" && name != "" {
-					// Rate limiting before API call
-					ag.rateLimiter.Wait()
-
-					// Retry logic with exponential backoff
-					err := retryWithBackoff(func() error {
-						repoInfo, err := ag.fetchRepoInfo(owner, name)
-						if err != nil {
-							return err
-						}
-						reposMutex.Lock()
-						repos[i].Stars = repoInfo.Stars
-						repos[i].Forks = repoInfo.Forks
-						repos[i].LastUpdated = repoInfo.LastUpdated
-						reposMutex.Unlock()
-						return nil
-					}, ag.maxRetries)
-
-					if err != nil {
-						reposMutex.Lock()
-						if failedRepos[section] == nil {
-							failedRepos[section] = make(map[int]struct{})
-						}
-						failedRepos[section][i] = struct{}{}
-						reposMutex.Unlock()
-						atomic.AddInt32(&failedCount, 1)
-						logger.Error("Failed to fetch repository after retries",
-							zap.String("owner", owner),
-							zap.String("repo", name),
-							zap.Error(err))
-					}
-				}
-				progressBarMutex.Lock()
-				progressBar.Increment() // Update progress bar
-				progressBarMutex.Unlock()
-			}(section, i, repos)
-
+		if successful[result.section] == nil {
+			successful[result.section] = make(map[int]Repository)
 		}
+		successful[result.section][result.index] = result.repo
 	}
+	progressBar.Finish()
+	ag.applyCollectionResults(specificSection, successful)
 
-	wg.Wait()
-
-	progressBar.Finish() // Complete progress bar
-
-	for section, failed := range failedRepos {
-		repos := ag.repos[section]
-		collected := make([]Repository, 0, len(repos)-len(failed))
-		for i, repo := range repos {
-			if _, wasFailed := failed[i]; !wasFailed {
-				collected = append(collected, repo)
-			}
-		}
-		ag.repos[section] = collected
-	}
-
-	attempted := atomic.LoadInt32(&cnt)
-	failed := atomic.LoadInt32(&failedCount)
+	attempted := len(jobs)
 	rateLimit := ag.client.GetRateLimitInfo()
 	logger.Info("Repository collection summary",
-		zap.Int32("collected", attempted-failed),
-		zap.Int32("failed", failed),
+		zap.Int("collected", attempted-failed),
+		zap.Int("failed", failed),
 		zap.Int("rate_limit_remaining", rateLimit.Remaining))
 
+	if err := ctx.Err(); err != nil {
+		return err
+	}
 	if attempted > 0 {
 		failureRate := float64(failed) / float64(attempted)
 		if failureRate > ag.config.Collection.FailureThreshold {
@@ -246,6 +210,68 @@ func (ag *AwesomeGo) FetchAndRankRepositories(specificSection string, limit int)
 	}
 
 	return nil
+}
+
+func (ag *AwesomeGo) collectionJobs(specificSection string, limit int) []repositoryJob {
+	sections := make([]string, 0, len(ag.repos))
+	for section := range ag.repos {
+		sections = append(sections, section)
+	}
+	sort.Strings(sections)
+	jobs := make([]repositoryJob, 0)
+	for _, section := range sections {
+		if !MatchesSection(specificSection, section) {
+			continue
+		}
+		for i, repo := range ag.repos[section] {
+			if limit > 0 && len(jobs) >= limit {
+				return jobs
+			}
+			jobs = append(jobs, repositoryJob{section: section, index: i, repo: repo})
+		}
+	}
+	return jobs
+}
+
+func (ag *AwesomeGo) collectRepository(ctx context.Context, job repositoryJob) repositoryResult {
+	owner, name := extractRepoURLs(job.repo.URL)
+	if owner == "" || name == "" {
+		return repositoryResult{repositoryJob: job, err: fmt.Errorf("invalid repository URL %q", job.repo.URL)}
+	}
+	err := retryWithBackoff(ctx, func() error {
+		repoInfo, err := ag.fetchRepoInfo(ctx, owner, name)
+		if err != nil {
+			return err
+		}
+		job.repo.Stars = repoInfo.Stars
+		job.repo.Forks = repoInfo.Forks
+		job.repo.LastUpdated = repoInfo.LastUpdated
+		job.repo.Archived = repoInfo.Archived
+		return nil
+	}, ag.maxRetries)
+	return repositoryResult{repositoryJob: job, err: err}
+}
+
+func (ag *AwesomeGo) applyCollectionResults(specificSection string, successful map[string]map[int]Repository) {
+	for section := range ag.repos {
+		if !MatchesSection(specificSection, section) {
+			if specificSection != "" {
+				ag.repos[section] = nil
+			}
+			continue
+		}
+		byIndex := successful[section]
+		indices := make([]int, 0, len(byIndex))
+		for index := range byIndex {
+			indices = append(indices, index)
+		}
+		sort.Ints(indices)
+		collected := make([]Repository, 0, len(indices))
+		for _, index := range indices {
+			collected = append(collected, byIndex[index])
+		}
+		ag.repos[section] = collected
+	}
 }
 
 // parseMarkdown parses the awesome-go README.md file and returns a map of

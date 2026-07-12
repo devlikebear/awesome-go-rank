@@ -33,6 +33,7 @@ type RateLimitConfig struct {
 // CollectionConfig controls repository collection behavior.
 type CollectionConfig struct {
 	FailureThreshold float64
+	Workers          int
 }
 
 // Config holds all application configuration
@@ -63,7 +64,7 @@ func Default() *Config {
 			MaxRetries:        3,
 			BackoffMultiplier: 2.0,
 		},
-		Collection: CollectionConfig{FailureThreshold: 0.10},
+		Collection: CollectionConfig{FailureThreshold: 0.10, Workers: 8},
 	}
 }
 
@@ -125,6 +126,13 @@ func FromEnv() (*Config, error) {
 		}
 		cfg.Collection.FailureThreshold = val
 	}
+	if workers := os.Getenv("WORKER_COUNT"); workers != "" {
+		val, err := strconv.Atoi(workers)
+		if err != nil {
+			return nil, fmt.Errorf("invalid WORKER_COUNT: %w", err)
+		}
+		cfg.Collection.Workers = val
+	}
 
 	return cfg, nil
 }
@@ -148,6 +156,9 @@ func (c *Config) Validate() error {
 	}
 	if c.Collection.FailureThreshold < 0 || c.Collection.FailureThreshold > 1 {
 		return fmt.Errorf("failure threshold must be between 0 and 1")
+	}
+	if c.Collection.Workers <= 0 {
+		return fmt.Errorf("worker count must be positive")
 	}
 	return nil
 }

@@ -29,6 +29,7 @@ func TestDefault(t *testing.T) {
 	assert.Equal(t, 3, cfg.RateLimit.MaxRetries)
 	assert.Equal(t, 2.0, cfg.RateLimit.BackoffMultiplier)
 	assert.Equal(t, 0.10, cfg.Collection.FailureThreshold)
+	assert.Equal(t, 8, cfg.Collection.Workers)
 }
 
 func TestFromEnv_Defaults(t *testing.T) {
@@ -99,6 +100,15 @@ func TestFromEnv_FailureThreshold(t *testing.T) {
 	cfg, err := FromEnv()
 	require.NoError(t, err)
 	assert.Equal(t, 0.25, cfg.Collection.FailureThreshold)
+}
+
+func TestFromEnv_WorkerCount(t *testing.T) {
+	clearEnvVars(t)
+	t.Setenv("WORKER_COUNT", "12")
+
+	cfg, err := FromEnv()
+	require.NoError(t, err)
+	assert.Equal(t, 12, cfg.Collection.Workers)
 }
 
 func TestFromEnv_InvalidRateLimit(t *testing.T) {
@@ -318,6 +328,7 @@ func clearEnvVars(t *testing.T) {
 		"RATE_LIMIT_RPS",
 		"MAX_RETRIES",
 		"FAILURE_THRESHOLD",
+		"WORKER_COUNT",
 	}
 	for _, v := range vars {
 		os.Unsetenv(v)

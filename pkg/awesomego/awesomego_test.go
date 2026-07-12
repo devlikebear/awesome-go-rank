@@ -75,7 +75,7 @@ func (s *AwesomeGoTestSuite) TestAwesomeGo_FetchAndRankRepositories_ExactSection
 	s.NoError(ag.FetchAndRankRepositories("Database", 0))
 	s.Len(ag.Repositories()["Database"], 1)
 	s.Equal(1, ag.Repositories()["Database"][0].Stars)
-	s.Zero(ag.Repositories()["Data"][0].Stars)
+	s.Empty(ag.Repositories()["Data"])
 }
 
 func TestFetchAndRankRepositoriesFailureThreshold(t *testing.T) {
