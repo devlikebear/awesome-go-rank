@@ -59,7 +59,7 @@ func NewCustom(level zapcore.Level, development bool) *zap.Logger {
 // SetGlobalLogger sets the global logger instance
 func SetGlobalLogger(logger *zap.Logger) {
 	if globalLogger != nil {
-		globalLogger.Sync()
+		_ = globalLogger.Sync()
 	}
 	globalLogger = logger
 }

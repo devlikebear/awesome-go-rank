@@ -14,12 +14,16 @@ import (
 
 // RepoData represents repository data for JSON export
 type RepoData struct {
-	Name        string    `json:"name"`
-	URL         string    `json:"url"`
-	Stars       int       `json:"stars"`
-	Forks       int       `json:"forks"`
-	LastUpdated time.Time `json:"lastUpdated"`
-	Description string    `json:"description"`
+	Name          string    `json:"name"`
+	URL           string    `json:"url"`
+	Stars         int       `json:"stars"`
+	Forks         int       `json:"forks"`
+	LastUpdated   time.Time `json:"lastUpdated"`
+	Description   string    `json:"description"`
+	StarsDelta7d  *int      `json:"starsDelta7d"`
+	StarsDelta30d *int      `json:"starsDelta30d"`
+	Archived      bool      `json:"archived"`
+	IsNew         bool      `json:"isNew"`
 }
 
 // SectionData represents a section with its repositories
@@ -32,20 +36,20 @@ type SectionData struct {
 
 // JSONOutput represents the complete JSON output structure
 type JSONOutput struct {
-	UpdatedAt    time.Time       `json:"updatedAt"`
-	TotalRepos   int             `json:"totalRepos"`
+	UpdatedAt     time.Time      `json:"updatedAt"`
+	TotalRepos    int            `json:"totalRepos"`
 	TotalSections int            `json:"totalSections"`
-	Sections     []SectionData   `json:"sections"`
-	Metadata     OutputMetadata  `json:"metadata"`
+	Sections      []SectionData  `json:"sections"`
+	Metadata      OutputMetadata `json:"metadata"`
 }
 
 // OutputMetadata contains metadata about the export
 type OutputMetadata struct {
-	SourceOwner      string `json:"sourceOwner"`
-	SourceRepo       string `json:"sourceRepo"`
-	SourceURL        string `json:"sourceUrl"`
-	GeneratedBy      string `json:"generatedBy"`
-	Version          string `json:"version"`
+	SourceOwner string `json:"sourceOwner"`
+	SourceRepo  string `json:"sourceRepo"`
+	SourceURL   string `json:"sourceUrl"`
+	GeneratedBy string `json:"generatedBy"`
+	Version     string `json:"version"`
 }
 
 // JSONExporter handles exporting repository data to JSON
@@ -63,10 +67,10 @@ func NewJSONExporter(repos map[string][]Repository, sections map[string]Section)
 }
 
 // Export exports the data to a JSON file
-func (je *JSONExporter) Export(outputPath, sourceOwner, sourceRepo string) error {
+func (je *JSONExporter) Export(outputPath, sourceOwner, sourceRepo string) (err error) {
 	// Create output directory if it doesn't exist
 	dir := filepath.Dir(outputPath)
-	if err := os.MkdirAll(dir, 0755); err != nil {
+	if err := os.MkdirAll(dir, 0o750); err != nil {
 		return fmt.Errorf("failed to create output directory: %w", err)
 	}
 
@@ -74,11 +78,15 @@ func (je *JSONExporter) Export(outputPath, sourceOwner, sourceRepo string) error
 	output := je.buildJSONOutput(sourceOwner, sourceRepo)
 
 	// Create output file
-	file, err := os.Create(outputPath)
+	file, err := os.OpenFile(outputPath, os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0o600) // #nosec G304 -- output path is explicitly supplied by the caller.
 	if err != nil {
 		return fmt.Errorf("failed to create output file: %w", err)
 	}
-	defer file.Close()
+	defer func() {
+		if closeErr := file.Close(); err == nil {
+			err = closeErr
+		}
+	}()
 
 	// Encode JSON with indentation
 	encoder := json.NewEncoder(file)
@@ -120,12 +128,16 @@ func (je *JSONExporter) buildJSONOutput(sourceOwner, sourceRepo string) JSONOutp
 		repoData := make([]RepoData, 0, len(repos))
 		for _, repo := range repos {
 			repoData = append(repoData, RepoData{
-				Name:        repo.Name,
-				URL:         repo.URL,
-				Stars:       repo.Stars,
-				Forks:       repo.Forks,
-				LastUpdated: repo.LastUpdated,
-				Description: repo.Description,
+				Name:          repo.Name,
+				URL:           repo.URL,
+				Stars:         repo.Stars,
+				Forks:         repo.Forks,
+				LastUpdated:   repo.LastUpdated,
+				Description:   repo.Description,
+				StarsDelta7d:  repo.StarsDelta7d,
+				StarsDelta30d: repo.StarsDelta30d,
+				Archived:      repo.Archived,
+				IsNew:         repo.IsNew,
 			})
 		}
 
@@ -156,9 +168,9 @@ func (je *JSONExporter) buildJSONOutput(sourceOwner, sourceRepo string) JSONOutp
 
 // ExportStats represents statistics about the exported data
 type ExportStats struct {
-	TotalRepos    int
-	TotalSections int
-	TopStarred    []RepoData
+	TotalRepos      int
+	TotalSections   int
+	TopStarred      []RepoData
 	RecentlyUpdated []RepoData
 }
 
@@ -170,12 +182,16 @@ func (je *JSONExporter) GetStats(topN int) ExportStats {
 	for _, repos := range je.repos {
 		for _, repo := range repos {
 			allRepos = append(allRepos, RepoData{
-				Name:        repo.Name,
-				URL:         repo.URL,
-				Stars:       repo.Stars,
-				Forks:       repo.Forks,
-				LastUpdated: repo.LastUpdated,
-				Description: repo.Description,
+				Name:          repo.Name,
+				URL:           repo.URL,
+				Stars:         repo.Stars,
+				Forks:         repo.Forks,
+				LastUpdated:   repo.LastUpdated,
+				Description:   repo.Description,
+				StarsDelta7d:  repo.StarsDelta7d,
+				StarsDelta30d: repo.StarsDelta30d,
+				Archived:      repo.Archived,
+				IsNew:         repo.IsNew,
 			})
 		}
 	}

@@ -7,6 +7,12 @@ import (
 	"github.com/stretchr/testify/suite"
 )
 
+func TestFetchHTMLRejectsNonGitHubURL(t *testing.T) {
+	if _, err := fetchHTML("https://example.com/owner/repo"); err == nil {
+		t.Fatal("fetchHTML accepted a non-GitHub URL")
+	}
+}
+
 type GithubHtmlParserClientTestSuite struct {
 	suite.Suite
 	client *GithubHtmlParserClient

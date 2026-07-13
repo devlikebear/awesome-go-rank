@@ -3,8 +3,6 @@ package awesomego
 import (
 	"context"
 	"fmt"
-	"io"
-	"net/http"
 	"sync"
 	"time"
 
@@ -62,21 +60,22 @@ func NewGithubClient(token string) *GithubClient {
 // FetchRepository fetches the repositories from the Github API
 func (gc *GithubClient) FetchRepository(ctx context.Context, owner, repo string) (*Repository, error) {
 	// Check rate limit before making request
-	gc.waitIfNeeded()
-
-	repoInfo, resp, err := gc.client.Repositories.Get(ctx, owner, repo)
-	if err != nil {
+	if err := gc.waitIfNeeded(ctx); err != nil {
 		return nil, err
 	}
 
-	// Update rate limit info from response
+	repoInfo, resp, err := gc.client.Repositories.Get(ctx, owner, repo)
 	gc.updateRateLimitInfo(resp)
+	if err != nil {
+		return nil, err
+	}
 
 	return &Repository{
 		Name:        repoInfo.GetFullName(),
 		Stars:       repoInfo.GetStargazersCount(),
 		Forks:       repoInfo.GetForksCount(),
 		LastUpdated: repoInfo.GetUpdatedAt().Time,
+		Archived:    repoInfo.GetArchived(),
 	}, nil
 }
 
@@ -94,7 +93,7 @@ func (gc *GithubClient) GetRateLimitInfo() RateLimitInfo {
 
 // updateRateLimitInfo updates the rate limit information from the API response
 func (gc *GithubClient) updateRateLimitInfo(resp *github.Response) {
-	if resp == nil || resp.Rate.Remaining == 0 {
+	if resp == nil || resp.Rate.Limit == 0 {
 		return
 	}
 
@@ -107,7 +106,7 @@ func (gc *GithubClient) updateRateLimitInfo(resp *github.Response) {
 }
 
 // waitIfNeeded waits if the rate limit is close to being exceeded
-func (gc *GithubClient) waitIfNeeded() {
+func (gc *GithubClient) waitIfNeeded(ctx context.Context) error {
 	gc.rateLimitInfo.mu.RLock()
 	remaining := gc.rateLimitInfo.Remaining
 	resetTime := gc.rateLimitInfo.ResetTime
@@ -121,29 +120,31 @@ func (gc *GithubClient) waitIfNeeded() {
 				zap.Int("remaining", remaining),
 				zap.Duration("wait_time", waitTime),
 				zap.Time("reset_time", resetTime))
-			time.Sleep(waitTime)
+			timer := time.NewTimer(waitTime)
+			select {
+			case <-ctx.Done():
+				timer.Stop()
+				return ctx.Err()
+			case <-timer.C:
+			}
 		}
 	}
+	return nil
 }
 
 // FetchReadmeMarkdown fetches the README.md file of a given repository.
 func (ag *GithubClient) FetchReadmeMarkdown(ctx context.Context, owner, repo string) (string, error) {
-	readmeURL := fmt.Sprintf("https://raw.githubusercontent.com/%s/%s/main/README.md", owner, repo)
-	req, err := http.NewRequestWithContext(ctx, http.MethodGet, readmeURL, nil)
-	if err != nil {
+	if err := ag.waitIfNeeded(ctx); err != nil {
 		return "", err
 	}
-
-	resp, err := http.DefaultClient.Do(req)
+	readme, resp, err := ag.client.Repositories.GetReadme(ctx, owner, repo, nil)
+	ag.updateRateLimitInfo(resp)
 	if err != nil {
-		return "", err
+		return "", fmt.Errorf("failed to fetch README.md: %w", err)
 	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode >= 400 {
-		return "", fmt.Errorf("failed to fetch README.md: %s", resp.Status)
+	content, err := readme.GetContent()
+	if err != nil {
+		return "", fmt.Errorf("failed to decode README.md: %w", err)
 	}
-
-	readmeMarkdown, _ := io.ReadAll(resp.Body)
-	return string(readmeMarkdown), nil
+	return content, nil
 }

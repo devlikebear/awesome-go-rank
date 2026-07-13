@@ -28,6 +28,8 @@ func TestDefault(t *testing.T) {
 	assert.Equal(t, 100*time.Millisecond, cfg.RateLimit.MinInterval)
 	assert.Equal(t, 3, cfg.RateLimit.MaxRetries)
 	assert.Equal(t, 2.0, cfg.RateLimit.BackoffMultiplier)
+	assert.Equal(t, 0.10, cfg.Collection.FailureThreshold)
+	assert.Equal(t, 8, cfg.Collection.Workers)
 }
 
 func TestFromEnv_Defaults(t *testing.T) {
@@ -45,9 +47,9 @@ func TestFromEnv_Defaults(t *testing.T) {
 func TestFromEnv_GitHubConfig(t *testing.T) {
 	clearEnvVars(t)
 
-	os.Setenv("GITHUB_TOKEN", "test-token")
-	os.Setenv("SOURCE_OWNER", "test-owner")
-	os.Setenv("SOURCE_REPO", "test-repo")
+	t.Setenv("GITHUB_TOKEN", "test-token")
+	t.Setenv("SOURCE_OWNER", "test-owner")
+	t.Setenv("SOURCE_REPO", "test-repo")
 	defer clearEnvVars(t)
 
 	cfg, err := FromEnv()
@@ -61,10 +63,10 @@ func TestFromEnv_GitHubConfig(t *testing.T) {
 func TestFromEnv_OutputConfig(t *testing.T) {
 	clearEnvVars(t)
 
-	os.Setenv("OUTPUT_DIR", "/tmp/output")
-	os.Setenv("DOCS_DIR", "documentation")
-	os.Setenv("README_FILE", "INDEX.md")
-	os.Setenv("ENABLE_CONSOLE", "false")
+	t.Setenv("OUTPUT_DIR", "/tmp/output")
+	t.Setenv("DOCS_DIR", "documentation")
+	t.Setenv("README_FILE", "INDEX.md")
+	t.Setenv("ENABLE_CONSOLE", "false")
 	defer clearEnvVars(t)
 
 	cfg, err := FromEnv()
@@ -79,8 +81,8 @@ func TestFromEnv_OutputConfig(t *testing.T) {
 func TestFromEnv_RateLimitConfig(t *testing.T) {
 	clearEnvVars(t)
 
-	os.Setenv("RATE_LIMIT_RPS", "5")
-	os.Setenv("MAX_RETRIES", "5")
+	t.Setenv("RATE_LIMIT_RPS", "5")
+	t.Setenv("MAX_RETRIES", "5")
 	defer clearEnvVars(t)
 
 	cfg, err := FromEnv()
@@ -89,6 +91,24 @@ func TestFromEnv_RateLimitConfig(t *testing.T) {
 	assert.Equal(t, 5, cfg.RateLimit.RequestsPerSecond)
 	assert.Equal(t, 200*time.Millisecond, cfg.RateLimit.MinInterval)
 	assert.Equal(t, 5, cfg.RateLimit.MaxRetries)
+}
+
+func TestFromEnv_FailureThreshold(t *testing.T) {
+	clearEnvVars(t)
+	t.Setenv("FAILURE_THRESHOLD", "0.25")
+
+	cfg, err := FromEnv()
+	require.NoError(t, err)
+	assert.Equal(t, 0.25, cfg.Collection.FailureThreshold)
+}
+
+func TestFromEnv_WorkerCount(t *testing.T) {
+	clearEnvVars(t)
+	t.Setenv("WORKER_COUNT", "12")
+
+	cfg, err := FromEnv()
+	require.NoError(t, err)
+	assert.Equal(t, 12, cfg.Collection.Workers)
 }
 
 func TestFromEnv_InvalidRateLimit(t *testing.T) {
@@ -109,10 +129,10 @@ func TestFromEnv_InvalidRateLimit(t *testing.T) {
 			clearEnvVars(t)
 
 			if tt.rps != "" {
-				os.Setenv("RATE_LIMIT_RPS", tt.rps)
+				t.Setenv("RATE_LIMIT_RPS", tt.rps)
 			}
 			if tt.retry != "" {
-				os.Setenv("MAX_RETRIES", tt.retry)
+				t.Setenv("MAX_RETRIES", tt.retry)
 			}
 			defer clearEnvVars(t)
 
@@ -138,7 +158,7 @@ func TestFromEnv_EnableConsole(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			clearEnvVars(t)
-			os.Setenv("ENABLE_CONSOLE", tt.value)
+			t.Setenv("ENABLE_CONSOLE", tt.value)
 			defer clearEnvVars(t)
 
 			cfg, err := FromEnv()
@@ -297,6 +317,7 @@ func validConfig() *Config {
 }
 
 func clearEnvVars(t *testing.T) {
+	t.Helper()
 	vars := []string{
 		"GITHUB_TOKEN",
 		"SOURCE_OWNER",
@@ -307,8 +328,10 @@ func clearEnvVars(t *testing.T) {
 		"ENABLE_CONSOLE",
 		"RATE_LIMIT_RPS",
 		"MAX_RETRIES",
+		"FAILURE_THRESHOLD",
+		"WORKER_COUNT",
 	}
 	for _, v := range vars {
-		os.Unsetenv(v)
+		require.NoError(t, os.Unsetenv(v))
 	}
 }

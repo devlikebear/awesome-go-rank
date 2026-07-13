@@ -1,7 +1,7 @@
 # Awesome Go Ranking
 
 [![Website](https://img.shields.io/badge/Website-awesome--go--rank.vercel.app-blue?style=for-the-badge&logo=vercel)](https://awesome-go-rank.vercel.app/)
-[![Go Version](https://img.shields.io/badge/Go-1.23-00ADD8?style=for-the-badge&logo=go)](go.mod)
+[![Go Version](https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go)](go.mod)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](web/package.json)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 

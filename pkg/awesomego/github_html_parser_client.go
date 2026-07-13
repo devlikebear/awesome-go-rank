@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"strings"
 	"time"
 
@@ -51,12 +52,16 @@ func (ghpc *GithubHtmlParserClient) FetchRepository(ctx context.Context, owner, 
 	}, nil
 }
 
-func fetchHTML(url string) (*html.Node, error) {
-	resp, err := http.Get(url)
+func fetchHTML(rawURL string) (*html.Node, error) {
+	parsedURL, err := url.Parse(rawURL)
+	if err != nil || parsedURL.Scheme != "https" || !strings.EqualFold(parsedURL.Hostname(), "github.com") {
+		return nil, fmt.Errorf("unsupported GitHub URL %q", rawURL)
+	}
+	resp, err := http.Get(parsedURL.String()) // #nosec G107 -- URL is restricted to HTTPS requests to github.com above.
 	if err != nil {
 		return nil, err
 	}
-	defer resp.Body.Close()
+	defer func() { _ = resp.Body.Close() }()
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

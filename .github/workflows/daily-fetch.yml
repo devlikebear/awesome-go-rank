@@ -9,27 +9,26 @@ permissions:
   contents: write
 
 jobs:
-
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-
-    - name: Run awesome-go-rank
-      env:
-        GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
-      run: |
-        chmod u+x ./bin/linux/amd64/awesome-go-rank
-        ./bin/linux/amd64/awesome-go-rank
-
-    - name: Copy JSON to web directory
-      run: |
-        mkdir -p web/public/data
-        cp public/data/repos.json web/public/data/repos.json
-
-    - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update ranking
-        commit_user_name: GitHub Actions
-        commit_user_email: actions@github.com
+      - uses: actions/checkout@v6
+      - name: Set up Go
+        uses: actions/setup-go@v6
+        with:
+          go-version-file: go.mod
+          cache-dependency-path: go.sum
+      - name: Build awesome-go-rank from source
+        run: go build -o "$RUNNER_TEMP/awesome-go-rank" ./cmd
+      - name: Update rankings and snapshots
+        env:
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+        run: |
+          "$RUNNER_TEMP/awesome-go-rank"
+      - name: Commit and push generated data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update ranking data"
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          file_pattern: README.md docs/*.md web/public/data/repos.json data/snapshots/*.json.gz

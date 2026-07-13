@@ -4,8 +4,10 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
+	"time"
 
 	"github.com/devlikebear/awesome-go-rank/pkg/awesomego"
 	"github.com/devlikebear/awesome-go-rank/pkg/config"
@@ -19,6 +21,7 @@ type Config struct {
 	SpecificSection string
 	Limit           int
 	OutputDir       string
+	Verbose         bool
 }
 
 // printRepositories prints repositories to stdout
@@ -36,19 +39,28 @@ func printRepositories(title string, repositories []awesomego.Repository) {
 
 // writeRepositoriesToFile writes a ranked list of repositories to a file
 func writeRepositoriesToFile(title string, repositories []awesomego.Repository,
-	file io.Writer) {
-	fmt.Fprintf(file, "### %s\n\n", title)
-	fmt.Fprintf(file, "| Repository | Stars | Forks | Last Updated | Description | \n")
-	fmt.Fprintf(file, "|------------|-------|-------|--------------|-------------|\n")
+	file io.Writer) error {
+	if _, err := fmt.Fprintf(file, "### %s\n\n", title); err != nil {
+		return err
+	}
+	if _, err := fmt.Fprintln(file, "| Repository | Stars | Forks | Last Updated | Description | "); err != nil {
+		return err
+	}
+	if _, err := fmt.Fprintln(file, "|------------|-------|-------|--------------|-------------|"); err != nil {
+		return err
+	}
 	for _, repo := range repositories {
-		fmt.Fprintf(file, "| [%s](%s) | %s | %s | %v | %s |\n", repo.Name,
+		if _, err := fmt.Fprintf(file, "| [%s](%s) | %s | %s | %v | %s |\n", repo.Name,
 			repo.URL,
 			stringutil.FormatMetricNumber(repo.Stars),
 			stringutil.FormatMetricNumber(repo.Forks),
 			repo.LastUpdated.Format("2006-01-02T15:04:05Z"),
-			strings.Trim(repo.Description, "-"))
+			strings.Trim(repo.Description, "-")); err != nil {
+			return err
+		}
 	}
-	fmt.Fprintf(file, "\n")
+	_, err := fmt.Fprintln(file)
+	return err
 }
 
 // generateTableOfContents creates the table of contents section
@@ -71,8 +83,8 @@ func generateTableOfContents(sections map[string]awesomego.Section,
 		if len(repo) == 0 {
 			continue
 		}
-		sb.WriteString(fmt.Sprintf("* [%s](docs/%s.md)<br/>%s\n",
-			section.Name, convertToFilename(section.Name), section.Description))
+		_, _ = fmt.Fprintf(&sb, "* [%s](docs/%s.md)<br/>%s\n",
+			section.Name, convertToFilename(section.Name), section.Description)
 	}
 
 	return sb.String()
@@ -83,7 +95,7 @@ func writeReadmeHeader(w io.Writer) error {
 	_, err := w.Write([]byte(`# Awesome Go Ranking
 
 [![Website](https://img.shields.io/badge/Website-awesome--go--rank.vercel.app-blue?style=for-the-badge&logo=vercel)](https://awesome-go-rank.vercel.app/)
-[![Go Version](https://img.shields.io/badge/Go-1.23-00ADD8?style=for-the-badge&logo=go)](go.mod)
+[![Go Version](https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go)](go.mod)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](web/package.json)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -150,9 +162,23 @@ func runRanking(cmdConfig Config) error {
 		return fmt.Errorf("failed to fetch repositories: %w", err)
 	}
 
+	if cmdConfig.SpecificSection == "" && cmdConfig.Limit == 0 {
+		capturedAt := time.Now().UTC()
+		snapshotDir := filepath.Join("data", "snapshots")
+		if _, err := awesomego.SaveSnapshot(ag.Repositories(), snapshotDir, capturedAt); err != nil {
+			return fmt.Errorf("failed to save repository snapshot: %w", err)
+		}
+		if err := awesomego.EnrichRepositoryTrends(ag.Repositories(), snapshotDir, capturedAt); err != nil {
+			return fmt.Errorf("failed to calculate repository trends: %w", err)
+		}
+		if err := awesomego.ThinSnapshots(snapshotDir, capturedAt, 90); err != nil {
+			return fmt.Errorf("failed to thin repository snapshots: %w", err)
+		}
+	}
+
 	// Create output directory if it doesn't exist
 	docsPath := cfg.GetDocsPath()
-	if err := os.MkdirAll(docsPath, 0755); err != nil {
+	if err := os.MkdirAll(docsPath, 0o750); err != nil {
 		return fmt.Errorf("failed to create docs directory: %w", err)
 	}
 
@@ -162,7 +188,7 @@ func runRanking(cmdConfig Config) error {
 	}
 
 	// Write section files
-	if err := writeSectionFiles(ag, cmdConfig.SpecificSection); err != nil {
+	if err := writeSectionFiles(ag, cmdConfig.SpecificSection, cmdConfig.Verbose); err != nil {
 		return fmt.Errorf("failed to write section files: %w", err)
 	}
 
@@ -178,8 +204,8 @@ func runRanking(cmdConfig Config) error {
 func exportJSON(ag *awesomego.AwesomeGo, cfg *config.Config) error {
 	exporter := awesomego.NewJSONExporter(ag.Repositories(), ag.Sections())
 
-	// Export to public/data/repos.json
-	outputPath := "public/data/repos.json"
+	// web/public/data is the single canonical location consumed by the static site.
+	outputPath := filepath.Join("web", "public", "data", "repos.json")
 	if err := exporter.Export(outputPath, cfg.GitHub.Owner, cfg.GitHub.Repository); err != nil {
 		return err
 	}
@@ -188,12 +214,16 @@ func exportJSON(ag *awesomego.AwesomeGo, cfg *config.Config) error {
 }
 
 // writeReadme writes the main README.md file
-func writeReadme(ag *awesomego.AwesomeGo, specificSection string) error {
-	outputFile, err := os.Create("README.md")
+func writeReadme(ag *awesomego.AwesomeGo, specificSection string) (err error) {
+	outputFile, err := os.OpenFile("README.md", os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0o600)
 	if err != nil {
 		return err
 	}
-	defer outputFile.Close()
+	defer func() {
+		if closeErr := outputFile.Close(); err == nil {
+			err = closeErr
+		}
+	}()
 
 	// Write header
 	if err := writeReadmeHeader(outputFile); err != nil {
@@ -210,7 +240,7 @@ func writeReadme(ag *awesomego.AwesomeGo, specificSection string) error {
 }
 
 // writeSectionFiles writes individual section markdown files
-func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string) error {
+func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string, verbose bool) error {
 	repositories := ag.Repositories()
 	sections := ag.Sections()
 
@@ -230,11 +260,11 @@ func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string) error {
 		}
 
 		// Skip if specific section is set and doesn't match
-		if specificSection != "" && !strings.Contains(specificSection, section.Name) {
+		if !awesomego.MatchesSection(specificSection, section.Name) {
 			continue
 		}
 
-		if err := writeSectionFile(&section, repo); err != nil {
+		if err := writeSectionFile(&section, repo, verbose); err != nil {
 			return err
 		}
 	}
@@ -243,52 +273,74 @@ func writeSectionFiles(ag *awesomego.AwesomeGo, specificSection string) error {
 }
 
 // writeSectionFile writes a single section's markdown file
-func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository) error {
+func writeSectionFile(section *awesomego.Section, repo []awesomego.Repository, verbose bool) (err error) {
 	filename := "docs/" + convertToFilename(section.Name) + ".md"
 
-	outputFile, err := os.Create(filename)
+	outputFile, err := os.OpenFile(filename, os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0o600) // #nosec G304 -- filename is derived from a sanitized section name.
 	if err != nil {
 		return fmt.Errorf("error creating %s: %w", filename, err)
 	}
-	defer outputFile.Close()
+	defer func() {
+		if closeErr := outputFile.Close(); err == nil {
+			err = closeErr
+		}
+	}()
 
 	// Write section header
-	fmt.Printf("## %s\n\n%s\n\n", section.Name, section.Description)
-	fmt.Fprintf(outputFile, "## %s\n\n%s\n\n", section.Name, section.Description)
+	if verbose {
+		fmt.Printf("## %s\n\n%s\n\n", section.Name, section.Description)
+	}
+	if _, err := fmt.Fprintf(outputFile, "## %s\n\n%s\n\n", section.Name, section.Description); err != nil {
+		return err
+	}
 
 	// Write rankings by Stars
 	sort.Slice(repo, func(i, j int) bool {
 		return repo[i].Stars > repo[j].Stars
 	})
-	printRepositories("\nRanked by Stars", repo)
-	writeRepositoriesToFile("Ranked by Stars", repo, outputFile)
+	if verbose {
+		printRepositories("\nRanked by Stars", repo)
+	}
+	if err := writeRepositoriesToFile("Ranked by Stars", repo, outputFile); err != nil {
+		return err
+	}
 
 	// Write rankings by Forks
 	sort.Slice(repo, func(i, j int) bool {
 		return repo[i].Forks > repo[j].Forks
 	})
-	printRepositories("\nRanked by Forks", repo)
-	writeRepositoriesToFile("Ranked by Forks", repo, outputFile)
+	if verbose {
+		printRepositories("\nRanked by Forks", repo)
+	}
+	if err := writeRepositoriesToFile("Ranked by Forks", repo, outputFile); err != nil {
+		return err
+	}
 
 	// Write rankings by Last Updated
 	sort.Slice(repo, func(i, j int) bool {
 		return repo[i].LastUpdated.After(repo[j].LastUpdated)
 	})
-	printRepositories("\nRanked by Last Updated", repo)
-	writeRepositoriesToFile("Ranked by Last Updated", repo, outputFile)
+	if verbose {
+		printRepositories("\nRanked by Last Updated", repo)
+	}
+	if err := writeRepositoriesToFile("Ranked by Last Updated", repo, outputFile); err != nil {
+		return err
+	}
 
 	return nil
 }
 
 // convertToFilename converts section name to lowercase and replaces spaces with hyphens
 func convertToFilename(name string) string {
-	return strings.Replace(name, " ", "-", -1)
+	replacer := strings.NewReplacer(" ", "-", "/", "-", `\`, "-")
+	return replacer.Replace(name)
 }
 
 func main() {
 	var (
 		specificSection string
 		limit           int
+		verbose         bool
 	)
 
 	rootCmd := &cobra.Command{
@@ -300,6 +352,7 @@ func main() {
 				SpecificSection: specificSection,
 				Limit:           limit,
 				OutputDir:       ".",
+				Verbose:         verbose,
 			}
 
 			if err := runRanking(config); err != nil {
@@ -313,6 +366,7 @@ func main() {
 
 	rootCmd.Flags().StringVarP(&specificSection, "section", "s", "", "A specific section to rank")
 	rootCmd.Flags().IntVarP(&limit, "limit", "l", 0, "Limit the number of results")
+	rootCmd.Flags().BoolVarP(&verbose, "verbose", "v", false, "Print repository details")
 
 	if err := rootCmd.Execute(); err != nil {
 		fmt.Println(err)

@@ -21,6 +21,7 @@ func TestConvertToFilename(t *testing.T) {
 		{"multiple spaces", "test  section  name", "test--section--name"},
 		{"no spaces", "Authentication", "Authentication"},
 		{"mixed case with spaces", "Web Frameworks", "Web-Frameworks"},
+		{"path separators", `Parsers/Encoders\Decoders`, "Parsers-Encoders-Decoders"},
 	}
 
 	for _, tt := range tests {
@@ -52,7 +53,7 @@ func TestWriteRepositoriesToFile(t *testing.T) {
 	}
 
 	var buf bytes.Buffer
-	writeRepositoriesToFile("Test Title", repos, &buf)
+	assert.NoError(t, writeRepositoriesToFile("Test Title", repos, &buf))
 
 	output := buf.String()
 
@@ -63,8 +64,8 @@ func TestWriteRepositoriesToFile(t *testing.T) {
 
 	// Verify repo entries
 	assert.Contains(t, output, "[user/repo1](https://github.com/user/repo1)")
-	assert.Contains(t, output, "1k") // Stars formatted
-	assert.Contains(t, output, "100") // Forks
+	assert.Contains(t, output, "1k")               // Stars formatted
+	assert.Contains(t, output, "100")              // Forks
 	assert.Contains(t, output, "Test description") // Description trimmed
 
 	assert.Contains(t, output, "[user/repo2](https://github.com/user/repo2)")
@@ -144,6 +145,11 @@ func TestGenerateTableOfContents_EmptySection(t *testing.T) {
 	assert.NotContains(t, toc, "Empty")
 }
 
+func TestWriteSectionFilesUsesExactSectionMatch(t *testing.T) {
+	assert.True(t, awesomego.MatchesSection("Database", "database"))
+	assert.False(t, awesomego.MatchesSection("Database", "Data"))
+}
+
 func TestConfig_Validation(t *testing.T) {
 	tests := []struct {
 		name        string
@@ -195,7 +201,7 @@ func TestWriteRepositoriesToFile_Formatting(t *testing.T) {
 	}
 
 	var buf bytes.Buffer
-	writeRepositoriesToFile("Title", repos, &buf)
+	assert.NoError(t, writeRepositoriesToFile("Title", repos, &buf))
 
 	output := buf.String()
 
@@ -220,7 +226,7 @@ func TestWriteRepositoriesToFile_DescriptionTrimming(t *testing.T) {
 	}
 
 	var buf bytes.Buffer
-	writeRepositoriesToFile("Title", repos, &buf)
+	assert.NoError(t, writeRepositoriesToFile("Title", repos, &buf))
 
 	output := buf.String()
 
@@ -268,7 +274,7 @@ func TestWriteRepositoriesToFile_MultipleRepos(t *testing.T) {
 	}
 
 	var buf bytes.Buffer
-	writeRepositoriesToFile("Multiple Repos", repos, &buf)
+	assert.NoError(t, writeRepositoriesToFile("Multiple Repos", repos, &buf))
 
 	output := buf.String()
 

@@ -28,3 +28,4 @@
 /public/data/
 # Local build binaries
 main
+/bin/

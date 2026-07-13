@@ -2,10 +2,12 @@ package awesomego
 
 import (
 	"context"
+	"encoding/base64"
 	"net/http"
 	"testing"
 	"time"
 
+	"github.com/google/go-github/v68/github"
 	"github.com/jarcoal/httpmock"
 	"github.com/stretchr/testify/suite"
 )
@@ -46,6 +48,7 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchRepository_ValidOwnerAndRe
 			"stargazers_count": 12345,
 			"forks_count":      1234,
 			"updated_at":       "2024-01-01T00:00:00Z",
+			"archived":         true,
 		}))
 
 	// Fetch the repositories
@@ -54,6 +57,7 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchRepository_ValidOwnerAndRe
 	s.Equal("avelino/awesome-go", repo.Name)
 	s.Equal(12345, repo.Stars)
 	s.Equal(1234, repo.Forks)
+	s.True(repo.Archived)
 
 	// Verify the expected number of calls
 	s.Equal(1, httpmock.GetTotalCallCount())
@@ -99,10 +103,13 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_ValidOwnerA
 ## Authentication
 - [awesome-lib](https://github.com/user/awesome-lib) - Great library`
 
-	// Mock the raw.githubusercontent.com response
+	// Mock the GitHub repository contents API response. It follows the default branch.
 	httpmock.RegisterResponder("GET",
-		"https://raw.githubusercontent.com/avelino/awesome-go/main/README.md",
-		httpmock.NewStringResponder(200, mockMarkdown))
+		"https://api.github.com/repos/avelino/awesome-go/readme",
+		httpmock.NewJsonResponderOrPanic(200, map[string]interface{}{
+			"encoding": "base64",
+			"content":  base64.StdEncoding.EncodeToString([]byte(mockMarkdown)),
+		}))
 
 	// Fetch the repositories
 	markdown, err := s.client.FetchReadmeMarkdown(context.Background(), "avelino", "awesome-go")
@@ -116,8 +123,8 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_ValidOwnerA
 func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_InvalidOwner() {
 	// Mock 404 response for invalid owner
 	httpmock.RegisterResponder("GET",
-		"https://raw.githubusercontent.com/invalid/awesome-go/main/README.md",
-		httpmock.NewStringResponder(404, "404: Not Found"))
+		"https://api.github.com/repos/invalid/awesome-go/readme",
+		httpmock.NewJsonResponderOrPanic(404, map[string]string{"message": "Not Found"}))
 
 	// Fetch the repositories
 	markdown, err := s.client.FetchReadmeMarkdown(context.Background(), "invalid", "awesome-go")
@@ -130,8 +137,8 @@ func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_InvalidOwne
 func (s *GithubClientTestSuite) TestGithubClient_FetchReadmeMarkdown_InvalidRepo() {
 	// Mock 404 response for invalid repo
 	httpmock.RegisterResponder("GET",
-		"https://raw.githubusercontent.com/avelino/invalid/main/README.md",
-		httpmock.NewStringResponder(404, "404: Not Found"))
+		"https://api.github.com/repos/avelino/invalid/readme",
+		httpmock.NewJsonResponderOrPanic(404, map[string]string{"message": "Not Found"}))
 
 	// Fetch the repositories
 	markdown, err := s.client.FetchReadmeMarkdown(context.Background(), "avelino", "invalid")
@@ -170,6 +177,19 @@ func (s *GithubClientTestSuite) TestGithubClient_ParseRepositoryResponse() {
 	s.Equal(999, repo.Stars)
 	s.Equal(99, repo.Forks)
 	s.Equal(updatedTime, repo.LastUpdated)
+}
+
+func (s *GithubClientTestSuite) TestGithubClient_RecordsExhaustedRateLimit() {
+	reset := time.Now().Add(time.Minute)
+	s.client.updateRateLimitInfo(&github.Response{Rate: github.Rate{
+		Remaining: 0,
+		Limit:     5000,
+		Reset:     github.Timestamp{Time: reset},
+	}})
+
+	info := s.client.GetRateLimitInfo()
+	s.Equal(0, info.Remaining)
+	s.Equal(5000, info.Limit)
 }
 
 // TestGithubClientTestSuite runs the test suite
