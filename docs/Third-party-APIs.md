@@ -7,14 +7,14 @@ Libraries for accessing third party APIs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [google/go-github](https://github.com/google/go-github) | 11k | 2k | 2026-07-11T16:06:05Z |  Go library for accessing the GitHub REST API v3. |
-| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 11k | 2k | 2026-07-11T08:46:02Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
-| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 6k | 923 | 2026-07-11T16:52:24Z |  Go bindings for the Discord Chat API. |
+| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 11k | 2k | 2026-07-12T06:07:40Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
+| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 6k | 923 | 2026-07-12T13:58:14Z |  Go bindings for the Discord Chat API. |
 | [slack-go/slack](https://github.com/slack-go/slack) | 5k | 1k | 2026-07-09T07:13:55Z |  Slack API in Go. |
-| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 2k | 2026-07-11T09:58:57Z |  Google Cloud APIs Go Client Library. |
-| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2026-07-11T07:34:34Z |  Auto-generated Google APIs for Go. |
-| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 4k | 804 | 2026-07-11T08:34:49Z |  The official AWS SDK for the Go programming language. |
+| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 2k | 2026-07-12T04:08:04Z |  Google Cloud APIs Go Client Library. |
+| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2026-07-12T07:40:39Z |  Auto-generated Google APIs for Go. |
+| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 4k | 805 | 2026-07-12T05:50:10Z |  The official AWS SDK for the Go programming language. |
 | [minio/minio-go](https://github.com/minio/minio-go) | 3k | 741 | 2026-07-11T12:25:02Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
-| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 3k | 523 | 2026-07-11T01:20:00Z |  Go client for the Stripe API. |
+| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 3k | 524 | 2026-07-13T01:10:09Z |  Go client for the Stripe API. |
 | [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) | 2k | 501 | 2026-07-09T07:30:10Z |  Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira) |
 | [huandu/facebook](https://github.com/huandu/facebook) | 1k | 578 | 2026-07-10T01:58:35Z |  Go Library that supports the Facebook Graph API. |
 | [shurcooL/githubql](https://github.com/shurcooL/githubql) | 1k | 96 | 2026-07-11T16:06:07Z |  Go library for accessing the GitHub GraphQL API v4. |
@@ -114,15 +114,15 @@ Libraries for accessing third party APIs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [google/go-github](https://github.com/google/go-github) | 11k | 2k | 2026-07-11T16:06:05Z |  Go library for accessing the GitHub REST API v3. |
-| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 11k | 2k | 2026-07-11T08:46:02Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
-| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 2k | 2026-07-11T09:58:57Z |  Google Cloud APIs Go Client Library. |
-| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2026-07-11T07:34:34Z |  Auto-generated Google APIs for Go. |
+| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 11k | 2k | 2026-07-12T06:07:40Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
+| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 2k | 2026-07-12T04:08:04Z |  Google Cloud APIs Go Client Library. |
+| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2026-07-12T07:40:39Z |  Auto-generated Google APIs for Go. |
 | [slack-go/slack](https://github.com/slack-go/slack) | 5k | 1k | 2026-07-09T07:13:55Z |  Slack API in Go. |
-| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 6k | 923 | 2026-07-11T16:52:24Z |  Go bindings for the Discord Chat API. |
-| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 4k | 804 | 2026-07-11T08:34:49Z |  The official AWS SDK for the Go programming language. |
+| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 6k | 923 | 2026-07-12T13:58:14Z |  Go bindings for the Discord Chat API. |
+| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 4k | 805 | 2026-07-12T05:50:10Z |  The official AWS SDK for the Go programming language. |
 | [minio/minio-go](https://github.com/minio/minio-go) | 3k | 741 | 2026-07-11T12:25:02Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
 | [huandu/facebook](https://github.com/huandu/facebook) | 1k | 578 | 2026-07-10T01:58:35Z |  Go Library that supports the Facebook Graph API. |
-| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 3k | 523 | 2026-07-11T01:20:00Z |  Go client for the Stripe API. |
+| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 3k | 524 | 2026-07-13T01:10:09Z |  Go client for the Stripe API. |
 | [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) | 2k | 501 | 2026-07-09T07:30:10Z |  Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira) |
 | [logpacker/PayPal-Go-SDK](https://github.com/logpacker/PayPal-Go-SDK) | 777 | 304 | 2026-07-07T18:15:19Z |  Wrapper for PayPal payment API. |
 | [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda) | 1k | 243 | 2026-06-14T05:44:38Z |  Go client library for the Twitter 1.1 API. |
@@ -220,16 +220,16 @@ Libraries for accessing third party APIs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 6k | 923 | 2026-07-11T16:52:24Z |  Go bindings for the Discord Chat API. |
+| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 3k | 524 | 2026-07-13T01:10:09Z |  Go client for the Stripe API. |
+| [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) | 6k | 923 | 2026-07-12T13:58:14Z |  Go bindings for the Discord Chat API. |
+| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2026-07-12T07:40:39Z |  Auto-generated Google APIs for Go. |
+| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 11k | 2k | 2026-07-12T06:07:40Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
+| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 4k | 805 | 2026-07-12T05:50:10Z |  The official AWS SDK for the Go programming language. |
+| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 2k | 2026-07-12T04:08:04Z |  Google Cloud APIs Go Client Library. |
 | [shurcooL/githubql](https://github.com/shurcooL/githubql) | 1k | 96 | 2026-07-11T16:06:07Z |  Go library for accessing the GitHub GraphQL API v4. |
 | [google/go-github](https://github.com/google/go-github) | 11k | 2k | 2026-07-11T16:06:05Z |  Go library for accessing the GitHub REST API v3. |
 | [TheColonyCC/colony-sdk-go](https://github.com/TheColonyCC/colony-sdk-go) | 1 | 1 | 2026-07-11T15:41:09Z |  Go client library for [The Colony](https://thecolony.cc) — a public social network whose users are AI agents. |
 | [minio/minio-go](https://github.com/minio/minio-go) | 3k | 741 | 2026-07-11T12:25:02Z |  Minio Go Library for Amazon S3 compatible cloud storage. |
-| [GoogleCloudPlatform/gcloud-golang](https://github.com/GoogleCloudPlatform/gcloud-golang) | 4k | 2k | 2026-07-11T09:58:57Z |  Google Cloud APIs Go Client Library. |
-| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | 11k | 2k | 2026-07-11T08:46:02Z |  OpenAI ChatGPT, DALL·E, Whisper API library for Go. |
-| [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | 4k | 804 | 2026-07-11T08:34:49Z |  The official AWS SDK for the Go programming language. |
-| [google/google-api-go-client](https://github.com/google/google-api-go-client) | 4k | 1k | 2026-07-11T07:34:34Z |  Auto-generated Google APIs for Go. |
-| [stripe/stripe-go](https://github.com/stripe/stripe-go) | 3k | 523 | 2026-07-11T01:20:00Z |  Go client for the Stripe API. |
 | [pb33f/libopenapi](https://github.com/pb33f/libopenapi) | 857 | 106 | 2026-07-11T01:09:06Z |  Parse, validate, and work with OpenAPI, Swagger, Overlays, and Arazzo specifications. |
 | [rhnvrm/simples3](https://github.com/rhnvrm/simples3) | 205 | 35 | 2026-07-10T06:24:45Z |  Simple no frills AWS S3 Library using REST with V4 Signing written in Go. |
 | [huandu/facebook](https://github.com/huandu/facebook) | 1k | 578 | 2026-07-10T01:58:35Z |  Go Library that supports the Facebook Graph API. |

@@ -6,13 +6,13 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 919 | 2026-07-11T17:28:25Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 16k | 861 | 2026-07-11T19:14:44Z |  simple "Make" alternative. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 920 | 2026-07-13T01:25:03Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 863 | 2026-07-12T11:03:25Z |  simple "Make" alternative. |
 | [magefile/mage](https://github.com/magefile/mage) | 5k | 277 | 2026-07-11T19:14:44Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-07-11T19:14:43Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-06-23T00:55:14Z |  Modern Make. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 34 | 2026-07-09T13:19:45Z |  Task runner with README.md defined tasks, executable markdown. |
-| [goyek/goyek](https://github.com/goyek/goyek) | 692 | 35 | 2026-07-08T21:29:49Z |  Create build pipelines in Go. |
+| [goyek/goyek](https://github.com/goyek/goyek) | 693 | 35 | 2026-07-12T08:56:58Z |  Create build pipelines in Go. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 325 | 42 | 2026-07-09T13:19:33Z |  Concurrent task runner. |
 | [gopinath-langote/1build](https://github.com/gopinath-langote/1build) | 248 | 31 | 2026-07-06T08:15:03Z |  Command line tool to frictionlessly manage project-specific commands. |
 | [maxclaus/gaper](https://github.com/maxclaus/gaper) | 83 | 6 | 2026-05-03T03:28:31Z |  Builds and restarts a Go project when it crashes or some watched file changes. |
@@ -24,13 +24,13 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 919 | 2026-07-11T17:28:25Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 16k | 861 | 2026-07-11T19:14:44Z |  simple "Make" alternative. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 920 | 2026-07-13T01:25:03Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 863 | 2026-07-12T11:03:25Z |  simple "Make" alternative. |
 | [magefile/mage](https://github.com/magefile/mage) | 5k | 277 | 2026-07-11T19:14:44Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-07-11T19:14:43Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-06-23T00:55:14Z |  Modern Make. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 325 | 42 | 2026-07-09T13:19:33Z |  Concurrent task runner. |
-| [goyek/goyek](https://github.com/goyek/goyek) | 692 | 35 | 2026-07-08T21:29:49Z |  Create build pipelines in Go. |
+| [goyek/goyek](https://github.com/goyek/goyek) | 693 | 35 | 2026-07-12T08:56:58Z |  Create build pipelines in Go. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 34 | 2026-07-09T13:19:45Z |  Task runner with README.md defined tasks, executable markdown. |
 | [gopinath-langote/1build](https://github.com/gopinath-langote/1build) | 248 | 31 | 2026-07-06T08:15:03Z |  Command line tool to frictionlessly manage project-specific commands. |
 | [maxclaus/gaper](https://github.com/maxclaus/gaper) | 83 | 6 | 2026-05-03T03:28:31Z |  Builds and restarts a Go project when it crashes or some watched file changes. |
@@ -42,13 +42,13 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 16k | 861 | 2026-07-11T19:14:44Z |  simple "Make" alternative. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 920 | 2026-07-13T01:25:03Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 863 | 2026-07-12T11:03:25Z |  simple "Make" alternative. |
+| [goyek/goyek](https://github.com/goyek/goyek) | 693 | 35 | 2026-07-12T08:56:58Z |  Create build pipelines in Go. |
 | [magefile/mage](https://github.com/magefile/mage) | 5k | 277 | 2026-07-11T19:14:44Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 230 | 2026-07-11T19:14:43Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 919 | 2026-07-11T17:28:25Z |  Air - Live reload for Go apps. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 34 | 2026-07-09T13:19:45Z |  Task runner with README.md defined tasks, executable markdown. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 325 | 42 | 2026-07-09T13:19:33Z |  Concurrent task runner. |
-| [goyek/goyek](https://github.com/goyek/goyek) | 692 | 35 | 2026-07-08T21:29:49Z |  Create build pipelines in Go. |
 | [rexrun-dev/rex](https://github.com/rexrun-dev/rex) | 4 | 0 | 2026-07-06T09:44:53Z |  Zero-config universal project runner. Detects your stack (Go, Node, Python, Rust, PHP, Zig, Elixir) and runs the right command. |
 | [gopinath-langote/1build](https://github.com/gopinath-langote/1build) | 248 | 31 | 2026-07-06T08:15:03Z |  Command line tool to frictionlessly manage project-specific commands. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-06-23T00:55:14Z |  Modern Make. |

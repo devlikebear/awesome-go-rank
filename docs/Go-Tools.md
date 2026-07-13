@@ -6,11 +6,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-07-11T08:28:32Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-07-12T10:00:18Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-07-10T17:04:00Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-07-10T02:25:43Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
-| [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-07-11T01:19:02Z |  Go assembly and source viewer. |
-| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 43 | 2026-07-09T05:44:34Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-07-12T21:44:46Z |  Go assembly and source viewer. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 43 | 2026-07-12T10:30:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 861 | 25 | 2026-07-06T08:46:03Z |  Enrich `go test` outputs with text decorations. |
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 686 | 20 | 2026-07-11T07:15:16Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 409 | 19 | 2026-07-06T08:30:11Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
@@ -32,11 +32,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-07-11T08:28:32Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-07-12T10:00:18Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-07-10T17:04:00Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-07-10T02:25:43Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
-| [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-07-11T01:19:02Z |  Go assembly and source viewer. |
-| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 43 | 2026-07-09T05:44:34Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-07-12T21:44:46Z |  Go assembly and source viewer. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 43 | 2026-07-12T10:30:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 861 | 25 | 2026-07-06T08:46:03Z |  Enrich `go test` outputs with text decorations. |
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 686 | 20 | 2026-07-11T07:15:16Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 409 | 19 | 2026-07-06T08:30:11Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
@@ -58,14 +58,14 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-07-12T21:44:46Z |  Go assembly and source viewer. |
+| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 43 | 2026-07-12T10:30:44Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-07-12T10:00:18Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [ahmedakef/gotutor](https://github.com/ahmedakef/gotutor) | 83 | 1 | 2026-07-11T15:13:33Z |  Online Go Debugger & Visualizer. |
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-07-11T08:28:32Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 686 | 20 | 2026-07-11T07:15:16Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [ravsii/textra](https://github.com/ravsii/textra) | 7 | 0 | 2026-07-11T01:24:55Z |  Extract Go struct field names, types and tags for filtering and exporting. |
-| [loov/lensm](https://github.com/loov/lensm) | 4k | 131 | 2026-07-11T01:19:02Z |  Go assembly and source viewer. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 6k | 432 | 2026-07-10T17:04:00Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-07-10T02:25:43Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
-| [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 43 | 2026-07-09T05:44:34Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 200 | 5 | 2026-07-08T18:53:40Z |  Show Go test results as readable sentences. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 861 | 25 | 2026-07-06T08:46:03Z |  Enrich `go test` outputs with text decorations. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 409 | 19 | 2026-07-06T08:30:11Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
