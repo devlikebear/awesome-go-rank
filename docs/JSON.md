@@ -6,12 +6,12 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 902 | 2026-07-15T15:45:40Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 903 | 2026-07-16T16:35:16Z |  Get a JSON value with one line of code. |
 | [Jeffail/gabs](https://github.com/Jeffail/gabs) | 4k | 201 | 2026-07-10T10:57:50Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
 | [tidwall/sjson](https://github.com/tidwall/sjson) | 3k | 183 | 2026-07-15T16:15:46Z |  Set a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2026-07-12T16:38:30Z |  Automatically generate Go (golang) struct definitions from example JSON. |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 157 | 2026-07-13T20:15:20Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
-| [ohler55/ojg](https://github.com/ohler55/ojg) | 952 | 54 | 2026-07-11T09:44:27Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 157 | 2026-07-16T08:46:23Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
+| [ohler55/ojg](https://github.com/ohler55/ojg) | 952 | 55 | 2026-07-11T09:44:27Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 629 | 44 | 2026-07-07T07:11:35Z |  JSON diff library for Go based on RFC6902 (JSON Patch). |
 | [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 391 | 12 | 2026-06-29T20:42:21Z |  Performant JSON unmarshalling for flexible use cases. |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 293 | 52 | 2026-06-15T06:58:45Z |  API for arbitrary transformation of JSON documents. |
@@ -50,12 +50,12 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 902 | 2026-07-15T15:45:40Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 903 | 2026-07-16T16:35:16Z |  Get a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2026-07-12T16:38:30Z |  Automatically generate Go (golang) struct definitions from example JSON. |
 | [Jeffail/gabs](https://github.com/Jeffail/gabs) | 4k | 201 | 2026-07-10T10:57:50Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
 | [tidwall/sjson](https://github.com/tidwall/sjson) | 3k | 183 | 2026-07-15T16:15:46Z |  Set a JSON value with one line of code. |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 157 | 2026-07-13T20:15:20Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
-| [ohler55/ojg](https://github.com/ohler55/ojg) | 952 | 54 | 2026-07-11T09:44:27Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 157 | 2026-07-16T08:46:23Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
+| [ohler55/ojg](https://github.com/ohler55/ojg) | 952 | 55 | 2026-07-11T09:44:27Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
 | [Qntfy/kazaam](https://github.com/Qntfy/kazaam) | 293 | 52 | 2026-06-15T06:58:45Z |  API for arbitrary transformation of JSON documents. |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 629 | 44 | 2026-07-07T07:11:35Z |  JSON diff library for Go based on RFC6902 (JSON Patch). |
 | [spyzhov/ajson](https://github.com/spyzhov/ajson) | 290 | 25 | 2026-06-13T08:05:41Z |  Abstract JSON for golang with JSONPath support. |
@@ -94,12 +94,12 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 903 | 2026-07-16T16:35:16Z |  Get a JSON value with one line of code. |
+| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 157 | 2026-07-16T08:46:23Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
 | [GenshIv/silentjson](https://github.com/GenshIv/silentjson) | 62 | 2 | 2026-07-15T21:50:41Z |  Zero-allocation JSON boundary scanner and splitter utilizing AVX2 SIMD instructions. |
 | [tidwall/sjson](https://github.com/tidwall/sjson) | 3k | 183 | 2026-07-15T16:15:46Z |  Set a JSON value with one line of code. |
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 902 | 2026-07-15T15:45:40Z |  Get a JSON value with one line of code. |
-| [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 157 | 2026-07-13T20:15:20Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2026-07-12T16:38:30Z |  Automatically generate Go (golang) struct definitions from example JSON. |
-| [ohler55/ojg](https://github.com/ohler55/ojg) | 952 | 54 | 2026-07-11T09:44:27Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
+| [ohler55/ojg](https://github.com/ohler55/ojg) | 952 | 55 | 2026-07-11T09:44:27Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
 | [Jeffail/gabs](https://github.com/Jeffail/gabs) | 4k | 201 | 2026-07-10T10:57:50Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 629 | 44 | 2026-07-07T07:11:35Z |  JSON diff library for Go based on RFC6902 (JSON Patch). |
 | [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 111 | 9 | 2026-07-06T10:36:48Z |  JSON diff utility written in Go. |
