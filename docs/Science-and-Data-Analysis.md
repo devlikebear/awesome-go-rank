@@ -7,11 +7,11 @@ Libraries for scientific computing and data analyzing.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 580 | 2026-07-15T10:20:02Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 174 | 2026-07-16T15:16:00Z |  Statistics package with common functions missing from the Golang standard library. |
+| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 174 | 2026-07-17T16:49:43Z |  Statistics package with common functions missing from the Golang standard library. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 202 | 2026-07-13T01:27:16Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-07-13T20:11:50Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 104 | 2026-06-12T09:45:38Z |  general purpose, graphical tool for dealing with streams of data. |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2026-06-22T10:36:21Z |  Dataframes for machine-learning and statistics (similar to pandas). |
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2026-07-17T17:40:16Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 123 | 2026-07-13T09:54:36Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 915 | 87 | 2026-07-06T08:54:13Z |  Digital Signal Processing for Go. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 776 | 107 | 2026-05-26T12:30:13Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
@@ -23,7 +23,7 @@ Libraries for scientific computing and data analyzing.
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 410 | 19 | 2026-03-09T02:48:08Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 253 | 37 | 2026-07-06T08:12:04Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 225 | 24 | 2026-06-13T21:33:54Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
-| [james-bowman/sparse](https://github.com/james-bowman/sparse) | 169 | 24 | 2026-07-06T08:31:02Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
+| [james-bowman/sparse](https://github.com/james-bowman/sparse) | 170 | 24 | 2026-07-17T20:27:19Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 123 | 16 | 2026-07-09T01:14:54Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 122 | 9 | 2026-07-06T09:04:41Z |  State estimation and filtering algorithms in Go. |
 | [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 87 | 19 | 2025-09-18T12:34:36Z |  Weighted PageRank algorithm implemented in Go. |
@@ -55,12 +55,12 @@ Libraries for scientific computing and data analyzing.
 |------------|-------|-------|--------------|-------------|
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 580 | 2026-07-15T10:20:02Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 202 | 2026-07-13T01:27:16Z |  gonum/plot provides an API for building and drawing plots in Go. |
-| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 174 | 2026-07-16T15:16:00Z |  Statistics package with common functions missing from the Golang standard library. |
+| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 174 | 2026-07-17T16:49:43Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-07-13T20:11:50Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 123 | 2026-07-13T09:54:36Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 776 | 107 | 2026-05-26T12:30:13Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 104 | 2026-06-12T09:45:38Z |  general purpose, graphical tool for dealing with streams of data. |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2026-06-22T10:36:21Z |  Dataframes for machine-learning and statistics (similar to pandas). |
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2026-07-17T17:40:16Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 915 | 87 | 2026-07-06T08:54:13Z |  Digital Signal Processing for Go. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 748 | 76 | 2026-06-02T20:24:16Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [bebop/poly](https://github.com/bebop/poly) | 731 | 74 | 2026-07-06T07:22:43Z |  A Go package for engineering organisms. |
@@ -68,7 +68,7 @@ Libraries for scientific computing and data analyzing.
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 452 | 38 | 2026-06-10T09:25:50Z |  Exponentially-weighted moving averages. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 253 | 37 | 2026-07-06T08:12:04Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 475 | 30 | 2026-07-15T16:11:11Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
-| [james-bowman/sparse](https://github.com/james-bowman/sparse) | 169 | 24 | 2026-07-06T08:31:02Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
+| [james-bowman/sparse](https://github.com/james-bowman/sparse) | 170 | 24 | 2026-07-17T20:27:19Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 225 | 24 | 2026-06-13T21:33:54Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 87 | 19 | 2025-09-18T12:34:36Z |  Weighted PageRank algorithm implemented in Go. |
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 410 | 19 | 2026-03-09T02:48:08Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
@@ -100,7 +100,9 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 174 | 2026-07-16T15:16:00Z |  Statistics package with common functions missing from the Golang standard library. |
+| [james-bowman/sparse](https://github.com/james-bowman/sparse) | 170 | 24 | 2026-07-17T20:27:19Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
+| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2026-07-17T17:40:16Z |  Dataframes for machine-learning and statistics (similar to pandas). |
+| [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 174 | 2026-07-17T16:49:43Z |  Statistics package with common functions missing from the Golang standard library. |
 | [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 475 | 30 | 2026-07-15T16:11:11Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 580 | 2026-07-15T10:20:02Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [HazelnutParadise/insyra](https://github.com/HazelnutParadise/insyra) | 54 | 2 | 2026-07-15T09:46:51Z |  Data analysis library with statistics, visualization, Parquet support, and Python integration. |
@@ -115,13 +117,11 @@ Libraries for scientific computing and data analyzing.
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 122 | 9 | 2026-07-06T09:04:41Z |  State estimation and filtering algorithms in Go. |
 | [MatProGo-dev/MatProInterface.go](https://github.com/MatProGo-dev/MatProInterface.go) | 3 | 0 | 2026-07-06T08:58:11Z |  MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 915 | 87 | 2026-07-06T08:54:13Z |  Digital Signal Processing for Go. |
-| [james-bowman/sparse](https://github.com/james-bowman/sparse) | 169 | 24 | 2026-07-06T08:31:02Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 253 | 37 | 2026-07-06T08:12:04Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [claygod/PiHex](https://github.com/claygod/PiHex) | 21 | 4 | 2026-07-06T07:35:12Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
 | [bebop/poly](https://github.com/bebop/poly) | 731 | 74 | 2026-07-06T07:22:43Z |  A Go package for engineering organisms. |
 | [Arceus-7/matrix](https://github.com/Arceus-7/matrix) | 7 | 0 | 2026-07-06T07:15:25Z |  A clean, generic, zero-dependency matrix math package for Go with support for arithmetic, decompositions, and linear system solving. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 27 | 4 | 2026-06-29T20:48:24Z |  Tiny linear interpolation library. |
-| [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 100 | 2026-06-22T10:36:21Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 225 | 24 | 2026-06-13T21:33:54Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 104 | 2026-06-12T09:45:38Z |  general purpose, graphical tool for dealing with streams of data. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 452 | 38 | 2026-06-10T09:25:50Z |  Exponentially-weighted moving averages. |

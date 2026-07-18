@@ -6,26 +6,26 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-07-17T01:12:37Z |  |
-| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 18k | 2k | 2026-07-16T12:52:01Z |  |
-| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-07-16T23:57:34Z |  |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-07-17T21:03:50Z |  |
+| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 18k | 2k | 2026-07-17T23:33:10Z |  |
+| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-07-17T20:31:56Z |  |
 | [betrybe/playbook-go](https://github.com/betrybe/playbook-go/blob/main/README_EN.md) | 309 | 12 | 2025-07-28T11:26:00Z |  |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-07-16T23:57:34Z |  |
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-07-17T01:12:37Z |  |
-| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 18k | 2k | 2026-07-16T12:52:01Z |  |
+| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-07-17T20:31:56Z |  |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-07-17T21:03:50Z |  |
+| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 18k | 2k | 2026-07-17T23:33:10Z |  |
 | [betrybe/playbook-go](https://github.com/betrybe/playbook-go/blob/main/README_EN.md) | 309 | 12 | 2025-07-28T11:26:00Z |  |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-07-17T01:12:37Z |  |
-| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-07-16T23:57:34Z |  |
-| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 18k | 2k | 2026-07-16T12:52:01Z |  |
+| [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) | 18k | 2k | 2026-07-17T23:33:10Z |  |
+| [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 32k | 4k | 2026-07-17T21:03:50Z |  |
+| [hyperledger/fabric](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 17k | 9k | 2026-07-17T20:31:56Z |  |
 | [betrybe/playbook-go](https://github.com/betrybe/playbook-go/blob/main/README_EN.md) | 309 | 12 | 2025-07-28T11:26:00Z |  |
 

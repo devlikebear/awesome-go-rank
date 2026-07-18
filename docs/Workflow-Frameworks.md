@@ -6,7 +6,7 @@ Libraries for creating Workflows.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 4k | 292 | 2026-07-16T20:38:17Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 4k | 292 | 2026-07-17T23:29:06Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [noneback/go-taskflow](https://github.com/noneback/go-taskflow) | 635 | 30 | 2026-07-11T00:11:43Z |  A taskflow-like General-purpose Task-parallel Programming Framework with integrated visualizer and profiler. |
 | [uber-go/cadence-client](https://github.com/uber-go/cadence-client) | 378 | 150 | 2026-07-10T18:33:58Z |  A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber. |
 | [luno/workflow](https://github.com/luno/workflow) | 249 | 21 | 2026-07-11T11:48:28Z |  A tech stack agnostic Event Driven Workflow framework. |
@@ -17,7 +17,7 @@ Libraries for creating Workflows.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 4k | 292 | 2026-07-16T20:38:17Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 4k | 292 | 2026-07-17T23:29:06Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [uber-go/cadence-client](https://github.com/uber-go/cadence-client) | 378 | 150 | 2026-07-10T18:33:58Z |  A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber. |
 | [noneback/go-taskflow](https://github.com/noneback/go-taskflow) | 635 | 30 | 2026-07-11T00:11:43Z |  A taskflow-like General-purpose Task-parallel Programming Framework with integrated visualizer and profiler. |
 | [luno/workflow](https://github.com/luno/workflow) | 249 | 21 | 2026-07-11T11:48:28Z |  A tech stack agnostic Event Driven Workflow framework. |
@@ -28,7 +28,7 @@ Libraries for creating Workflows.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 4k | 292 | 2026-07-16T20:38:17Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
+| [dagu-go/dagu](https://github.com/dagu-go/dagu) | 4k | 292 | 2026-07-17T23:29:06Z |  No-code workflow executor. it executes DAGs defined in a simple YAML format. |
 | [luno/workflow](https://github.com/luno/workflow) | 249 | 21 | 2026-07-11T11:48:28Z |  A tech stack agnostic Event Driven Workflow framework. |
 | [noneback/go-taskflow](https://github.com/noneback/go-taskflow) | 635 | 30 | 2026-07-11T00:11:43Z |  A taskflow-like General-purpose Task-parallel Programming Framework with integrated visualizer and profiler. |
 | [uber-go/cadence-client](https://github.com/uber-go/cadence-client) | 378 | 150 | 2026-07-10T18:33:58Z |  A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber. |

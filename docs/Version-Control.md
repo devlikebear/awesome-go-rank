@@ -6,7 +6,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 8k | 975 | 2026-07-16T14:28:01Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 8k | 975 | 2026-07-17T21:06:36Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 287 | 2026-07-16T08:31:07Z |  gaining advanced insights from Git repository history. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 326 | 2026-06-22T03:25:20Z |  Go bindings for libgit2. |
 | [bmf-san/ggc](https://github.com/bmf-san/ggc) | 284 | 9 | 2026-07-11T17:47:02Z |  A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings. |
@@ -21,7 +21,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 8k | 975 | 2026-07-16T14:28:01Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 8k | 975 | 2026-07-17T21:06:36Z |  highly extensible Git implementation in pure Go. |
 | [libgit2/git2go](https://github.com/libgit2/git2go) | 2k | 326 | 2026-06-22T03:25:20Z |  Go bindings for libgit2. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 287 | 2026-07-16T08:31:07Z |  gaining advanced insights from Git repository history. |
 | [jfrog/froggit-go](https://github.com/jfrog/froggit-go) | 54 | 29 | 2026-07-06T08:34:17Z |  Froggit-Go is a Go library, allowing to perform actions on VCS providers. |
@@ -36,7 +36,7 @@ Libraries for version control.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-git/go-git](https://github.com/go-git/go-git) | 8k | 975 | 2026-07-16T14:28:01Z |  highly extensible Git implementation in pure Go. |
+| [go-git/go-git](https://github.com/go-git/go-git) | 8k | 975 | 2026-07-17T21:06:36Z |  highly extensible Git implementation in pure Go. |
 | [src-d/hercules](https://github.com/src-d/hercules) | 3k | 287 | 2026-07-16T08:31:07Z |  gaining advanced insights from Git repository history. |
 | [Alejandro-M-P/git-courer](https://github.com/Alejandro-M-P/git-courer) | 44 | 4 | 2026-07-15T22:11:41Z |  Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage. |
 | [gabyx/githooks](https://github.com/gabyx/githooks) | 126 | 8 | 2026-07-13T15:56:17Z |  Per-repo and shared Git hooks with version control and auto update. |
