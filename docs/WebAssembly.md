@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-07-21T01:15:10Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-07-21T21:29:54Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
 | [dennwc/dom](https://github.com/dennwc/dom) | 506 | 58 | 2026-07-14T22:09:20Z |  DOM library. |
 | [markfarnan/go-canvas](https://github.com/markfarnan/go-canvas) | 271 | 20 | 2026-05-27T15:51:51Z |  Library to use HTML5 Canvas, with all drawing within go code. |
 | [agnivade/wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 211 | 27 | 2026-07-06T07:06:38Z |  Run Go WASM tests in your browser. |
@@ -18,7 +18,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-07-21T01:15:10Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-07-21T21:29:54Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
 | [dennwc/dom](https://github.com/dennwc/dom) | 506 | 58 | 2026-07-14T22:09:20Z |  DOM library. |
 | [agnivade/wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 211 | 27 | 2026-07-06T07:06:38Z |  Run Go WASM tests in your browser. |
 | [markfarnan/go-canvas](https://github.com/markfarnan/go-canvas) | 271 | 20 | 2026-05-27T15:51:51Z |  Library to use HTML5 Canvas, with all drawing within go code. |
@@ -30,7 +30,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-07-21T01:15:10Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-07-21T21:29:54Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
 | [gowebapi/webapi](https://github.com/gowebapi/webapi) | 182 | 12 | 2026-07-19T19:46:52Z |  Bindings for DOM and HTML generated from WebIDL. |
 | [extism/go-sdk](https://github.com/extism/go-sdk) | 182 | 16 | 2026-07-16T13:12:11Z |  Universal, cross-language WebAssembly framework for building plug-in systems and polyglot apps. |
 | [dennwc/dom](https://github.com/dennwc/dom) | 506 | 58 | 2026-07-14T22:09:20Z |  DOM library. |

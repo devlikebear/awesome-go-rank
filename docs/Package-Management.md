@@ -6,23 +6,23 @@ Unofficial libraries for package and dependency management.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 9k | 893 | 2026-07-20T21:49:07Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 591 | 28 | 2026-07-20T17:07:43Z |  Update binaries installed by "go install". |
+| [anchore/syft](https://github.com/anchore/syft) | 9k | 897 | 2026-07-21T22:22:26Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [nao1215/gup](https://github.com/nao1215/gup) | 590 | 28 | 2026-07-21T05:09:39Z |  Update binaries installed by "go install". |
 | [chaindead/modup](https://github.com/chaindead/modup) | 65 | 1 | 2026-05-12T10:13:58Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 9k | 893 | 2026-07-20T21:49:07Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 591 | 28 | 2026-07-20T17:07:43Z |  Update binaries installed by "go install". |
+| [anchore/syft](https://github.com/anchore/syft) | 9k | 897 | 2026-07-21T22:22:26Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [nao1215/gup](https://github.com/nao1215/gup) | 590 | 28 | 2026-07-21T05:09:39Z |  Update binaries installed by "go install". |
 | [chaindead/modup](https://github.com/chaindead/modup) | 65 | 1 | 2026-05-12T10:13:58Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [anchore/syft](https://github.com/anchore/syft) | 9k | 893 | 2026-07-20T21:49:07Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
-| [nao1215/gup](https://github.com/nao1215/gup) | 591 | 28 | 2026-07-20T17:07:43Z |  Update binaries installed by "go install". |
+| [anchore/syft](https://github.com/anchore/syft) | 9k | 897 | 2026-07-21T22:22:26Z |  A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. |
+| [nao1215/gup](https://github.com/nao1215/gup) | 590 | 28 | 2026-07-21T05:09:39Z |  Update binaries installed by "go install". |
 | [chaindead/modup](https://github.com/chaindead/modup) | 65 | 1 | 2026-05-12T10:13:58Z |  Terminal UI for Go dependency updates with outdated module detection and selective upgrading. |
 
