@@ -6,7 +6,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hybridgroup/gobot](https://github.com/hybridgroup/gobot/) | 9k | 1k | 2026-07-24T08:06:30Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
+| [hybridgroup/gobot](https://github.com/hybridgroup/gobot/) | 9k | 1k | 2026-07-25T16:06:59Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2026-07-22T19:31:26Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 456 | 2026-07-24T09:47:32Z |  Lightweight data stream processing engine for IoT edge. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 2k | 150 | 2026-07-24T08:51:04Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
@@ -24,7 +24,7 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hybridgroup/gobot](https://github.com/hybridgroup/gobot/) | 9k | 1k | 2026-07-24T08:06:30Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
+| [hybridgroup/gobot](https://github.com/hybridgroup/gobot/) | 9k | 1k | 2026-07-25T16:06:59Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 456 | 2026-07-24T09:47:32Z |  Lightweight data stream processing engine for IoT edge. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2026-07-22T19:31:26Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |
 | [paypal/gatt](https://github.com/paypal/gatt) | 1k | 286 | 2026-07-05T04:33:48Z |  Gatt is a Go package for building Bluetooth Low Energy peripherals. |
@@ -42,9 +42,9 @@ Libraries for programming devices of the IoT.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hybridgroup/gobot](https://github.com/hybridgroup/gobot/) | 9k | 1k | 2026-07-25T16:06:59Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
 | [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) | 2k | 456 | 2026-07-24T09:47:32Z |  Lightweight data stream processing engine for IoT edge. |
 | [rulego/rulego](https://github.com/rulego/rulego) | 2k | 150 | 2026-07-24T08:51:04Z |  RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge. |
-| [hybridgroup/gobot](https://github.com/hybridgroup/gobot/) | 9k | 1k | 2026-07-24T08:06:30Z |  Gobot is a framework for robotics, physical computing, and the Internet of Things. |
 | [xcodersun/eywa](https://github.com/xcodersun/eywa) | 66 | 18 | 2026-07-23T21:02:18Z |  Project Eywa is essentially a connection manager that keeps track of connected devices. |
 | [Edgenesis/shifu](https://github.com/Edgenesis/shifu) | 1k | 138 | 2026-07-23T00:52:35Z |  Kubernetes native IoT development framework. |
 | [tibcosoftware/flogo](https://github.com/tibcosoftware/flogo) | 2k | 290 | 2026-07-22T19:31:26Z |  Project Flogo is an Open Source Framework for IoT Edge Apps & Integration. |

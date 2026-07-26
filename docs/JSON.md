@@ -20,7 +20,7 @@ Libraries for working with JSON.
 | [elgs/gojq](https://github.com/elgs/gojq) | 191 | 23 | 2026-06-23T19:09:23Z |  JSON query in Golang. |
 | [wI2L/jettison](https://github.com/wI2L/jettison) | 180 | 13 | 2025-09-04T09:00:44Z |  Fast and flexible JSON encoder for Go. |
 | [m-zajac/json2go](https://github.com/m-zajac/json2go) | 142 | 20 | 2026-07-06T08:53:46Z |  Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all. |
-| [skanehira/gjo](https://github.com/skanehira/gjo) | 132 | 15 | 2026-01-09T12:46:09Z |  Small utility to create JSON objects. |
+| [skanehira/gjo](https://github.com/skanehira/gjo) | 132 | 13 | 2026-01-09T12:46:09Z |  Small utility to create JSON objects. |
 | [yazgazan/jaydiff](https://github.com/yazgazan/jaydiff) | 111 | 9 | 2026-07-06T10:36:48Z |  JSON diff utility written in Go. |
 | [ricardolonga/jsongo](https://github.com/ricardolonga/jsongo) | 108 | 15 | 2025-01-18T05:01:48Z |  Fluent API to make it easier to create Json objects. |
 | [romshark/jscan](https://github.com/romshark/jscan) | 101 | 7 | 2026-04-14T05:28:10Z |  High performance zero-allocation JSON iterator. |
@@ -62,9 +62,9 @@ Libraries for working with JSON.
 | [elgs/gojq](https://github.com/elgs/gojq) | 191 | 23 | 2026-06-23T19:09:23Z |  JSON query in Golang. |
 | [m-zajac/json2go](https://github.com/m-zajac/json2go) | 142 | 20 | 2026-07-06T08:53:46Z |  Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all. |
 | [Andrew-M-C/go.jsonvalue](https://github.com/Andrew-M-C/go.jsonvalue) | 203 | 18 | 2026-07-06T07:11:44Z |  A fast and convenient library for unstructured JSON data, replacing `encoding/json`. |
-| [skanehira/gjo](https://github.com/skanehira/gjo) | 132 | 15 | 2026-01-09T12:46:09Z |  Small utility to create JSON objects. |
 | [ricardolonga/jsongo](https://github.com/ricardolonga/jsongo) | 108 | 15 | 2025-01-18T05:01:48Z |  Fluent API to make it easier to create Json objects. |
 | [wI2L/jettison](https://github.com/wI2L/jettison) | 180 | 13 | 2025-09-04T09:00:44Z |  Fast and flexible JSON encoder for Go. |
+| [skanehira/gjo](https://github.com/skanehira/gjo) | 132 | 13 | 2026-01-09T12:46:09Z |  Small utility to create JSON objects. |
 | [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) | 391 | 12 | 2026-06-29T20:42:21Z |  Performant JSON unmarshalling for flexible use cases. |
 | [miolini/jsonf](https://github.com/miolini/jsonf) | 64 | 10 | 2026-02-16T12:41:30Z |  Console tool for highlighted formatting and struct query fetching JSON. |
 | [olvrng/ujson](https://github.com/olvrng/ujson) | 85 | 9 | 2026-04-05T20:43:31Z |  Fast and minimal JSON parser and transformer that works on unstructured JSON. |
@@ -116,7 +116,7 @@ Libraries for working with JSON.
 | [romshark/jscan](https://github.com/romshark/jscan) | 101 | 7 | 2026-04-14T05:28:10Z |  High performance zero-allocation JSON iterator. |
 | [olvrng/ujson](https://github.com/olvrng/ujson) | 85 | 9 | 2026-04-05T20:43:31Z |  Fast and minimal JSON parser and transformer that works on unstructured JSON. |
 | [miolini/jsonf](https://github.com/miolini/jsonf) | 64 | 10 | 2026-02-16T12:41:30Z |  Console tool for highlighted formatting and struct query fetching JSON. |
-| [skanehira/gjo](https://github.com/skanehira/gjo) | 132 | 15 | 2026-01-09T12:46:09Z |  Small utility to create JSON objects. |
+| [skanehira/gjo](https://github.com/skanehira/gjo) | 132 | 13 | 2026-01-09T12:46:09Z |  Small utility to create JSON objects. |
 | [miladibra10/vjson](https://github.com/miladibra10/vjson) | 41 | 4 | 2026-01-06T00:34:53Z |  Go package for validating JSON objects with declaring a JSON schema with fluent API. |
 | [vtopc/epoch](https://github.com/vtopc/epoch) | 17 | 3 | 2025-11-14T01:24:51Z |  Contains primitives for marshaling/unmarshalling Unix timestamp/epoch to/from build-in time.Time type in JSON. |
 | [RichardKnop/jsonhal](https://github.com/RichardKnop/jsonhal) | 13 | 6 | 2025-10-15T18:44:59Z |  Simple Go package to make custom structs marshal into HAL compatible JSON responses. |
