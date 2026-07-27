@@ -15,7 +15,7 @@ Libraries for working with dates and times.
 | [bykof/gostradamus](https://github.com/bykof/gostradamus) | 208 | 6 | 2026-03-18T11:33:47Z |  A Go package for working with dates. |
 | [leekchan/timeutil](https://github.com/leekchan/timeutil) | 193 | 15 | 2026-06-12T09:49:51Z |  Useful extensions (Timedelta, Strftime, ...) to the golang's time package. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 176 | 21 | 2026-07-21T04:51:41Z |  Calculate the sunrise and sunset times for a given location. |
-| [relvacode/iso8601](https://github.com/relvacode/iso8601) | 161 | 19 | 2026-07-25T15:40:57Z |  Efficiently parse ISO8601 date-times without regex. |
+| [relvacode/iso8601](https://github.com/relvacode/iso8601) | 162 | 19 | 2026-07-26T10:32:57Z |  Efficiently parse ISO8601 date-times without regex. |
 | [rickb777/date](https://github.com/rickb777/date) | 143 | 24 | 2026-07-23T21:01:24Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 118 | 11 | 2026-05-21T08:02:06Z |  Convert string to duration. Support time.Duration returned string and more. |
 | [SaidinWoT/timespan](https://github.com/SaidinWoT/timespan) | 84 | 12 | 2025-12-28T00:45:41Z |  For interacting with intervals of time, defined as a start time and a duration. |
@@ -43,7 +43,7 @@ Libraries for working with dates and times.
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 242 | 27 | 2026-07-21T18:23:20Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
 | [rickb777/date](https://github.com/rickb777/date) | 143 | 24 | 2026-07-23T21:01:24Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
 | [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) | 176 | 21 | 2026-07-21T04:51:41Z |  Calculate the sunrise and sunset times for a given location. |
-| [relvacode/iso8601](https://github.com/relvacode/iso8601) | 161 | 19 | 2026-07-25T15:40:57Z |  Efficiently parse ISO8601 date-times without regex. |
+| [relvacode/iso8601](https://github.com/relvacode/iso8601) | 162 | 19 | 2026-07-26T10:32:57Z |  Efficiently parse ISO8601 date-times without regex. |
 | [leekchan/timeutil](https://github.com/leekchan/timeutil) | 193 | 15 | 2026-06-12T09:49:51Z |  Useful extensions (Timedelta, Strftime, ...) to the golang's time package. |
 | [SaidinWoT/timespan](https://github.com/SaidinWoT/timespan) | 84 | 12 | 2025-12-28T00:45:41Z |  For interacting with intervals of time, defined as a start time and a duration. |
 | [xhit/go-str2duration](https://github.com/xhit/go-str2duration) | 118 | 11 | 2026-05-21T08:02:06Z |  Convert string to duration. Support time.Duration returned string and more. |
@@ -64,8 +64,8 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [relvacode/iso8601](https://github.com/relvacode/iso8601) | 162 | 19 | 2026-07-26T10:32:57Z |  Efficiently parse ISO8601 date-times without regex. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 239 | 2026-07-25T17:51:59Z |  Now is a time toolkit for golang. |
-| [relvacode/iso8601](https://github.com/relvacode/iso8601) | 161 | 19 | 2026-07-25T15:40:57Z |  Efficiently parse ISO8601 date-times without regex. |
 | [rickb777/date](https://github.com/rickb777/date) | 143 | 24 | 2026-07-23T21:01:24Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 266 | 2026-07-23T06:35:44Z |  A simple, semantic and developer-friendly time package for golang. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 242 | 27 | 2026-07-21T18:23:20Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
