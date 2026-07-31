@@ -24,7 +24,7 @@ Libraries and tools for binary serialization.
 | [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) | 25 | 5 | 2025-04-15T07:07:22Z |  Convert slices, maps or any other unknown value across different types at run-time, no matter what. |
 | [raszia/gotiny](https://github.com/raszia/gotiny) | 21 | 3 | 2024-11-27T12:23:01Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
 | [vimeda/pletter](https://github.com/vimeda/pletter) | 20 | 3 | 2026-07-06T10:26:54Z |  A standard way to wrap a proto message for message brokers. |
-| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 18 | 0 | 2026-02-09T13:24:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
+| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 18 | 1 | 2026-02-09T13:24:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
 | [huydang284/fixedwidth](https://github.com/huydang284/fixedwidth) | 9 | 2 | 2024-09-02T14:06:26Z |  Fixed-width text formatting (UTF-8 supported). |
 | [recolude/unitpacking](https://github.com/recolude/unitpacking) | 7 | 1 | 2024-11-22T03:16:04Z |  Library to pack unit vectors into as fewest bytes as possible. |
 
@@ -51,8 +51,8 @@ Libraries and tools for binary serialization.
 | [raszia/gotiny](https://github.com/raszia/gotiny) | 21 | 3 | 2024-11-27T12:23:01Z |  Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code. |
 | [vimeda/pletter](https://github.com/vimeda/pletter) | 20 | 3 | 2026-07-06T10:26:54Z |  A standard way to wrap a proto message for message brokers. |
 | [huydang284/fixedwidth](https://github.com/huydang284/fixedwidth) | 9 | 2 | 2024-09-02T14:06:26Z |  Fixed-width text formatting (UTF-8 supported). |
+| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 18 | 1 | 2026-02-09T13:24:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
 | [recolude/unitpacking](https://github.com/recolude/unitpacking) | 7 | 1 | 2024-11-22T03:16:04Z |  Library to pack unit vectors into as fewest bytes as possible. |
-| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 18 | 0 | 2026-02-09T13:24:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
 
 ### Ranked by Last Updated
 
@@ -71,7 +71,7 @@ Libraries and tools for binary serialization.
 | [tuvistavie/structomap](https://github.com/tuvistavie/structomap) | 145 | 11 | 2026-04-08T06:50:13Z |  Library to easily and dynamically generate maps from static structures. |
 | [ghostiam/binstruct](https://github.com/ghostiam/binstruct) | 114 | 19 | 2026-04-03T19:33:07Z |  Golang binary decoder for mapping data into the structure. |
 | [32leaves/bel](https://github.com/32leaves/bel) | 46 | 10 | 2026-03-10T04:37:46Z |  Generate TypeScript interfaces from Go structs/interfaces. Useful for JSON RPC. |
-| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 18 | 0 | 2026-02-09T13:24:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
+| [tiendc/go-csvlib](https://github.com/tiendc/go-csvlib) | 18 | 1 | 2026-02-09T13:24:48Z |  High level and rich functionalities CSV serialization/deserialization library. |
 | [glycerine/bambam](https://github.com/glycerine/bambam) | 64 | 12 | 2025-07-25T15:28:31Z |  generator for Cap'n Proto schemas from go. |
 | [glycerine/go-capnproto](https://github.com/glycerine/go-capnproto) | 287 | 20 | 2025-07-25T15:28:24Z |  Cap'n Proto library and parser for go. |
 | [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) | 25 | 5 | 2025-04-15T07:07:22Z |  Convert slices, maps or any other unknown value across different types at run-time, no matter what. |
