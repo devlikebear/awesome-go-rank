@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 351 | 2026-08-02T15:17:58Z |  Generate Go tests from your source code. |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 350 | 2026-08-02T15:17:58Z |  Generate Go tests from your source code. |
 | [xuri/xgen](https://github.com/xuri/xgen) | 420 | 105 | 2026-08-02T08:52:17Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [DylanMeeus/hasgo](https://github.com/DylanMeeus/hasgo) | 144 | 11 | 2026-02-26T11:34:51Z |  Generate Haskell inspired functions for your slices. |
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 120 | 12 | 2026-07-27T01:32:36Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
@@ -23,7 +23,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 351 | 2026-08-02T15:17:58Z |  Generate Go tests from your source code. |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 350 | 2026-08-02T15:17:58Z |  Generate Go tests from your source code. |
 | [xuri/xgen](https://github.com/xuri/xgen) | 420 | 105 | 2026-08-02T08:52:17Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [kazhuravlev/options-gen](https://github.com/kazhuravlev/options-gen) | 110 | 13 | 2026-07-24T03:05:14Z |  Functional options described by Dave Cheney's post "Functional options for friendly APIs". |
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 120 | 12 | 2026-07-27T01:32:36Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
@@ -40,7 +40,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 351 | 2026-08-02T15:17:58Z |  Generate Go tests from your source code. |
+| [cweill/gotests](https://github.com/cweill/gotests) | 5k | 350 | 2026-08-02T15:17:58Z |  Generate Go tests from your source code. |
 | [xuri/xgen](https://github.com/xuri/xgen) | 420 | 105 | 2026-08-02T08:52:17Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [psyb0t/oapixconstgen](https://github.com/psyb0t/oapixconstgen) | 0 | 0 | 2026-08-01T19:48:35Z |  Generate typed Go constants from an OpenAPI spec's x-constants extension. |
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 120 | 12 | 2026-07-27T01:32:36Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
