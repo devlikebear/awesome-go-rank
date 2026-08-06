@@ -6,10 +6,10 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 38k | 3k | 2026-08-05T01:05:59Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 643 | 2026-08-05T00:45:12Z |  Woodpecker is a community fork of the Drone CI system. |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 454 | 2026-08-04T14:36:57Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-08-04T20:16:12Z | . |
+| [drone/drone](https://github.com/drone/drone) | 38k | 3k | 2026-08-06T00:27:28Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 645 | 2026-08-06T01:16:01Z |  Woodpecker is a community fork of the Drone CI system. |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 454 | 2026-08-05T13:38:19Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-08-05T19:17:03Z | . |
 | [bleenco/abstruse](https://github.com/bleenco/abstruse) | 958 | 103 | 2026-07-24T19:59:52Z |  Abstruse is a distributed CI platform. |
 | [mattn/goveralls](https://github.com/mattn/goveralls) | 796 | 135 | 2026-07-13T20:10:49Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
 | [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) | 596 | 12 | 2026-07-21T05:57:39Z |  go test output for humans. |
@@ -26,10 +26,10 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 38k | 3k | 2026-08-05T01:05:59Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 643 | 2026-08-05T00:45:12Z |  Woodpecker is a community fork of the Drone CI system. |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 454 | 2026-08-04T14:36:57Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-08-04T20:16:12Z | . |
+| [drone/drone](https://github.com/drone/drone) | 38k | 3k | 2026-08-06T00:27:28Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 645 | 2026-08-06T01:16:01Z |  Woodpecker is a community fork of the Drone CI system. |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 454 | 2026-08-05T13:38:19Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-08-05T19:17:03Z | . |
 | [mattn/goveralls](https://github.com/mattn/goveralls) | 796 | 135 | 2026-07-13T20:10:49Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
 | [bleenco/abstruse](https://github.com/bleenco/abstruse) | 958 | 103 | 2026-07-24T19:59:52Z |  Abstruse is a distributed CI platform. |
 | [go-playground/overalls](https://github.com/go-playground/overalls) | 116 | 25 | 2026-08-01T21:33:01Z |  Multi-Package go project coverprofile for tools like goveralls. |
@@ -46,10 +46,10 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 38k | 3k | 2026-08-05T01:05:59Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 643 | 2026-08-05T00:45:12Z |  Woodpecker is a community fork of the Drone CI system. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-08-04T20:16:12Z | . |
-| [ovh/cds](https://github.com/ovh/cds) | 5k | 454 | 2026-08-04T14:36:57Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 645 | 2026-08-06T01:16:01Z |  Woodpecker is a community fork of the Drone CI system. |
+| [drone/drone](https://github.com/drone/drone) | 38k | 3k | 2026-08-06T00:27:28Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 219 | 2026-08-05T19:17:03Z | . |
+| [ovh/cds](https://github.com/ovh/cds) | 5k | 454 | 2026-08-05T13:38:19Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
 | [LawrenceWoodman/roveralls](https://github.com/LawrenceWoodman/roveralls) | 22 | 5 | 2026-08-01T21:33:06Z |  Recursive coverage testing tool. |
 | [go-playground/overalls](https://github.com/go-playground/overalls) | 116 | 25 | 2026-08-01T21:33:01Z |  Multi-Package go project coverprofile for tools like goveralls. |
 | [pikoci/pikoci](https://github.com/pikoci/pikoci) | 162 | 4 | 2026-07-25T10:00:12Z |  Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners. |
