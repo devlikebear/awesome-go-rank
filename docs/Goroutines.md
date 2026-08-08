@@ -6,16 +6,16 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-08-06T20:14:32Z |  A high-performance and low-cost goroutine pool in Go. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-08-07T22:47:50Z |  A high-performance and low-cost goroutine pool in Go. |
 | [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 360 | 2026-08-05T13:00:09Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
-| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 308 | 2026-08-06T20:56:11Z |  Goroutine pool for golang. |
-| [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 243 | 2026-07-13T20:10:55Z |  goworker is a Go-based background worker. |
+| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 308 | 2026-08-07T09:10:22Z |  Goroutine pool for golang. |
+| [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 243 | 2026-08-07T09:11:37Z |  goworker is a Go-based background worker. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 84 | 2026-08-05T13:00:41Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 28 | 2026-08-05T09:57:15Z |  Go toolkit for clean, composable, channel-based concurrency. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 150 | 2026-07-28T13:05:26Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
-| [ivpusic/grpool](https://github.com/ivpusic/grpool) | 735 | 100 | 2026-06-27T14:23:21Z |  Lightweight Goroutine pool. |
+| [ivpusic/grpool](https://github.com/ivpusic/grpool) | 734 | 100 | 2026-08-07T09:13:54Z |  Lightweight Goroutine pool. |
 | [go-playground/pool](https://github.com/go-playground/pool) | 724 | 64 | 2026-05-23T10:48:24Z |  Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation. |
-| [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 517 | 67 | 2026-07-29T03:30:48Z |  gowp is concurrency limiting goroutine pool. |
+| [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 516 | 67 | 2026-08-07T09:17:57Z |  gowp is concurrency limiting goroutine pool. |
 | [carlmjohnson/flowmatic](https://github.com/carlmjohnson/flowmatic) | 403 | 9 | 2026-08-05T00:32:39Z |  Structured concurrency made easy. |
 | [reugn/async](https://github.com/reugn/async) | 311 | 15 | 2026-07-26T16:04:29Z |  An alternative sync library for Go (Future, Promise, Locks). |
 | [vladopajic/go-actor](https://github.com/vladopajic/go-actor) | 307 | 19 | 2026-08-05T12:18:11Z |  A tiny library for writing concurrent programs using actor model. |
@@ -62,14 +62,14 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-08-06T20:14:32Z |  A high-performance and low-cost goroutine pool in Go. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-08-07T22:47:50Z |  A high-performance and low-cost goroutine pool in Go. |
 | [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 360 | 2026-08-05T13:00:09Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
-| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 308 | 2026-08-06T20:56:11Z |  Goroutine pool for golang. |
-| [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 243 | 2026-07-13T20:10:55Z |  goworker is a Go-based background worker. |
+| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 308 | 2026-08-07T09:10:22Z |  Goroutine pool for golang. |
+| [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 243 | 2026-08-07T09:11:37Z |  goworker is a Go-based background worker. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 150 | 2026-07-28T13:05:26Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
-| [ivpusic/grpool](https://github.com/ivpusic/grpool) | 735 | 100 | 2026-06-27T14:23:21Z |  Lightweight Goroutine pool. |
+| [ivpusic/grpool](https://github.com/ivpusic/grpool) | 734 | 100 | 2026-08-07T09:13:54Z |  Lightweight Goroutine pool. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 84 | 2026-08-05T13:00:41Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
-| [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 517 | 67 | 2026-07-29T03:30:48Z |  gowp is concurrency limiting goroutine pool. |
+| [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 516 | 67 | 2026-08-07T09:17:57Z |  gowp is concurrency limiting goroutine pool. |
 | [go-playground/pool](https://github.com/go-playground/pool) | 724 | 64 | 2026-05-23T10:48:24Z |  Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation. |
 | [timandy/routine](https://github.com/timandy/routine) | 291 | 30 | 2026-08-03T08:21:10Z |  `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 28 | 2026-08-05T09:57:15Z |  Go toolkit for clean, composable, channel-based concurrency. |
@@ -118,15 +118,17 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 308 | 2026-08-06T20:56:11Z |  Goroutine pool for golang. |
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-08-06T20:14:32Z |  A high-performance and low-cost goroutine pool in Go. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 14k | 1k | 2026-08-07T22:47:50Z |  A high-performance and low-cost goroutine pool in Go. |
+| [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 516 | 67 | 2026-08-07T09:17:57Z |  gowp is concurrency limiting goroutine pool. |
+| [ivpusic/grpool](https://github.com/ivpusic/grpool) | 734 | 100 | 2026-08-07T09:13:54Z |  Lightweight Goroutine pool. |
+| [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 243 | 2026-08-07T09:11:37Z |  goworker is a Go-based background worker. |
+| [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 308 | 2026-08-07T09:10:22Z |  Goroutine pool for golang. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 84 | 2026-08-05T13:00:41Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
 | [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 360 | 2026-08-05T13:00:09Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
 | [vladopajic/go-actor](https://github.com/vladopajic/go-actor) | 307 | 19 | 2026-08-05T12:18:11Z |  A tiny library for writing concurrent programs using actor model. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 28 | 2026-08-05T09:57:15Z |  Go toolkit for clean, composable, channel-based concurrency. |
 | [carlmjohnson/flowmatic](https://github.com/carlmjohnson/flowmatic) | 403 | 9 | 2026-08-05T00:32:39Z |  Structured concurrency made easy. |
 | [timandy/routine](https://github.com/timandy/routine) | 291 | 30 | 2026-08-03T08:21:10Z |  `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully. |
-| [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 517 | 67 | 2026-07-29T03:30:48Z |  gowp is concurrency limiting goroutine pool. |
 | [ssgreg/stl](https://github.com/ssgreg/stl) | 30 | 6 | 2026-07-28T13:32:44Z |  Software transactional locks based on Software Transactional Memory (STM) concurrency control mechanism. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 150 | 2026-07-28T13:05:26Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
 | [reugn/async](https://github.com/reugn/async) | 311 | 15 | 2026-07-26T16:04:29Z |  An alternative sync library for Go (Future, Promise, Locks). |
@@ -138,7 +140,6 @@ Tools for managing and working with Goroutines.
 | [Sherifabdlnaby/gpool](https://github.com/Sherifabdlnaby/gpool) | 90 | 4 | 2026-07-17T20:52:19Z |  manages a resizeable pool of context-aware goroutines to bound concurrency. |
 | [dirkaholic/kyoo](https://github.com/dirkaholic/kyoo) | 51 | 4 | 2026-07-17T20:51:51Z |  Provides an unlimited job queue and concurrent worker pools. |
 | [vivek-ng/concurrency-limiter](https://github.com/vivek-ng/concurrency-limiter) | 19 | 5 | 2026-07-14T16:09:45Z |  Concurrency limiter with support for timeouts, dynamic priority and context cancellation of goroutines. |
-| [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 243 | 2026-07-13T20:10:55Z |  goworker is a Go-based background worker. |
 | [vardius/worker-pool](https://github.com/vardius/worker-pool) | 93 | 13 | 2026-07-07T07:25:36Z |  goworker is a Go simple async worker pool. |
 | [x-mod/routine](https://github.com/x-mod/routine) | 63 | 8 | 2026-07-06T10:34:29Z |  go routine control with context, support: Main, Go, Pool and some useful Executors. |
 | [nar10z/go-accumulator](https://github.com/nar10z/go-accumulator) | 11 | 0 | 2026-07-06T09:12:13Z |  Solution for accumulation of events and their subsequent processing. |
@@ -146,7 +147,6 @@ Tools for managing and working with Goroutines.
 | [ITcathyh/conexec](https://github.com/ITcathyh/conexec) | 18 | 2 | 2026-07-06T08:29:41Z |  A concurrent toolkit to help execute funcs concurrently in an efficient and safe way. It supports specifying the overall timeout to avoid blocking and uses goroutine pool to improve efficiency. |
 | [arunsworld/nursery](https://github.com/arunsworld/nursery) | 71 | 6 | 2026-07-02T04:16:37Z |  Structured concurrency in Go. |
 | [zenthangplus/goccm](https://github.com/zenthangplus/goccm) | 73 | 13 | 2026-06-30T12:12:56Z |  Go Concurrency Manager package limits the number of goroutines that allowed to run concurrently. |
-| [ivpusic/grpool](https://github.com/ivpusic/grpool) | 735 | 100 | 2026-06-27T14:23:21Z |  Lightweight Goroutine pool. |
 | [kamildrazkiewicz/go-flow](https://github.com/kamildrazkiewicz/go-flow) | 221 | 28 | 2026-06-15T06:07:08Z |  Control goroutines execution order. |
 | [AaronJan/Hunch](https://github.com/AaronJan/Hunch) | 104 | 12 | 2026-06-10T04:29:47Z |  Hunch provides functions like: `All`, `First`, `Retry`, `Waterfall` etc., that makes asynchronous flow control more intuitive. |
 | [hexdigest/execpool](https://github.com/hexdigest/execpool) | 29 | 2 | 2026-05-23T10:52:01Z |  A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command. |
