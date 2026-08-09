@@ -15,7 +15,7 @@ Tools that generate Go code.
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | 864 | 67 | 2026-08-04T07:05:40Z |  Generate converters by defining an interface. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 430 | 36 | 2026-07-21T06:05:19Z |  Command line tool for generating interface definitions. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 405 | 22 | 2026-08-04T07:05:41Z |  Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default. |
-| [ehabterra/apispec](https://github.com/ehabterra/apispec) | 83 | 4 | 2026-08-08T00:03:30Z |  Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph. |
+| [ehabterra/apispec](https://github.com/ehabterra/apispec) | 83 | 4 | 2026-08-08T05:35:12Z |  Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 51 | 9 | 2026-07-17T02:37:26Z |  Feature rich type-to-type copy code generator. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 47 | 1 | 2025-05-23T22:04:57Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
 | [antst/go-apispec](https://github.com/antst/go-apispec) | 33 | 0 | 2026-07-24T06:55:20Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
@@ -37,7 +37,7 @@ Tools that generate Go code.
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 430 | 36 | 2026-07-21T06:05:19Z |  Command line tool for generating interface definitions. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 405 | 22 | 2026-08-04T07:05:41Z |  Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 51 | 9 | 2026-07-17T02:37:26Z |  Feature rich type-to-type copy code generator. |
-| [ehabterra/apispec](https://github.com/ehabterra/apispec) | 83 | 4 | 2026-08-08T00:03:30Z |  Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph. |
+| [ehabterra/apispec](https://github.com/ehabterra/apispec) | 83 | 4 | 2026-08-08T05:35:12Z |  Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph. |
 | [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 25 | 2 | 2026-07-06T09:10:32Z |  Generate HTTP server and client from protobuf. |
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 47 | 1 | 2025-05-23T22:04:57Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
@@ -48,7 +48,7 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ehabterra/apispec](https://github.com/ehabterra/apispec) | 83 | 4 | 2026-08-08T00:03:30Z |  Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph. |
+| [ehabterra/apispec](https://github.com/ehabterra/apispec) | 83 | 4 | 2026-08-08T05:35:12Z |  Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph. |
 | [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 9k | 1k | 2026-08-07T15:46:39Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 226 | 2026-08-07T09:30:44Z |  .NET LINQ-like query methods for Go. |
 | [abice/go-enum](https://github.com/abice/go-enum) | 954 | 75 | 2026-08-07T09:30:41Z |  Code generation for enums from code comments. |
