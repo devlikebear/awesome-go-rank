@@ -6,13 +6,13 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-08-11T17:33:18Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-08-12T21:34:19Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 7k | 432 | 2026-08-11T21:24:18Z |  Visualize call graph of your Go program using dot format. |
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-10T20:24:38Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-12T19:14:06Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-08-10T14:21:42Z |  Go assembly and source viewer. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 44 | 2026-08-10T21:23:28Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 860 | 25 | 2026-08-06T14:34:51Z |  Enrich `go test` outputs with text decorations. |
-| [doganarif/govisual](https://github.com/doganarif/govisual) | 686 | 20 | 2026-07-30T12:19:53Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
+| [doganarif/govisual](https://github.com/doganarif/govisual) | 685 | 20 | 2026-08-12T12:51:58Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 410 | 19 | 2026-08-06T14:39:29Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
 | [galeone/rts](https://github.com/galeone/rts) | 258 | 11 | 2026-07-22T20:03:14Z |  RTS: response to struct. Generates Go structs from server responses. |
 | [becheran/roumon](https://github.com/becheran/roumon) | 236 | 10 | 2026-07-06T07:22:44Z |  Monitor current state of all active goroutines via a command line interface. |
@@ -33,13 +33,13 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-08-11T17:33:18Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-08-12T21:34:19Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 7k | 432 | 2026-08-11T21:24:18Z |  Visualize call graph of your Go program using dot format. |
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-10T20:24:38Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-12T19:14:06Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-08-10T14:21:42Z |  Go assembly and source viewer. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 44 | 2026-08-10T21:23:28Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 860 | 25 | 2026-08-06T14:34:51Z |  Enrich `go test` outputs with text decorations. |
-| [doganarif/govisual](https://github.com/doganarif/govisual) | 686 | 20 | 2026-07-30T12:19:53Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
+| [doganarif/govisual](https://github.com/doganarif/govisual) | 685 | 20 | 2026-08-12T12:51:58Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 410 | 19 | 2026-08-06T14:39:29Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
 | [dtgorski/typex](https://github.com/dtgorski/typex) | 204 | 12 | 2026-08-01T14:29:32Z |  Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration. |
 | [galeone/rts](https://github.com/galeone/rts) | 258 | 11 | 2026-07-22T20:03:14Z |  RTS: response to struct. Generates Go structs from server responses. |
@@ -60,10 +60,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-08-12T21:34:19Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
+| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-12T19:14:06Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
+| [doganarif/govisual](https://github.com/doganarif/govisual) | 685 | 20 | 2026-08-12T12:51:58Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 7k | 432 | 2026-08-11T21:24:18Z |  Visualize call graph of your Go program using dot format. |
-| [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-08-11T17:33:18Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 44 | 2026-08-10T21:23:28Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
-| [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-10T20:24:38Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-08-10T14:21:42Z |  Go assembly and source viewer. |
 | [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 201 | 5 | 2026-08-09T05:08:13Z |  Show Go test results as readable sentences. |
 | [psyb0t/gofindimpl](https://github.com/psyb0t/gofindimpl) | 2 | 0 | 2026-08-08T21:15:48Z |  Find all structs that implement a given Go interface across a codebase. |
@@ -71,7 +72,6 @@
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 860 | 25 | 2026-08-06T14:34:51Z |  Enrich `go test` outputs with text decorations. |
 | [dtgorski/typex](https://github.com/dtgorski/typex) | 204 | 12 | 2026-08-01T14:29:32Z |  Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration. |
 | [ahmedakef/gotutor](https://github.com/ahmedakef/gotutor) | 85 | 1 | 2026-08-01T12:34:20Z |  Online Go Debugger & Visualizer. |
-| [doganarif/govisual](https://github.com/doganarif/govisual) | 686 | 20 | 2026-07-30T12:19:53Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [psampaz/gothanks](https://github.com/psampaz/gothanks) | 127 | 7 | 2026-07-28T13:22:49Z |  GoThanks automatically stars your go.mod github dependencies, sending this way some love to their maintainers. |
 | [galeone/rts](https://github.com/galeone/rts) | 258 | 11 | 2026-07-22T20:03:14Z |  RTS: response to struct. Generates Go structs from server responses. |
 | [ravsii/textra](https://github.com/ravsii/textra) | 7 | 0 | 2026-07-11T01:24:55Z |  Extract Go struct field names, types and tags for filtering and exporting. |

@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-08-11T21:35:38Z |  A curated list of Go books. |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-08-12T09:00:35Z |  A curated list of Go books. |
 | [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-08-11T14:25:49Z |  |
 | [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 654 | 2026-08-07T14:31:36Z |  A book focusing on Go `go/*` packages. |
 | [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3k | 272 | 2026-08-07T09:42:00Z |  |
@@ -18,7 +18,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-08-11T21:35:38Z |  A curated list of Go books. |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-08-12T09:00:35Z |  A curated list of Go books. |
 | [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-08-11T14:25:49Z |  |
 | [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 654 | 2026-08-07T14:31:36Z |  A book focusing on Go `go/*` packages. |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2k | 277 | 2026-08-07T16:09:46Z |  |
@@ -30,7 +30,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-08-11T21:35:38Z |  A curated list of Go books. |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-08-12T09:00:35Z |  A curated list of Go books. |
 | [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-08-11T14:25:49Z |  |
 | [volodymyrprokopyuk/go-blockchain](https://github.com/volodymyrprokopyuk/go-blockchain) | 551 | 47 | 2026-08-10T21:42:33Z |  The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC. |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2k | 277 | 2026-08-07T16:09:46Z |  |
