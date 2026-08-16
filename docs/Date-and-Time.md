@@ -25,7 +25,7 @@ Libraries for working with dates and times.
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 18 | 2 | 2026-07-06T08:15:15Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [1set/cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2026-04-09T15:32:39Z |  Parses Cron-style time range expressions, checks if the given time is within any ranges. |
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 14 | 5 | 2025-12-22T16:40:59Z |  C99-compatible strftime formatter. |
-| [osteele/tuesday](https://github.com/osteele/tuesday) | 13 | 3 | 2026-08-11T22:32:46Z |  Ruby-compatible Strftime function. |
+| [osteele/tuesday](https://github.com/osteele/tuesday) | 13 | 3 | 2026-08-15T21:30:39Z |  Ruby-compatible Strftime function. |
 | [stoewer/go-week](https://github.com/stoewer/go-week) | 11 | 8 | 2025-12-28T00:43:08Z |  An efficient package to work with ISO8601 week dates. |
 | [chmenegatti/go-date-fns](https://github.com/chmenegatti/go-date-fns) | 6 | 0 | 2026-07-06T07:33:42Z |  A comprehensive date utility library for Go, inspired by date-fns, with 140+ pure and immutable functions. |
 | [harkaitz/go-faketime](https://github.com/harkaitz/go-faketime) | 5 | 2 | 2025-12-29T23:05:44Z |  A simple `time.Now()` that honors the faketime(1) utility. |
@@ -54,7 +54,7 @@ Libraries for working with dates and times.
 | [GuilhermeCaruso/kair](https://github.com/GuilhermeCaruso/kair) | 24 | 6 | 2024-06-23T06:09:32Z |  Date and Time - Golang Formatting Library. |
 | [awoodbeck/strftime](https://github.com/awoodbeck/strftime) | 14 | 5 | 2025-12-22T16:40:59Z |  C99-compatible strftime formatter. |
 | [ijt/go-anytime](https://github.com/ijt/go-anytime) | 36 | 4 | 2026-06-02T13:46:01Z |  Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance. |
-| [osteele/tuesday](https://github.com/osteele/tuesday) | 13 | 3 | 2026-08-11T22:32:46Z |  Ruby-compatible Strftime function. |
+| [osteele/tuesday](https://github.com/osteele/tuesday) | 13 | 3 | 2026-08-15T21:30:39Z |  Ruby-compatible Strftime function. |
 | [goschtalt/approx](https://github.com/goschtalt/approx) | 18 | 2 | 2026-07-06T08:15:15Z |  A Duration extension supporting parsing/printing durations in days, weeks and years. |
 | [harkaitz/go-faketime](https://github.com/harkaitz/go-faketime) | 5 | 2 | 2025-12-29T23:05:44Z |  A simple `time.Now()` that honors the faketime(1) utility. |
 | [deatil/go-datebin](https://github.com/deatil/go-datebin) | 5 | 1 | 2026-07-06T07:45:12Z |  A simple datetime parse pkg. |
@@ -64,6 +64,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [osteele/tuesday](https://github.com/osteele/tuesday) | 13 | 3 | 2026-08-15T21:30:39Z |  Ruby-compatible Strftime function. |
 | [wlbr/feiertage](https://github.com/wlbr/feiertage) | 54 | 9 | 2026-08-14T07:25:22Z |  Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving... |
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 265 | 2026-08-13T20:28:10Z |  A simple, semantic and developer-friendly time package for golang. |
 | [bykof/gostradamus](https://github.com/bykof/gostradamus) | 206 | 6 | 2026-08-13T07:28:32Z |  A Go package for working with dates. |
@@ -72,7 +73,6 @@ Libraries for working with dates and times.
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 174 | 2026-08-13T07:21:33Z |  Parse date's without knowing format in advance. |
 | [jinzhu/now](https://github.com/jinzhu/now) | 5k | 239 | 2026-08-13T07:21:09Z |  Now is a time toolkit for golang. |
 | [rickb777/date](https://github.com/rickb777/date) | 143 | 24 | 2026-08-12T21:14:26Z |  Augments Time for working with dates, date ranges, time spans, periods, and time-of-day. |
-| [osteele/tuesday](https://github.com/osteele/tuesday) | 13 | 3 | 2026-08-11T22:32:46Z |  Ruby-compatible Strftime function. |
 | [relvacode/iso8601](https://github.com/relvacode/iso8601) | 166 | 19 | 2026-07-30T15:49:24Z |  Efficiently parse ISO8601 date-times without regex. |
 | [yaa110/go-persian-calendar](https://github.com/yaa110/go-persian-calendar) | 243 | 28 | 2026-07-28T22:39:11Z |  The implementation of the Persian (Solar Hijri) Calendar in Go (golang). |
 | [hako/durafmt](https://github.com/hako/durafmt) | 512 | 51 | 2026-07-28T13:36:42Z |  Time duration formatting library for Go. |

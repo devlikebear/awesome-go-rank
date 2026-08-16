@@ -6,11 +6,11 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 3k | 2026-08-14T23:59:40Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 623 | 2026-08-14T15:32:01Z |  PDF processor. |
-| [spf13/afero](https://github.com/spf13/afero) | 7k | 569 | 2026-08-14T16:43:08Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 223 | 2026-08-14T13:09:25Z |  Disk usage analyzer with console interface. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 135 | 2026-08-14T23:06:35Z | . |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 3k | 2026-08-15T23:28:37Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 624 | 2026-08-15T02:48:13Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 7k | 569 | 2026-08-15T20:49:41Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 226 | 2026-08-15T22:12:57Z |  Disk usage analyzer with console interface. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 135 | 2026-08-15T16:32:54Z | . |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 159 | 2026-08-10T08:24:36Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 936 | 138 | 2026-08-13T20:46:11Z |  File system event notification library with simple API, similar to os/signal. |
 | [otiai10/copy](https://github.com/otiai10/copy) | 771 | 120 | 2026-07-21T06:06:51Z |  Copy directory recursively. |
@@ -39,13 +39,13 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 3k | 2026-08-14T23:59:40Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 623 | 2026-08-14T15:32:01Z |  PDF processor. |
-| [spf13/afero](https://github.com/spf13/afero) | 7k | 569 | 2026-08-14T16:43:08Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 223 | 2026-08-14T13:09:25Z |  Disk usage analyzer with console interface. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 3k | 2026-08-15T23:28:37Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 624 | 2026-08-15T02:48:13Z |  PDF processor. |
+| [spf13/afero](https://github.com/spf13/afero) | 7k | 569 | 2026-08-15T20:49:41Z |  FileSystem Abstraction System for Go. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 226 | 2026-08-15T22:12:57Z |  Disk usage analyzer with console interface. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 159 | 2026-08-10T08:24:36Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 936 | 138 | 2026-08-13T20:46:11Z |  File system event notification library with simple API, similar to os/signal. |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 135 | 2026-08-14T23:06:35Z | . |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 135 | 2026-08-15T16:32:54Z | . |
 | [otiai10/copy](https://github.com/otiai10/copy) | 771 | 120 | 2026-07-21T06:06:51Z |  Copy directory recursively. |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 296 | 49 | 2026-07-21T04:36:17Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 284 | 46 | 2026-08-13T07:26:24Z |  A package for reading and creating ISO9660 disk images |
@@ -72,11 +72,11 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 3k | 2026-08-14T23:59:40Z | ). |
-| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 135 | 2026-08-14T23:06:35Z | . |
-| [spf13/afero](https://github.com/spf13/afero) | 7k | 569 | 2026-08-14T16:43:08Z |  FileSystem Abstraction System for Go. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 623 | 2026-08-14T15:32:01Z |  PDF processor. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 223 | 2026-08-14T13:09:25Z |  Disk usage analyzer with console interface. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 3k | 2026-08-15T23:28:37Z | ). |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 226 | 2026-08-15T22:12:57Z |  Disk usage analyzer with console interface. |
+| [spf13/afero](https://github.com/spf13/afero) | 7k | 569 | 2026-08-15T20:49:41Z |  FileSystem Abstraction System for Go. |
+| [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 135 | 2026-08-15T16:32:54Z | . |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 624 | 2026-08-15T02:48:13Z |  PDF processor. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 936 | 138 | 2026-08-13T20:46:11Z |  File system event notification library with simple API, similar to os/signal. |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 284 | 46 | 2026-08-13T07:26:24Z |  A package for reading and creating ISO9660 disk images |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 159 | 2026-08-10T08:24:36Z |  A package to convert an HTML template to a PDF file. |
