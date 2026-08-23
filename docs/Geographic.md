@@ -14,7 +14,7 @@ Geographic tools and servers
 | [uber/h3-go](https://github.com/uber/h3-go) | 448 | 73 | 2026-08-21T15:23:15Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 181 | 37 | 2026-08-14T06:48:23Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 173 | 26 | 2026-08-21T00:27:24Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
-| [wroge/wgs84](https://github.com/wroge/wgs84) | 142 | 20 | 2026-07-24T18:13:29Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
+| [wroge/wgs84](https://github.com/wroge/wgs84) | 142 | 21 | 2026-08-22T17:06:09Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 94 | 22 | 2026-07-27T06:00:10Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
 | [maguro/pbf](https://github.com/maguro/pbf) | 56 | 8 | 2026-07-06T08:55:23Z |  OpenStreetMap PBF golang encoder/decoder. |
 | [hishamkaram/gismanager](https://github.com/hishamkaram/gismanager) | 54 | 10 | 2026-08-04T09:24:28Z |  Publish Your GIS Data(Vector Data) to PostGIS and Geoserver. |
@@ -37,7 +37,7 @@ Geographic tools and servers
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 181 | 37 | 2026-08-14T06:48:23Z |  Go wrapper for GDAL. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 173 | 26 | 2026-08-21T00:27:24Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 94 | 22 | 2026-07-27T06:00:10Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
-| [wroge/wgs84](https://github.com/wroge/wgs84) | 142 | 20 | 2026-07-24T18:13:29Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
+| [wroge/wgs84](https://github.com/wroge/wgs84) | 142 | 21 | 2026-08-22T17:06:09Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
 | [pantrif/s2-geojson](https://github.com/pantrif/s2-geojson) | 37 | 13 | 2026-03-04T13:29:01Z |  Convert geojson to s2 cells & demonstrating some S2 geometry features on map. |
 | [hishamkaram/gismanager](https://github.com/hishamkaram/gismanager) | 54 | 10 | 2026-08-04T09:24:28Z |  Publish Your GIS Data(Vector Data) to PostGIS and Geoserver. |
 | [maguro/pbf](https://github.com/maguro/pbf) | 56 | 8 | 2026-07-06T08:55:23Z |  OpenStreetMap PBF golang encoder/decoder. |
@@ -50,6 +50,7 @@ Geographic tools and servers
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [wroge/wgs84](https://github.com/wroge/wgs84) | 142 | 21 | 2026-08-22T17:06:09Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
 | [uber/h3-go](https://github.com/uber/h3-go) | 448 | 73 | 2026-08-21T15:23:15Z |  Go bindings for H3, a hierarchical hexagonal geospatial indexing system. |
 | [peterstace/simplefeatures](https://github.com/peterstace/simplefeatures) | 173 | 26 | 2026-08-21T00:27:24Z |  simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them. |
 | [consbio/mbtileserver](https://github.com/consbio/mbtileserver) | 789 | 120 | 2026-08-20T07:53:06Z |  A simple Go-based server for map tiles stored in mbtiles format. |
@@ -59,7 +60,6 @@ Geographic tools and servers
 | [airbusgeo/godal](https://github.com/airbusgeo/godal) | 181 | 37 | 2026-08-14T06:48:23Z |  Go wrapper for GDAL. |
 | [hishamkaram/gismanager](https://github.com/hishamkaram/gismanager) | 54 | 10 | 2026-08-04T09:24:28Z |  Publish Your GIS Data(Vector Data) to PostGIS and Geoserver. |
 | [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) | 94 | 22 | 2026-07-27T06:00:10Z |  geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API. |
-| [wroge/wgs84](https://github.com/wroge/wgs84) | 142 | 20 | 2026-07-24T18:13:29Z |  Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM). |
 | [spatial-go/geoos](https://github.com/spatial-go/geoos) | 530 | 108 | 2026-07-24T12:37:19Z |  A library provides spatial data and geometric algorithms. |
 | [mmadfox/go-geojson2h3](https://github.com/mmadfox/go-geojson2h3) | 7 | 1 | 2026-07-06T09:06:17Z |  Conversion utilities between H3 indexes and GeoJSON. |
 | [maguro/pbf](https://github.com/maguro/pbf) | 56 | 8 | 2026-07-06T08:55:23Z |  OpenStreetMap PBF golang encoder/decoder. |
