@@ -6,8 +6,8 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-08-23T00:09:09Z |  Go development plugin for Vim. |
-| [golang/tools](https://github.com/golang/tools/blob/master/gopls/README.md) | 8k | 2k | 2026-08-22T17:11:55Z | features to Vim/Neovim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-08-23T14:33:01Z |  Go development plugin for Vim. |
+| [golang/tools](https://github.com/golang/tools/blob/master/gopls/README.md) | 8k | 2k | 2026-08-23T03:19:20Z | features to Vim/Neovim. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 651 | 2026-08-19T15:38:42Z |  Autocompletion daemon for the Go programming language. |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 925 | 2026-08-21T16:09:48Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 296 | 2026-08-09T15:34:32Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
@@ -22,8 +22,8 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/tools](https://github.com/golang/tools/blob/master/gopls/README.md) | 8k | 2k | 2026-08-22T17:11:55Z | features to Vim/Neovim. |
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-08-23T00:09:09Z |  Go development plugin for Vim. |
+| [golang/tools](https://github.com/golang/tools/blob/master/gopls/README.md) | 8k | 2k | 2026-08-23T03:19:20Z | features to Vim/Neovim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-08-23T14:33:01Z |  Go development plugin for Vim. |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 925 | 2026-08-21T16:09:48Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 651 | 2026-08-19T15:38:42Z |  Autocompletion daemon for the Go programming language. |
 | [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime) | 3k | 296 | 2026-08-09T15:34:32Z |  Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features. |
@@ -38,8 +38,8 @@ Plugin for text editors and IDEs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-08-23T00:09:09Z |  Go development plugin for Vim. |
-| [golang/tools](https://github.com/golang/tools/blob/master/gopls/README.md) | 8k | 2k | 2026-08-22T17:11:55Z | features to Vim/Neovim. |
+| [fatih/vim-go](https://github.com/fatih/vim-go) | 16k | 1k | 2026-08-23T14:33:01Z |  Go development plugin for Vim. |
+| [golang/tools](https://github.com/golang/tools/blob/master/gopls/README.md) | 8k | 2k | 2026-08-23T03:19:20Z | features to Vim/Neovim. |
 | [golang/vscode-go](https://github.com/golang/vscode-go) | 4k | 925 | 2026-08-21T16:09:48Z |  Extension for Visual Studio Code (VS Code) which provides support for the Go language. |
 | [nsf/gocode](https://github.com/nsf/gocode) | 5k | 651 | 2026-08-19T15:38:42Z |  Autocompletion daemon for the Go programming language. |
 | [incu6us/goimports-reviser](https://github.com/incu6us/goimports-reviser) | 717 | 77 | 2026-08-17T03:29:57Z |  Formatting tool for imports. |
