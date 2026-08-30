@@ -38,7 +38,7 @@ Libraries for scientific computing and data analyzing.
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 27 | 4 | 2026-06-29T20:48:24Z |  Tiny linear interpolation library. |
 | [soypat/godesim](https://github.com/soypat/godesim) | 23 | 1 | 2024-01-05T15:41:16Z |  Extended/multivariable ODE solver framework for event-based simulations with simple API. |
 | [ChristopherRabotin/ode](https://github.com/ChristopherRabotin/ode) | 22 | 2 | 2023-11-18T05:45:28Z |  Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions. |
-| [tphakala/simd](https://github.com/tphakala/simd) | 22 | 5 | 2026-08-26T12:08:46Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
+| [tphakala/simd](https://github.com/tphakala/simd) | 22 | 5 | 2026-08-29T13:45:51Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
 | [OGFris/GoStats](https://github.com/OGFris/GoStats) | 22 | 3 | 2024-10-22T01:08:13Z |  GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions. |
 | [claygod/PiHex](https://github.com/claygod/PiHex) | 21 | 4 | 2026-07-06T07:35:12Z |  Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. |
 | [keilerkonzept/topk](https://github.com/keilerkonzept/topk) | 20 | 3 | 2026-08-20T13:42:17Z |  Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm. |
@@ -78,7 +78,7 @@ Libraries for scientific computing and data analyzing.
 | [soniah/evaler](https://github.com/soniah/evaler) | 50 | 16 | 2025-10-04T17:33:26Z |  Simple floating point arithmetic expression evaluator. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 121 | 10 | 2026-08-20T21:00:56Z |  State estimation and filtering algorithms in Go. |
 | [scigolib/hdf5](https://github.com/scigolib/hdf5) | 31 | 7 | 2026-08-25T17:30:14Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
-| [tphakala/simd](https://github.com/tphakala/simd) | 22 | 5 | 2026-08-26T12:08:46Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
+| [tphakala/simd](https://github.com/tphakala/simd) | 22 | 5 | 2026-08-29T13:45:51Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 79 | 4 | 2026-08-21T13:44:47Z |  Tool to manipulate JSONL graphs with graphviz support. |
 | [tchayen/triangolatte](https://github.com/tchayen/triangolatte) | 37 | 4 | 2025-07-27T02:32:00Z |  2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. |
 | [kzahedi/goent](https://github.com/kzahedi/goent) | 36 | 4 | 2025-11-15T09:50:06Z |  GO Implementation of Entropy Measures. |
@@ -102,11 +102,11 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [tphakala/simd](https://github.com/tphakala/simd) | 22 | 5 | 2026-08-29T13:45:51Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 125 | 2026-08-28T18:43:16Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 175 | 2026-08-28T17:33:02Z |  Statistics package with common functions missing from the Golang standard library. |
 | [bebop/poly](https://github.com/bebop/poly) | 735 | 73 | 2026-08-28T17:13:08Z |  A Go package for engineering organisms. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 201 | 2026-08-26T23:05:06Z |  gonum/plot provides an API for building and drawing plots in Go. |
-| [tphakala/simd](https://github.com/tphakala/simd) | 22 | 5 | 2026-08-26T12:08:46Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 581 | 2026-08-26T02:56:49Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [scigolib/matlab](https://github.com/scigolib/matlab) | 12 | 0 | 2026-08-25T17:34:20Z |  Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO. |
 | [scigolib/hdf5](https://github.com/scigolib/hdf5) | 31 | 7 | 2026-08-25T17:30:14Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
