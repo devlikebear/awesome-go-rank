@@ -12,7 +12,7 @@
 | [gotidy/copy](https://github.com/gotidy/copy) | 51 | 5 | 2026-06-01T04:01:19Z |  Package for fast copying structs of different types. |
 | [tenntenn/gpath](https://github.com/tenntenn/gpath) | 41 | 4 | 2025-08-11T10:19:04Z |  Library to simplify access struct fields with Go's expression in reflection. |
 | [lvyahui8/goenum](https://github.com/lvyahui8/goenum) | 16 | 1 | 2026-01-21T09:41:43Z |  A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods. |
-| [muir/reflectutils](https://github.com/muir/reflectutils) | 10 | 1 | 2026-08-28T20:19:09Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
+| [muir/reflectutils](https://github.com/muir/reflectutils) | 10 | 1 | 2026-08-31T16:35:48Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
 | [gontainer/reflectpro](https://github.com/gontainer/reflectpro) | 9 | 0 | 2026-01-20T11:13:25Z |  Callers, copiers, getters and setters for go. |
 | [rekby/objwalker](https://github.com/rekby/objwalker) | 4 | 0 | 2025-11-24T07:59:46Z |  Walk by go objects with reflection. |
 
@@ -26,7 +26,7 @@
 | [gotidy/copy](https://github.com/gotidy/copy) | 51 | 5 | 2026-06-01T04:01:19Z |  Package for fast copying structs of different types. |
 | [tenntenn/gpath](https://github.com/tenntenn/gpath) | 41 | 4 | 2025-08-11T10:19:04Z |  Library to simplify access struct fields with Go's expression in reflection. |
 | [lvyahui8/goenum](https://github.com/lvyahui8/goenum) | 16 | 1 | 2026-01-21T09:41:43Z |  A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods. |
-| [muir/reflectutils](https://github.com/muir/reflectutils) | 10 | 1 | 2026-08-28T20:19:09Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
+| [muir/reflectutils](https://github.com/muir/reflectutils) | 10 | 1 | 2026-08-31T16:35:48Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
 | [gontainer/reflectpro](https://github.com/gontainer/reflectpro) | 9 | 0 | 2026-01-20T11:13:25Z |  Callers, copiers, getters and setters for go. |
 | [rekby/objwalker](https://github.com/rekby/objwalker) | 4 | 0 | 2025-11-24T07:59:46Z |  Walk by go objects with reflection. |
 
@@ -34,7 +34,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [muir/reflectutils](https://github.com/muir/reflectutils) | 10 | 1 | 2026-08-28T20:19:09Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
+| [muir/reflectutils](https://github.com/muir/reflectutils) | 10 | 1 | 2026-08-31T16:35:48Z |  Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string. |
 | [tiendc/go-deepcopy](https://github.com/tiendc/go-deepcopy) | 130 | 8 | 2026-07-22T10:04:56Z |  Fast deep copy library. |
 | [wzshiming/gotype](https://github.com/wzshiming/gotype) | 66 | 9 | 2026-07-10T08:46:57Z |  Golang source code parsing, usage like reflect package. |
 | [ulule/deepcopier](https://github.com/ulule/deepcopier) | 460 | 57 | 2026-07-04T19:11:11Z |  Simple struct copying for Go. |

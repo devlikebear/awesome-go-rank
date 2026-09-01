@@ -7,7 +7,7 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 226 | 2026-08-29T23:39:50Z |  Go web framework benchmark. |
-| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 242 | 2026-07-28T13:23:32Z |  Go HTTP request router benchmark and comparison. |
+| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 242 | 2026-08-31T19:14:13Z |  Go HTTP request router benchmark and comparison. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 161 | 2026-08-13T11:24:12Z |  Benchmarks of Go serialization methods. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-08-19T12:06:27Z |  Skynet 1M threads microbenchmark. |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 243 | 17 | 2026-08-10T12:50:38Z |  Compare various Image resize algorithms for the Go language. |
@@ -26,7 +26,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 242 | 2026-07-28T13:23:32Z |  Go HTTP request router benchmark and comparison. |
+| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 242 | 2026-08-31T19:14:13Z |  Go HTTP request router benchmark and comparison. |
 | [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 226 | 2026-08-29T23:39:50Z |  Go web framework benchmark. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 161 | 2026-08-13T11:24:12Z |  Benchmarks of Go serialization methods. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-08-19T12:06:27Z |  Skynet 1M threads microbenchmark. |
@@ -46,6 +46,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 242 | 2026-08-31T19:14:13Z |  Go HTTP request router benchmark and comparison. |
 | [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 226 | 2026-08-29T23:39:50Z |  Go web framework benchmark. |
 | [goptics/vizb](https://github.com/goptics/vizb) | 90 | 12 | 2026-08-28T03:11:21Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-08-25T17:33:20Z |  a collection of golang benchmarks. |
@@ -53,7 +54,6 @@
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-08-19T12:06:27Z |  Skynet 1M threads microbenchmark. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 161 | 2026-08-13T11:24:12Z |  Benchmarks of Go serialization methods. |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 243 | 17 | 2026-08-10T12:50:38Z |  Compare various Image resize algorithms for the Go language. |
-| [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 242 | 2026-07-28T13:23:32Z |  Go HTTP request router benchmark and comparison. |
 | [jimrobinson/kvbench](https://github.com/jimrobinson/kvbench) | 27 | 2 | 2026-05-13T23:33:57Z |  Key/Value database benchmark. |
 | [PuerkitoBio/gocostmodel](https://github.com/PuerkitoBio/gocostmodel) | 63 | 5 | 2026-05-13T23:33:51Z |  Benchmarks of common basic operations for the Go language. |
 | [tylertreat/go-benchmarks](https://github.com/tylertreat/go-benchmarks) | 150 | 23 | 2026-05-13T23:33:25Z |  Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches. |
