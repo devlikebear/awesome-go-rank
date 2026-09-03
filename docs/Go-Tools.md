@@ -9,7 +9,7 @@
 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-09-01T13:34:45Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 7k | 431 | 2026-09-01T02:21:06Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-30T07:38:23Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
-| [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-08-25T06:47:44Z |  Go assembly and source viewer. |
+| [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-09-02T10:37:35Z |  Go assembly and source viewer. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 45 | 2026-08-28T19:37:56Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 859 | 25 | 2026-08-19T14:31:30Z |  Enrich `go test` outputs with text decorations. |
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 684 | 20 | 2026-08-13T07:30:36Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
@@ -36,7 +36,7 @@
 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-09-01T13:34:45Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 7k | 431 | 2026-09-01T02:21:06Z |  Visualize call graph of your Go program using dot format. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-30T07:38:23Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
-| [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-08-25T06:47:44Z |  Go assembly and source viewer. |
+| [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-09-02T10:37:35Z |  Go assembly and source viewer. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 45 | 2026-08-28T19:37:56Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 859 | 25 | 2026-08-19T14:31:30Z |  Enrich `go test` outputs with text decorations. |
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 684 | 20 | 2026-08-13T07:30:36Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
@@ -60,13 +60,13 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-09-02T10:37:35Z |  Go assembly and source viewer. |
 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-09-01T13:34:45Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 7k | 431 | 2026-09-01T02:21:06Z |  Visualize call graph of your Go program using dot format. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 410 | 19 | 2026-08-31T20:21:46Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 284 | 2026-08-30T07:38:23Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) | 2k | 45 | 2026-08-28T19:37:56Z |  Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build. |
 | [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 203 | 5 | 2026-08-28T04:59:41Z |  Show Go test results as readable sentences. |
-| [loov/lensm](https://github.com/loov/lensm) | 4k | 130 | 2026-08-25T06:47:44Z |  Go assembly and source viewer. |
 | [becheran/roumon](https://github.com/becheran/roumon) | 237 | 10 | 2026-08-24T13:27:23Z |  Monitor current state of all active goroutines via a command line interface. |
 | [ahmedakef/gotutor](https://github.com/ahmedakef/gotutor) | 86 | 1 | 2026-08-23T07:48:14Z |  Online Go Debugger & Visualizer. |
 | [bobg/decouple](https://github.com/bobg/decouple) | 37 | 1 | 2026-08-19T21:25:18Z |  Find “overspecified” function parameters that could be generalized with interface types. |
