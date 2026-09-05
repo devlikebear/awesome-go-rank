@@ -15,7 +15,7 @@
 | [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-08-25T17:33:20Z |  a collection of golang benchmarks. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 128 | 7 | 2026-03-18T10:28:49Z |  Go micro-benchmarks for calculating the speed of language constructs. |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 100 | 22 | 2026-09-01T04:28:38Z |  Framework to compare the performance between different Go versions. |
-| [goptics/vizb](https://github.com/goptics/vizb) | 90 | 12 | 2026-09-03T14:15:15Z |  A CLI tool to visualize Go benchmark data in 4D. |
+| [goptics/vizb](https://github.com/goptics/vizb) | 90 | 12 | 2026-09-04T13:28:46Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [PuerkitoBio/gocostmodel](https://github.com/PuerkitoBio/gocostmodel) | 63 | 5 | 2026-05-13T23:33:51Z |  Benchmarks of common basic operations for the Go language. |
 | [nikolaydubina/go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) | 34 | 2 | 2026-08-21T13:45:56Z |  benchmarks for machine learning inference in Go. |
 | [jimrobinson/kvbench](https://github.com/jimrobinson/kvbench) | 27 | 2 | 2026-05-13T23:33:57Z |  Key/Value database benchmark. |
@@ -34,7 +34,7 @@
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 100 | 22 | 2026-09-01T04:28:38Z |  Framework to compare the performance between different Go versions. |
 | [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-08-25T17:33:20Z |  a collection of golang benchmarks. |
 | [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 243 | 17 | 2026-08-10T12:50:38Z |  Compare various Image resize algorithms for the Go language. |
-| [goptics/vizb](https://github.com/goptics/vizb) | 90 | 12 | 2026-09-03T14:15:15Z |  A CLI tool to visualize Go benchmark data in 4D. |
+| [goptics/vizb](https://github.com/goptics/vizb) | 90 | 12 | 2026-09-04T13:28:46Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 128 | 7 | 2026-03-18T10:28:49Z |  Go micro-benchmarks for calculating the speed of language constructs. |
 | [PuerkitoBio/gocostmodel](https://github.com/PuerkitoBio/gocostmodel) | 63 | 5 | 2026-05-13T23:33:51Z |  Benchmarks of common basic operations for the Go language. |
 | [mrLSD/go-benchmark-app](https://github.com/mrLSD/go-benchmark-app) | 27 | 5 | 2026-05-13T23:33:23Z |  Powerful HTTP-benchmark tool mixed with Аb, Wrk, Siege tools. Gathering statistics and various parameters for benchmarks and comparison results. |
@@ -46,7 +46,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [goptics/vizb](https://github.com/goptics/vizb) | 90 | 12 | 2026-09-03T14:15:15Z |  A CLI tool to visualize Go benchmark data in 4D. |
+| [goptics/vizb](https://github.com/goptics/vizb) | 90 | 12 | 2026-09-04T13:28:46Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 100 | 22 | 2026-09-01T04:28:38Z |  Framework to compare the performance between different Go versions. |
 | [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 242 | 2026-08-31T19:14:13Z |  Go HTTP request router benchmark and comparison. |
 | [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 226 | 2026-08-29T23:39:50Z |  Go web framework benchmark. |
