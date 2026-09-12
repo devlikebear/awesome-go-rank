@@ -6,7 +6,7 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 339 | 2026-09-09T13:11:43Z | . |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 339 | 2026-09-11T12:15:24Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 99 | 2026-09-09T13:04:15Z |  Simple, zero-dependency scheduling library for Go. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-09-07T03:44:07Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-09-06T05:25:37Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
@@ -26,7 +26,7 @@ Libraries for scheduling jobs.
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 20 | 4 | 2026-05-13T23:13:08Z |  A ticker implementation to support cron schedules. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 7 | 0 | 2026-07-06T08:40:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 7 | 0 | 2026-07-23T22:06:42Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
-| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 2 | 0 | 2026-07-06T07:41:45Z |  A flexible and extensible job scheduling and execution library for Go. |
+| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 3 | 0 | 2026-09-11T21:05:19Z |  A flexible and extensible job scheduling and execution library for Go. |
 | [tickstem/cron](https://github.com/tickstem/cron) | 1 | 0 | 2026-07-06T10:16:37Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
 | [tickstem/heartbeat](https://github.com/tickstem/heartbeat) | 1 | 0 | 2026-07-06T10:16:38Z |  Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving. |
 
@@ -34,7 +34,7 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 339 | 2026-09-09T13:11:43Z | . |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 339 | 2026-09-11T12:15:24Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 99 | 2026-09-09T13:04:15Z |  Simple, zero-dependency scheduling library for Go. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-09-07T03:44:07Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-09-06T05:25:37Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
@@ -54,7 +54,7 @@ Libraries for scheduling jobs.
 | [romshark/sched](https://github.com/romshark/sched) | 31 | 1 | 2026-05-13T23:13:24Z |  A job scheduler with the ability to fast-forward time. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 7 | 0 | 2026-07-06T08:40:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 7 | 0 | 2026-07-23T22:06:42Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
-| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 2 | 0 | 2026-07-06T07:41:45Z |  A flexible and extensible job scheduling and execution library for Go. |
+| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 3 | 0 | 2026-09-11T21:05:19Z |  A flexible and extensible job scheduling and execution library for Go. |
 | [tickstem/cron](https://github.com/tickstem/cron) | 1 | 0 | 2026-07-06T10:16:37Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
 | [tickstem/heartbeat](https://github.com/tickstem/heartbeat) | 1 | 0 | 2026-07-06T10:16:38Z |  Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving. |
 
@@ -62,10 +62,11 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 3 | 0 | 2026-09-11T21:05:19Z |  A flexible and extensible job scheduling and execution library for Go. |
+| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 339 | 2026-09-11T12:15:24Z | . |
 | [netresearch/ofelia](https://github.com/netresearch/ofelia) | 65 | 7 | 2026-09-10T21:24:37Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
 | [netresearch/go-cron](https://github.com/netresearch/go-cron) | 64 | 8 | 2026-09-10T13:25:11Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 517 | 32 | 2026-09-09T15:21:05Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
-| [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 339 | 2026-09-09T13:11:43Z | . |
 | [madflojo/tasks](https://github.com/madflojo/tasks) | 334 | 26 | 2026-09-09T13:04:29Z |  An easy to use in-process scheduler for recurring tasks in Go. |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 99 | 2026-09-09T13:04:15Z |  Simple, zero-dependency scheduling library for Go. |
 | [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-09-07T03:44:07Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
@@ -78,7 +79,6 @@ Libraries for scheduling jobs.
 | [tickstem/heartbeat](https://github.com/tickstem/heartbeat) | 1 | 0 | 2026-07-06T10:16:38Z |  Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving. |
 | [tickstem/cron](https://github.com/tickstem/cron) | 1 | 0 | 2026-07-06T10:16:37Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 7 | 0 | 2026-07-06T08:40:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
-| [cybergarage/go-job](https://github.com/cybergarage/go-job) | 2 | 0 | 2026-07-06T07:41:45Z |  A flexible and extensible job scheduling and execution library for Go. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 14 | 2026-06-29T20:48:39Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [romshark/sched](https://github.com/romshark/sched) | 31 | 1 | 2026-05-13T23:13:24Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 20 | 4 | 2026-05-13T23:13:08Z |  A ticker implementation to support cron schedules. |
