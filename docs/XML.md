@@ -7,7 +7,7 @@ Libraries and tools for manipulating XML.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [miku/zek](https://github.com/miku/zek) | 819 | 63 | 2026-08-18T06:49:25Z |  Generate a Go struct from XML. |
-| [antchfx/xpath](https://github.com/antchfx/xpath) | 742 | 101 | 2026-09-11T16:54:46Z |  XPath package for Go. |
+| [antchfx/xpath](https://github.com/antchfx/xpath) | 742 | 101 | 2026-09-15T21:39:19Z |  XPath package for Go. |
 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | 488 | 94 | 2026-09-09T04:29:22Z |  xmlquery is Golang XPath package for XML query. |
 | [sbabiv/xml2map](https://github.com/sbabiv/xml2map) | 65 | 11 | 2025-11-11T10:39:23Z |  XML to MAP converter written Golang. |
 | [shabbyrobe/xmlwriter](https://github.com/shabbyrobe/xmlwriter) | 30 | 7 | 2026-07-06T09:56:35Z |  Procedural XML generation API based on libxml2's xmlwriter module. |
@@ -17,7 +17,7 @@ Libraries and tools for manipulating XML.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [antchfx/xpath](https://github.com/antchfx/xpath) | 742 | 101 | 2026-09-11T16:54:46Z |  XPath package for Go. |
+| [antchfx/xpath](https://github.com/antchfx/xpath) | 742 | 101 | 2026-09-15T21:39:19Z |  XPath package for Go. |
 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | 488 | 94 | 2026-09-09T04:29:22Z |  xmlquery is Golang XPath package for XML query. |
 | [miku/zek](https://github.com/miku/zek) | 819 | 63 | 2026-08-18T06:49:25Z |  Generate a Go struct from XML. |
 | [sbabiv/xml2map](https://github.com/sbabiv/xml2map) | 65 | 11 | 2025-11-11T10:39:23Z |  XML to MAP converter written Golang. |
@@ -28,7 +28,7 @@ Libraries and tools for manipulating XML.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [antchfx/xpath](https://github.com/antchfx/xpath) | 742 | 101 | 2026-09-11T16:54:46Z |  XPath package for Go. |
+| [antchfx/xpath](https://github.com/antchfx/xpath) | 742 | 101 | 2026-09-15T21:39:19Z |  XPath package for Go. |
 | [antchfx/xmlquery](https://github.com/antchfx/xmlquery) | 488 | 94 | 2026-09-09T04:29:22Z |  xmlquery is Golang XPath package for XML query. |
 | [miku/zek](https://github.com/miku/zek) | 819 | 63 | 2026-08-18T06:49:25Z |  Generate a Go struct from XML. |
 | [shabbyrobe/xmlwriter](https://github.com/shabbyrobe/xmlwriter) | 30 | 7 | 2026-07-06T09:56:35Z |  Procedural XML generation API based on libxml2's xmlwriter module. |
