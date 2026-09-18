@@ -21,7 +21,7 @@ Libraries for scheduling jobs.
 | [netresearch/ofelia](https://github.com/netresearch/ofelia) | 65 | 7 | 2026-09-16T16:18:44Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
 | [netresearch/go-cron](https://github.com/netresearch/go-cron) | 64 | 7 | 2026-09-10T13:25:11Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 36 | 6 | 2026-07-18T05:52:09Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 36 | 6 | 2026-09-17T09:13:17Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [romshark/sched](https://github.com/romshark/sched) | 31 | 1 | 2026-05-13T23:13:24Z |  A job scheduler with the ability to fast-forward time. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 20 | 4 | 2026-05-13T23:13:08Z |  A ticker implementation to support cron schedules. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 7 | 0 | 2026-07-06T08:40:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
@@ -49,7 +49,7 @@ Libraries for scheduling jobs.
 | [rk/go-cron](https://github.com/rk/go-cron) | 239 | 12 | 2026-05-13T23:13:06Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
 | [netresearch/ofelia](https://github.com/netresearch/ofelia) | 65 | 7 | 2026-09-16T16:18:44Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
 | [netresearch/go-cron](https://github.com/netresearch/go-cron) | 64 | 7 | 2026-09-10T13:25:11Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 36 | 6 | 2026-07-18T05:52:09Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 36 | 6 | 2026-09-17T09:13:17Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 20 | 4 | 2026-05-13T23:13:08Z |  A ticker implementation to support cron schedules. |
 | [romshark/sched](https://github.com/romshark/sched) | 31 | 1 | 2026-05-13T23:13:24Z |  A job scheduler with the ability to fast-forward time. |
 | [kahoon/pending](https://github.com/kahoon/pending) | 7 | 0 | 2026-07-06T08:40:01Z |  ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits. |
@@ -62,6 +62,7 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 36 | 6 | 2026-09-17T09:13:17Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 516 | 32 | 2026-09-17T01:37:39Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 468 | 51 | 2026-09-16T20:45:03Z |  Cronjobs scheduling made easy. |
 | [netresearch/ofelia](https://github.com/netresearch/ofelia) | 65 | 7 | 2026-09-16T16:18:44Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
@@ -75,7 +76,6 @@ Libraries for scheduling jobs.
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 483 | 36 | 2026-08-28T09:55:42Z |  A simple but powerful DAG scheduler and dashboard. |
 | [bart6114/cheek](https://github.com/bart6114/cheek) | 201 | 16 | 2026-07-30T12:16:45Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [yuseferi/scheduler](https://github.com/yuseferi/scheduler) | 7 | 0 | 2026-07-23T22:06:42Z |  Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning. |
-| [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 36 | 6 | 2026-07-18T05:52:09Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 183 | 15 | 2026-07-16T17:44:20Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [tickstem/heartbeat](https://github.com/tickstem/heartbeat) | 1 | 0 | 2026-07-06T10:16:38Z |  Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving. |
 | [tickstem/cron](https://github.com/tickstem/cron) | 1 | 0 | 2026-07-06T10:16:37Z |  Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials. |
