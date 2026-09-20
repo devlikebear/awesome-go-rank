@@ -6,7 +6,7 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 1k | 2026-09-17T17:41:57Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 1k | 2026-09-20T00:35:54Z |  Get a JSON value with one line of code. |
 | [Jeffail/gabs](https://github.com/Jeffail/gabs) | 4k | 201 | 2026-09-11T15:45:05Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
 | [tidwall/sjson](https://github.com/tidwall/sjson) | 3k | 191 | 2026-09-17T13:16:52Z |  Set a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2026-09-18T16:49:56Z |  Automatically generate Go (golang) struct definitions from example JSON. |
@@ -50,7 +50,7 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 1k | 2026-09-17T17:41:57Z |  Get a JSON value with one line of code. |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 1k | 2026-09-20T00:35:54Z |  Get a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2026-09-18T16:49:56Z |  Automatically generate Go (golang) struct definitions from example JSON. |
 | [Jeffail/gabs](https://github.com/Jeffail/gabs) | 4k | 201 | 2026-09-11T15:45:05Z |  For parsing, creating and editing unknown or dynamic JSON in Go. |
 | [tidwall/sjson](https://github.com/tidwall/sjson) | 3k | 191 | 2026-09-17T13:16:52Z |  Set a JSON value with one line of code. |
@@ -94,9 +94,9 @@ Libraries for working with JSON.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 1k | 2026-09-20T00:35:54Z |  Get a JSON value with one line of code. |
 | [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) | 3k | 205 | 2026-09-18T16:49:56Z |  Automatically generate Go (golang) struct definitions from example JSON. |
 | [ohler55/ojg](https://github.com/ohler55/ojg) | 955 | 60 | 2026-09-18T11:43:35Z |  Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath. |
-| [tidwall/gjson](https://github.com/tidwall/gjson) | 16k | 1k | 2026-09-17T17:41:57Z |  Get a JSON value with one line of code. |
 | [tidwall/sjson](https://github.com/tidwall/sjson) | 3k | 191 | 2026-09-17T13:16:52Z |  Set a JSON value with one line of code. |
 | [valyala/fastjson](https://github.com/valyala/fastjson) | 2k | 159 | 2026-09-16T10:59:02Z |  Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. |
 | [wI2L/jsondiff](https://github.com/wI2L/jsondiff) | 632 | 46 | 2026-09-14T06:10:01Z |  JSON diff library for Go based on RFC6902 (JSON Patch). |

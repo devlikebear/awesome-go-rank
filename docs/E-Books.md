@@ -6,8 +6,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-09-18T18:33:32Z |  A curated list of Go books. |
-| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-09-18T15:55:38Z |  |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-09-20T01:45:02Z |  A curated list of Go books. |
+| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-09-19T12:06:36Z |  |
 | [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 652 | 2026-09-11T03:44:32Z |  A book focusing on Go `go/*` packages. |
 | [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3k | 272 | 2026-09-17T14:21:53Z |  |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2k | 276 | 2026-09-12T12:12:10Z |  |
@@ -18,8 +18,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-09-18T18:33:32Z |  A curated list of Go books. |
-| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-09-18T15:55:38Z |  |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-09-20T01:45:02Z |  A curated list of Go books. |
+| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-09-19T12:06:36Z |  |
 | [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 652 | 2026-09-11T03:44:32Z |  A book focusing on Go `go/*` packages. |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2k | 276 | 2026-09-12T12:12:10Z |  |
 | [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3k | 272 | 2026-09-17T14:21:53Z |  |
@@ -30,8 +30,8 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-09-18T18:33:32Z |  A curated list of Go books. |
-| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-09-18T15:55:38Z |  |
+| [dariubs/GoBooks](https://github.com/dariubs/GoBooks) | 20k | 2k | 2026-09-20T01:45:02Z |  A curated list of Go books. |
+| [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 10k | 2k | 2026-09-19T12:06:36Z |  |
 | [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3k | 272 | 2026-09-17T14:21:53Z |  |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2k | 276 | 2026-09-12T12:12:10Z |  |
 | [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) | 6k | 652 | 2026-09-11T03:44:32Z |  A book focusing on Go `go/*` packages. |
