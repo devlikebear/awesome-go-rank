@@ -6,13 +6,13 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 676 | 2026-09-19T07:48:09Z | and int64, including Weight and Length. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 676 | 2026-09-19T07:48:09Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 678 | 2026-09-19T07:48:09Z | and int64, including Weight and Length. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 678 | 2026-09-19T07:48:09Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 341 | 2026-09-19T13:25:37Z |  Terminal stock watcher and stock position tracker. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 163 | 2026-09-17T08:32:18Z |  Implementation of Fowler's Money pattern. |
-| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 273 | 2026-09-19T16:59:09Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 382 | 2026-09-18T06:24:53Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 203 | 2026-09-20T00:53:10Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 275 | 2026-09-20T17:49:59Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 382 | 2026-09-21T01:48:25Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 203 | 2026-09-21T01:43:10Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 908 | 73 | 2026-09-05T17:39:38Z |  money and currency formatting for golang. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 908 | 156 | 2026-09-16T13:33:30Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 643 | 56 | 2026-09-09T13:04:28Z |  Handles currency amounts, provides currency information and formatting. |
@@ -43,20 +43,20 @@ Packages for accounting and finance.
 | [samaasi/paystack-sdk-go](https://github.com/samaasi/paystack-sdk-go) | 5 | 0 | 2026-09-16T20:21:37Z |  A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API. |
 | [matm/go-nowpayments](https://github.com/matm/go-nowpayments) | 5 | 9 | 2026-03-04T22:22:08Z |  Library for the crypto NOWPayments API. |
 | [wildsurfer/cnn-fear-and-greed-parse](https://github.com/wildsurfer/cnn-fear-and-greed-parse) | 2 | 0 | 2026-09-07T10:17:50Z |  Client for CNN's Fear & Greed Index with the seven component indicators and about a year of daily history. |
-| [vatnode/eu-vat-rates-data-go](https://github.com/vatnode/eu-vat-rates-data-go) | 1 | 0 | 2026-09-18T12:33:51Z |  VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB. |
+| [vatnode/eu-vat-rates-data-go](https://github.com/vatnode/eu-vat-rates-data-go) | 1 | 0 | 2026-09-20T10:22:43Z |  VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB. |
 | [klokare/decimal](https://github.com/klokare/decimal) | 0 | 0 | 2026-08-24T16:03:07Z |  A fixed-size, no allocation decimal type for when you don't need arbitrary precision. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 676 | 2026-09-19T07:48:09Z |  Arbitrary-precision fixed-point decimal numbers. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 676 | 2026-09-19T07:48:09Z | and int64, including Weight and Length. |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 382 | 2026-09-18T06:24:53Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 678 | 2026-09-19T07:48:09Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 678 | 2026-09-19T07:48:09Z | and int64, including Weight and Length. |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 382 | 2026-09-21T01:48:25Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 341 | 2026-09-19T13:25:37Z |  Terminal stock watcher and stock position tracker. |
-| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 273 | 2026-09-19T16:59:09Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
+| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 275 | 2026-09-20T17:49:59Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 565 | 205 | 2026-09-19T02:30:49Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 203 | 2026-09-20T00:53:10Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 203 | 2026-09-21T01:43:10Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 558 | 168 | 2026-09-11T20:45:39Z |  Matching Engine for Limit Order Book in Golang. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 163 | 2026-09-17T08:32:18Z |  Implementation of Fowler's Money pattern. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 908 | 156 | 2026-09-16T13:33:30Z |  Technical analysis library with advanced market analysis and trading strategies. |
@@ -87,23 +87,23 @@ Packages for accounting and finance.
 | [tigusigalpa/kucoin-go](https://github.com/tigusigalpa/kucoin-go) | 17 | 0 | 2026-09-13T10:28:11Z |  Go client for KuCoin UTA and Classic REST & WebSocket APIs with HMAC-SHA256 auth, string-typed prices, and typed error hierarchy. |
 | [samaasi/paystack-sdk-go](https://github.com/samaasi/paystack-sdk-go) | 5 | 0 | 2026-09-16T20:21:37Z |  A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API. |
 | [wildsurfer/cnn-fear-and-greed-parse](https://github.com/wildsurfer/cnn-fear-and-greed-parse) | 2 | 0 | 2026-09-07T10:17:50Z |  Client for CNN's Fear & Greed Index with the seven component indicators and about a year of daily history. |
-| [vatnode/eu-vat-rates-data-go](https://github.com/vatnode/eu-vat-rates-data-go) | 1 | 0 | 2026-09-18T12:33:51Z |  VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB. |
+| [vatnode/eu-vat-rates-data-go](https://github.com/vatnode/eu-vat-rates-data-go) | 1 | 0 | 2026-09-20T10:22:43Z |  VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB. |
 | [klokare/decimal](https://github.com/klokare/decimal) | 0 | 0 | 2026-08-24T16:03:07Z |  A fixed-size, no allocation decimal type for when you don't need arbitrary precision. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 203 | 2026-09-20T00:53:10Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 382 | 2026-09-21T01:48:25Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 203 | 2026-09-21T01:43:10Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 275 | 2026-09-20T17:49:59Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
+| [vatnode/eu-vat-rates-data-go](https://github.com/vatnode/eu-vat-rates-data-go) | 1 | 0 | 2026-09-20T10:22:43Z |  VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB. |
 | [tigusigalpa/bybit-go](https://github.com/tigusigalpa/bybit-go) | 20 | 0 | 2026-09-19T17:40:20Z |  Go client for Bybit V5 API with HMAC/RSA authentication, WebSocket streams, demo trading, and TradFi instruments. |
-| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 273 | 2026-09-19T16:59:09Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 341 | 2026-09-19T13:25:37Z |  Terminal stock watcher and stock position tracker. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 676 | 2026-09-19T07:48:09Z | and int64, including Weight and Length. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 676 | 2026-09-19T07:48:09Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 678 | 2026-09-19T07:48:09Z | and int64, including Weight and Length. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 7k | 678 | 2026-09-19T07:48:09Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [dannyvankooten/vat](https://github.com/dannyvankooten/vat) | 120 | 15 | 2026-09-19T07:00:03Z |  VAT number validation & EU VAT rates. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 565 | 205 | 2026-09-19T02:30:49Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
-| [vatnode/eu-vat-rates-data-go](https://github.com/vatnode/eu-vat-rates-data-go) | 1 | 0 | 2026-09-18T12:33:51Z |  VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB. |
-| [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 382 | 2026-09-18T06:24:53Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [invopop/gobl](https://github.com/invopop/gobl) | 307 | 85 | 2026-09-17T17:39:18Z |  Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 163 | 2026-09-17T08:32:18Z |  Implementation of Fowler's Money pattern. |
 | [jokruger/dec128](https://github.com/jokruger/dec128) | 51 | 1 | 2026-09-17T07:10:14Z |  High performance 128-bit fixed-point decimal numbers. |

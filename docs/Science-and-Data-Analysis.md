@@ -6,7 +6,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 579 | 2026-09-18T02:07:49Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 579 | 2026-09-20T04:34:02Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 177 | 2026-09-19T19:23:09Z |  Statistics package with common functions missing from the Golang standard library. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 201 | 2026-09-17T11:56:18Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-09-19T07:06:35Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
@@ -54,7 +54,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 579 | 2026-09-18T02:07:49Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 579 | 2026-09-20T04:34:02Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 201 | 2026-09-17T11:56:18Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 177 | 2026-09-19T19:23:09Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-09-19T07:06:35Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
@@ -102,11 +102,11 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 579 | 2026-09-20T04:34:02Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 177 | 2026-09-19T19:23:09Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-09-19T07:06:35Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 129 | 2026-09-18T08:33:36Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [tphakala/simd](https://github.com/tphakala/simd) | 24 | 6 | 2026-09-18T06:51:36Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
-| [gonum/gonum](https://github.com/gonum/gonum) | 8k | 579 | 2026-09-18T02:07:49Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 447 | 37 | 2026-09-17T17:45:09Z |  Exponentially-weighted moving averages. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 201 | 2026-09-17T11:56:18Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 481 | 31 | 2026-09-13T22:58:22Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
