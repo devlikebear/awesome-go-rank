@@ -6,14 +6,14 @@ Tools for building blockchains.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51k | 22k | 2026-09-20T22:19:55Z |  Official Go implementation of the Ethereum protocol. |
-| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2026-09-20T19:42:12Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
-| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2026-09-20T06:51:55Z |  A complete implementation of a Lightning Network node. |
-| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2026-09-20T18:41:22Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51k | 22k | 2026-09-22T02:04:05Z |  Official Go implementation of the Ethereum protocol. |
+| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2026-09-21T20:05:44Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
+| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2026-09-21T18:12:07Z |  A complete implementation of a Lightning Network node. |
+| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2026-09-21T19:34:42Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
 | [tendermint/tendermint](https://github.com/tendermint/tendermint) | 6k | 2k | 2026-09-19T04:00:52Z |  High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols. |
-| [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) | 2k | 443 | 2026-09-20T18:26:47Z |  Go library to interface with Solana JSON RPC and WebSocket interfaces. |
-| [gnolang/gno](https://github.com/gnolang/gno) | 1k | 466 | 2026-09-19T08:44:47Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
-| [cometbft/cometbft](https://github.com/cometbft/cometbft) | 919 | 834 | 2026-09-18T18:01:26Z |  A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. |
+| [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) | 2k | 443 | 2026-09-21T09:18:58Z |  Go library to interface with Solana JSON RPC and WebSocket interfaces. |
+| [gnolang/gno](https://github.com/gnolang/gno) | 1k | 466 | 2026-09-21T10:35:10Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
+| [cometbft/cometbft](https://github.com/cometbft/cometbft) | 919 | 834 | 2026-09-21T18:34:53Z |  A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. |
 | [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) | 454 | 144 | 2026-08-18T02:05:33Z |  A Go implementation of the Polkadot Host. |
 | [pactus-project/pactus](https://github.com/pactus-project/pactus) | 234 | 174 | 2026-09-08T18:41:50Z |  A full-node implementation of the Pactus blockchain in Go. |
 | [blinklabs-io/nview](https://github.com/blinklabs-io/nview) | 40 | 4 | 2026-09-17T20:35:01Z |  Local monitoring tool for a Cardano Node. It's a TUI (terminal user interface) designed to fit most screens. |
@@ -24,14 +24,14 @@ Tools for building blockchains.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51k | 22k | 2026-09-20T22:19:55Z |  Official Go implementation of the Ethereum protocol. |
-| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2026-09-20T18:41:22Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
-| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2026-09-20T19:42:12Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
-| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2026-09-20T06:51:55Z |  A complete implementation of a Lightning Network node. |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51k | 22k | 2026-09-22T02:04:05Z |  Official Go implementation of the Ethereum protocol. |
+| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2026-09-21T19:34:42Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
+| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2026-09-21T20:05:44Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
+| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2026-09-21T18:12:07Z |  A complete implementation of a Lightning Network node. |
 | [tendermint/tendermint](https://github.com/tendermint/tendermint) | 6k | 2k | 2026-09-19T04:00:52Z |  High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols. |
-| [cometbft/cometbft](https://github.com/cometbft/cometbft) | 919 | 834 | 2026-09-18T18:01:26Z |  A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. |
-| [gnolang/gno](https://github.com/gnolang/gno) | 1k | 466 | 2026-09-19T08:44:47Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
-| [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) | 2k | 443 | 2026-09-20T18:26:47Z |  Go library to interface with Solana JSON RPC and WebSocket interfaces. |
+| [cometbft/cometbft](https://github.com/cometbft/cometbft) | 919 | 834 | 2026-09-21T18:34:53Z |  A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. |
+| [gnolang/gno](https://github.com/gnolang/gno) | 1k | 466 | 2026-09-21T10:35:10Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
+| [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) | 2k | 443 | 2026-09-21T09:18:58Z |  Go library to interface with Solana JSON RPC and WebSocket interfaces. |
 | [pactus-project/pactus](https://github.com/pactus-project/pactus) | 234 | 174 | 2026-09-08T18:41:50Z |  A full-node implementation of the Pactus blockchain in Go. |
 | [ChainSafe/gossamer](https://github.com/ChainSafe/gossamer) | 454 | 144 | 2026-08-18T02:05:33Z |  A Go implementation of the Polkadot Host. |
 | [LimeChain/gosemble](https://github.com/LimeChain/gosemble) | 15 | 5 | 2026-04-19T02:38:31Z |  A Go-based framework for building Polkadot/Substrate-compatible runtimes. |
@@ -42,14 +42,14 @@ Tools for building blockchains.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51k | 22k | 2026-09-20T22:19:55Z |  Official Go implementation of the Ethereum protocol. |
-| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2026-09-20T19:42:12Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
-| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2026-09-20T18:41:22Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
-| [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) | 2k | 443 | 2026-09-20T18:26:47Z |  Go library to interface with Solana JSON RPC and WebSocket interfaces. |
-| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2026-09-20T06:51:55Z |  A complete implementation of a Lightning Network node. |
-| [gnolang/gno](https://github.com/gnolang/gno) | 1k | 466 | 2026-09-19T08:44:47Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51k | 22k | 2026-09-22T02:04:05Z |  Official Go implementation of the Ethereum protocol. |
+| [ipfs/kubo](https://github.com/ipfs/kubo) | 17k | 3k | 2026-09-21T20:05:44Z |  An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. |
+| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 7k | 4k | 2026-09-21T19:34:42Z |  A Framework for Building Public Blockchains in the Cosmos Ecosystem. |
+| [cometbft/cometbft](https://github.com/cometbft/cometbft) | 919 | 834 | 2026-09-21T18:34:53Z |  A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. |
+| [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) | 8k | 2k | 2026-09-21T18:12:07Z |  A complete implementation of a Lightning Network node. |
+| [gnolang/gno](https://github.com/gnolang/gno) | 1k | 466 | 2026-09-21T10:35:10Z |  A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. |
+| [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) | 2k | 443 | 2026-09-21T09:18:58Z |  Go library to interface with Solana JSON RPC and WebSocket interfaces. |
 | [tendermint/tendermint](https://github.com/tendermint/tendermint) | 6k | 2k | 2026-09-19T04:00:52Z |  High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols. |
-| [cometbft/cometbft](https://github.com/cometbft/cometbft) | 919 | 834 | 2026-09-18T18:01:26Z |  A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. |
 | [kslamph/tronlib](https://github.com/kslamph/tronlib) | 5 | 1 | 2026-09-18T15:23:13Z |  A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support. |
 | [blinklabs-io/nview](https://github.com/blinklabs-io/nview) | 40 | 4 | 2026-09-17T20:35:01Z |  Local monitoring tool for a Cardano Node. It's a TUI (terminal user interface) designed to fit most screens. |
 | [pactus-project/pactus](https://github.com/pactus-project/pactus) | 234 | 174 | 2026-09-08T18:41:50Z |  A full-node implementation of the Pactus blockchain in Go. |
