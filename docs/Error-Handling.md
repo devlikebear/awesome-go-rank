@@ -23,7 +23,7 @@ Libraries for handling errors.
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 7 | 1 | 2023-08-29T00:07:32Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
 | [quantumcycle/metaerr](https://github.com/quantumcycle/metaerr) | 6 | 1 | 2026-07-06T09:38:54Z |  A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces. |
 | [neuronlabs/errors](https://github.com/neuronlabs/errors) | 6 | 1 | 2023-09-26T23:05:27Z |  Simple golang error handling with classification primitives. |
-| [go-errr/go](https://github.com/go-errr/go) | 2 | 0 | 2026-09-04T20:19:25Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
+| [go-errr/go](https://github.com/go-errr/go) | 2 | 0 | 2026-09-22T16:40:32Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
 | [psyb0t/ctxerrors](https://github.com/psyb0t/ctxerrors) | 0 | 0 | 2026-08-11T21:18:45Z |  Wrap errors with the file, line, and function name of each call site. |
 
 ### Ranked by Forks
@@ -47,13 +47,14 @@ Libraries for handling errors.
 | [PumpkinSeed/errors](https://github.com/PumpkinSeed/errors) | 7 | 1 | 2023-08-29T00:07:32Z |  The most simple error wrapper with awesome performance and minimal memory overhead. |
 | [quantumcycle/metaerr](https://github.com/quantumcycle/metaerr) | 6 | 1 | 2026-07-06T09:38:54Z |  A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces. |
 | [neuronlabs/errors](https://github.com/neuronlabs/errors) | 6 | 1 | 2023-09-26T23:05:27Z |  Simple golang error handling with classification primitives. |
-| [go-errr/go](https://github.com/go-errr/go) | 2 | 0 | 2026-09-04T20:19:25Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
+| [go-errr/go](https://github.com/go-errr/go) | 2 | 0 | 2026-09-22T16:40:32Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
 | [psyb0t/ctxerrors](https://github.com/psyb0t/ctxerrors) | 0 | 0 | 2026-08-11T21:18:45Z |  Wrap errors with the file, line, and function name of each call site. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [go-errr/go](https://github.com/go-errr/go) | 2 | 0 | 2026-09-22T16:40:32Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
 | [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) | 3k | 143 | 2026-09-21T11:46:14Z |  Go (golang) package for representing a list of errors as a single error. |
 | [samber/oops](https://github.com/samber/oops) | 991 | 45 | 2026-09-21T06:11:09Z |  Error handling with context, stack trace and source fragments. |
 | [ztrue/tracerr](https://github.com/ztrue/tracerr) | 1k | 43 | 2026-09-21T05:33:02Z |  Golang errors with stack trace and source fragments. |
@@ -63,7 +64,6 @@ Libraries for handling errors.
 | [emperror/emperror](https://github.com/emperror/emperror) | 388 | 18 | 2026-09-14T20:29:50Z |  Error handling tools and best practices for Go libraries and applications. |
 | [rotisserie/eris](https://github.com/rotisserie/eris) | 2k | 55 | 2026-09-10T00:53:07Z |  A better way to handle, trace, and log errors in Go. Compatible with the standard error library and github.com/pkg/errors. |
 | [joomcode/errorx](https://github.com/joomcode/errorx) | 1k | 32 | 2026-09-09T13:00:00Z |  A feature rich error package with stack traces, composition of errors and more. |
-| [go-errr/go](https://github.com/go-errr/go) | 2 | 0 | 2026-09-04T20:19:25Z |  Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go. |
 | [Southclaws/fault](https://github.com/Southclaws/fault) | 309 | 7 | 2026-08-28T11:04:32Z |  An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values. |
 | [emperror/errors](https://github.com/emperror/errors) | 203 | 13 | 2026-08-13T07:27:50Z |  Drop-in replacement for the standard library errors package and github.com/pkg/errors. Provides various error handling primitives. |
 | [psyb0t/ctxerrors](https://github.com/psyb0t/ctxerrors) | 0 | 0 | 2026-08-11T21:18:45Z |  Wrap errors with the file, line, and function name of each call site. |
