@@ -6,8 +6,8 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-09-24T09:48:21Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
-| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2026-09-24T04:56:55Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-09-25T13:49:15Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2026-09-25T16:10:45Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 312 | 2026-09-18T09:58:36Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 83 | 2026-09-24T16:27:46Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 70 | 2026-09-13T17:14:29Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
@@ -32,8 +32,8 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2026-09-24T04:56:55Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-09-24T09:48:21Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
+| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2026-09-25T16:10:45Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-09-25T13:49:15Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 312 | 2026-09-18T09:58:36Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 83 | 2026-09-24T16:27:46Z |  Small, safe, and easy CBOR encoding and decoding library. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 70 | 2026-09-13T17:14:29Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
@@ -58,11 +58,11 @@ Libraries and tools for binary serialization.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2026-09-25T16:10:45Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
+| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-09-25T13:49:15Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [fxamacker/cbor](https://github.com/fxamacker/cbor) | 1k | 83 | 2026-09-24T16:27:46Z |  Small, safe, and easy CBOR encoding and decoding library. |
-| [json-iterator/go](https://github.com/json-iterator/go) | 14k | 1k | 2026-09-24T09:48:21Z |  High-performance 100% compatible drop-in replacement of "encoding/json". |
 | [tuvistavie/structomap](https://github.com/tuvistavie/structomap) | 144 | 11 | 2026-09-24T09:46:37Z |  Library to easily and dynamically generate maps from static structures. |
 | [yvasiyarov/php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 170 | 43 | 2026-09-24T09:44:13Z |  GoLang library for working with PHP session format and PHP Serialize/Unserialize functions. |
-| [golang/protobuf](https://github.com/golang/protobuf) | 10k | 2k | 2026-09-24T04:56:55Z |  Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers. |
 | [mus-format/mus-go](https://github.com/mus-format/mus-go) | 145 | 6 | 2026-09-19T19:21:39Z |  MUS format serializer for Go. |
 | [ugorji/go](https://github.com/ugorji/go) | 2k | 312 | 2026-09-18T09:58:36Z |  High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support. |
 | [jszwec/csvutil](https://github.com/jszwec/csvutil) | 1k | 70 | 2026-09-13T17:14:29Z |  High Performance, idiomatic CSV record encoding and decoding to native Go structures. |
