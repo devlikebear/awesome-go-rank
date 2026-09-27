@@ -8,7 +8,7 @@ Libraries for Machine Learning.
 |------------|-------|-------|--------------|-------------|
 | [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2026-09-24T09:45:07Z |  General Machine Learning library for Go. |
 | [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 6k | 451 | 2026-09-24T09:48:07Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
-| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 307 | 2026-09-25T20:23:31Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
+| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 306 | 2026-09-25T20:23:31Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
 | [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 264 | 2026-09-25T16:17:35Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 158 | 2026-09-18T02:00:22Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
 | [gomlx/gomlx](https://github.com/gomlx/gomlx) | 2k | 83 | 2026-09-25T18:30:59Z |  An accelerated Machine Learning framework for Go. |
@@ -53,7 +53,7 @@ Libraries for Machine Learning.
 |------------|-------|-------|--------------|-------------|
 | [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) | 9k | 1k | 2026-09-24T09:45:07Z |  General Machine Learning library for Go. |
 | [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) | 6k | 451 | 2026-09-24T09:48:07Z |  graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms. |
-| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 307 | 2026-09-25T20:23:31Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
+| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 306 | 2026-09-25T20:23:31Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
 | [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 264 | 2026-09-25T16:17:35Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
 | [galeone/tfgo](https://github.com/galeone/tfgo) | 2k | 158 | 2026-09-18T02:00:22Z |  Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python. |
 | [otiai10/ocrserver](https://github.com/otiai10/ocrserver) | 770 | 147 | 2026-09-24T09:47:11Z |  A simple OCR API server, seriously easy to be deployed by Docker and Heroku. |
@@ -97,7 +97,7 @@ Libraries for Machine Learning.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [knights-analytics/hugot](https://github.com/knights-analytics/hugot) | 651 | 48 | 2026-09-26T01:01:44Z |  Huggingface transformer pipelines for golang with onnxruntime. |
-| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 307 | 2026-09-25T20:23:31Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
+| [otiai10/gosseract](https://github.com/otiai10/gosseract) | 3k | 306 | 2026-09-25T20:23:31Z |  Go package for OCR (Optical Character Recognition), by using Tesseract C++ library. |
 | [gomlx/gomlx](https://github.com/gomlx/gomlx) | 2k | 83 | 2026-09-25T18:30:59Z |  An accelerated Machine Learning framework for Go. |
 | [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) | 3k | 264 | 2026-09-25T16:17:35Z |  A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support. |
 | [born-ml/born](https://github.com/born-ml/born) | 132 | 20 | 2026-09-25T16:07:52Z |  Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration. |
