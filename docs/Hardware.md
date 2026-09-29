@@ -6,7 +6,7 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 496 | 2026-09-27T11:39:01Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 497 | 2026-09-28T14:22:34Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2026-09-26T18:07:29Z |  GPIO for Go, doesn't require cgo. |
 | [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 225 | 2026-09-26T04:04:09Z |  Golang hardware discovery/inspection library. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 67 | 2026-09-08T09:34:32Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
@@ -20,7 +20,7 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 496 | 2026-09-27T11:39:01Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 497 | 2026-09-28T14:22:34Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 225 | 2026-09-26T04:04:09Z |  Golang hardware discovery/inspection library. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2026-09-26T18:07:29Z |  GPIO for Go, doesn't require cgo. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 579 | 103 | 2026-09-08T08:59:52Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
@@ -34,7 +34,7 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 496 | 2026-09-27T11:39:01Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 497 | 2026-09-28T14:22:34Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2026-09-26T18:07:29Z |  GPIO for Go, doesn't require cgo. |
 | [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 225 | 2026-09-26T04:04:09Z |  Golang hardware discovery/inspection library. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 67 | 2026-09-08T09:34:32Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
