@@ -15,7 +15,7 @@
 | [doganarif/govisual](https://github.com/doganarif/govisual) | 684 | 21 | 2026-09-24T09:55:08Z |  Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. |
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 410 | 19 | 2026-09-21T20:35:03Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
 | [galeone/rts](https://github.com/galeone/rts) | 258 | 11 | 2026-07-22T20:03:14Z |  RTS: response to struct. Generates Go structs from server responses. |
-| [becheran/roumon](https://github.com/becheran/roumon) | 237 | 11 | 2026-08-24T13:27:23Z |  Monitor current state of all active goroutines via a command line interface. |
+| [becheran/roumon](https://github.com/becheran/roumon) | 237 | 11 | 2026-10-03T14:47:34Z |  Monitor current state of all active goroutines via a command line interface. |
 | [tylerwince/godbg](https://github.com/tylerwince/godbg) | 207 | 10 | 2025-11-24T08:56:24Z |  Implementation of Rusts `dbg!` macro for quick and easy debugging during development. |
 | [dtgorski/typex](https://github.com/dtgorski/typex) | 204 | 12 | 2026-08-01T14:29:32Z |  Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration. |
 | [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 203 | 6 | 2026-08-28T04:59:41Z |  Show Go test results as readable sentences. |
@@ -43,7 +43,7 @@
 | [iyashjayesh/monigo](https://github.com/iyashjayesh/monigo) | 410 | 19 | 2026-09-21T20:35:03Z |  A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀 |
 | [dtgorski/typex](https://github.com/dtgorski/typex) | 204 | 12 | 2026-08-01T14:29:32Z |  Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration. |
 | [galeone/rts](https://github.com/galeone/rts) | 258 | 11 | 2026-07-22T20:03:14Z |  RTS: response to struct. Generates Go structs from server responses. |
-| [becheran/roumon](https://github.com/becheran/roumon) | 237 | 11 | 2026-08-24T13:27:23Z |  Monitor current state of all active goroutines via a command line interface. |
+| [becheran/roumon](https://github.com/becheran/roumon) | 237 | 11 | 2026-10-03T14:47:34Z |  Monitor current state of all active goroutines via a command line interface. |
 | [tylerwince/godbg](https://github.com/tylerwince/godbg) | 207 | 10 | 2025-11-24T08:56:24Z |  Implementation of Rusts `dbg!` macro for quick and easy debugging during development. |
 | [bobg/modver](https://github.com/bobg/modver) | 23 | 8 | 2026-09-14T18:56:58Z |  Compare two versions of a Go module to check the version-number change required (major, minor, or patchlevel), according to [semver](https://semver.org/) rules. |
 | [psampaz/gothanks](https://github.com/psampaz/gothanks) | 127 | 7 | 2026-07-28T13:22:49Z |  GoThanks automatically stars your go.mod github dependencies, sending this way some love to their maintainers. |
@@ -60,6 +60,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [becheran/roumon](https://github.com/becheran/roumon) | 237 | 11 | 2026-10-03T14:47:34Z |  Monitor current state of all active goroutines via a command line interface. |
 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 1k | 2026-10-02T16:37:24Z |  Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API. |
 | [OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) | 5k | 283 | 2026-10-02T15:15:45Z |  Navigate through go files efficiently with the OctoLinker browser extension for GitHub. |
 | [TrueFurby/go-callvis](https://github.com/TrueFurby/go-callvis) | 7k | 428 | 2026-10-02T10:36:20Z |  Visualize call graph of your Go program using dot format. |
@@ -71,7 +72,6 @@
 | [bobg/modver](https://github.com/bobg/modver) | 23 | 8 | 2026-09-14T18:56:58Z |  Compare two versions of a Go module to check the version-number change required (major, minor, or patchlevel), according to [semver](https://semver.org/) rules. |
 | [kyoh86/richgo](https://github.com/kyoh86/richgo) | 858 | 27 | 2026-09-09T13:01:13Z |  Enrich `go test` outputs with text decorations. |
 | [bitfield/gotestdox](https://github.com/bitfield/gotestdox) | 203 | 6 | 2026-08-28T04:59:41Z |  Show Go test results as readable sentences. |
-| [becheran/roumon](https://github.com/becheran/roumon) | 237 | 11 | 2026-08-24T13:27:23Z |  Monitor current state of all active goroutines via a command line interface. |
 | [bobg/decouple](https://github.com/bobg/decouple) | 37 | 1 | 2026-08-19T21:25:18Z |  Find “overspecified” function parameters that could be generalized with interface types. |
 | [psyb0t/gofindimpl](https://github.com/psyb0t/gofindimpl) | 2 | 0 | 2026-08-08T21:15:48Z |  Find all structs that implement a given Go interface across a codebase. |
 | [dtgorski/typex](https://github.com/dtgorski/typex) | 204 | 12 | 2026-08-01T14:29:32Z |  Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration. |

@@ -9,7 +9,7 @@ Libraries for building and working with bots.
 | [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) | 6k | 993 | 2026-10-01T20:24:43Z |  Simple and clean Telegram bot client. |
 | [tucnak/telebot](https://github.com/tucnak/telebot) | 5k | 523 | 2026-10-02T15:04:22Z |  Telegram bot framework is written in Go. |
 | [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 88 | 2026-10-01T16:38:31Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
-| [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 162 | 2026-10-02T15:04:52Z |  Zero-dependencies Telegram Bot library with additional UI components. |
+| [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 162 | 2026-10-04T01:38:46Z |  Zero-dependencies Telegram Bot library with additional UI components. |
 | [mymmrac/telego](https://github.com/mymmrac/telego) | 1k | 69 | 2026-10-02T15:04:47Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
 | [diamondburned/arikawa](https://github.com/diamondburned/arikawa) | 598 | 64 | 2026-09-27T03:54:22Z |  A library and framework for the Discord API. |
 | [NicoNex/echotron](https://github.com/NicoNex/echotron) | 446 | 26 | 2026-10-01T15:39:15Z |  An elegant and concurrent library for Telegram Bots in Go. |
@@ -30,7 +30,7 @@ Libraries for building and working with bots.
 |------------|-------|-------|--------------|-------------|
 | [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) | 6k | 993 | 2026-10-01T20:24:43Z |  Simple and clean Telegram bot client. |
 | [tucnak/telebot](https://github.com/tucnak/telebot) | 5k | 523 | 2026-10-02T15:04:22Z |  Telegram bot framework is written in Go. |
-| [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 162 | 2026-10-02T15:04:52Z |  Zero-dependencies Telegram Bot library with additional UI components. |
+| [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 162 | 2026-10-04T01:38:46Z |  Zero-dependencies Telegram Bot library with additional UI components. |
 | [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 88 | 2026-10-01T16:38:31Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
 | [mymmrac/telego](https://github.com/mymmrac/telego) | 1k | 69 | 2026-10-02T15:04:47Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
 | [diamondburned/arikawa](https://github.com/diamondburned/arikawa) | 598 | 64 | 2026-09-27T03:54:22Z |  A library and framework for the Discord API. |
@@ -50,7 +50,7 @@ Libraries for building and working with bots.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 162 | 2026-10-02T15:04:52Z |  Zero-dependencies Telegram Bot library with additional UI components. |
+| [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 162 | 2026-10-04T01:38:46Z |  Zero-dependencies Telegram Bot library with additional UI components. |
 | [mr-linch/go-tg](https://github.com/mr-linch/go-tg) | 137 | 9 | 2026-10-02T15:04:52Z |  Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included. |
 | [mymmrac/telego](https://github.com/mymmrac/telego) | 1k | 69 | 2026-10-02T15:04:47Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
 | [tucnak/telebot](https://github.com/tucnak/telebot) | 5k | 523 | 2026-10-02T15:04:22Z |  Telegram bot framework is written in Go. |
