@@ -6,48 +6,48 @@ Packages that help with building Distributed Systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tal-tech/go-zero](https://github.com/tal-tech/go-zero) | 33k | 4k | 2026-10-04T01:27:07Z |  A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. |
+| [tal-tech/go-zero](https://github.com/tal-tech/go-zero) | 33k | 4k | 2026-10-04T08:10:16Z |  A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. |
 | [go-kit/kit](https://github.com/go-kit/kit) | 27k | 2k | 2026-10-03T17:06:26Z |  Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc. |
-| [go-kratos/kratos](https://github.com/go-kratos/kratos) | 26k | 4k | 2026-10-03T18:33:51Z |  A modular-designed and easy-to-use microservices framework in Go. |
-| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 23k | 5k | 2026-10-04T01:34:44Z |  The Go language implementation of gRPC. HTTP/2 based RPC. |
+| [go-kratos/kratos](https://github.com/go-kratos/kratos) | 26k | 4k | 2026-10-05T01:57:47Z |  A modular-designed and easy-to-use microservices framework in Go. |
+| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 23k | 5k | 2026-10-04T18:17:14Z |  The Go language implementation of gRPC. HTTP/2 based RPC. |
 | [micro/go-micro](https://github.com/micro/go-micro) | 23k | 2k | 2026-10-02T19:48:46Z |  A distributed systems development framework. |
-| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 21k | 2k | 2026-10-03T19:43:47Z |  NATS is a simple, secure, and performant communications system for digital systems, services, and devices. |
+| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 21k | 2k | 2026-10-05T02:27:23Z |  NATS is a simple, secure, and performant communications system for digital systems, services, and devices. |
 | [zeromq/libzmq](https://github.com/zeromq/libzmq) | 11k | 2k | 2026-10-03T19:15:57Z | ). |
-| [hashicorp/raft](https://github.com/hashicorp/raft) | 9k | 1k | 2026-10-03T12:41:15Z |  Golang implementation of the Raft consensus protocol, by HashiCorp. |
+| [hashicorp/raft](https://github.com/hashicorp/raft) | 9k | 1k | 2026-10-04T13:09:17Z |  Golang implementation of the Raft consensus protocol, by HashiCorp. |
 | [smallnest/rpcx](https://github.com/smallnest/rpcx) | 8k | 1k | 2026-10-01T13:18:49Z |  Distributed pluggable RPC service framework like alibaba Dubbo. |
 | [cloudwego/kitex](https://github.com/cloudwego/kitex) | 8k | 915 | 2026-10-01T03:18:41Z |  A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice. |
-| [luraproject/lura](https://github.com/luraproject/lura) | 7k | 582 | 2026-10-02T19:55:59Z |  Ultra performant API Gateway framework with middlewares. |
-| [anacrolix/torrent](https://github.com/anacrolix/torrent) | 6k | 698 | 2026-10-03T16:30:07Z |  BitTorrent client package. |
+| [luraproject/lura](https://github.com/luraproject/lura) | 7k | 582 | 2026-10-04T15:13:45Z |  Ultra performant API Gateway framework with middlewares. |
+| [anacrolix/torrent](https://github.com/anacrolix/torrent) | 6k | 698 | 2026-10-04T19:19:13Z |  BitTorrent client package. |
 | [lni/dragonboat](https://github.com/lni/dragonboat) | 5k | 573 | 2026-10-02T15:15:04Z |  A feature complete and high performance multi-group Raft library in Go. |
 | [ktr0731/evans](https://github.com/ktr0731/evans) | 4k | 194 | 2026-09-30T22:54:40Z |  Evans: more expressive universal gRPC client. |
 | [emitter-io/emitter](https://github.com/emitter-io/emitter) | 4k | 360 | 2026-09-24T09:48:15Z |  High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love. |
 | [chrislusf/gleam](https://github.com/chrislusf/gleam) | 4k | 292 | 2026-09-24T09:48:03Z |  Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed. |
-| [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) | 3k | 430 | 2026-10-04T00:59:07Z |  Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. |
+| [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) | 3k | 430 | 2026-10-04T12:09:52Z |  Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. |
 | [chrislusf/glow](https://github.com/chrislusf/glow) | 3k | 248 | 2026-09-24T09:46:43Z |  Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go. |
 | [zhufuyi/sponge](https://github.com/zhufuyi/sponge) | 3k | 270 | 2026-10-02T15:14:33Z |  A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks. |
 | [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) | 3k | 118 | 2026-09-24T09:49:21Z |  Lightweight, fault-tolerant message streams for NATS. |
-| [oras-project/oras](https://github.com/oras-project/oras) | 2k | 272 | 2026-10-03T19:45:41Z |  CLI and library for OCI Artifacts in container registries. |
+| [oras-project/oras](https://github.com/oras-project/oras) | 2k | 272 | 2026-10-04T20:31:43Z |  CLI and library for OCI Artifacts in container registries. |
 | [go-eagle/eagle](https://github.com/go-eagle/eagle) | 2k | 258 | 2026-10-02T15:14:59Z |  A Go framework for the API or Microservice with handy scaffolding tools. |
 | [mochi-co/mqtt](https://github.com/mochi-co/mqtt) | 2k | 330 | 2026-10-02T15:42:23Z |  Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub. |
 | [bsm/redislock](https://github.com/bsm/redislock) | 2k | 165 | 2026-10-03T14:21:14Z |  Simplified distributed locking implementation using Redis. |
-| [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | 1k | 164 | 2026-10-03T13:12:14Z |  A cloud native Kubernetes Global Balancer. |
+| [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | 1k | 164 | 2026-10-04T19:47:27Z |  A cloud native Kubernetes Global Balancer. |
 | [hprose/hprose-golang](https://github.com/hprose/hprose-golang) | 1k | 200 | 2026-10-02T15:14:26Z |  Very newbility RPC Library, support 25+ languages now. |
 | [trpc-group/trpc-go](https://github.com/trpc-group/trpc-go) | 1k | 141 | 2026-09-30T18:17:46Z |  The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework. |
 | [unionj-cloud/go-doudou](https://github.com/unionj-cloud/go-doudou) | 1k | 195 | 2026-10-01T13:31:18Z |  A gossip protocol and OpenAPI 3.0 spec based decentralized microservice framework. Built-in go-doudou cli focusing on low-code and rapid dev can power up your productivity. |
-| [cenkalti/rain](https://github.com/cenkalti/rain) | 1k | 83 | 2026-10-03T20:04:18Z |  BitTorrent client and library. |
+| [cenkalti/rain](https://github.com/cenkalti/rain) | 1k | 83 | 2026-10-04T07:20:22Z |  BitTorrent client and library. |
 | [etcd-io/raft](https://github.com/etcd-io/raft) | 1k | 277 | 2026-10-02T17:05:54Z |  Go implementation of the Raft consensus protocol, by CoreOS. |
 | [lesismal/arpc](https://github.com/lesismal/arpc) | 1k | 80 | 2026-10-01T03:46:38Z |  More effective network communication, support two-way-calling, notify, broadcast. |
-| [temporalio/sdk-go](https://github.com/temporalio/sdk-go) | 980 | 357 | 2026-10-02T23:19:59Z |  Durable execution system for making code fault-tolerant and simple. |
-| [alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) | 903 | 125 | 2026-09-28T03:36:46Z |  OpenTelemetry Compile-Time Instrumentation for Golang. |
+| [temporalio/sdk-go](https://github.com/temporalio/sdk-go) | 980 | 358 | 2026-10-02T23:19:59Z |  Durable execution system for making code fault-tolerant and simple. |
+| [alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) | 903 | 126 | 2026-09-28T03:36:46Z |  OpenTelemetry Compile-Time Instrumentation for Golang. |
 | [buraksezer/consistent](https://github.com/buraksezer/consistent) | 785 | 81 | 2026-09-05T14:19:03Z |  Consistent hashing with bounded loads. |
 | [valyala/gorpc](https://github.com/valyala/gorpc) | 710 | 97 | 2026-08-06T17:39:13Z |  Simple, fast and scalable RPC library for high load. |
 | [AppsFlyer/go-sundheit](https://github.com/AppsFlyer/go-sundheit) | 561 | 32 | 2026-08-04T15:40:47Z |  A library built to provide support for defining async service health checks for golang services. |
 | [digota/digota](https://github.com/digota/digota) | 522 | 86 | 2026-10-02T19:56:02Z |  grpc ecommerce microservice. |
 | [dgryski/go-jump](https://github.com/dgryski/go-jump) | 388 | 34 | 2026-09-07T03:50:59Z |  Port of Google's "Jump" Consistent Hash function. |
-| [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) | 373 | 98 | 2026-08-24T07:18:05Z |  JSON-RPC 2.0 HTTP client implementation. |
+| [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) | 373 | 99 | 2026-10-04T14:42:15Z |  JSON-RPC 2.0 HTTP client implementation. |
 | [anacrolix/dht](https://github.com/anacrolix/dht) | 361 | 70 | 2026-09-24T04:17:39Z |  BitTorrent Kademlia DHT implementation. |
 | [tarmac-project/tarmac](https://github.com/tarmac-project/tarmac) | 345 | 17 | 2026-09-02T19:03:34Z |  Framework for writing functions, microservices, or monoliths with WebAssembly |
-| [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) | 193 | 23 | 2026-02-20T13:55:45Z |  The jsonrpc package helps implement of JSON-RPC 2.0. |
+| [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) | 193 | 24 | 2026-02-20T13:55:45Z |  The jsonrpc package helps implement of JSON-RPC 2.0. |
 | [italolelis/outboxer](https://github.com/italolelis/outboxer) | 168 | 24 | 2026-07-06T08:29:37Z |  Outboxer is a go library that implements the outbox pattern. |
 | [oagudo/outbox](https://github.com/oagudo/outbox) | 134 | 5 | 2026-09-19T11:39:25Z |  Lightweight library for the transactional outbox pattern in Go, not tied to any specific relational database or broker. |
 | [edwingeng/doublejump](https://github.com/edwingeng/doublejump) | 111 | 14 | 2026-05-13T22:37:11Z |  A revamped Google's jump consistent hash. |
@@ -75,26 +75,26 @@ Packages that help with building Distributed Systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 23k | 5k | 2026-10-04T01:34:44Z |  The Go language implementation of gRPC. HTTP/2 based RPC. |
-| [tal-tech/go-zero](https://github.com/tal-tech/go-zero) | 33k | 4k | 2026-10-04T01:27:07Z |  A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. |
-| [go-kratos/kratos](https://github.com/go-kratos/kratos) | 26k | 4k | 2026-10-03T18:33:51Z |  A modular-designed and easy-to-use microservices framework in Go. |
+| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 23k | 5k | 2026-10-04T18:17:14Z |  The Go language implementation of gRPC. HTTP/2 based RPC. |
+| [tal-tech/go-zero](https://github.com/tal-tech/go-zero) | 33k | 4k | 2026-10-04T08:10:16Z |  A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. |
+| [go-kratos/kratos](https://github.com/go-kratos/kratos) | 26k | 4k | 2026-10-05T01:57:47Z |  A modular-designed and easy-to-use microservices framework in Go. |
 | [zeromq/libzmq](https://github.com/zeromq/libzmq) | 11k | 2k | 2026-10-03T19:15:57Z | ). |
 | [go-kit/kit](https://github.com/go-kit/kit) | 27k | 2k | 2026-10-03T17:06:26Z |  Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc. |
 | [micro/go-micro](https://github.com/micro/go-micro) | 23k | 2k | 2026-10-02T19:48:46Z |  A distributed systems development framework. |
-| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 21k | 2k | 2026-10-03T19:43:47Z |  NATS is a simple, secure, and performant communications system for digital systems, services, and devices. |
+| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 21k | 2k | 2026-10-05T02:27:23Z |  NATS is a simple, secure, and performant communications system for digital systems, services, and devices. |
 | [smallnest/rpcx](https://github.com/smallnest/rpcx) | 8k | 1k | 2026-10-01T13:18:49Z |  Distributed pluggable RPC service framework like alibaba Dubbo. |
-| [hashicorp/raft](https://github.com/hashicorp/raft) | 9k | 1k | 2026-10-03T12:41:15Z |  Golang implementation of the Raft consensus protocol, by HashiCorp. |
+| [hashicorp/raft](https://github.com/hashicorp/raft) | 9k | 1k | 2026-10-04T13:09:17Z |  Golang implementation of the Raft consensus protocol, by HashiCorp. |
 | [cloudwego/kitex](https://github.com/cloudwego/kitex) | 8k | 915 | 2026-10-01T03:18:41Z |  A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice. |
-| [anacrolix/torrent](https://github.com/anacrolix/torrent) | 6k | 698 | 2026-10-03T16:30:07Z |  BitTorrent client package. |
-| [luraproject/lura](https://github.com/luraproject/lura) | 7k | 582 | 2026-10-02T19:55:59Z |  Ultra performant API Gateway framework with middlewares. |
+| [anacrolix/torrent](https://github.com/anacrolix/torrent) | 6k | 698 | 2026-10-04T19:19:13Z |  BitTorrent client package. |
+| [luraproject/lura](https://github.com/luraproject/lura) | 7k | 582 | 2026-10-04T15:13:45Z |  Ultra performant API Gateway framework with middlewares. |
 | [lni/dragonboat](https://github.com/lni/dragonboat) | 5k | 573 | 2026-10-02T15:15:04Z |  A feature complete and high performance multi-group Raft library in Go. |
-| [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) | 3k | 430 | 2026-10-04T00:59:07Z |  Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. |
+| [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) | 3k | 430 | 2026-10-04T12:09:52Z |  Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. |
 | [emitter-io/emitter](https://github.com/emitter-io/emitter) | 4k | 360 | 2026-09-24T09:48:15Z |  High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love. |
-| [temporalio/sdk-go](https://github.com/temporalio/sdk-go) | 980 | 357 | 2026-10-02T23:19:59Z |  Durable execution system for making code fault-tolerant and simple. |
+| [temporalio/sdk-go](https://github.com/temporalio/sdk-go) | 980 | 358 | 2026-10-02T23:19:59Z |  Durable execution system for making code fault-tolerant and simple. |
 | [mochi-co/mqtt](https://github.com/mochi-co/mqtt) | 2k | 330 | 2026-10-02T15:42:23Z |  Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub. |
 | [chrislusf/gleam](https://github.com/chrislusf/gleam) | 4k | 292 | 2026-09-24T09:48:03Z |  Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed. |
 | [etcd-io/raft](https://github.com/etcd-io/raft) | 1k | 277 | 2026-10-02T17:05:54Z |  Go implementation of the Raft consensus protocol, by CoreOS. |
-| [oras-project/oras](https://github.com/oras-project/oras) | 2k | 272 | 2026-10-03T19:45:41Z |  CLI and library for OCI Artifacts in container registries. |
+| [oras-project/oras](https://github.com/oras-project/oras) | 2k | 272 | 2026-10-04T20:31:43Z |  CLI and library for OCI Artifacts in container registries. |
 | [zhufuyi/sponge](https://github.com/zhufuyi/sponge) | 3k | 270 | 2026-10-02T15:14:33Z |  A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks. |
 | [go-eagle/eagle](https://github.com/go-eagle/eagle) | 2k | 258 | 2026-10-02T15:14:59Z |  A Go framework for the API or Microservice with handy scaffolding tools. |
 | [chrislusf/glow](https://github.com/chrislusf/glow) | 3k | 248 | 2026-09-24T09:46:43Z |  Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go. |
@@ -102,21 +102,21 @@ Packages that help with building Distributed Systems.
 | [unionj-cloud/go-doudou](https://github.com/unionj-cloud/go-doudou) | 1k | 195 | 2026-10-01T13:31:18Z |  A gossip protocol and OpenAPI 3.0 spec based decentralized microservice framework. Built-in go-doudou cli focusing on low-code and rapid dev can power up your productivity. |
 | [ktr0731/evans](https://github.com/ktr0731/evans) | 4k | 194 | 2026-09-30T22:54:40Z |  Evans: more expressive universal gRPC client. |
 | [bsm/redislock](https://github.com/bsm/redislock) | 2k | 165 | 2026-10-03T14:21:14Z |  Simplified distributed locking implementation using Redis. |
-| [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | 1k | 164 | 2026-10-03T13:12:14Z |  A cloud native Kubernetes Global Balancer. |
+| [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | 1k | 164 | 2026-10-04T19:47:27Z |  A cloud native Kubernetes Global Balancer. |
 | [trpc-group/trpc-go](https://github.com/trpc-group/trpc-go) | 1k | 141 | 2026-09-30T18:17:46Z |  The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework. |
-| [alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) | 903 | 125 | 2026-09-28T03:36:46Z |  OpenTelemetry Compile-Time Instrumentation for Golang. |
+| [alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) | 903 | 126 | 2026-09-28T03:36:46Z |  OpenTelemetry Compile-Time Instrumentation for Golang. |
 | [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) | 3k | 118 | 2026-09-24T09:49:21Z |  Lightweight, fault-tolerant message streams for NATS. |
-| [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) | 373 | 98 | 2026-08-24T07:18:05Z |  JSON-RPC 2.0 HTTP client implementation. |
+| [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) | 373 | 99 | 2026-10-04T14:42:15Z |  JSON-RPC 2.0 HTTP client implementation. |
 | [valyala/gorpc](https://github.com/valyala/gorpc) | 710 | 97 | 2026-08-06T17:39:13Z |  Simple, fast and scalable RPC library for high load. |
 | [digota/digota](https://github.com/digota/digota) | 522 | 86 | 2026-10-02T19:56:02Z |  grpc ecommerce microservice. |
-| [cenkalti/rain](https://github.com/cenkalti/rain) | 1k | 83 | 2026-10-03T20:04:18Z |  BitTorrent client and library. |
+| [cenkalti/rain](https://github.com/cenkalti/rain) | 1k | 83 | 2026-10-04T07:20:22Z |  BitTorrent client and library. |
 | [buraksezer/consistent](https://github.com/buraksezer/consistent) | 785 | 81 | 2026-09-05T14:19:03Z |  Consistent hashing with bounded loads. |
 | [lesismal/arpc](https://github.com/lesismal/arpc) | 1k | 80 | 2026-10-01T03:46:38Z |  More effective network communication, support two-way-calling, notify, broadcast. |
 | [anacrolix/dht](https://github.com/anacrolix/dht) | 361 | 70 | 2026-09-24T04:17:39Z |  BitTorrent Kademlia DHT implementation. |
 | [dgryski/go-jump](https://github.com/dgryski/go-jump) | 388 | 34 | 2026-09-07T03:50:59Z |  Port of Google's "Jump" Consistent Hash function. |
 | [AppsFlyer/go-sundheit](https://github.com/AppsFlyer/go-sundheit) | 561 | 32 | 2026-08-04T15:40:47Z |  A library built to provide support for defining async service health checks for golang services. |
+| [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) | 193 | 24 | 2026-02-20T13:55:45Z |  The jsonrpc package helps implement of JSON-RPC 2.0. |
 | [italolelis/outboxer](https://github.com/italolelis/outboxer) | 168 | 24 | 2026-07-06T08:29:37Z |  Outboxer is a go library that implements the outbox pattern. |
-| [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) | 193 | 23 | 2026-02-20T13:55:45Z |  The jsonrpc package helps implement of JSON-RPC 2.0. |
 | [dgruber/drmaa](https://github.com/dgruber/drmaa) | 51 | 19 | 2026-08-09T09:34:51Z |  Job submission library for cluster schedulers based on the DRMAA standard. |
 | [tarmac-project/tarmac](https://github.com/tarmac-project/tarmac) | 345 | 17 | 2026-09-02T19:03:34Z |  Framework for writing functions, microservices, or monoliths with WebAssembly |
 | [jexia/semaphore](https://github.com/jexia/semaphore) | 96 | 17 | 2026-09-07T07:07:13Z |  A straightforward (micro) service orchestrator. |
@@ -144,22 +144,23 @@ Packages that help with building Distributed Systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 23k | 5k | 2026-10-04T01:34:44Z |  The Go language implementation of gRPC. HTTP/2 based RPC. |
-| [tal-tech/go-zero](https://github.com/tal-tech/go-zero) | 33k | 4k | 2026-10-04T01:27:07Z |  A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. |
-| [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) | 3k | 430 | 2026-10-04T00:59:07Z |  Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. |
-| [cenkalti/rain](https://github.com/cenkalti/rain) | 1k | 83 | 2026-10-03T20:04:18Z |  BitTorrent client and library. |
-| [oras-project/oras](https://github.com/oras-project/oras) | 2k | 272 | 2026-10-03T19:45:41Z |  CLI and library for OCI Artifacts in container registries. |
-| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 21k | 2k | 2026-10-03T19:43:47Z |  NATS is a simple, secure, and performant communications system for digital systems, services, and devices. |
+| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 21k | 2k | 2026-10-05T02:27:23Z |  NATS is a simple, secure, and performant communications system for digital systems, services, and devices. |
+| [go-kratos/kratos](https://github.com/go-kratos/kratos) | 26k | 4k | 2026-10-05T01:57:47Z |  A modular-designed and easy-to-use microservices framework in Go. |
+| [oras-project/oras](https://github.com/oras-project/oras) | 2k | 272 | 2026-10-04T20:31:43Z |  CLI and library for OCI Artifacts in container registries. |
+| [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | 1k | 164 | 2026-10-04T19:47:27Z |  A cloud native Kubernetes Global Balancer. |
+| [anacrolix/torrent](https://github.com/anacrolix/torrent) | 6k | 698 | 2026-10-04T19:19:13Z |  BitTorrent client package. |
+| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 23k | 5k | 2026-10-04T18:17:14Z |  The Go language implementation of gRPC. HTTP/2 based RPC. |
+| [luraproject/lura](https://github.com/luraproject/lura) | 7k | 582 | 2026-10-04T15:13:45Z |  Ultra performant API Gateway framework with middlewares. |
+| [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) | 373 | 99 | 2026-10-04T14:42:15Z |  JSON-RPC 2.0 HTTP client implementation. |
+| [hashicorp/raft](https://github.com/hashicorp/raft) | 9k | 1k | 2026-10-04T13:09:17Z |  Golang implementation of the Raft consensus protocol, by HashiCorp. |
+| [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) | 3k | 430 | 2026-10-04T12:09:52Z |  Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. |
+| [tal-tech/go-zero](https://github.com/tal-tech/go-zero) | 33k | 4k | 2026-10-04T08:10:16Z |  A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. |
+| [cenkalti/rain](https://github.com/cenkalti/rain) | 1k | 83 | 2026-10-04T07:20:22Z |  BitTorrent client and library. |
 | [zeromq/libzmq](https://github.com/zeromq/libzmq) | 11k | 2k | 2026-10-03T19:15:57Z | ). |
-| [go-kratos/kratos](https://github.com/go-kratos/kratos) | 26k | 4k | 2026-10-03T18:33:51Z |  A modular-designed and easy-to-use microservices framework in Go. |
 | [go-kit/kit](https://github.com/go-kit/kit) | 27k | 2k | 2026-10-03T17:06:26Z |  Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc. |
-| [anacrolix/torrent](https://github.com/anacrolix/torrent) | 6k | 698 | 2026-10-03T16:30:07Z |  BitTorrent client package. |
 | [bsm/redislock](https://github.com/bsm/redislock) | 2k | 165 | 2026-10-03T14:21:14Z |  Simplified distributed locking implementation using Redis. |
-| [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | 1k | 164 | 2026-10-03T13:12:14Z |  A cloud native Kubernetes Global Balancer. |
-| [hashicorp/raft](https://github.com/hashicorp/raft) | 9k | 1k | 2026-10-03T12:41:15Z |  Golang implementation of the Raft consensus protocol, by HashiCorp. |
-| [temporalio/sdk-go](https://github.com/temporalio/sdk-go) | 980 | 357 | 2026-10-02T23:19:59Z |  Durable execution system for making code fault-tolerant and simple. |
+| [temporalio/sdk-go](https://github.com/temporalio/sdk-go) | 980 | 358 | 2026-10-02T23:19:59Z |  Durable execution system for making code fault-tolerant and simple. |
 | [digota/digota](https://github.com/digota/digota) | 522 | 86 | 2026-10-02T19:56:02Z |  grpc ecommerce microservice. |
-| [luraproject/lura](https://github.com/luraproject/lura) | 7k | 582 | 2026-10-02T19:55:59Z |  Ultra performant API Gateway framework with middlewares. |
 | [micro/go-micro](https://github.com/micro/go-micro) | 23k | 2k | 2026-10-02T19:48:46Z |  A distributed systems development framework. |
 | [etcd-io/raft](https://github.com/etcd-io/raft) | 1k | 277 | 2026-10-02T17:05:54Z |  Go implementation of the Raft consensus protocol, by CoreOS. |
 | [mochi-co/mqtt](https://github.com/mochi-co/mqtt) | 2k | 330 | 2026-10-02T15:42:23Z |  Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub. |
@@ -175,7 +176,7 @@ Packages that help with building Distributed Systems.
 | [ktr0731/evans](https://github.com/ktr0731/evans) | 4k | 194 | 2026-09-30T22:54:40Z |  Evans: more expressive universal gRPC client. |
 | [trpc-group/trpc-go](https://github.com/trpc-group/trpc-go) | 1k | 141 | 2026-09-30T18:17:46Z |  The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework. |
 | [capillariesio/capillaries](https://github.com/capillariesio/capillaries) | 74 | 6 | 2026-09-29T00:20:31Z |  distributed batch data processing framework. |
-| [alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) | 903 | 125 | 2026-09-28T03:36:46Z |  OpenTelemetry Compile-Time Instrumentation for Golang. |
+| [alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) | 903 | 126 | 2026-09-28T03:36:46Z |  OpenTelemetry Compile-Time Instrumentation for Golang. |
 | [nexcode/rpcplatform](https://github.com/nexcode/rpcplatform) | 2 | 0 | 2026-09-26T11:14:55Z |  Framework for microservices with service discovery, load balancing, and related features. |
 | [vadiminshakov/committer](https://github.com/vadiminshakov/committer) | 45 | 7 | 2026-09-24T21:20:10Z |  A distributed transactions management system (2PC/3PC implementation). |
 | [dotchain/dot](https://github.com/dotchain/dot/) | 89 | 8 | 2026-09-24T09:49:33Z |  distributed sync using operational transformation/OT. |
@@ -192,7 +193,6 @@ Packages that help with building Distributed Systems.
 | [vectaport/flowgraph](https://github.com/vectaport/flowgraph) | 67 | 9 | 2026-09-06T17:58:42Z |  flow-based programming package. |
 | [buraksezer/consistent](https://github.com/buraksezer/consistent) | 785 | 81 | 2026-09-05T14:19:03Z |  Consistent hashing with bounded loads. |
 | [tarmac-project/tarmac](https://github.com/tarmac-project/tarmac) | 345 | 17 | 2026-09-02T19:03:34Z |  Framework for writing functions, microservices, or monoliths with WebAssembly |
-| [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) | 373 | 98 | 2026-08-24T07:18:05Z |  JSON-RPC 2.0 HTTP client implementation. |
 | [cmd-stream/cmd-stream-go](https://github.com/cmd-stream/cmd-stream-go) | 94 | 6 | 2026-08-21T00:12:24Z |  High-performance distributed command pattern library for Go. |
 | [dgruber/drmaa](https://github.com/dgruber/drmaa) | 51 | 19 | 2026-08-09T09:34:51Z |  Job submission library for cluster schedulers based on the DRMAA standard. |
 | [valyala/gorpc](https://github.com/valyala/gorpc) | 710 | 97 | 2026-08-06T17:39:13Z |  Simple, fast and scalable RPC library for high load. |
@@ -205,7 +205,7 @@ Packages that help with building Distributed Systems.
 | [italolelis/outboxer](https://github.com/italolelis/outboxer) | 168 | 24 | 2026-07-06T08:29:37Z |  Outboxer is a go library that implements the outbox pattern. |
 | [gmsec/micro](https://github.com/gmsec/micro) | 27 | 6 | 2026-07-06T08:11:35Z |  A Go distributed systems development framework. |
 | [edwingeng/doublejump](https://github.com/edwingeng/doublejump) | 111 | 14 | 2026-05-13T22:37:11Z |  A revamped Google's jump consistent hash. |
-| [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) | 193 | 23 | 2026-02-20T13:55:45Z |  The jsonrpc package helps implement of JSON-RPC 2.0. |
+| [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) | 193 | 24 | 2026-02-20T13:55:45Z |  The jsonrpc package helps implement of JSON-RPC 2.0. |
 | [andy2046/failured](https://github.com/andy2046/failured) | 15 | 2 | 2025-05-04T19:05:13Z |  adaptive accrual failure detector for distributed systems. |
 | [tylfin/dynatomic](https://github.com/tylfin/dynatomic) | 17 | 3 | 2024-05-14T08:22:00Z |  A library for using DynamoDB as an atomic counter. |
 
