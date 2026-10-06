@@ -7,7 +7,7 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [cweill/gotests](https://github.com/cweill/gotests) | 5k | 352 | 2026-10-01T15:57:06Z |  Generate Go tests from your source code. |
-| [xuri/xgen](https://github.com/xuri/xgen) | 426 | 105 | 2026-09-24T10:57:53Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
+| [xuri/xgen](https://github.com/xuri/xgen) | 426 | 106 | 2026-09-24T10:57:53Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [DylanMeeus/hasgo](https://github.com/DylanMeeus/hasgo) | 144 | 11 | 2026-02-26T11:34:51Z |  Generate Haskell inspired functions for your slices. |
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 119 | 12 | 2026-09-24T09:50:29Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [bouk/gonerics](https://github.com/bouk/gonerics) | 112 | 8 | 2026-01-18T21:23:07Z |  Idiomatic Generics in Go. |
@@ -24,7 +24,7 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [cweill/gotests](https://github.com/cweill/gotests) | 5k | 352 | 2026-10-01T15:57:06Z |  Generate Go tests from your source code. |
-| [xuri/xgen](https://github.com/xuri/xgen) | 426 | 105 | 2026-09-24T10:57:53Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
+| [xuri/xgen](https://github.com/xuri/xgen) | 426 | 106 | 2026-09-24T10:57:53Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [kazhuravlev/options-gen](https://github.com/kazhuravlev/options-gen) | 112 | 13 | 2026-09-14T20:26:08Z |  Functional options described by Dave Cheney's post "Functional options for friendly APIs". |
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 119 | 12 | 2026-09-24T09:50:29Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [DylanMeeus/hasgo](https://github.com/DylanMeeus/hasgo) | 144 | 11 | 2026-02-26T11:34:51Z |  Generate Haskell inspired functions for your slices. |
@@ -42,7 +42,7 @@
 |------------|-------|-------|--------------|-------------|
 | [g4s8/envdoc](https://github.com/g4s8/envdoc) | 100 | 9 | 2026-10-02T03:00:08Z |  generate documentation for environment variables from Go source files. |
 | [cweill/gotests](https://github.com/cweill/gotests) | 5k | 352 | 2026-10-01T15:57:06Z |  Generate Go tests from your source code. |
-| [xuri/xgen](https://github.com/xuri/xgen) | 426 | 105 | 2026-09-24T10:57:53Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
+| [xuri/xgen](https://github.com/xuri/xgen) | 426 | 106 | 2026-09-24T10:57:53Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 119 | 12 | 2026-09-24T09:50:29Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [kazhuravlev/options-gen](https://github.com/kazhuravlev/options-gen) | 112 | 13 | 2026-09-14T20:26:08Z |  Functional options described by Dave Cheney's post "Functional options for friendly APIs". |
 | [anqiansong/sqlgen](https://github.com/anqiansong/sqlgen) | 86 | 9 | 2026-08-25T10:34:51Z |  Generate gorm, xorm, sqlx, bun, sql code from SQL file or DSN. |
