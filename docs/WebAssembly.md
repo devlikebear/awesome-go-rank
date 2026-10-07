@@ -6,7 +6,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-10-05T09:00:11Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-10-06T17:59:26Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
 | [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) | 914 | 101 | 2026-10-04T05:31:46Z |  Go bindings for the Wasmtime WebAssembly runtime (WASI support, JIT/AOT, secure and fast embedding). |
 | [dennwc/dom](https://github.com/dennwc/dom) | 508 | 57 | 2026-09-24T09:50:19Z |  DOM library. |
 | [markfarnan/go-canvas](https://github.com/markfarnan/go-canvas) | 269 | 20 | 2026-09-18T08:08:22Z |  Library to use HTML5 Canvas, with all drawing within go code. |
@@ -19,7 +19,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-10-05T09:00:11Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-10-06T17:59:26Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
 | [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) | 914 | 101 | 2026-10-04T05:31:46Z |  Go bindings for the Wasmtime WebAssembly runtime (WASI support, JIT/AOT, secure and fast embedding). |
 | [dennwc/dom](https://github.com/dennwc/dom) | 508 | 57 | 2026-09-24T09:50:19Z |  DOM library. |
 | [agnivade/wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 212 | 27 | 2026-09-05T10:08:15Z |  Run Go WASM tests in your browser. |
@@ -32,7 +32,7 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-10-05T09:00:11Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
+| [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | 18k | 1k | 2026-10-06T17:59:26Z |  Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. |
 | [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) | 914 | 101 | 2026-10-04T05:31:46Z |  Go bindings for the Wasmtime WebAssembly runtime (WASI support, JIT/AOT, secure and fast embedding). |
 | [gowebapi/webapi](https://github.com/gowebapi/webapi) | 182 | 12 | 2026-09-24T09:51:17Z |  Bindings for DOM and HTML generated from WebIDL. |
 | [dennwc/dom](https://github.com/dennwc/dom) | 508 | 57 | 2026-09-24T09:50:19Z |  DOM library. |

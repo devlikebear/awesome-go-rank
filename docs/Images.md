@@ -7,22 +7,22 @@ Libraries for manipulating images.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 8k | 901 | 2026-10-04T07:57:35Z |  Go package for computer vision using OpenCV 3.3+. |
-| [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 500 | 2026-10-05T22:18:11Z |  Fast and simple HTTP microservice for image resizing. |
-| [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 480 | 2026-10-05T05:27:31Z |  Simple Go image processing package. |
+| [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 500 | 2026-10-06T07:16:55Z |  Fast and simple HTTP microservice for image resizing. |
+| [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 480 | 2026-10-07T01:37:24Z |  Simple Go image processing package. |
 | [fogleman/gg](https://github.com/fogleman/gg) | 5k | 387 | 2026-10-05T13:20:03Z |  2D rendering in pure Go. |
-| [sensepost/gowitness](https://github.com/sensepost/gowitness) | 5k | 459 | 2026-10-05T17:32:48Z |  Screenshoting webpages using go and headless chrome on command line. |
+| [sensepost/gowitness](https://github.com/sensepost/gowitness) | 5k | 459 | 2026-10-06T21:33:36Z |  Screenshoting webpages using go and headless chrome on command line. |
 | [anthonynsimon/bild](https://github.com/anthonynsimon/bild) | 4k | 219 | 2026-10-04T16:01:18Z |  Collection of image processing algorithms in pure Go. |
 | [cshum/imagor](https://github.com/cshum/imagor) | 4k | 176 | 2026-10-06T00:58:10Z |  Fast, secure image processing server and Go library, using libvips. |
-| [fogleman/ln](https://github.com/fogleman/ln) | 3k | 138 | 2026-10-06T02:46:01Z |  3D line art rendering in Go. |
+| [fogleman/ln](https://github.com/fogleman/ln) | 3k | 138 | 2026-10-06T11:53:48Z |  3D line art rendering in Go. |
 | [h2non/bimg](https://github.com/h2non/bimg) | 3k | 345 | 2026-10-04T08:39:34Z |  Small package for fast and efficient image processing using libvips. |
 | [thoas/picfit](https://github.com/thoas/picfit) | 2k | 189 | 2026-10-05T08:32:25Z |  An image resizing server written in Go. |
 | [ajstarks/svgo](https://github.com/ajstarks/svgo) | 2k | 171 | 2026-09-14T00:04:23Z |  Go Language Library for SVG generation. |
 | [fogleman/pt](https://github.com/fogleman/pt) | 2k | 107 | 2026-10-03T09:07:19Z |  Path tracing engine written in Go. |
 | [gographics/imagick](https://github.com/gographics/imagick) | 2k | 185 | 2026-09-24T09:44:32Z |  Go binding to ImageMagick's MagickWand C API. |
 | [muesli/smartcrop](https://github.com/muesli/smartcrop) | 2k | 118 | 2026-09-27T00:10:36Z |  Finds good crops for arbitrary images and crop sizes. |
-| [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 123 | 2026-10-01T14:57:45Z |  Vector graphics to PDF, SVG or rasterized image. |
+| [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 123 | 2026-10-06T19:10:08Z |  Vector graphics to PDF, SVG or rasterized image. |
 | [disintegration/gift](https://github.com/disintegration/gift) | 2k | 122 | 2026-09-24T06:49:11Z |  Package of image processing filters. |
-| [davidbyttow/govips](https://github.com/davidbyttow/govips) | 2k | 219 | 2026-10-05T08:08:38Z |  A lightning fast image processing and resizing library for Go. |
+| [davidbyttow/govips](https://github.com/davidbyttow/govips) | 2k | 219 | 2026-10-06T08:51:39Z |  A lightning fast image processing and resizing library for Go. |
 | [pravj/geopattern](https://github.com/pravj/geopattern) | 1k | 64 | 2026-09-18T15:48:09Z |  Create beautiful generative image patterns from a string. |
 | [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) | 1k | 118 | 2026-09-23T14:59:03Z |  Go tool for LSB steganography, capable of hiding any file within an image. |
 | [qeesung/image2ascii](https://github.com/qeesung/image2ascii) | 979 | 86 | 2026-09-30T06:51:57Z |  Convert image to ASCII. |
@@ -56,19 +56,19 @@ Libraries for manipulating images.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 8k | 901 | 2026-10-04T07:57:35Z |  Go package for computer vision using OpenCV 3.3+. |
-| [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 500 | 2026-10-05T22:18:11Z |  Fast and simple HTTP microservice for image resizing. |
-| [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 480 | 2026-10-05T05:27:31Z |  Simple Go image processing package. |
-| [sensepost/gowitness](https://github.com/sensepost/gowitness) | 5k | 459 | 2026-10-05T17:32:48Z |  Screenshoting webpages using go and headless chrome on command line. |
+| [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 500 | 2026-10-06T07:16:55Z |  Fast and simple HTTP microservice for image resizing. |
+| [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 480 | 2026-10-07T01:37:24Z |  Simple Go image processing package. |
+| [sensepost/gowitness](https://github.com/sensepost/gowitness) | 5k | 459 | 2026-10-06T21:33:36Z |  Screenshoting webpages using go and headless chrome on command line. |
 | [fogleman/gg](https://github.com/fogleman/gg) | 5k | 387 | 2026-10-05T13:20:03Z |  2D rendering in pure Go. |
 | [h2non/bimg](https://github.com/h2non/bimg) | 3k | 345 | 2026-10-04T08:39:34Z |  Small package for fast and efficient image processing using libvips. |
 | [anthonynsimon/bild](https://github.com/anthonynsimon/bild) | 4k | 219 | 2026-10-04T16:01:18Z |  Collection of image processing algorithms in pure Go. |
-| [davidbyttow/govips](https://github.com/davidbyttow/govips) | 2k | 219 | 2026-10-05T08:08:38Z |  A lightning fast image processing and resizing library for Go. |
+| [davidbyttow/govips](https://github.com/davidbyttow/govips) | 2k | 219 | 2026-10-06T08:51:39Z |  A lightning fast image processing and resizing library for Go. |
 | [thoas/picfit](https://github.com/thoas/picfit) | 2k | 189 | 2026-10-05T08:32:25Z |  An image resizing server written in Go. |
 | [gographics/imagick](https://github.com/gographics/imagick) | 2k | 185 | 2026-09-24T09:44:32Z |  Go binding to ImageMagick's MagickWand C API. |
 | [cshum/imagor](https://github.com/cshum/imagor) | 4k | 176 | 2026-10-06T00:58:10Z |  Fast, secure image processing server and Go library, using libvips. |
 | [ajstarks/svgo](https://github.com/ajstarks/svgo) | 2k | 171 | 2026-09-14T00:04:23Z |  Go Language Library for SVG generation. |
-| [fogleman/ln](https://github.com/fogleman/ln) | 3k | 138 | 2026-10-06T02:46:01Z |  3D line art rendering in Go. |
-| [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 123 | 2026-10-01T14:57:45Z |  Vector graphics to PDF, SVG or rasterized image. |
+| [fogleman/ln](https://github.com/fogleman/ln) | 3k | 138 | 2026-10-06T11:53:48Z |  3D line art rendering in Go. |
+| [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 123 | 2026-10-06T19:10:08Z |  Vector graphics to PDF, SVG or rasterized image. |
 | [disintegration/gift](https://github.com/disintegration/gift) | 2k | 122 | 2026-09-24T06:49:11Z |  Package of image processing filters. |
 | [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | 865 | 119 | 2026-09-27T05:49:06Z |  Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons. |
 | [muesli/smartcrop](https://github.com/muesli/smartcrop) | 2k | 118 | 2026-09-27T00:10:36Z |  Finds good crops for arbitrary images and crop sizes. |
@@ -104,22 +104,22 @@ Libraries for manipulating images.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [fogleman/ln](https://github.com/fogleman/ln) | 3k | 138 | 2026-10-06T02:46:01Z |  3D line art rendering in Go. |
+| [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 480 | 2026-10-07T01:37:24Z |  Simple Go image processing package. |
+| [sensepost/gowitness](https://github.com/sensepost/gowitness) | 5k | 459 | 2026-10-06T21:33:36Z |  Screenshoting webpages using go and headless chrome on command line. |
+| [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 123 | 2026-10-06T19:10:08Z |  Vector graphics to PDF, SVG or rasterized image. |
+| [fogleman/ln](https://github.com/fogleman/ln) | 3k | 138 | 2026-10-06T11:53:48Z |  3D line art rendering in Go. |
+| [davidbyttow/govips](https://github.com/davidbyttow/govips) | 2k | 219 | 2026-10-06T08:51:39Z |  A lightning fast image processing and resizing library for Go. |
+| [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 500 | 2026-10-06T07:16:55Z |  Fast and simple HTTP microservice for image resizing. |
 | [cshum/imagor](https://github.com/cshum/imagor) | 4k | 176 | 2026-10-06T00:58:10Z |  Fast, secure image processing server and Go library, using libvips. |
-| [h2non/imaginary](https://github.com/h2non/imaginary) | 6k | 500 | 2026-10-05T22:18:11Z |  Fast and simple HTTP microservice for image resizing. |
-| [sensepost/gowitness](https://github.com/sensepost/gowitness) | 5k | 459 | 2026-10-05T17:32:48Z |  Screenshoting webpages using go and headless chrome on command line. |
 | [fogleman/gg](https://github.com/fogleman/gg) | 5k | 387 | 2026-10-05T13:20:03Z |  2D rendering in pure Go. |
 | [o1egl/govatar](https://github.com/o1egl/govatar) | 607 | 49 | 2026-10-05T09:07:51Z |  Library and CMD tool for generating funny avatars. |
 | [thoas/picfit](https://github.com/thoas/picfit) | 2k | 189 | 2026-10-05T08:32:25Z |  An image resizing server written in Go. |
-| [davidbyttow/govips](https://github.com/davidbyttow/govips) | 2k | 219 | 2026-10-05T08:08:38Z |  A lightning fast image processing and resizing library for Go. |
-| [disintegration/imaging](https://github.com/disintegration/imaging) | 6k | 480 | 2026-10-05T05:27:31Z |  Simple Go image processing package. |
 | [corona10/goimagehash](https://github.com/corona10/goimagehash) | 842 | 79 | 2026-10-05T03:21:54Z |  Go Perceptual image hashing package. |
 | [anthonynsimon/bild](https://github.com/anthonynsimon/bild) | 4k | 219 | 2026-10-04T16:01:18Z |  Collection of image processing algorithms in pure Go. |
 | [h2non/bimg](https://github.com/h2non/bimg) | 3k | 345 | 2026-10-04T08:39:34Z |  Small package for fast and efficient image processing using libvips. |
 | [hybridgroup/gocv](https://github.com/hybridgroup/gocv) | 8k | 901 | 2026-10-04T07:57:35Z |  Go package for computer vision using OpenCV 3.3+. |
 | [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) | 316 | 39 | 2026-10-04T07:34:50Z |  Library for encode and decode webp pictures, using libwebp. |
 | [fogleman/pt](https://github.com/fogleman/pt) | 2k | 107 | 2026-10-03T09:07:19Z |  Path tracing engine written in Go. |
-| [tdewolff/canvas](https://github.com/tdewolff/canvas) | 2k | 123 | 2026-10-01T14:57:45Z |  Vector graphics to PDF, SVG or rasterized image. |
 | [donatj/mpo](https://github.com/donatj/mpo) | 27 | 4 | 2026-09-30T10:42:21Z |  Decoder and conversion tool for MPO 3D Photos. |
 | [Pixboost/transformimgs](https://github.com/Pixboost/transformimgs) | 293 | 19 | 2026-09-30T07:47:54Z |  Transformimgs resizes and optimises images for Web using next-generation formats. |
 | [qeesung/image2ascii](https://github.com/qeesung/image2ascii) | 979 | 86 | 2026-09-30T06:51:57Z |  Convert image to ASCII. |
