@@ -6,10 +6,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 5k | 2026-10-07T01:44:21Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 637 | 2026-10-06T12:05:16Z |  PDF processor. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 5k | 2026-10-08T02:33:58Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 639 | 2026-10-07T17:04:17Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 7k | 588 | 2026-10-06T03:45:57Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 237 | 2026-10-07T02:38:54Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 237 | 2026-10-08T02:54:48Z |  Disk usage analyzer with console interface. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 133 | 2026-10-06T09:25:26Z | . |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 159 | 2026-09-21T21:03:53Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 937 | 141 | 2026-09-17T10:02:39Z |  File system event notification library with simple API, similar to os/signal. |
@@ -40,10 +40,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 5k | 2026-10-07T01:44:21Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 637 | 2026-10-06T12:05:16Z |  PDF processor. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 5k | 2026-10-08T02:33:58Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 639 | 2026-10-07T17:04:17Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 7k | 588 | 2026-10-06T03:45:57Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 237 | 2026-10-07T02:38:54Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 237 | 2026-10-08T02:54:48Z |  Disk usage analyzer with console interface. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 159 | 2026-09-21T21:03:53Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 937 | 141 | 2026-09-17T10:02:39Z |  File system event notification library with simple API, similar to os/signal. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 133 | 2026-10-06T09:25:26Z | . |
@@ -74,9 +74,9 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 237 | 2026-10-07T02:38:54Z |  Disk usage analyzer with console interface. |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 5k | 2026-10-07T01:44:21Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 637 | 2026-10-06T12:05:16Z |  PDF processor. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 237 | 2026-10-08T02:54:48Z |  Disk usage analyzer with console interface. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 83k | 5k | 2026-10-08T02:33:58Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 639 | 2026-10-07T17:04:17Z |  PDF processor. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 133 | 2026-10-06T09:25:26Z | . |
 | [spf13/afero](https://github.com/spf13/afero) | 7k | 588 | 2026-10-06T03:45:57Z |  FileSystem Abstraction System for Go. |
 | [adelowo/gulter](https://github.com/adelowo/gulter) | 73 | 4 | 2026-10-05T06:35:00Z |  A simple HTTP middleware to automatically handle all your file upload needs |
