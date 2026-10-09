@@ -10,7 +10,7 @@
 | [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 241 | 2026-09-29T10:02:43Z |  Go HTTP request router benchmark and comparison. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 159 | 2026-09-29T02:38:02Z |  Benchmarks of Go serialization methods. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-09-07T12:03:02Z |  Skynet 1M threads microbenchmark. |
-| [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 242 | 17 | 2026-09-15T06:08:24Z |  Compare various Image resize algorithms for the Go language. |
+| [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 241 | 17 | 2026-10-08T09:20:19Z |  Compare various Image resize algorithms for the Go language. |
 | [tylertreat/go-benchmarks](https://github.com/tylertreat/go-benchmarks) | 150 | 23 | 2026-05-13T23:33:25Z |  Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches. |
 | [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-08-25T17:33:20Z |  a collection of golang benchmarks. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 129 | 7 | 2026-09-09T15:26:19Z |  Go micro-benchmarks for calculating the speed of language constructs. |
@@ -33,7 +33,7 @@
 | [tylertreat/go-benchmarks](https://github.com/tylertreat/go-benchmarks) | 150 | 23 | 2026-05-13T23:33:25Z |  Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches. |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 100 | 22 | 2026-09-01T04:28:38Z |  Framework to compare the performance between different Go versions. |
 | [SimonWaldherr/golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) | 145 | 19 | 2026-08-25T17:33:20Z |  a collection of golang benchmarks. |
-| [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 242 | 17 | 2026-09-15T06:08:24Z |  Compare various Image resize algorithms for the Go language. |
+| [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 241 | 17 | 2026-10-08T09:20:19Z |  Compare various Image resize algorithms for the Go language. |
 | [goptics/vizb](https://github.com/goptics/vizb) | 91 | 11 | 2026-10-06T15:48:05Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 129 | 7 | 2026-09-09T15:26:19Z |  Go micro-benchmarks for calculating the speed of language constructs. |
 | [PuerkitoBio/gocostmodel](https://github.com/PuerkitoBio/gocostmodel) | 63 | 4 | 2026-05-13T23:33:51Z |  Benchmarks of common basic operations for the Go language. |
@@ -46,11 +46,11 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 241 | 17 | 2026-10-08T09:20:19Z |  Compare various Image resize algorithms for the Go language. |
 | [goptics/vizb](https://github.com/goptics/vizb) | 91 | 11 | 2026-10-06T15:48:05Z |  A CLI tool to visualize Go benchmark data in 4D. |
 | [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) | 2k | 224 | 2026-10-02T15:14:37Z |  Go web framework benchmark. |
 | [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) | 2k | 241 | 2026-09-29T10:02:43Z |  Go HTTP request router benchmark and comparison. |
 | [alecthomas/go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) | 2k | 159 | 2026-09-29T02:38:02Z |  Benchmarks of Go serialization methods. |
-| [fawick/speedtest-resize](https://github.com/fawick/speedtest-resize) | 242 | 17 | 2026-09-15T06:08:24Z |  Compare various Image resize algorithms for the Go language. |
 | [feyeleanor/GoSpeed](https://github.com/feyeleanor/GoSpeed) | 129 | 7 | 2026-09-09T15:26:19Z |  Go micro-benchmarks for calculating the speed of language constructs. |
 | [atemerev/skynet](https://github.com/atemerev/skynet) | 1k | 119 | 2026-09-07T12:03:02Z |  Skynet 1M threads microbenchmark. |
 | [davecheney/autobench](https://github.com/davecheney/autobench) | 100 | 22 | 2026-09-01T04:28:38Z |  Framework to compare the performance between different Go versions. |
