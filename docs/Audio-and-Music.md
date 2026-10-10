@@ -6,12 +6,12 @@ Libraries for manipulating audio and music.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 156 | 2026-10-08T04:01:42Z |  A low-level library to play sound on multiple platforms. |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 156 | 2026-10-09T23:11:52Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 845 | 109 | 2026-10-04T18:50:32Z |  Go bindings for the PortAudio audio I/O library. |
 | [gopxl/beep](https://github.com/gopxl/beep) | 596 | 29 | 2026-10-05T14:34:49Z |  A simple library for playback and audio manipulation. |
 | [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) | 463 | 47 | 2026-09-07T07:06:30Z |  Music theory models in Go. |
 | [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 433 | 40 | 2026-10-08T13:02:55Z |  Native Go Audio Processing Library. |
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 430 | 64 | 2026-10-06T07:56:58Z |  Mini audio library. |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 431 | 64 | 2026-10-09T19:03:38Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 370 | 62 | 2026-08-20T13:10:59Z |  ID3 decoding and encoding library for Go. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 363 | 53 | 2026-10-03T15:02:55Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 137 | 20 | 2026-07-08T20:09:37Z |  Native Go AAC bitstream parser. |
@@ -23,7 +23,7 @@ Libraries for manipulating audio and music.
 | [tphakala/go-wav](https://github.com/tphakala/go-wav) | 4 | 1 | 2026-10-04T20:59:53Z |  Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB. |
 | [Voxray-AI/Voxray](https://github.com/Voxray-AI/Voxray) | 4 | 2 | 2026-10-08T12:39:50Z |  AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC. |
 | [tphakala/go-opus](https://github.com/tphakala/go-opus) | 3 | 1 | 2026-09-08T18:30:01Z |  Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder. |
-| [tphakala/go-flac](https://github.com/tphakala/go-flac) | 2 | 1 | 2026-09-20T07:59:25Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
+| [tphakala/go-flac](https://github.com/tphakala/go-flac) | 3 | 1 | 2026-10-09T20:22:14Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
 | [iSerganov/gocue](https://github.com/iSerganov/gocue) | 1 | 0 | 2026-09-12T04:36:28Z |  Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap. |
 | [gojargo/go-resample](https://github.com/gojargo/go-resample) | 0 | 1 | 2026-07-13T08:17:22Z |  Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters. |
 
@@ -31,9 +31,9 @@ Libraries for manipulating audio and music.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 156 | 2026-10-08T04:01:42Z |  A low-level library to play sound on multiple platforms. |
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 156 | 2026-10-09T23:11:52Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 845 | 109 | 2026-10-04T18:50:32Z |  Go bindings for the PortAudio audio I/O library. |
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 430 | 64 | 2026-10-06T07:56:58Z |  Mini audio library. |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 431 | 64 | 2026-10-09T19:03:38Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 370 | 62 | 2026-08-20T13:10:59Z |  ID3 decoding and encoding library for Go. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 363 | 53 | 2026-10-03T15:02:55Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
 | [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) | 463 | 47 | 2026-09-07T07:06:30Z |  Music theory models in Go. |
@@ -47,7 +47,7 @@ Libraries for manipulating audio and music.
 | [Voxray-AI/Voxray](https://github.com/Voxray-AI/Voxray) | 4 | 2 | 2026-10-08T12:39:50Z |  AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC. |
 | [tphakala/go-wav](https://github.com/tphakala/go-wav) | 4 | 1 | 2026-10-04T20:59:53Z |  Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB. |
 | [tphakala/go-opus](https://github.com/tphakala/go-opus) | 3 | 1 | 2026-09-08T18:30:01Z |  Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder. |
-| [tphakala/go-flac](https://github.com/tphakala/go-flac) | 2 | 1 | 2026-09-20T07:59:25Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
+| [tphakala/go-flac](https://github.com/tphakala/go-flac) | 3 | 1 | 2026-10-09T20:22:14Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
 | [gojargo/go-resample](https://github.com/gojargo/go-resample) | 0 | 1 | 2026-07-13T08:17:22Z |  Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters. |
 | [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 22 | 0 | 2026-05-12T13:24:47Z |  Client for mpris dbus interfaces. |
 | [iSerganov/gocue](https://github.com/iSerganov/gocue) | 1 | 0 | 2026-09-12T04:36:28Z |  Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap. |
@@ -56,16 +56,16 @@ Libraries for manipulating audio and music.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 156 | 2026-10-09T23:11:52Z |  A low-level library to play sound on multiple platforms. |
+| [tphakala/go-flac](https://github.com/tphakala/go-flac) | 3 | 1 | 2026-10-09T20:22:14Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 431 | 64 | 2026-10-09T19:03:38Z |  Mini audio library. |
 | [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 433 | 40 | 2026-10-08T13:02:55Z |  Native Go Audio Processing Library. |
 | [Voxray-AI/Voxray](https://github.com/Voxray-AI/Voxray) | 4 | 2 | 2026-10-08T12:39:50Z |  AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC. |
-| [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 156 | 2026-10-08T04:01:42Z |  A low-level library to play sound on multiple platforms. |
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 134 | 19 | 2026-10-06T10:09:49Z |  Lightweight MP3 decoder library. |
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 430 | 64 | 2026-10-06T07:56:58Z |  Mini audio library. |
 | [gopxl/beep](https://github.com/gopxl/beep) | 596 | 29 | 2026-10-05T14:34:49Z |  A simple library for playback and audio manipulation. |
 | [tphakala/go-wav](https://github.com/tphakala/go-wav) | 4 | 1 | 2026-10-04T20:59:53Z |  Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 845 | 109 | 2026-10-04T18:50:32Z |  Go bindings for the PortAudio audio I/O library. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 363 | 53 | 2026-10-03T15:02:55Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
-| [tphakala/go-flac](https://github.com/tphakala/go-flac) | 2 | 1 | 2026-09-20T07:59:25Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
 | [tphakala/go-audio-resampler](https://github.com/tphakala/go-audio-resampler) | 11 | 5 | 2026-09-16T06:56:11Z |  Pure-Go, high-quality audio resampler with SIMD acceleration. |
 | [iSerganov/gocue](https://github.com/iSerganov/gocue) | 1 | 0 | 2026-09-12T04:36:28Z |  Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap. |
 | [tphakala/go-aac](https://github.com/tphakala/go-aac) | 6 | 2 | 2026-09-11T18:51:30Z |  Pure-Go AAC-LC encoder and decoder ported from FFmpeg. |
