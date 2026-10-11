@@ -8,7 +8,7 @@ Libraries for building and working with bots.
 |------------|-------|-------|--------------|-------------|
 | [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) | 6k | 996 | 2026-10-08T15:53:48Z |  Simple and clean Telegram bot client. |
 | [tucnak/telebot](https://github.com/tucnak/telebot) | 5k | 524 | 2026-10-09T20:14:01Z |  Telegram bot framework is written in Go. |
-| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 89 | 2026-10-09T09:27:22Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
+| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 89 | 2026-10-11T01:08:33Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
 | [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 163 | 2026-10-09T16:52:40Z |  Zero-dependencies Telegram Bot library with additional UI components. |
 | [mymmrac/telego](https://github.com/mymmrac/telego) | 1k | 69 | 2026-10-09T08:54:08Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
 | [diamondburned/arikawa](https://github.com/diamondburned/arikawa) | 600 | 64 | 2026-10-08T16:49:44Z |  A library and framework for the Discord API. |
@@ -31,7 +31,7 @@ Libraries for building and working with bots.
 | [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) | 6k | 996 | 2026-10-08T15:53:48Z |  Simple and clean Telegram bot client. |
 | [tucnak/telebot](https://github.com/tucnak/telebot) | 5k | 524 | 2026-10-09T20:14:01Z |  Telegram bot framework is written in Go. |
 | [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 163 | 2026-10-09T16:52:40Z |  Zero-dependencies Telegram Bot library with additional UI components. |
-| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 89 | 2026-10-09T09:27:22Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
+| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 89 | 2026-10-11T01:08:33Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
 | [mymmrac/telego](https://github.com/mymmrac/telego) | 1k | 69 | 2026-10-09T08:54:08Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
 | [diamondburned/arikawa](https://github.com/diamondburned/arikawa) | 600 | 64 | 2026-10-08T16:49:44Z |  A library and framework for the Discord API. |
 | [gempir/go-twitch-irc](https://github.com/gempir/go-twitch-irc) | 404 | 58 | 2026-09-25T01:01:21Z |  Library to write bots for twitch.tv chat |
@@ -50,10 +50,10 @@ Libraries for building and working with bots.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 89 | 2026-10-11T01:08:33Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
 | [NicoNex/echotron](https://github.com/NicoNex/echotron) | 448 | 27 | 2026-10-09T22:30:18Z |  An elegant and concurrent library for Telegram Bots in Go. |
 | [tucnak/telebot](https://github.com/tucnak/telebot) | 5k | 524 | 2026-10-09T20:14:01Z |  Telegram bot framework is written in Go. |
 | [go-telegram/bot](https://github.com/go-telegram/bot) | 2k | 163 | 2026-10-09T16:52:40Z |  Zero-dependencies Telegram Bot library with additional UI components. |
-| [wabarc/wayback](https://github.com/wabarc/wayback) | 2k | 89 | 2026-10-09T09:27:22Z |  A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. |
 | [mymmrac/telego](https://github.com/mymmrac/telego) | 1k | 69 | 2026-10-09T08:54:08Z |  Telegram Bot API library for Golang with full one-to-one API implementation. |
 | [mr-linch/go-tg](https://github.com/mr-linch/go-tg) | 135 | 9 | 2026-10-09T06:36:30Z |  Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included. |
 | [diamondburned/arikawa](https://github.com/diamondburned/arikawa) | 600 | 64 | 2026-10-08T16:49:44Z |  A library and framework for the Discord API. |
