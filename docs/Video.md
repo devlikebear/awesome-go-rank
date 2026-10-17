@@ -17,7 +17,7 @@ Libraries for manipulating video.
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 89 | 15 | 2026-03-24T01:24:42Z |  Video capture library for Linux, written in Go. |
 | [Eyevinn/hls-m3u8](https://github.com/Eyevinn/hls-m3u8) | 72 | 20 | 2026-10-15T12:54:00Z |  Parser and generator for HLS (M3U8) playlists; kept up to date with the spec. |
 | [0x524a/onvif-go](https://github.com/0x524a/onvif-go) | 41 | 20 | 2026-10-15T04:19:51Z |  ONVIF client, WS-Discovery and virtual camera server for IP cameras. |
-| [small-teton/mpeg-ts-analyzer](https://github.com/small-teton/mpeg-ts-analyzer) | 39 | 4 | 2026-10-15T06:40:04Z |  Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures. |
+| [small-teton/mpeg-ts-analyzer](https://github.com/small-teton/mpeg-ts-analyzer) | 39 | 4 | 2026-10-16T11:23:03Z |  Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures. |
 | [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 32 | 12 | 2026-02-13T16:08:55Z |  Parser and generator library for MPEG-DASH manifest files. |
 | [alanzng/manifestor](https://github.com/alanzng/manifestor) | 11 | 1 | 2026-07-06T08:55:09Z |  Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests. |
 | [0x524a/rtspeek](https://github.com/0x524a/rtspeek) | 1 | 0 | 2026-10-15T16:33:38Z |  Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions. |
@@ -38,7 +38,7 @@ Libraries for manipulating video.
 | [0x524a/onvif-go](https://github.com/0x524a/onvif-go) | 41 | 20 | 2026-10-15T04:19:51Z |  ONVIF client, WS-Discovery and virtual camera server for IP cameras. |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 89 | 15 | 2026-03-24T01:24:42Z |  Video capture library for Linux, written in Go. |
 | [unki2aut/go-mpd](https://github.com/unki2aut/go-mpd) | 32 | 12 | 2026-02-13T16:08:55Z |  Parser and generator library for MPEG-DASH manifest files. |
-| [small-teton/mpeg-ts-analyzer](https://github.com/small-teton/mpeg-ts-analyzer) | 39 | 4 | 2026-10-15T06:40:04Z |  Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures. |
+| [small-teton/mpeg-ts-analyzer](https://github.com/small-teton/mpeg-ts-analyzer) | 39 | 4 | 2026-10-16T11:23:03Z |  Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures. |
 | [alanzng/manifestor](https://github.com/alanzng/manifestor) | 11 | 1 | 2026-07-06T08:55:09Z |  Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests. |
 | [0x524a/rtspeek](https://github.com/0x524a/rtspeek) | 1 | 0 | 2026-10-15T16:33:38Z |  Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions. |
 
@@ -46,9 +46,9 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [small-teton/mpeg-ts-analyzer](https://github.com/small-teton/mpeg-ts-analyzer) | 39 | 4 | 2026-10-16T11:23:03Z |  Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures. |
 | [0x524a/rtspeek](https://github.com/0x524a/rtspeek) | 1 | 0 | 2026-10-15T16:33:38Z |  Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions. |
 | [Eyevinn/hls-m3u8](https://github.com/Eyevinn/hls-m3u8) | 72 | 20 | 2026-10-15T12:54:00Z |  Parser and generator for HLS (M3U8) playlists; kept up to date with the spec. |
-| [small-teton/mpeg-ts-analyzer](https://github.com/small-teton/mpeg-ts-analyzer) | 39 | 4 | 2026-10-15T06:40:04Z |  Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures. |
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 942 | 289 | 2026-10-15T05:01:20Z |  Pure Go RTSP server and client library. |
 | [0x524a/onvif-go](https://github.com/0x524a/onvif-go) | 41 | 20 | 2026-10-15T04:19:51Z |  ONVIF client, WS-Discovery and virtual camera server for IP cameras. |
 | [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 660 | 127 | 2026-10-14T01:19:48Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |

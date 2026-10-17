@@ -7,7 +7,7 @@ Libraries and tools for stream processing and reactive programming.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 173 | 2026-10-15T09:04:52Z |  Go stream processing library. |
-| [samber/ro](https://github.com/samber/ro) | 693 | 25 | 2026-10-15T09:27:45Z |  Reactive Programming: declarative and composable API for event-driven applications. |
+| [samber/ro](https://github.com/samber/ro) | 693 | 25 | 2026-10-16T13:36:53Z |  Reactive Programming: declarative and composable API for event-driven applications. |
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 191 | 56 | 2026-10-14T22:16:59Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
 | [mariomac/gostream](https://github.com/mariomac/gostream) | 172 | 11 | 2026-10-14T13:05:48Z |  Type-safe stream processing library inspired by the Java Streams API. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 167 | 12 | 2026-10-14T22:16:58Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
@@ -23,7 +23,7 @@ Libraries and tools for stream processing and reactive programming.
 |------------|-------|-------|--------------|-------------|
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 173 | 2026-10-15T09:04:52Z |  Go stream processing library. |
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 191 | 56 | 2026-10-14T22:16:59Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
-| [samber/ro](https://github.com/samber/ro) | 693 | 25 | 2026-10-15T09:27:45Z |  Reactive Programming: declarative and composable API for event-driven applications. |
+| [samber/ro](https://github.com/samber/ro) | 693 | 25 | 2026-10-16T13:36:53Z |  Reactive Programming: declarative and composable API for event-driven applications. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 167 | 12 | 2026-10-14T22:16:58Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
 | [mariomac/gostream](https://github.com/mariomac/gostream) | 172 | 11 | 2026-10-14T13:05:48Z |  Type-safe stream processing library inspired by the Java Streams API. |
 | [youthlin/stream](https://github.com/youthlin/stream) | 92 | 11 | 2026-07-16T01:06:51Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
@@ -36,7 +36,7 @@ Libraries and tools for stream processing and reactive programming.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [samber/ro](https://github.com/samber/ro) | 693 | 25 | 2026-10-15T09:27:45Z |  Reactive Programming: declarative and composable API for event-driven applications. |
+| [samber/ro](https://github.com/samber/ro) | 693 | 25 | 2026-10-16T13:36:53Z |  Reactive Programming: declarative and composable API for event-driven applications. |
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 173 | 2026-10-15T09:04:52Z |  Go stream processing library. |
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 191 | 56 | 2026-10-14T22:16:59Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 167 | 12 | 2026-10-14T22:16:58Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
