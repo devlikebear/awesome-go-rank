@@ -6,9 +6,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 927 | 2026-10-16T23:23:52Z |  Air - Live reload for Go apps. |
-| [go-task/task](https://github.com/go-task/task) | 16k | 929 | 2026-10-16T23:54:43Z |  simple "Make" alternative. |
-| [magefile/mage](https://github.com/magefile/mage) | 5k | 280 | 2026-10-16T14:43:04Z |  Mage is a make/rake-like build tool using Go. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 926 | 2026-10-16T23:23:52Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 926 | 2026-10-18T00:19:02Z |  simple "Make" alternative. |
+| [magefile/mage](https://github.com/magefile/mage) | 5k | 280 | 2026-10-17T21:19:43Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 229 | 2026-10-15T03:27:27Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-10-16T05:22:52Z |  Modern Make. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 36 | 2026-10-16T22:32:09Z |  Task runner with README.md defined tasks, executable markdown. |
@@ -23,9 +23,9 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 16k | 929 | 2026-10-16T23:54:43Z |  simple "Make" alternative. |
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 927 | 2026-10-16T23:23:52Z |  Air - Live reload for Go apps. |
-| [magefile/mage](https://github.com/magefile/mage) | 5k | 280 | 2026-10-16T14:43:04Z |  Mage is a make/rake-like build tool using Go. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 926 | 2026-10-16T23:23:52Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 926 | 2026-10-18T00:19:02Z |  simple "Make" alternative. |
+| [magefile/mage](https://github.com/magefile/mage) | 5k | 280 | 2026-10-17T21:19:43Z |  Mage is a make/rake-like build tool using Go. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 229 | 2026-10-15T03:27:27Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [taskctl/taskctl](https://github.com/taskctl/taskctl) | 434 | 51 | 2026-10-01T19:49:57Z |  Concurrent task runner. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-10-16T05:22:52Z |  Modern Make. |
@@ -40,10 +40,10 @@ Libraries and tools help with build automation.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-task/task](https://github.com/go-task/task) | 16k | 929 | 2026-10-16T23:54:43Z |  simple "Make" alternative. |
-| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 927 | 2026-10-16T23:23:52Z |  Air - Live reload for Go apps. |
+| [go-task/task](https://github.com/go-task/task) | 16k | 926 | 2026-10-18T00:19:02Z |  simple "Make" alternative. |
+| [magefile/mage](https://github.com/magefile/mage) | 5k | 280 | 2026-10-17T21:19:43Z |  Mage is a make/rake-like build tool using Go. |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | 24k | 926 | 2026-10-16T23:23:52Z |  Air - Live reload for Go apps. |
 | [joerdav/xc](https://github.com/joerdav/xc) | 1k | 36 | 2026-10-16T22:32:09Z |  Task runner with README.md defined tasks, executable markdown. |
-| [magefile/mage](https://github.com/magefile/mage) | 5k | 280 | 2026-10-16T14:43:04Z |  Mage is a make/rake-like build tool using Go. |
 | [tj/mmake](https://github.com/tj/mmake) | 2k | 44 | 2026-10-16T05:22:52Z |  Modern Make. |
 | [tockins/realize](https://github.com/tockins/realize) | 4k | 229 | 2026-10-15T03:27:27Z |  Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. |
 | [rexrun-dev/rex](https://github.com/rexrun-dev/rex) | 8 | 0 | 2026-10-14T17:38:35Z |  Zero-config universal project runner. Detects your stack (Go, Node, Python, Rust, PHP, Zig, Elixir) and runs the right command. |
