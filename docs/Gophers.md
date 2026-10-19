@@ -7,8 +7,8 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 224 | 2026-10-15T14:25:08Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
-| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-10-17T20:45:57Z |  Free gophers. |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-10-02T15:29:10Z |  Gopher artworks by Ashley McNamara. |
+| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-10-18T20:25:59Z |  Free gophers. |
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-10-18T12:10:35Z |  Gopher artworks by Ashley McNamara. |
 | [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 759 | 58 | 2026-10-14T07:56:10Z |  Gopherize yourself. |
 | [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 630 | 29 | 2026-07-14T12:58:21Z |  |
 | [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 608 | 32 | 2026-09-03T12:35:22Z |  |
@@ -23,8 +23,8 @@
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 224 | 2026-10-15T14:25:08Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
-| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-10-17T20:45:57Z |  Free gophers. |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-10-02T15:29:10Z |  Gopher artworks by Ashley McNamara. |
+| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-10-18T20:25:59Z |  Free gophers. |
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-10-18T12:10:35Z |  Gopher artworks by Ashley McNamara. |
 | [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 759 | 58 | 2026-10-14T07:56:10Z |  Gopherize yourself. |
 | [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 608 | 32 | 2026-09-03T12:35:22Z |  |
 | [shalakhin/gophericons](https://github.com/shalakhin/gophericons) | 630 | 29 | 2026-07-14T12:58:21Z |  |
@@ -38,12 +38,12 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-10-17T20:45:57Z |  Free gophers. |
+| [egonelbre/gophers](https://github.com/egonelbre/gophers) | 4k | 182 | 2026-10-18T20:25:59Z |  Free gophers. |
+| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-10-18T12:10:35Z |  Gopher artworks by Ashley McNamara. |
 | [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | 4k | 224 | 2026-10-15T14:25:08Z |  Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
 | [matryer/gopherize.me](https://github.com/matryer/gopherize.me) | 759 | 58 | 2026-10-14T07:56:10Z |  Gopherize yourself. |
 | [GolangUA/gopher-logos](https://github.com/GolangUA/gopher-logos) | 142 | 13 | 2026-10-05T04:54:53Z |  adorable gopher logos. |
 | [scraly/gophers](https://github.com/scraly/gophers) | 36 | 6 | 2026-10-03T06:37:09Z |  Gophers by Aurélie Vache. |
-| [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) | 3k | 144 | 2026-10-02T15:29:10Z |  Gopher artworks by Ashley McNamara. |
 | [sillecelik/go-gopher](https://github.com/sillecelik/go-gopher) | 164 | 17 | 2026-09-10T00:21:38Z |  Gopher amigurumi toy pattern. |
 | [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) | 77 | 10 | 2026-09-06T13:34:37Z |  Go gopher Vector Data [.ai, .svg]. |
 | [tenntenn/gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 608 | 32 | 2026-09-03T12:35:22Z |  |
