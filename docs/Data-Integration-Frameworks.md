@@ -6,23 +6,23 @@ Frameworks for performing ELT / ETL
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 976 | 2026-10-20T18:28:42Z |  A message streaming bridge between a range of protocols. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 978 | 2026-10-22T01:34:31Z |  A message streaming bridge between a range of protocols. |
 | [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-10-16T20:02:18Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
-| [gkoos/confluence2md](https://github.com/gkoos/confluence2md) | 36 | 2 | 2026-10-20T18:20:56Z |  Confluence to Markdown crawler and converter. |
+| [gkoos/confluence2md](https://github.com/gkoos/confluence2md) | 37 | 2 | 2026-10-21T10:31:19Z |  Confluence to Markdown crawler and converter. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 976 | 2026-10-20T18:28:42Z |  A message streaming bridge between a range of protocols. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 978 | 2026-10-22T01:34:31Z |  A message streaming bridge between a range of protocols. |
 | [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-10-16T20:02:18Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
-| [gkoos/confluence2md](https://github.com/gkoos/confluence2md) | 36 | 2 | 2026-10-20T18:20:56Z |  Confluence to Markdown crawler and converter. |
+| [gkoos/confluence2md](https://github.com/gkoos/confluence2md) | 37 | 2 | 2026-10-21T10:31:19Z |  Confluence to Markdown crawler and converter. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 976 | 2026-10-20T18:28:42Z |  A message streaming bridge between a range of protocols. |
-| [gkoos/confluence2md](https://github.com/gkoos/confluence2md) | 36 | 2 | 2026-10-20T18:20:56Z |  Confluence to Markdown crawler and converter. |
+| [benthosdev/benthos](https://github.com/benthosdev/benthos) | 9k | 978 | 2026-10-22T01:34:31Z |  A message streaming bridge between a range of protocols. |
+| [gkoos/confluence2md](https://github.com/gkoos/confluence2md) | 37 | 2 | 2026-10-21T10:31:19Z |  Confluence to Markdown crawler and converter. |
 | [jf-tech/omniparser](https://github.com/jf-tech/omniparser) | 1k | 81 | 2026-10-16T20:02:18Z |  A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. |
 

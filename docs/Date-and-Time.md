@@ -7,7 +7,7 @@ Libraries for working with dates and times.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 275 | 2026-10-20T11:16:31Z |  A simple, semantic and developer-friendly time package for golang. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 247 | 2026-10-20T11:16:35Z |  Now is a time toolkit for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 247 | 2026-10-21T07:03:45Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 178 | 2026-10-14T00:27:27Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 780 | 55 | 2026-09-24T09:48:00Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 511 | 55 | 2026-09-07T03:50:53Z |  Time duration formatting library for Go. |
@@ -37,7 +37,7 @@ Libraries for working with dates and times.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 275 | 2026-10-20T11:16:31Z |  A simple, semantic and developer-friendly time package for golang. |
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 247 | 2026-10-20T11:16:35Z |  Now is a time toolkit for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 247 | 2026-10-21T07:03:45Z |  Now is a time toolkit for golang. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 178 | 2026-10-14T00:27:27Z |  Parse date's without knowing format in advance. |
 | [uniplaces/carbon](https://github.com/uniplaces/carbon) | 780 | 55 | 2026-09-24T09:48:00Z |  Simple Time extension with a lot of util methods, ported from PHP Carbon library. |
 | [hako/durafmt](https://github.com/hako/durafmt) | 511 | 55 | 2026-09-07T03:50:53Z |  Time duration formatting library for Go. |
@@ -66,7 +66,7 @@ Libraries for working with dates and times.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 247 | 2026-10-20T11:16:35Z |  Now is a time toolkit for golang. |
+| [jinzhu/now](https://github.com/jinzhu/now) | 5k | 247 | 2026-10-21T07:03:45Z |  Now is a time toolkit for golang. |
 | [dromara/carbon](https://github.com/dromara/carbon) | 5k | 275 | 2026-10-20T11:16:31Z |  A simple, semantic and developer-friendly time package for golang. |
 | [invzhi/timex](https://github.com/invzhi/timex) | 22 | 1 | 2026-10-17T05:48:16Z |  A Go package that extends the standard library time with dedicated date and time-of-day types. |
 | [araddon/dateparse](https://github.com/araddon/dateparse) | 2k | 178 | 2026-10-14T00:27:27Z |  Parse date's without knowing format in advance. |
