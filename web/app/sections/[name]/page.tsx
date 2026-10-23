@@ -5,7 +5,7 @@ import { RepoCard } from "@/components/repo-card"
 import { getRepoData, getSectionBySlug, slugifySection } from "@/lib/data"
 
 interface SectionPageProps {
-  params: { name: string }
+  params: Promise<{ name: string }>
 }
 
 export async function generateStaticParams() {
@@ -14,8 +14,9 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: SectionPageProps): Promise<Metadata> {
+  const { name } = await params
   const data = await getRepoData()
-  const section = getSectionBySlug(data, params.name)
+  const section = getSectionBySlug(data, name)
   if (!section) return { title: "Go library category not found" }
   return {
     title: `${section.name} Go Libraries Ranking`,
@@ -24,8 +25,9 @@ export async function generateMetadata({ params }: SectionPageProps): Promise<Me
 }
 
 export default async function SectionPage({ params }: SectionPageProps) {
+  const { name } = await params
   const data = await getRepoData()
-  const section = getSectionBySlug(data, params.name)
+  const section = getSectionBySlug(data, name)
   if (!section) notFound()
   const repos = [...section.repos].sort((a, b) => b.stars - a.stars)
 
