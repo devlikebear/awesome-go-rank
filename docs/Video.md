@@ -11,7 +11,7 @@ Libraries for manipulating video.
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 931 | 171 | 2026-10-08T15:53:04Z |  Go bindings for FFmpeg av\* libraries. |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 747 | 83 | 2026-10-18T05:46:12Z |  Better C bindings for ffmpeg in GO. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 716 | 135 | 2026-10-10T21:28:33Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
-| [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 661 | 129 | 2026-10-21T05:17:42Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
+| [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 663 | 129 | 2026-10-23T01:10:54Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 618 | 70 | 2026-10-01T13:38:58Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 510 | 57 | 2026-10-07T08:11:36Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
 | [korandiz/v4l](https://github.com/korandiz/v4l) | 89 | 15 | 2026-03-24T01:24:42Z |  Video capture library for Linux, written in Go. |
@@ -31,7 +31,7 @@ Libraries for manipulating video.
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 943 | 287 | 2026-10-20T00:56:48Z |  Pure Go RTSP server and client library. |
 | [3d0c/gmf](https://github.com/3d0c/gmf) | 931 | 171 | 2026-10-08T15:53:04Z |  Go bindings for FFmpeg av\* libraries. |
 | [asticode/go-astisub](https://github.com/asticode/go-astisub) | 716 | 135 | 2026-10-10T21:28:33Z |  Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.). |
-| [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 661 | 129 | 2026-10-21T05:17:42Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
+| [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 663 | 129 | 2026-10-23T01:10:54Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 747 | 83 | 2026-10-18T05:46:12Z |  Better C bindings for ffmpeg in GO. |
 | [asticode/go-astits](https://github.com/asticode/go-astits) | 618 | 70 | 2026-10-01T13:38:58Z |  Parse and demux MPEG Transport Streams (.ts) natively in GO. |
 | [adrg/libvlc-go](https://github.com/adrg/libvlc-go) | 510 | 57 | 2026-10-07T08:11:36Z |  Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player). |
@@ -48,9 +48,9 @@ Libraries for manipulating video.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 663 | 129 | 2026-10-23T01:10:54Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
 | [small-teton/mpeg-ts-analyzer](https://github.com/small-teton/mpeg-ts-analyzer) | 39 | 4 | 2026-10-21T17:54:58Z |  Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures. |
 | [0x524a/onvif-go](https://github.com/0x524a/onvif-go) | 42 | 20 | 2026-10-21T15:52:56Z |  ONVIF client, WS-Discovery and virtual camera server for IP cameras. |
-| [Eyevinn/mp4ff](https://github.com/Eyevinn/mp4ff) | 661 | 129 | 2026-10-21T05:17:42Z |  Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. |
 | [aler9/gortsplib](https://github.com/aler9/gortsplib) | 943 | 287 | 2026-10-20T00:56:48Z |  Pure Go RTSP server and client library. |
 | [Eyevinn/hls-m3u8](https://github.com/Eyevinn/hls-m3u8) | 72 | 20 | 2026-10-19T09:22:46Z |  Parser and generator for HLS (M3U8) playlists; kept up to date with the spec. |
 | [asticode/go-astiav](https://github.com/asticode/go-astiav) | 747 | 83 | 2026-10-18T05:46:12Z |  Better C bindings for ffmpeg in GO. |
