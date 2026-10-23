@@ -2,6 +2,7 @@ package awesomego
 
 import (
 	"context"
+	"os"
 	"testing"
 
 	"github.com/stretchr/testify/suite"
@@ -24,6 +25,10 @@ func (s *GithubHtmlParserClientTestSuite) SetupSuite() {
 }
 
 func (s *GithubHtmlParserClientTestSuite) TestGithubHtmlParserClient_FetchRepository_ValidOwnerAndRepo() {
+	// Scrapes live github.com markup, which changes without notice; opt in explicitly.
+	if os.Getenv("AWESOME_GO_RANK_LIVE_TESTS") == "" {
+		s.T().Skip("set AWESOME_GO_RANK_LIVE_TESTS=1 to run tests against live github.com")
+	}
 	// Fetch the repositories
 	repo, err := s.client.FetchRepository(context.Background(), "avelino", "awesome-go")
 	s.NoError(err)

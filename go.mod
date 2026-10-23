@@ -2,6 +2,8 @@ module github.com/devlikebear/awesome-go-rank
 
 go 1.25.12
 
+toolchain go1.27.3
+
 require (
 	github.com/antchfx/htmlquery v1.3.6
 	github.com/cheggaaa/pb/v3 v3.1.7
