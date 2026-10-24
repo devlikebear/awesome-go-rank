@@ -6,26 +6,26 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [redis/go-redis](https://github.com/redis/go-redis) | 22k | 3k | 2026-10-22T00:01:25Z |  Redis client for Golang. |
-| [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) | 15k | 2k | 2026-10-22T06:17:00Z |  MySQL driver for Go. |
-| [google/cayley](https://github.com/google/cayley) | 15k | 1k | 2026-10-22T00:52:43Z |  Graph database with support for multiple backends. |
-| [jackc/pgx](https://github.com/jackc/pgx) | 14k | 1k | 2026-10-22T23:04:01Z |  PostgreSQL driver supporting features beyond those exposed by database/sql. |
+| [redis/go-redis](https://github.com/redis/go-redis) | 22k | 3k | 2026-10-24T00:00:02Z |  Redis client for Golang. |
+| [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) | 15k | 2k | 2026-10-23T10:21:49Z |  MySQL driver for Go. |
+| [google/cayley](https://github.com/google/cayley) | 15k | 1k | 2026-10-23T23:03:48Z |  Graph database with support for multiple backends. |
+| [jackc/pgx](https://github.com/jackc/pgx) | 14k | 1k | 2026-10-23T15:58:41Z |  PostgreSQL driver supporting features beyond those exposed by database/sql. |
 | [lib/pq](https://github.com/lib/pq) | 10k | 973 | 2026-10-22T11:41:07Z |  Pure Go Postgres driver for database/sql. |
-| [gomodule/redigo](https://github.com/gomodule/redigo) | 10k | 1k | 2026-10-21T08:12:51Z |  Redigo is a Go client for the Redis database. |
+| [gomodule/redigo](https://github.com/gomodule/redigo) | 10k | 1k | 2026-10-24T01:39:33Z |  Redigo is a Go client for the Redis database. |
 | [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) | 9k | 1k | 2026-10-23T01:13:35Z |  SQLite3 driver for go that uses database/sql. |
-| [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 9k | 940 | 2026-10-21T20:39:18Z |  Official MongoDB driver for the Go language. |
+| [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 9k | 939 | 2026-10-23T17:25:50Z |  Official MongoDB driver for the Go language. |
 | [olivere/elastic](https://github.com/olivere/elastic) | 7k | 1k | 2026-10-15T14:28:26Z |  Elasticsearch client for Go. |
-| [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) | 6k | 646 | 2026-10-13T18:41:09Z |  Official Elasticsearch client for Go. |
-| [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go/) | 3k | 694 | 2026-10-21T15:36:10Z |  ClickHouse SQL client for Go with a `database/sql` compatibility. |
-| [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) | 2k | 253 | 2026-10-22T11:35:33Z |  Fast trigram based code search. |
-| [globalsign/mgo](https://github.com/globalsign/mgo) | 2k | 223 | 2026-10-12T13:27:38Z |  (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms. |
+| [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) | 6k | 645 | 2026-10-13T18:41:09Z |  Official Elasticsearch client for Go. |
+| [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go/) | 3k | 695 | 2026-10-23T13:47:46Z |  ClickHouse SQL client for Go with a `database/sql` compatibility. |
+| [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) | 2k | 254 | 2026-10-23T13:42:39Z |  Fast trigram based code search. |
+| [globalsign/mgo](https://github.com/globalsign/mgo) | 2k | 223 | 2026-10-23T14:28:20Z |  (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms. |
 | [bradfitz/gomemcache](https://github.com/bradfitz/gomemcache/) | 2k | 474 | 2026-09-28T20:39:51Z |  memcache client library for the Go programming language. |
-| [denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 2k | 535 | 2026-10-10T13:40:11Z |  Microsoft MSSQL driver for Go. |
+| [denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 2k | 536 | 2026-10-10T13:40:11Z |  Microsoft MSSQL driver for Go. |
 | [dancannon/gorethink](https://github.com/dancannon/gorethink) | 2k | 177 | 2026-10-12T12:13:46Z |  Go language driver for RethinkDB. |
 | [georgysavva/scany](https://github.com/georgysavva/scany) | 2k | 75 | 2026-10-22T08:54:44Z | query results easily. |
 | [qiniu/qmgo](https://github.com/qiniu/qmgo) | 1k | 151 | 2026-10-09T17:50:29Z |  The MongoDB driver for Go. It‘s based on official MongoDB driver but easier to use like Mgo. |
 | [cch123/elasticsql](https://github.com/cch123/elasticsql) | 1k | 198 | 2026-10-08T15:54:17Z |  Convert sql to elasticsearch dsl in Go. |
-| [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) | 1k | 37 | 2026-10-21T10:53:07Z |  This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver. |
+| [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) | 1k | 37 | 2026-10-23T20:41:45Z |  This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver. |
 | [mattbaird/elastigo](https://github.com/mattbaird/elastigo) | 940 | 234 | 2026-09-27T00:27:13Z |  Elasticsearch client library. |
 | [philippgille/gokv](https://github.com/philippgille/gokv) | 828 | 74 | 2026-10-09T17:49:40Z |  Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more). |
 | [skizzehq/skizze](https://github.com/skizzehq/skizze) | 773 | 61 | 2026-07-14T05:03:56Z |  A probabilistic data structure service and storage. |
@@ -33,11 +33,11 @@
 | [qustavo/sqlhooks](https://github.com/qustavo/sqlhooks) | 664 | 47 | 2026-09-24T09:47:43Z |  Attach hooks to any database/sql driver. |
 | [mattn/go-oci8](https://github.com/mattn/go-oci8) | 634 | 212 | 2026-10-21T08:12:51Z |  Oracle driver for go that uses database/sql. |
 | [godror/godror](https://github.com/godror/godror) | 599 | 124 | 2026-10-11T12:04:45Z |  Oracle driver for Go, using the ODPI-C driver. |
-| [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 545 | 18 | 2026-10-21T23:03:31Z |  SQLite with pure Go. |
+| [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 545 | 19 | 2026-10-21T23:03:31Z |  SQLite with pure Go. |
 | [aerospike/aerospike-client-go](https://github.com/aerospike/aerospike-client-go) | 458 | 214 | 2026-10-22T21:47:40Z |  Aerospike client in Go language. |
 | [bsm/redeo](https://github.com/bsm/redeo) | 444 | 35 | 2026-10-08T13:26:16Z |  Redis-protocol compatible TCP servers/services. |
 | [avito-tech/go-transaction-manager](https://github.com/avito-tech/go-transaction-manager) | 421 | 23 | 2026-10-22T23:49:29Z |  Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries. |
-| [microsoft/go-mssqldb](https://github.com/microsoft/go-mssqldb) | 412 | 108 | 2026-10-08T23:41:52Z |  Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations. |
+| [microsoft/go-mssqldb](https://github.com/microsoft/go-mssqldb) | 412 | 109 | 2026-10-08T23:41:52Z |  Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations. |
 | [jmcvetta/neoism](https://github.com/jmcvetta/neoism) | 387 | 53 | 2026-10-08T15:52:57Z |  Neo4j client for Golang. |
 | [couchbase/gocb](https://github.com/couchbase/gocb) | 375 | 115 | 2026-10-22T16:16:18Z |  Official Couchbase Go SDK. |
 | [VinGarcia/ksql](https://github.com/VinGarcia/ksql) | 361 | 23 | 2026-10-07T02:57:33Z |  A Simple and Powerful Golang SQL Library. |
@@ -74,22 +74,22 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [redis/go-redis](https://github.com/redis/go-redis) | 22k | 3k | 2026-10-22T00:01:25Z |  Redis client for Golang. |
-| [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) | 15k | 2k | 2026-10-22T06:17:00Z |  MySQL driver for Go. |
-| [google/cayley](https://github.com/google/cayley) | 15k | 1k | 2026-10-22T00:52:43Z |  Graph database with support for multiple backends. |
-| [gomodule/redigo](https://github.com/gomodule/redigo) | 10k | 1k | 2026-10-21T08:12:51Z |  Redigo is a Go client for the Redis database. |
+| [redis/go-redis](https://github.com/redis/go-redis) | 22k | 3k | 2026-10-24T00:00:02Z |  Redis client for Golang. |
+| [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) | 15k | 2k | 2026-10-23T10:21:49Z |  MySQL driver for Go. |
+| [google/cayley](https://github.com/google/cayley) | 15k | 1k | 2026-10-23T23:03:48Z |  Graph database with support for multiple backends. |
+| [gomodule/redigo](https://github.com/gomodule/redigo) | 10k | 1k | 2026-10-24T01:39:33Z |  Redigo is a Go client for the Redis database. |
 | [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) | 9k | 1k | 2026-10-23T01:13:35Z |  SQLite3 driver for go that uses database/sql. |
-| [jackc/pgx](https://github.com/jackc/pgx) | 14k | 1k | 2026-10-22T23:04:01Z |  PostgreSQL driver supporting features beyond those exposed by database/sql. |
+| [jackc/pgx](https://github.com/jackc/pgx) | 14k | 1k | 2026-10-23T15:58:41Z |  PostgreSQL driver supporting features beyond those exposed by database/sql. |
 | [olivere/elastic](https://github.com/olivere/elastic) | 7k | 1k | 2026-10-15T14:28:26Z |  Elasticsearch client for Go. |
 | [lib/pq](https://github.com/lib/pq) | 10k | 973 | 2026-10-22T11:41:07Z |  Pure Go Postgres driver for database/sql. |
-| [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 9k | 940 | 2026-10-21T20:39:18Z |  Official MongoDB driver for the Go language. |
-| [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go/) | 3k | 694 | 2026-10-21T15:36:10Z |  ClickHouse SQL client for Go with a `database/sql` compatibility. |
-| [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) | 6k | 646 | 2026-10-13T18:41:09Z |  Official Elasticsearch client for Go. |
-| [denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 2k | 535 | 2026-10-10T13:40:11Z |  Microsoft MSSQL driver for Go. |
+| [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 9k | 939 | 2026-10-23T17:25:50Z |  Official MongoDB driver for the Go language. |
+| [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go/) | 3k | 695 | 2026-10-23T13:47:46Z |  ClickHouse SQL client for Go with a `database/sql` compatibility. |
+| [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) | 6k | 645 | 2026-10-13T18:41:09Z |  Official Elasticsearch client for Go. |
+| [denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 2k | 536 | 2026-10-10T13:40:11Z |  Microsoft MSSQL driver for Go. |
 | [bradfitz/gomemcache](https://github.com/bradfitz/gomemcache/) | 2k | 474 | 2026-09-28T20:39:51Z |  memcache client library for the Go programming language. |
-| [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) | 2k | 253 | 2026-10-22T11:35:33Z |  Fast trigram based code search. |
+| [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) | 2k | 254 | 2026-10-23T13:42:39Z |  Fast trigram based code search. |
 | [mattbaird/elastigo](https://github.com/mattbaird/elastigo) | 940 | 234 | 2026-09-27T00:27:13Z |  Elasticsearch client library. |
-| [globalsign/mgo](https://github.com/globalsign/mgo) | 2k | 223 | 2026-10-12T13:27:38Z |  (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms. |
+| [globalsign/mgo](https://github.com/globalsign/mgo) | 2k | 223 | 2026-10-23T14:28:20Z |  (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms. |
 | [aerospike/aerospike-client-go](https://github.com/aerospike/aerospike-client-go) | 458 | 214 | 2026-10-22T21:47:40Z |  Aerospike client in Go language. |
 | [mattn/go-oci8](https://github.com/mattn/go-oci8) | 634 | 212 | 2026-10-21T08:12:51Z |  Oracle driver for go that uses database/sql. |
 | [cch123/elasticsql](https://github.com/cch123/elasticsql) | 1k | 198 | 2026-10-08T15:54:17Z |  Convert sql to elasticsearch dsl in Go. |
@@ -98,7 +98,7 @@
 | [godror/godror](https://github.com/godror/godror) | 599 | 124 | 2026-10-11T12:04:45Z |  Oracle driver for Go, using the ODPI-C driver. |
 | [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) | 180 | 119 | 2026-10-17T20:42:56Z |  native and database/sql driver YDB (Yandex Database). |
 | [couchbase/gocb](https://github.com/couchbase/gocb) | 375 | 115 | 2026-10-22T16:16:18Z |  Official Couchbase Go SDK. |
-| [microsoft/go-mssqldb](https://github.com/microsoft/go-mssqldb) | 412 | 108 | 2026-10-08T23:41:52Z |  Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations. |
+| [microsoft/go-mssqldb](https://github.com/microsoft/go-mssqldb) | 412 | 109 | 2026-10-08T23:41:52Z |  Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations. |
 | [couchbase/go-couchbase](https://github.com/couchbase/go-couchbase) | 322 | 88 | 2026-10-17T16:55:45Z |  Couchbase client in Go. |
 | [surrealdb/surrealdb.go](https://github.com/surrealdb/surrealdb.go) | 318 | 85 | 2026-10-20T00:04:03Z |  SurrealDB Driver for Go. |
 | [nakagami/firebirdsql](https://github.com/nakagami/firebirdsql) | 270 | 80 | 2026-10-22T06:25:37Z |  Firebird RDBMS SQL driver for Go. |
@@ -113,14 +113,14 @@
 | [go-kivik/kivik](https://github.com/go-kivik/kivik) | 345 | 43 | 2026-09-22T12:55:57Z |  Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases. |
 | [mattn/go-adodb](https://github.com/mattn/go-adodb) | 154 | 39 | 2026-08-05T20:15:26Z |  Microsoft ActiveX Object DataBase driver for go that uses database/sql. |
 | [rqlite/gorqlite](https://github.com/rqlite/gorqlite) | 186 | 38 | 2026-10-20T01:57:32Z |  A Go client for rqlite, providing easy-to-use abstractions for working with the rqlite API. |
-| [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) | 1k | 37 | 2026-10-21T10:53:07Z |  This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver. |
+| [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) | 1k | 37 | 2026-10-23T20:41:45Z |  This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver. |
 | [bsm/redeo](https://github.com/bsm/redeo) | 444 | 35 | 2026-10-08T13:26:16Z |  Redis-protocol compatible TCP servers/services. |
 | [apache/calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | 126 | 35 | 2026-07-22T02:22:24Z |  Apache Avatica/Phoenix SQL driver for database/sql. |
 | [pilosa/go-pilosa](https://github.com/pilosa/go-pilosa) | 58 | 24 | 2026-04-07T13:59:50Z |  Go client library for Pilosa. |
 | [VinGarcia/ksql](https://github.com/VinGarcia/ksql) | 361 | 23 | 2026-10-07T02:57:33Z |  A Simple and Powerful Golang SQL Library. |
 | [avito-tech/go-transaction-manager](https://github.com/avito-tech/go-transaction-manager) | 421 | 23 | 2026-10-22T23:49:29Z |  Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries. |
+| [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 545 | 19 | 2026-10-21T23:03:31Z |  SQLite with pure Go. |
 | [solher/arangolite](https://github.com/solher/arangolite) | 72 | 19 | 2024-10-07T20:54:58Z |  Lightweight golang driver for ArangoDB. |
-| [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 545 | 18 | 2026-10-21T23:03:31Z |  SQLite with pure Go. |
 | [piaohao/godis](https://github.com/piaohao/godis) | 112 | 18 | 2026-02-04T15:52:06Z |  redis client implement by golang, inspired by jedis. |
 | [OwnLocal/goes](https://github.com/OwnLocal/goes) | 30 | 14 | 2026-06-06T05:14:24Z |  Library to interact with Elasticsearch. |
 | [chenmingyong0423/go-mongox](https://github.com/chenmingyong0423/go-mongox) | 222 | 13 | 2026-10-02T19:56:02Z |  A Go Mongo library based on the official driver, featuring streamlined document operations, generic binding of structs to collections, built-in CRUD, aggregation, automated field updates, struct validation, hooks, and plugin-based programming. |
@@ -142,23 +142,24 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [gomodule/redigo](https://github.com/gomodule/redigo) | 10k | 1k | 2026-10-24T01:39:33Z |  Redigo is a Go client for the Redis database. |
+| [redis/go-redis](https://github.com/redis/go-redis) | 22k | 3k | 2026-10-24T00:00:02Z |  Redis client for Golang. |
+| [google/cayley](https://github.com/google/cayley) | 15k | 1k | 2026-10-23T23:03:48Z |  Graph database with support for multiple backends. |
+| [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) | 1k | 37 | 2026-10-23T20:41:45Z |  This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver. |
+| [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 9k | 939 | 2026-10-23T17:25:50Z |  Official MongoDB driver for the Go language. |
+| [jackc/pgx](https://github.com/jackc/pgx) | 14k | 1k | 2026-10-23T15:58:41Z |  PostgreSQL driver supporting features beyond those exposed by database/sql. |
+| [globalsign/mgo](https://github.com/globalsign/mgo) | 2k | 223 | 2026-10-23T14:28:20Z |  (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms. |
+| [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go/) | 3k | 695 | 2026-10-23T13:47:46Z |  ClickHouse SQL client for Go with a `database/sql` compatibility. |
+| [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) | 2k | 254 | 2026-10-23T13:42:39Z |  Fast trigram based code search. |
+| [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) | 15k | 2k | 2026-10-23T10:21:49Z |  MySQL driver for Go. |
 | [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) | 9k | 1k | 2026-10-23T01:13:35Z |  SQLite3 driver for go that uses database/sql. |
 | [avito-tech/go-transaction-manager](https://github.com/avito-tech/go-transaction-manager) | 421 | 23 | 2026-10-22T23:49:29Z |  Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries. |
-| [jackc/pgx](https://github.com/jackc/pgx) | 14k | 1k | 2026-10-22T23:04:01Z |  PostgreSQL driver supporting features beyond those exposed by database/sql. |
 | [aerospike/aerospike-client-go](https://github.com/aerospike/aerospike-client-go) | 458 | 214 | 2026-10-22T21:47:40Z |  Aerospike client in Go language. |
 | [couchbase/gocb](https://github.com/couchbase/gocb) | 375 | 115 | 2026-10-22T16:16:18Z |  Official Couchbase Go SDK. |
 | [lib/pq](https://github.com/lib/pq) | 10k | 973 | 2026-10-22T11:41:07Z |  Pure Go Postgres driver for database/sql. |
-| [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) | 2k | 253 | 2026-10-22T11:35:33Z |  Fast trigram based code search. |
 | [georgysavva/scany](https://github.com/georgysavva/scany) | 2k | 75 | 2026-10-22T08:54:44Z | query results easily. |
 | [nakagami/firebirdsql](https://github.com/nakagami/firebirdsql) | 270 | 80 | 2026-10-22T06:25:37Z |  Firebird RDBMS SQL driver for Go. |
-| [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) | 15k | 2k | 2026-10-22T06:17:00Z |  MySQL driver for Go. |
-| [google/cayley](https://github.com/google/cayley) | 15k | 1k | 2026-10-22T00:52:43Z |  Graph database with support for multiple backends. |
-| [redis/go-redis](https://github.com/redis/go-redis) | 22k | 3k | 2026-10-22T00:01:25Z |  Redis client for Golang. |
-| [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 545 | 18 | 2026-10-21T23:03:31Z |  SQLite with pure Go. |
-| [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 9k | 940 | 2026-10-21T20:39:18Z |  Official MongoDB driver for the Go language. |
-| [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go/) | 3k | 694 | 2026-10-21T15:36:10Z |  ClickHouse SQL client for Go with a `database/sql` compatibility. |
-| [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) | 1k | 37 | 2026-10-21T10:53:07Z |  This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver. |
-| [gomodule/redigo](https://github.com/gomodule/redigo) | 10k | 1k | 2026-10-21T08:12:51Z |  Redigo is a Go client for the Redis database. |
+| [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 545 | 19 | 2026-10-21T23:03:31Z |  SQLite with pure Go. |
 | [mattn/go-oci8](https://github.com/mattn/go-oci8) | 634 | 212 | 2026-10-21T08:12:51Z |  Oracle driver for go that uses database/sql. |
 | [rqlite/gorqlite](https://github.com/rqlite/gorqlite) | 186 | 38 | 2026-10-20T01:57:32Z |  A Go client for rqlite, providing easy-to-use abstractions for working with the rqlite API. |
 | [surrealdb/surrealdb.go](https://github.com/surrealdb/surrealdb.go) | 318 | 85 | 2026-10-20T00:04:03Z |  SurrealDB Driver for Go. |
@@ -166,14 +167,13 @@
 | [couchbase/go-couchbase](https://github.com/couchbase/go-couchbase) | 322 | 88 | 2026-10-17T16:55:45Z |  Couchbase client in Go. |
 | [kamva/mgm](https://github.com/kamva/mgm) | 764 | 62 | 2026-10-17T09:07:59Z |  MongoDB model-based ODM for Go (based on official MongoDB driver). |
 | [olivere/elastic](https://github.com/olivere/elastic) | 7k | 1k | 2026-10-15T14:28:26Z |  Elasticsearch client for Go. |
-| [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) | 6k | 646 | 2026-10-13T18:41:09Z |  Official Elasticsearch client for Go. |
-| [globalsign/mgo](https://github.com/globalsign/mgo) | 2k | 223 | 2026-10-12T13:27:38Z |  (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms. |
+| [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) | 6k | 645 | 2026-10-13T18:41:09Z |  Official Elasticsearch client for Go. |
 | [dancannon/gorethink](https://github.com/dancannon/gorethink) | 2k | 177 | 2026-10-12T12:13:46Z |  Go language driver for RethinkDB. |
 | [godror/godror](https://github.com/godror/godror) | 599 | 124 | 2026-10-11T12:04:45Z |  Oracle driver for Go, using the ODPI-C driver. |
-| [denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 2k | 535 | 2026-10-10T13:40:11Z |  Microsoft MSSQL driver for Go. |
+| [denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 2k | 536 | 2026-10-10T13:40:11Z |  Microsoft MSSQL driver for Go. |
 | [qiniu/qmgo](https://github.com/qiniu/qmgo) | 1k | 151 | 2026-10-09T17:50:29Z |  The MongoDB driver for Go. It‘s based on official MongoDB driver but easier to use like Mgo. |
 | [philippgille/gokv](https://github.com/philippgille/gokv) | 828 | 74 | 2026-10-09T17:49:40Z |  Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more). |
-| [microsoft/go-mssqldb](https://github.com/microsoft/go-mssqldb) | 412 | 108 | 2026-10-08T23:41:52Z |  Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations. |
+| [microsoft/go-mssqldb](https://github.com/microsoft/go-mssqldb) | 412 | 109 | 2026-10-08T23:41:52Z |  Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations. |
 | [cch123/elasticsql](https://github.com/cch123/elasticsql) | 1k | 198 | 2026-10-08T15:54:17Z |  Convert sql to elasticsearch dsl in Go. |
 | [jmcvetta/neoism](https://github.com/jmcvetta/neoism) | 387 | 53 | 2026-10-08T15:52:57Z |  Neo4j client for Golang. |
 | [bsm/redeo](https://github.com/bsm/redeo) | 444 | 35 | 2026-10-08T13:26:16Z |  Redis-protocol compatible TCP servers/services. |
