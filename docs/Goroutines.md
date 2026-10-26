@@ -6,8 +6,8 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 15k | 1k | 2026-10-24T20:54:46Z |  A high-performance and low-cost goroutine pool in Go. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 366 | 2026-10-24T18:11:49Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 15k | 1k | 2026-10-25T02:46:49Z |  A high-performance and low-cost goroutine pool in Go. |
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 366 | 2026-10-26T00:30:17Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 305 | 2026-10-24T14:31:43Z |  Goroutine pool for golang. |
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 242 | 2026-10-24T14:02:13Z |  goworker is a Go-based background worker. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 93 | 2026-10-24T19:56:38Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
@@ -44,8 +44,8 @@ Tools for managing and working with Goroutines.
 | [rafaeljesus/parallel-fn](https://github.com/rafaeljesus/parallel-fn) | 37 | 2 | 2026-09-24T09:49:00Z |  Run functions in parallel. |
 | [subchen/go-trylock](https://github.com/subchen/go-trylock) | 35 | 9 | 2026-10-02T15:14:57Z |  TryLock support on read-write lock for Golang. |
 | [ddelizia/channelify](https://github.com/ddelizia/channelify) | 34 | 3 | 2026-09-20T07:25:57Z |  Transform your function to return channels for easy and powerful parallel processing. |
+| [hexdigest/execpool](https://github.com/hexdigest/execpool) | 30 | 2 | 2026-10-25T02:23:30Z |  A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command. |
 | [ssgreg/stl](https://github.com/ssgreg/stl) | 30 | 6 | 2026-07-28T13:32:44Z |  Software transactional locks based on Software Transactional Memory (STM) concurrency control mechanism. |
-| [hexdigest/execpool](https://github.com/hexdigest/execpool) | 29 | 2 | 2026-05-23T10:52:01Z |  A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command. |
 | [ognick/goscade](https://github.com/ognick/goscade) | 24 | 1 | 2026-09-08T12:31:23Z |  Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown. |
 | [kamilsk/breaker](https://github.com/kamilsk/breaker) | 21 | 1 | 2026-05-13T23:08:04Z |  Flexible mechanism to make execution flow interruptible. |
 | [vivek-ng/concurrency-limiter](https://github.com/vivek-ng/concurrency-limiter) | 18 | 5 | 2026-09-17T17:50:21Z |  Concurrency limiter with support for timeouts, dynamic priority and context cancellation of goroutines. |
@@ -64,8 +64,8 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 15k | 1k | 2026-10-24T20:54:46Z |  A high-performance and low-cost goroutine pool in Go. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 366 | 2026-10-24T18:11:49Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 15k | 1k | 2026-10-25T02:46:49Z |  A high-performance and low-cost goroutine pool in Go. |
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 366 | 2026-10-26T00:30:17Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 305 | 2026-10-24T14:31:43Z |  Goroutine pool for golang. |
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 242 | 2026-10-24T14:02:13Z |  goworker is a Go-based background worker. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 151 | 2026-10-19T21:36:55Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
@@ -89,26 +89,26 @@ Tools for managing and working with Goroutines.
 | [AaronJan/Hunch](https://github.com/AaronJan/Hunch) | 103 | 12 | 2026-10-09T17:49:56Z |  Hunch provides functions like: `All`, `First`, `Retry`, `Waterfall` etc., that makes asynchronous flow control more intuitive. |
 | [kamilsk/semaphore](https://github.com/kamilsk/semaphore) | 102 | 11 | 2026-09-24T09:48:12Z |  Semaphore pattern implementation with timeout of lock/unlock operations based on channel and context. |
 | [neilotoole/errgroup](https://github.com/neilotoole/errgroup) | 162 | 11 | 2026-10-09T17:50:25Z |  Drop-in alternative to `sync/errgroup`, limited to a pool of N worker goroutines. |
-| [marusama/semaphore](https://github.com/marusama/semaphore) | 178 | 9 | 2026-05-07T13:50:26Z |  Fast resizable semaphore implementation based on CAS (faster than channel-based semaphore implementations). |
 | [subchen/go-trylock](https://github.com/subchen/go-trylock) | 35 | 9 | 2026-10-02T15:14:57Z |  TryLock support on read-write lock for Golang. |
+| [marusama/semaphore](https://github.com/marusama/semaphore) | 178 | 9 | 2026-05-07T13:50:26Z |  Fast resizable semaphore implementation based on CAS (faster than channel-based semaphore implementations). |
 | [carlmjohnson/flowmatic](https://github.com/carlmjohnson/flowmatic) | 403 | 9 | 2026-10-12T22:09:14Z |  Structured concurrency made easy. |
 | [hamed-yousefi/gowl](https://github.com/hamed-yousefi/gowl) | 73 | 9 | 2026-10-19T21:17:08Z |  Gowl is a process management and process monitoring tool at once. An infinite worker pool gives you the ability to control the pool and processes and monitor their status. |
 | [x-mod/routine](https://github.com/x-mod/routine) | 63 | 8 | 2026-07-06T10:34:29Z |  go routine control with context, support: Main, Go, Pool and some useful Executors. |
 | [ssgreg/stl](https://github.com/ssgreg/stl) | 30 | 6 | 2026-07-28T13:32:44Z |  Software transactional locks based on Software Transactional Memory (STM) concurrency control mechanism. |
 | [loveleshsharma/gohive](https://github.com/loveleshsharma/gohive) | 54 | 5 | 2026-05-13T23:08:55Z |  A highly performant and easy to use Goroutine pool for Go. |
+| [arunsworld/nursery](https://github.com/arunsworld/nursery) | 71 | 5 | 2026-07-02T04:16:37Z |  Structured concurrency in Go. |
 | [dirkaholic/kyoo](https://github.com/dirkaholic/kyoo) | 50 | 5 | 2026-08-30T20:23:06Z |  Provides an unlimited job queue and concurrent worker pools. |
 | [vivek-ng/concurrency-limiter](https://github.com/vivek-ng/concurrency-limiter) | 18 | 5 | 2026-09-17T17:50:21Z |  Concurrency limiter with support for timeouts, dynamic priority and context cancellation of goroutines. |
 | [Sherifabdlnaby/gpool](https://github.com/Sherifabdlnaby/gpool) | 89 | 5 | 2026-10-08T15:55:25Z |  manages a resizeable pool of context-aware goroutines to bound concurrency. |
-| [arunsworld/nursery](https://github.com/arunsworld/nursery) | 71 | 5 | 2026-07-02T04:16:37Z |  Structured concurrency in Go. |
-| [jizhuozhi/go-future](https://github.com/jizhuozhi/go-future) | 106 | 4 | 2026-09-28T21:04:03Z |  A Future/Promise library with generic combinators and a DAG execution engine. |
 | [pieterclaerhout/go-waitgroup](https://github.com/pieterclaerhout/go-waitgroup) | 49 | 4 | 2026-08-25T04:36:50Z |  Like `sync.WaitGroup` with error handling and concurrency control. |
-| [ddelizia/channelify](https://github.com/ddelizia/channelify) | 34 | 3 | 2026-09-20T07:25:57Z |  Transform your function to return channels for easy and powerful parallel processing. |
+| [jizhuozhi/go-future](https://github.com/jizhuozhi/go-future) | 106 | 4 | 2026-09-28T21:04:03Z |  A Future/Promise library with generic combinators and a DAG execution engine. |
 | [duanckham/hands](https://github.com/duanckham/hands) | 10 | 3 | 2025-08-26T05:37:56Z |  A process controller used to control the execution and return strategies of multiple goroutines. |
-| [hexdigest/execpool](https://github.com/hexdigest/execpool) | 29 | 2 | 2026-05-23T10:52:01Z |  A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command. |
-| [yaitoo/async](https://github.com/yaitoo/async) | 17 | 2 | 2026-07-24T13:12:51Z |  An asynchronous task package with async/await style for Go. |
-| [rafaeljesus/parallel-fn](https://github.com/rafaeljesus/parallel-fn) | 37 | 2 | 2026-09-24T09:49:00Z |  Run functions in parallel. |
+| [ddelizia/channelify](https://github.com/ddelizia/channelify) | 34 | 3 | 2026-09-20T07:25:57Z |  Transform your function to return channels for easy and powerful parallel processing. |
+| [hexdigest/execpool](https://github.com/hexdigest/execpool) | 30 | 2 | 2026-10-25T02:23:30Z |  A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command. |
 | [ITcathyh/conexec](https://github.com/ITcathyh/conexec) | 18 | 2 | 2026-07-06T08:29:41Z |  A concurrent toolkit to help execute funcs concurrently in an efficient and safe way. It supports specifying the overall timeout to avoid blocking and uses goroutine pool to improve efficiency. |
 | [nikhilsaraf/go-tools](https://github.com/nikhilsaraf/go-tools) | 17 | 2 | 2026-05-22T04:42:24Z |  Manage a pool of goroutines using this lightweight library with a simple API. |
+| [yaitoo/async](https://github.com/yaitoo/async) | 17 | 2 | 2026-07-24T13:12:51Z |  An asynchronous task package with async/await style for Go. |
+| [rafaeljesus/parallel-fn](https://github.com/rafaeljesus/parallel-fn) | 37 | 2 | 2026-09-24T09:49:00Z |  Run functions in parallel. |
 | [kamilsk/breaker](https://github.com/kamilsk/breaker) | 21 | 1 | 2026-05-13T23:08:04Z |  Flexible mechanism to make execution flow interruptible. |
 | [ognick/goscade](https://github.com/ognick/goscade) | 24 | 1 | 2026-09-08T12:31:23Z |  Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown. |
 | [kyuff/anchor](https://github.com/kyuff/anchor) | 6 | 1 | 2026-10-08T06:04:50Z |  Library to manage component lifecycle in microservice architectures. |
@@ -122,11 +122,12 @@ Tools for managing and working with Goroutines.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 366 | 2026-10-26T00:30:17Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
+| [panjf2000/ants](https://github.com/panjf2000/ants) | 15k | 1k | 2026-10-25T02:46:49Z |  A high-performance and low-cost goroutine pool in Go. |
+| [hexdigest/execpool](https://github.com/hexdigest/execpool) | 30 | 2 | 2026-10-25T02:23:30Z |  A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command. |
 | [vardius/worker-pool](https://github.com/vardius/worker-pool) | 93 | 13 | 2026-10-24T22:40:38Z |  goworker is a Go simple async worker pool. |
 | [vardius/gollback](https://github.com/vardius/gollback) | 121 | 13 | 2026-10-24T22:40:30Z |  asynchronous simple function utilities, for managing execution of closures and callbacks. |
-| [panjf2000/ants](https://github.com/panjf2000/ants) | 15k | 1k | 2026-10-24T20:54:46Z |  A high-performance and low-cost goroutine pool in Go. |
 | [alitto/pond](https://github.com/alitto/pond) | 2k | 93 | 2026-10-24T19:56:38Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
-| [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 366 | 2026-10-24T18:11:49Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 305 | 2026-10-24T14:31:43Z |  Goroutine pool for golang. |
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 242 | 2026-10-24T14:02:13Z |  goworker is a Go-based background worker. |
 | [vladopajic/go-actor](https://github.com/vladopajic/go-actor) | 312 | 19 | 2026-10-23T23:09:12Z |  A tiny library for writing concurrent programs using actor model. |
@@ -165,7 +166,6 @@ Tools for managing and working with Goroutines.
 | [arunsworld/nursery](https://github.com/arunsworld/nursery) | 71 | 5 | 2026-07-02T04:16:37Z |  Structured concurrency in Go. |
 | [zenthangplus/goccm](https://github.com/zenthangplus/goccm) | 73 | 13 | 2026-06-30T12:12:56Z |  Go Concurrency Manager package limits the number of goroutines that allowed to run concurrently. |
 | [kamildrazkiewicz/go-flow](https://github.com/kamildrazkiewicz/go-flow) | 221 | 27 | 2026-06-15T06:07:08Z |  Control goroutines execution order. |
-| [hexdigest/execpool](https://github.com/hexdigest/execpool) | 29 | 2 | 2026-05-23T10:52:01Z |  A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command. |
 | [marusama/cyclicbarrier](https://github.com/marusama/cyclicbarrier) | 158 | 19 | 2026-05-23T10:49:11Z |  CyclicBarrier for golang. |
 | [nikhilsaraf/go-tools](https://github.com/nikhilsaraf/go-tools) | 17 | 2 | 2026-05-22T04:42:24Z |  Manage a pool of goroutines using this lightweight library with a simple API. |
 | [loveleshsharma/gohive](https://github.com/loveleshsharma/gohive) | 54 | 5 | 2026-05-13T23:08:55Z |  A highly performant and easy to use Goroutine pool for Go. |

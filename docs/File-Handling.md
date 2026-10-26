@@ -6,10 +6,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 84k | 5k | 2026-10-25T01:25:35Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 643 | 2026-10-24T18:01:11Z |  PDF processor. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 84k | 5k | 2026-10-26T01:46:20Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 644 | 2026-10-25T04:06:23Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 7k | 595 | 2026-10-24T17:54:19Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 245 | 2026-10-24T18:02:47Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 246 | 2026-10-26T01:28:26Z |  Disk usage analyzer with console interface. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 134 | 2026-10-24T14:58:20Z | . |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 159 | 2026-10-09T17:48:20Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 935 | 142 | 2026-10-24T13:58:13Z |  File system event notification library with simple API, similar to os/signal. |
@@ -19,7 +19,7 @@ Libraries for handling files and file systems.
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 371 | 35 | 2026-10-24T03:05:22Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
 | [barasher/go-exiftool](https://github.com/barasher/go-exiftool) | 298 | 48 | 2026-10-22T10:43:00Z |  Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...). |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 286 | 46 | 2026-10-24T22:36:06Z |  A package for reading and creating ISO9660 disk images |
-| [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 131 | 33 | 2026-04-10T04:08:20Z |  Load csv file using tag. |
+| [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 130 | 33 | 2026-10-25T14:24:56Z |  Load csv file using tag. |
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 127 | 13 | 2026-08-20T19:49:14Z |  Read and write [parquet](https://parquet.apache.org) files. |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 112 | 16 | 2026-07-19T17:12:47Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
 | [dixonwille/skywalker](https://github.com/dixonwille/skywalker) | 101 | 5 | 2026-09-23T12:14:52Z |  Package to allow one to concurrently go through a filesystem with ease. |
@@ -40,10 +40,10 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 84k | 5k | 2026-10-25T01:25:35Z | ). |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 643 | 2026-10-24T18:01:11Z |  PDF processor. |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 84k | 5k | 2026-10-26T01:46:20Z | ). |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 644 | 2026-10-25T04:06:23Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 7k | 595 | 2026-10-24T17:54:19Z |  FileSystem Abstraction System for Go. |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 245 | 2026-10-24T18:02:47Z |  Disk usage analyzer with console interface. |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 246 | 2026-10-26T01:28:26Z |  Disk usage analyzer with console interface. |
 | [SebastiaanKlippert/go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) | 1k | 159 | 2026-10-09T17:48:20Z |  A package to convert an HTML template to a PDF file. |
 | [rjeczalik/notify](https://github.com/rjeczalik/notify) | 935 | 142 | 2026-10-24T13:58:13Z |  File system event notification library with simple API, similar to os/signal. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 134 | 2026-10-24T14:58:20Z | . |
@@ -53,7 +53,7 @@ Libraries for handling files and file systems.
 | [no-src/gofs](https://github.com/no-src/gofs) | 528 | 42 | 2026-09-25T13:50:36Z |  A cross-platform real-time file synchronization tool out of the box. |
 | [viant/afs](https://github.com/viant/afs) | 408 | 41 | 2026-10-24T15:05:12Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [C2FO/vfs](https://github.com/C2FO/vfs) | 371 | 35 | 2026-10-24T03:05:22Z |  A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS. |
-| [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 131 | 33 | 2026-04-10T04:08:20Z |  Load csv file using tag. |
+| [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 130 | 33 | 2026-10-25T14:24:56Z |  Load csv file using tag. |
 | [artonge/go-gtfs](https://github.com/artonge/go-gtfs) | 48 | 22 | 2026-09-28T20:16:30Z |  Load gtfs files in go. |
 | [codingsince1985/checksum](https://github.com/codingsince1985/checksum) | 112 | 16 | 2026-07-19T17:12:47Z |  Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files. |
 | [parsyl/parquet](https://github.com/parsyl/parquet) | 127 | 13 | 2026-08-20T19:49:14Z |  Read and write [parquet](https://parquet.apache.org) files. |
@@ -74,10 +74,11 @@ Libraries for handling files and file systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [junegunn/fzf](https://github.com/junegunn/fzf) | 84k | 5k | 2026-10-25T01:25:35Z | ). |
+| [junegunn/fzf](https://github.com/junegunn/fzf) | 84k | 5k | 2026-10-26T01:46:20Z | ). |
+| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 246 | 2026-10-26T01:28:26Z |  Disk usage analyzer with console interface. |
+| [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 130 | 33 | 2026-10-25T14:24:56Z |  Load csv file using tag. |
+| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 644 | 2026-10-25T04:06:23Z |  PDF processor. |
 | [kdomanski/iso9660](https://github.com/kdomanski/iso9660) | 286 | 46 | 2026-10-24T22:36:06Z |  A package for reading and creating ISO9660 disk images |
-| [dundee/gdu](https://github.com/dundee/gdu) | 6k | 245 | 2026-10-24T18:02:47Z |  Disk usage analyzer with console interface. |
-| [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) | 9k | 643 | 2026-10-24T18:01:11Z |  PDF processor. |
 | [spf13/afero](https://github.com/spf13/afero) | 7k | 595 | 2026-10-24T17:54:19Z |  FileSystem Abstraction System for Go. |
 | [viant/afs](https://github.com/viant/afs) | 408 | 41 | 2026-10-24T15:05:12Z |  Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go. |
 | [todotxt/todo.txt](https://github.com/todotxt/todo.txt) | 3k | 134 | 2026-10-24T14:58:20Z | . |
@@ -99,7 +100,6 @@ Libraries for handling files and file systems.
 | [jonchun/pathtype](https://github.com/jonchun/pathtype) | 14 | 4 | 2026-07-03T02:55:03Z |  Treat paths as their own type instead of using strings. |
 | [xis/baraka](https://github.com/xis/baraka) | 65 | 7 | 2026-05-13T22:39:53Z |  A library to process http file uploads easily. |
 | [lzambarda/goflat](https://github.com/lzambarda/goflat) | 10 | 0 | 2026-05-09T02:35:43Z |  Context-aware generic flat file marshaler/unmarshaler. |
-| [artonge/go-csv-tag](https://github.com/artonge/go-csv-tag) | 131 | 33 | 2026-04-10T04:08:20Z |  Load csv file using tag. |
 | [qmuntal/opc](https://github.com/qmuntal/opc) | 80 | 7 | 2026-03-19T10:02:44Z |  Load Open Packaging Conventions (OPC) files for Go. |
 | [1set/gut](https://github.com/1set/gut) | 27 | 8 | 2025-07-09T21:48:42Z |  Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links. |
 | [hugocarreira/go-decent-copy](https://github.com/hugocarreira/go-decent-copy) | 22 | 6 | 2024-04-28T06:10:20Z |  Copy files for humans. |
