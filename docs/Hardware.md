@@ -6,13 +6,13 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 502 | 2026-10-25T09:06:33Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 503 | 2026-10-26T19:59:54Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2026-10-21T05:24:49Z |  GPIO for Go, doesn't require cgo. |
 | [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 227 | 2026-10-23T10:43:36Z |  Golang hardware discovery/inspection library. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 67 | 2026-10-15T22:35:27Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 580 | 102 | 2026-10-24T21:07:09Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 366 | 72 | 2026-07-05T04:31:37Z |  Robot Operating System (ROS) library for Go. |
-| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 234 | 59 | 2026-10-11T08:12:18Z |  Open Sound Control (OSC) bindings for Go. |
+| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 234 | 58 | 2026-10-11T08:12:18Z |  Open Sound Control (OSC) bindings for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 78 | 24 | 2026-10-20T11:13:31Z |  a polled API to read the state of an attached joystick. |
 | [dinakars777/moody](https://github.com/dinakars777/moody) | 5 | 1 | 2026-07-06T07:47:49Z |  Hardware event personality daemon for macOS. Monitors USB, charger, lid, and other hardware events and responds with customizable personalities. |
 
@@ -20,13 +20,13 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 502 | 2026-10-25T09:06:33Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 503 | 2026-10-26T19:59:54Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 227 | 2026-10-23T10:43:36Z |  Golang hardware discovery/inspection library. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2026-10-21T05:24:49Z |  GPIO for Go, doesn't require cgo. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 580 | 102 | 2026-10-24T21:07:09Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 366 | 72 | 2026-07-05T04:31:37Z |  Robot Operating System (ROS) library for Go. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 67 | 2026-10-15T22:35:27Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
-| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 234 | 59 | 2026-10-11T08:12:18Z |  Open Sound Control (OSC) bindings for Go. |
+| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 234 | 58 | 2026-10-11T08:12:18Z |  Open Sound Control (OSC) bindings for Go. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 78 | 24 | 2026-10-20T11:13:31Z |  a polled API to read the state of an attached joystick. |
 | [dinakars777/moody](https://github.com/dinakars777/moody) | 5 | 1 | 2026-07-06T07:47:49Z |  Hardware event personality daemon for macOS. Monitors USB, charger, lid, and other hardware events and responds with customizable personalities. |
 
@@ -34,13 +34,13 @@ Libraries, tools, and tutorials for interacting with hardware.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 502 | 2026-10-25T09:06:33Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
+| [arduino/arduino-cli](https://github.com/arduino/arduino-cli) | 5k | 503 | 2026-10-26T19:59:54Z |  Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects. |
 | [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) | 580 | 102 | 2026-10-24T21:07:09Z |  A pure Go library providing Linux OS / kernel / hardware system information. |
 | [jaypipes/ghw](https://github.com/jaypipes/ghw) | 2k | 227 | 2026-10-23T10:43:36Z |  Golang hardware discovery/inspection library. |
 | [stianeikeland/go-rpio](https://github.com/stianeikeland/go-rpio) | 2k | 224 | 2026-10-21T05:24:49Z |  GPIO for Go, doesn't require cgo. |
 | [0xcafed00d/joystick](https://github.com/0xcafed00d/joystick) | 78 | 24 | 2026-10-20T11:13:31Z |  a polled API to read the state of an attached joystick. |
 | [ziutek/emgo](https://github.com/ziutek/emgo) | 1k | 67 | 2026-10-15T22:35:27Z |  Go-like language for programming embedded systems (e.g. STM32 MCU). |
-| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 234 | 59 | 2026-10-11T08:12:18Z |  Open Sound Control (OSC) bindings for Go. |
+| [hypebeast/go-osc](https://github.com/hypebeast/go-osc) | 234 | 58 | 2026-10-11T08:12:18Z |  Open Sound Control (OSC) bindings for Go. |
 | [dinakars777/moody](https://github.com/dinakars777/moody) | 5 | 1 | 2026-07-06T07:47:49Z |  Hardware event personality daemon for macOS. Monitors USB, charger, lid, and other hardware events and responds with customizable personalities. |
 | [aler9/goroslib](https://github.com/aler9/goroslib) | 366 | 72 | 2026-07-05T04:31:37Z |  Robot Operating System (ROS) library for Go. |
 
