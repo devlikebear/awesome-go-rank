@@ -6,9 +6,9 @@ Libraries for working with Microsoft Word.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [xuri/excelize](https://github.com/xuri/excelize) | 21k | 2k | 2026-10-27T00:54:08Z |  Golang library for reading and writing Microsoft Excel&trade; (XLSX) files. |
-| [tealeg/xlsx](https://github.com/tealeg/xlsx) | 6k | 812 | 2026-10-25T16:30:49Z |  Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs. |
-| [unidoc/unioffice](https://github.com/unidoc/unioffice) | 5k | 509 | 2026-10-24T18:01:36Z |  Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents. |
+| [xuri/excelize](https://github.com/xuri/excelize) | 21k | 2k | 2026-10-27T18:14:12Z |  Golang library for reading and writing Microsoft Excel&trade; (XLSX) files. |
+| [tealeg/xlsx](https://github.com/tealeg/xlsx) | 6k | 813 | 2026-10-25T16:30:49Z |  Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs. |
+| [unidoc/unioffice](https://github.com/unidoc/unioffice) | 5k | 510 | 2026-10-27T07:22:21Z |  Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents. |
 | [gomutex/godocx](https://github.com/gomutex/godocx) | 273 | 46 | 2026-10-25T17:50:32Z |  Library for reading and writing Microsoft Word (Docx) files. |
 | [szyhf/go-excel](https://github.com/szyhf/go-excel) | 198 | 39 | 2026-09-24T09:49:12Z |  A simple and light reader to read a relate-db-like excel as a table. |
 | [plandem/xlsx](https://github.com/plandem/xlsx) | 177 | 23 | 2026-10-23T11:12:01Z |  Fast and safe way to read/update your existing Microsoft Excel files in Go programs. |
@@ -19,9 +19,9 @@ Libraries for working with Microsoft Word.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [xuri/excelize](https://github.com/xuri/excelize) | 21k | 2k | 2026-10-27T00:54:08Z |  Golang library for reading and writing Microsoft Excel&trade; (XLSX) files. |
-| [tealeg/xlsx](https://github.com/tealeg/xlsx) | 6k | 812 | 2026-10-25T16:30:49Z |  Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs. |
-| [unidoc/unioffice](https://github.com/unidoc/unioffice) | 5k | 509 | 2026-10-24T18:01:36Z |  Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents. |
+| [xuri/excelize](https://github.com/xuri/excelize) | 21k | 2k | 2026-10-27T18:14:12Z |  Golang library for reading and writing Microsoft Excel&trade; (XLSX) files. |
+| [tealeg/xlsx](https://github.com/tealeg/xlsx) | 6k | 813 | 2026-10-25T16:30:49Z |  Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs. |
+| [unidoc/unioffice](https://github.com/unidoc/unioffice) | 5k | 510 | 2026-10-27T07:22:21Z |  Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents. |
 | [gomutex/godocx](https://github.com/gomutex/godocx) | 273 | 46 | 2026-10-25T17:50:32Z |  Library for reading and writing Microsoft Word (Docx) files. |
 | [szyhf/go-excel](https://github.com/szyhf/go-excel) | 198 | 39 | 2026-09-24T09:49:12Z |  A simple and light reader to read a relate-db-like excel as a table. |
 | [plandem/xlsx](https://github.com/plandem/xlsx) | 177 | 23 | 2026-10-23T11:12:01Z |  Fast and safe way to read/update your existing Microsoft Excel files in Go programs. |
@@ -32,10 +32,10 @@ Libraries for working with Microsoft Word.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [xuri/excelize](https://github.com/xuri/excelize) | 21k | 2k | 2026-10-27T00:54:08Z |  Golang library for reading and writing Microsoft Excel&trade; (XLSX) files. |
+| [xuri/excelize](https://github.com/xuri/excelize) | 21k | 2k | 2026-10-27T18:14:12Z |  Golang library for reading and writing Microsoft Excel&trade; (XLSX) files. |
+| [unidoc/unioffice](https://github.com/unidoc/unioffice) | 5k | 510 | 2026-10-27T07:22:21Z |  Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents. |
 | [gomutex/godocx](https://github.com/gomutex/godocx) | 273 | 46 | 2026-10-25T17:50:32Z |  Library for reading and writing Microsoft Word (Docx) files. |
-| [tealeg/xlsx](https://github.com/tealeg/xlsx) | 6k | 812 | 2026-10-25T16:30:49Z |  Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs. |
-| [unidoc/unioffice](https://github.com/unidoc/unioffice) | 5k | 509 | 2026-10-24T18:01:36Z |  Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents. |
+| [tealeg/xlsx](https://github.com/tealeg/xlsx) | 6k | 813 | 2026-10-25T16:30:49Z |  Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs. |
 | [plandem/xlsx](https://github.com/plandem/xlsx) | 177 | 23 | 2026-10-23T11:12:01Z |  Fast and safe way to read/update your existing Microsoft Excel files in Go programs. |
 | [szyhf/go-excel](https://github.com/szyhf/go-excel) | 198 | 39 | 2026-09-24T09:49:12Z |  A simple and light reader to read a relate-db-like excel as a table. |
 | [go-the-way/exl](https://github.com/go-the-way/exl) | 33 | 11 | 2026-07-06T08:12:32Z |  Excel binding to struct written in Go.(Only supports Go1.18+) |

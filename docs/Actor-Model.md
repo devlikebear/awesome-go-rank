@@ -7,9 +7,9 @@ Libraries for building actor-based programs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 6k | 569 | 2026-10-25T08:17:24Z |  Distributed actors for Go, C#, and Java/Kotlin. |
-| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 5k | 192 | 2026-10-27T00:38:21Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
+| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 5k | 193 | 2026-10-27T10:59:02Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
 | [anthdm/hollywood](https://github.com/anthdm/hollywood) | 2k | 181 | 2026-10-23T07:30:18Z |  Blazingly fast and light-weight Actor engine written in Golang. |
-| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 390 | 48 | 2026-10-26T11:52:59Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
+| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 390 | 48 | 2026-10-27T19:39:30Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
 | [pancsta/asyncmachine-go](https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine) | 192 | 17 | 2026-10-24T22:41:13Z |  Graph control flow library (AOP, actor, state-machine). |
 
 ### Ranked by Forks
@@ -17,17 +17,17 @@ Libraries for building actor-based programs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 6k | 569 | 2026-10-25T08:17:24Z |  Distributed actors for Go, C#, and Java/Kotlin. |
-| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 5k | 192 | 2026-10-27T00:38:21Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
+| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 5k | 193 | 2026-10-27T10:59:02Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
 | [anthdm/hollywood](https://github.com/anthdm/hollywood) | 2k | 181 | 2026-10-23T07:30:18Z |  Blazingly fast and light-weight Actor engine written in Golang. |
-| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 390 | 48 | 2026-10-26T11:52:59Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
+| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 390 | 48 | 2026-10-27T19:39:30Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
 | [pancsta/asyncmachine-go](https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine) | 192 | 17 | 2026-10-24T22:41:13Z |  Graph control flow library (AOP, actor, state-machine). |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 5k | 192 | 2026-10-27T00:38:21Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
-| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 390 | 48 | 2026-10-26T11:52:59Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
+| [Tochemey/goakt](https://github.com/Tochemey/goakt) | 390 | 48 | 2026-10-27T19:39:30Z |  Fast and Distributed Actor framework using protocol buffers as message for Golang. |
+| [ergo-services/ergo](https://github.com/ergo-services/ergo) | 5k | 193 | 2026-10-27T10:59:02Z |  An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. |
 | [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) | 6k | 569 | 2026-10-25T08:17:24Z |  Distributed actors for Go, C#, and Java/Kotlin. |
 | [pancsta/asyncmachine-go](https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine) | 192 | 17 | 2026-10-24T22:41:13Z |  Graph control flow library (AOP, actor, state-machine). |
 | [anthdm/hollywood](https://github.com/anthdm/hollywood) | 2k | 181 | 2026-10-23T07:30:18Z |  Blazingly fast and light-weight Actor engine written in Golang. |
