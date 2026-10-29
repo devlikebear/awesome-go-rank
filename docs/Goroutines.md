@@ -10,7 +10,7 @@ Tools for managing and working with Goroutines.
 | [sourcegraph/conc](https://github.com/sourcegraph/conc) | 10k | 366 | 2026-10-27T17:26:43Z |  `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 305 | 2026-10-24T14:31:43Z |  Goroutine pool for golang. |
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 242 | 2026-10-26T14:47:45Z |  goworker is a Go-based background worker. |
-| [alitto/pond](https://github.com/alitto/pond) | 2k | 93 | 2026-10-24T19:56:38Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
+| [alitto/pond](https://github.com/alitto/pond) | 2k | 94 | 2026-10-24T19:56:38Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 32 | 2026-10-23T03:10:40Z |  Go toolkit for clean, composable, channel-based concurrency. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 151 | 2026-10-19T21:36:55Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
 | [ivpusic/grpool](https://github.com/ivpusic/grpool) | 731 | 100 | 2026-10-09T17:24:57Z |  Lightweight Goroutine pool. |
@@ -70,7 +70,7 @@ Tools for managing and working with Goroutines.
 | [benmanns/goworker](https://github.com/benmanns/goworker) | 3k | 242 | 2026-10-26T14:47:45Z |  goworker is a Go-based background worker. |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | 1k | 151 | 2026-10-19T21:36:55Z |  Goroutine pool that limits the concurrency of task execution, not the number of tasks queued. |
 | [ivpusic/grpool](https://github.com/ivpusic/grpool) | 731 | 100 | 2026-10-09T17:24:57Z |  Lightweight Goroutine pool. |
-| [alitto/pond](https://github.com/alitto/pond) | 2k | 93 | 2026-10-24T19:56:38Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
+| [alitto/pond](https://github.com/alitto/pond) | 2k | 94 | 2026-10-24T19:56:38Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
 | [xxjwxc/gowp](https://github.com/xxjwxc/gowp) | 517 | 66 | 2026-09-30T06:58:35Z |  gowp is concurrency limiting goroutine pool. |
 | [go-playground/pool](https://github.com/go-playground/pool) | 721 | 63 | 2026-10-08T15:53:56Z |  Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 32 | 2026-10-23T03:10:40Z |  Go toolkit for clean, composable, channel-based concurrency. |
@@ -130,7 +130,7 @@ Tools for managing and working with Goroutines.
 | [hexdigest/execpool](https://github.com/hexdigest/execpool) | 30 | 2 | 2026-10-25T02:23:30Z |  A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI or Apache Prefork MPM but works for any command. |
 | [vardius/worker-pool](https://github.com/vardius/worker-pool) | 93 | 13 | 2026-10-24T22:40:38Z |  goworker is a Go simple async worker pool. |
 | [vardius/gollback](https://github.com/vardius/gollback) | 121 | 13 | 2026-10-24T22:40:30Z |  asynchronous simple function utilities, for managing execution of closures and callbacks. |
-| [alitto/pond](https://github.com/alitto/pond) | 2k | 93 | 2026-10-24T19:56:38Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
+| [alitto/pond](https://github.com/alitto/pond) | 2k | 94 | 2026-10-24T19:56:38Z |  Minimalistic and High-performance goroutine worker pool written in Go. |
 | [Jeffail/tunny](https://github.com/Jeffail/tunny) | 4k | 305 | 2026-10-24T14:31:43Z |  Goroutine pool for golang. |
 | [vladopajic/go-actor](https://github.com/vladopajic/go-actor) | 312 | 19 | 2026-10-23T23:09:12Z |  A tiny library for writing concurrent programs using actor model. |
 | [destel/rill](https://github.com/destel/rill) | 2k | 32 | 2026-10-23T03:10:40Z |  Go toolkit for clean, composable, channel-based concurrency. |
