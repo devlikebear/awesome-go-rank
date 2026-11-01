@@ -6,10 +6,10 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-10-29T07:21:54Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 19k | 2k | 2026-10-31T00:20:15Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-10-31T20:14:11Z | . |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 19k | 2k | 2026-10-31T22:48:52Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
 | [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 431 | 2026-10-30T14:06:41Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
-| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 340 | 2026-10-31T00:22:19Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 341 | 2026-10-31T00:22:19Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 3k | 154 | 2026-10-28T20:59:34Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 176 | 2026-10-20T01:50:32Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 144 | 2026-10-22T17:14:28Z |  source code linter that brings checks that are currently not implemented in other linters. |
@@ -28,7 +28,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) | 324 | 18 | 2026-06-05T22:58:14Z |  CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author. |
 | [shurcooL/gostatus](https://github.com/shurcooL/gostatus) | 246 | 9 | 2026-09-25T00:56:00Z |  Command line tool, shows the status of repositories that contain Go packages. |
 | [bradleyfalzon/apicompat](https://github.com/bradleyfalzon/apicompat) | 182 | 5 | 2026-04-07T13:59:30Z |  Checks recent changes to a Go project for backwards incompatible changes. |
-| [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) | 164 | 19 | 2026-10-28T16:36:57Z |  Static code analyzer for Go and other languages: complexity, coupling, cohesion and maintainability metrics, with HTML, JSON, Markdown and SARIF reports. |
+| [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) | 165 | 19 | 2026-10-31T18:12:16Z |  Static code analyzer for Go and other languages: complexity, coupling, cohesion and maintainability metrics, with HTML, JSON, Markdown and SARIF reports. |
 | [qiniu/checkstyle](https://github.com/qiniu/checkstyle) | 130 | 17 | 2026-02-23T14:36:51Z |  checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments. |
 | [asty-org/asty](https://github.com/asty-org/asty) | 88 | 5 | 2026-07-05T12:32:03Z |  Converts golang AST to JSON and JSON to AST. |
 | [Crocmagnon/fatcontext](https://github.com/Crocmagnon/fatcontext) | 83 | 2 | 2026-10-18T19:57:01Z |  Fatcontext detects nested contexts in loops or function literals. |
@@ -38,7 +38,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [mccoyst/validate](https://github.com/mccoyst/validate) | 62 | 14 | 2025-02-27T22:04:43Z |  Automatically validates struct fields with tags. |
 | [sashamelentyev/usestdlibvars](https://github.com/sashamelentyev/usestdlibvars) | 48 | 6 | 2026-10-01T09:41:00Z |  A linter that detect the possibility to use variables/constants from the Go standard library. |
 | [mainak55512/stto](https://github.com/mainak55512/stto) | 47 | 7 | 2026-07-12T20:18:31Z |  A light-weight superfast line of code counter written in pure Go. |
-| [shinagawa-web/gomarklint](https://github.com/shinagawa-web/gomarklint) | 19 | 2 | 2026-10-30T18:39:11Z |  Markdown linter with built-in HTTP link validation, single binary, no Node.js required. |
+| [shinagawa-web/gomarklint](https://github.com/shinagawa-web/gomarklint) | 20 | 2 | 2026-10-31T16:49:12Z |  Markdown linter with built-in HTTP link validation, single binary, no Node.js required. |
 | [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 13 | 3 | 2025-03-13T13:36:44Z |  iFood API SDK. |
 | [peczenyj/structalign](https://github.com/peczenyj/structalign) | 10 | 0 | 2026-10-23T10:48:51Z |  Shows how a struct's fields could be reordered to use less memory, printing a diff instead of rewriting files. |
 | [arxeiss/deadmono](https://github.com/arxeiss/deadmono) | 2 | 0 | 2026-09-24T21:16:37Z |  Wrapper around deadcode for detection of dead code in Go monorepo. |
@@ -47,10 +47,10 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-10-29T07:21:54Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 19k | 2k | 2026-10-31T00:20:15Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-10-31T20:14:11Z | . |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 19k | 2k | 2026-10-31T22:48:52Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
 | [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 431 | 2026-10-30T14:06:41Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
-| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 340 | 2026-10-31T00:22:19Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 341 | 2026-10-31T00:22:19Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 176 | 2026-10-20T01:50:32Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 3k | 154 | 2026-10-28T20:59:34Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 144 | 2026-10-22T17:14:28Z |  source code linter that brings checks that are currently not implemented in other linters. |
@@ -66,7 +66,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) | 670 | 31 | 2026-10-17T01:41:14Z |  An easy way to find outdated dependencies of your Go projects. |
 | [mdempsky/unconvert](https://github.com/mdempsky/unconvert) | 388 | 28 | 2026-10-20T13:39:00Z |  Remove unnecessary type conversions from Go source. |
 | [mibk/dupl](https://github.com/mibk/dupl) | 369 | 24 | 2026-10-26T07:56:04Z |  Tool for code clone detection. |
-| [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) | 164 | 19 | 2026-10-28T16:36:57Z |  Static code analyzer for Go and other languages: complexity, coupling, cohesion and maintainability metrics, with HTML, JSON, Markdown and SARIF reports. |
+| [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) | 165 | 19 | 2026-10-31T18:12:16Z |  Static code analyzer for Go and other languages: complexity, coupling, cohesion and maintainability metrics, with HTML, JSON, Markdown and SARIF reports. |
 | [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) | 324 | 18 | 2026-06-05T22:58:14Z |  CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author. |
 | [qiniu/checkstyle](https://github.com/qiniu/checkstyle) | 130 | 17 | 2026-02-23T14:36:51Z |  checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments. |
 | [Checkmarx/chainjacking](https://github.com/Checkmarx/chainjacking) | 64 | 15 | 2026-07-06T07:33:14Z |  Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack. |
@@ -80,7 +80,7 @@ Source code analysis tools, also known as Static Application Security Testing (S
 | [bradleyfalzon/apicompat](https://github.com/bradleyfalzon/apicompat) | 182 | 5 | 2026-04-07T13:59:30Z |  Checks recent changes to a Go project for backwards incompatible changes. |
 | [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) | 13 | 3 | 2025-03-13T13:36:44Z |  iFood API SDK. |
 | [Crocmagnon/fatcontext](https://github.com/Crocmagnon/fatcontext) | 83 | 2 | 2026-10-18T19:57:01Z |  Fatcontext detects nested contexts in loops or function literals. |
-| [shinagawa-web/gomarklint](https://github.com/shinagawa-web/gomarklint) | 19 | 2 | 2026-10-30T18:39:11Z |  Markdown linter with built-in HTTP link validation, single binary, no Node.js required. |
+| [shinagawa-web/gomarklint](https://github.com/shinagawa-web/gomarklint) | 20 | 2 | 2026-10-31T16:49:12Z |  Markdown linter with built-in HTTP link validation, single binary, no Node.js required. |
 | [peczenyj/structalign](https://github.com/peczenyj/structalign) | 10 | 0 | 2026-10-23T10:48:51Z |  Shows how a struct's fields could be reordered to use less memory, printing a diff instead of rewriting files. |
 | [arxeiss/deadmono](https://github.com/arxeiss/deadmono) | 2 | 0 | 2026-09-24T21:16:37Z |  Wrapper around deadcode for detection of dead code in Go monorepo. |
 
@@ -88,14 +88,14 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 340 | 2026-10-31T00:22:19Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 19k | 2k | 2026-10-31T00:20:15Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 19k | 2k | 2026-10-31T22:48:52Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-10-31T20:14:11Z | . |
+| [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) | 165 | 19 | 2026-10-31T18:12:16Z |  Static code analyzer for Go and other languages: complexity, coupling, cohesion and maintainability metrics, with HTML, JSON, Markdown and SARIF reports. |
+| [shinagawa-web/gomarklint](https://github.com/shinagawa-web/gomarklint) | 20 | 2 | 2026-10-31T16:49:12Z |  Markdown linter with built-in HTTP link validation, single binary, no Node.js required. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 341 | 2026-10-31T00:22:19Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 1k | 92 | 2026-10-30T22:30:49Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
-| [shinagawa-web/gomarklint](https://github.com/shinagawa-web/gomarklint) | 19 | 2 | 2026-10-30T18:39:11Z |  Markdown linter with built-in HTTP link validation, single binary, no Node.js required. |
 | [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 431 | 2026-10-30T14:06:41Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
-| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-10-29T07:21:54Z | . |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 3k | 154 | 2026-10-28T20:59:34Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
-| [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) | 164 | 19 | 2026-10-28T16:36:57Z |  Static code analyzer for Go and other languages: complexity, coupling, cohesion and maintainability metrics, with HTML, JSON, Markdown and SARIF reports. |
 | [z7zmey/php-parser](https://github.com/z7zmey/php-parser) | 958 | 63 | 2026-10-26T13:25:23Z |  A Parser for PHP written in Go. |
 | [mibk/dupl](https://github.com/mibk/dupl) | 369 | 24 | 2026-10-26T07:56:04Z |  Tool for code clone detection. |
 | [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) | 984 | 50 | 2026-10-24T18:00:40Z |  go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects. |

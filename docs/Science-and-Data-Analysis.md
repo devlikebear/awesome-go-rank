@@ -12,7 +12,7 @@ Libraries for scientific computing and data analyzing.
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-10-27T20:46:34Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 103 | 2026-08-02T08:35:19Z |  general purpose, graphical tool for dealing with streams of data. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 99 | 2026-10-25T06:25:30Z |  Dataframes for machine-learning and statistics (similar to pandas). |
-| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 131 | 2026-10-30T20:17:28Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
+| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 132 | 2026-10-30T20:17:28Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [mjibson/go-dsp](https://github.com/mjibson/go-dsp) | 913 | 87 | 2026-10-19T02:11:50Z |  Digital Signal Processing for Go. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 775 | 107 | 2026-10-21T05:23:41Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 752 | 59 | 2026-10-05T08:59:37Z |  Library of basic graph algorithms. |
@@ -57,7 +57,7 @@ Libraries for scientific computing and data analyzing.
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 202 | 2026-10-22T17:59:11Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 178 | 2026-10-25T16:38:33Z |  Statistics package with common functions missing from the Golang standard library. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-10-27T20:46:34Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
-| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 131 | 2026-10-30T20:17:28Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
+| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 132 | 2026-10-30T20:17:28Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 775 | 107 | 2026-10-21T05:23:41Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [nytlabs/streamtools](https://github.com/nytlabs/streamtools) | 1k | 103 | 2026-08-02T08:35:19Z |  general purpose, graphical tool for dealing with streams of data. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 99 | 2026-10-25T06:25:30Z |  Dataframes for machine-learning and statistics (similar to pandas). |
@@ -101,7 +101,7 @@ Libraries for scientific computing and data analyzing.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 588 | 2026-10-31T02:14:10Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
-| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 131 | 2026-10-30T20:17:28Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
+| [paulmach/orb](https://github.com/paulmach/orb) | 1k | 132 | 2026-10-30T20:17:28Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [HazelnutParadise/insyra](https://github.com/HazelnutParadise/insyra) | 59 | 3 | 2026-10-30T16:07:16Z |  Data analysis library with statistics, visualization, Parquet support, and Python integration. |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 141 | 29 | 2026-10-30T11:04:36Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-10-27T20:46:34Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |

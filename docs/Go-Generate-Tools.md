@@ -12,11 +12,11 @@
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 119 | 12 | 2026-09-24T09:50:29Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [bouk/gonerics](https://github.com/bouk/gonerics) | 112 | 8 | 2026-01-18T21:23:07Z |  Idiomatic Generics in Go. |
 | [kazhuravlev/options-gen](https://github.com/kazhuravlev/options-gen) | 112 | 13 | 2026-10-10T17:06:26Z |  Functional options described by Dave Cheney's post "Functional options for friendly APIs". |
-| [g4s8/envdoc](https://github.com/g4s8/envdoc) | 100 | 9 | 2026-10-07T21:52:56Z |  generate documentation for environment variables from Go source files. |
+| [g4s8/envdoc](https://github.com/g4s8/envdoc) | 100 | 9 | 2026-10-31T13:17:21Z |  generate documentation for environment variables from Go source files. |
 | [hexdigest/gounit](https://github.com/hexdigest/gounit) | 87 | 11 | 2025-11-17T17:39:26Z |  Generate Go tests using your own templates. |
 | [anqiansong/sqlgen](https://github.com/anqiansong/sqlgen) | 87 | 9 | 2026-10-17T05:51:22Z |  Generate gorm, xorm, sqlx, bun, sql code from SQL file or DSN. |
 | [usk81/generic](https://github.com/usk81/generic) | 49 | 6 | 2025-02-18T11:15:25Z |  flexible data type for Go. |
-| [mafulong/godal](https://github.com/mafulong/godal) | 19 | 0 | 2025-11-03T11:41:30Z |  Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm. |
+| [mafulong/godal](https://github.com/mafulong/godal) | 19 | 0 | 2026-10-31T03:12:01Z |  Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm. |
 | [psyb0t/oapixconstgen](https://github.com/psyb0t/oapixconstgen) | 0 | 0 | 2026-08-01T19:48:35Z |  Generate typed Go constants from an OpenAPI spec's x-constants extension. |
 
 ### Ranked by Forks
@@ -29,27 +29,27 @@
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 119 | 12 | 2026-09-24T09:50:29Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [DylanMeeus/hasgo](https://github.com/DylanMeeus/hasgo) | 144 | 11 | 2026-02-26T11:34:51Z |  Generate Haskell inspired functions for your slices. |
 | [hexdigest/gounit](https://github.com/hexdigest/gounit) | 87 | 11 | 2025-11-17T17:39:26Z |  Generate Go tests using your own templates. |
-| [g4s8/envdoc](https://github.com/g4s8/envdoc) | 100 | 9 | 2026-10-07T21:52:56Z |  generate documentation for environment variables from Go source files. |
+| [g4s8/envdoc](https://github.com/g4s8/envdoc) | 100 | 9 | 2026-10-31T13:17:21Z |  generate documentation for environment variables from Go source files. |
 | [anqiansong/sqlgen](https://github.com/anqiansong/sqlgen) | 87 | 9 | 2026-10-17T05:51:22Z |  Generate gorm, xorm, sqlx, bun, sql code from SQL file or DSN. |
 | [bouk/gonerics](https://github.com/bouk/gonerics) | 112 | 8 | 2026-01-18T21:23:07Z |  Idiomatic Generics in Go. |
 | [usk81/generic](https://github.com/usk81/generic) | 49 | 6 | 2025-02-18T11:15:25Z |  flexible data type for Go. |
-| [mafulong/godal](https://github.com/mafulong/godal) | 19 | 0 | 2025-11-03T11:41:30Z |  Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm. |
+| [mafulong/godal](https://github.com/mafulong/godal) | 19 | 0 | 2026-10-31T03:12:01Z |  Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm. |
 | [psyb0t/oapixconstgen](https://github.com/psyb0t/oapixconstgen) | 0 | 0 | 2026-08-01T19:48:35Z |  Generate typed Go constants from an OpenAPI spec's x-constants extension. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [g4s8/envdoc](https://github.com/g4s8/envdoc) | 100 | 9 | 2026-10-31T13:17:21Z |  generate documentation for environment variables from Go source files. |
+| [mafulong/godal](https://github.com/mafulong/godal) | 19 | 0 | 2026-10-31T03:12:01Z |  Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm. |
 | [cweill/gotests](https://github.com/cweill/gotests) | 5k | 354 | 2026-10-30T18:17:57Z |  Generate Go tests from your source code. |
 | [xuri/xgen](https://github.com/xuri/xgen) | 426 | 106 | 2026-10-30T00:10:01Z |  XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator. |
 | [anqiansong/sqlgen](https://github.com/anqiansong/sqlgen) | 87 | 9 | 2026-10-17T05:51:22Z |  Generate gorm, xorm, sqlx, bun, sql code from SQL file or DSN. |
 | [kazhuravlev/options-gen](https://github.com/kazhuravlev/options-gen) | 112 | 13 | 2026-10-10T17:06:26Z |  Functional options described by Dave Cheney's post "Functional options for friendly APIs". |
-| [g4s8/envdoc](https://github.com/g4s8/envdoc) | 100 | 9 | 2026-10-07T21:52:56Z |  generate documentation for environment variables from Go source files. |
 | [Parquery/gocontracts](https://github.com/Parquery/gocontracts) | 119 | 12 | 2026-09-24T09:50:29Z |  brings design-by-contract to Go by synchronizing the code with the documentation. |
 | [psyb0t/oapixconstgen](https://github.com/psyb0t/oapixconstgen) | 0 | 0 | 2026-08-01T19:48:35Z |  Generate typed Go constants from an OpenAPI spec's x-constants extension. |
 | [DylanMeeus/hasgo](https://github.com/DylanMeeus/hasgo) | 144 | 11 | 2026-02-26T11:34:51Z |  Generate Haskell inspired functions for your slices. |
 | [bouk/gonerics](https://github.com/bouk/gonerics) | 112 | 8 | 2026-01-18T21:23:07Z |  Idiomatic Generics in Go. |
 | [hexdigest/gounit](https://github.com/hexdigest/gounit) | 87 | 11 | 2025-11-17T17:39:26Z |  Generate Go tests using your own templates. |
-| [mafulong/godal](https://github.com/mafulong/godal) | 19 | 0 | 2025-11-03T11:41:30Z |  Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm. |
 | [usk81/generic](https://github.com/usk81/generic) | 49 | 6 | 2025-02-18T11:15:25Z |  flexible data type for Go. |
 
