@@ -6,11 +6,11 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 39k | 3k | 2026-11-01T02:14:12Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 735 | 2026-10-31T23:09:35Z |  Woodpecker is a community fork of the Drone CI system. |
+| [drone/drone](https://github.com/drone/drone) | 39k | 3k | 2026-11-02T00:32:11Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 735 | 2026-11-02T02:41:39Z |  Woodpecker is a community fork of the Drone CI system. |
 | [ovh/cds](https://github.com/ovh/cds) | 5k | 457 | 2026-10-31T14:38:38Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 240 | 2026-10-31T18:59:23Z | . |
-| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 961 | 103 | 2026-10-28T19:05:31Z |  Abstruse is a distributed CI platform. |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 240 | 2026-11-01T21:46:28Z | . |
+| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 962 | 103 | 2026-11-01T05:58:33Z |  Abstruse is a distributed CI platform. |
 | [mattn/goveralls](https://github.com/mattn/goveralls) | 796 | 135 | 2026-10-23T08:37:46Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
 | [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) | 594 | 12 | 2026-10-20T17:58:24Z |  go test output for humans. |
 | [pikoci/pikoci](https://github.com/pikoci/pikoci) | 171 | 7 | 2026-10-25T22:02:53Z |  Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners. |
@@ -26,12 +26,12 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 39k | 3k | 2026-11-01T02:14:12Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 735 | 2026-10-31T23:09:35Z |  Woodpecker is a community fork of the Drone CI system. |
+| [drone/drone](https://github.com/drone/drone) | 39k | 3k | 2026-11-02T00:32:11Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 735 | 2026-11-02T02:41:39Z |  Woodpecker is a community fork of the Drone CI system. |
 | [ovh/cds](https://github.com/ovh/cds) | 5k | 457 | 2026-10-31T14:38:38Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 240 | 2026-10-31T18:59:23Z | . |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 240 | 2026-11-01T21:46:28Z | . |
 | [mattn/goveralls](https://github.com/mattn/goveralls) | 796 | 135 | 2026-10-23T08:37:46Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
-| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 961 | 103 | 2026-10-28T19:05:31Z |  Abstruse is a distributed CI platform. |
+| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 962 | 103 | 2026-11-01T05:58:33Z |  Abstruse is a distributed CI platform. |
 | [go-playground/overalls](https://github.com/go-playground/overalls) | 116 | 25 | 2026-08-01T21:33:01Z |  Multi-Package go project coverprofile for tools like goveralls. |
 | [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) | 594 | 12 | 2026-10-20T17:58:24Z |  go test output for humans. |
 | [nikogura/gomason](https://github.com/nikogura/gomason) | 70 | 9 | 2026-10-27T21:49:29Z |  Test, Build, Sign, and Publish your go binaries from a clean workspace. |
@@ -46,12 +46,12 @@ Tools for help with continuous integration.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [drone/drone](https://github.com/drone/drone) | 39k | 3k | 2026-11-01T02:14:12Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
-| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 735 | 2026-10-31T23:09:35Z |  Woodpecker is a community fork of the Drone CI system. |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 240 | 2026-10-31T18:59:23Z | . |
+| [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) | 8k | 735 | 2026-11-02T02:41:39Z |  Woodpecker is a community fork of the Drone CI system. |
+| [drone/drone](https://github.com/drone/drone) | 39k | 3k | 2026-11-02T00:32:11Z |  Drone is a Continuous Integration platform built on Docker, written in Go. |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee#features) | 4k | 240 | 2026-11-01T21:46:28Z | . |
+| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 962 | 103 | 2026-11-01T05:58:33Z |  Abstruse is a distributed CI platform. |
 | [ovh/cds](https://github.com/ovh/cds) | 5k | 457 | 2026-10-31T14:38:38Z |  Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. |
 | [opnlabs/dot](https://github.com/opnlabs/dot) | 36 | 0 | 2026-10-29T09:00:08Z |  A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages. |
-| [bleenco/abstruse](https://github.com/bleenco/abstruse) | 961 | 103 | 2026-10-28T19:05:31Z |  Abstruse is a distributed CI platform. |
 | [nikogura/gomason](https://github.com/nikogura/gomason) | 70 | 9 | 2026-10-27T21:49:29Z |  Test, Build, Sign, and Publish your go binaries from a clean workspace. |
 | [pikoci/pikoci](https://github.com/pikoci/pikoci) | 171 | 7 | 2026-10-25T22:02:53Z |  Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners. |
 | [mattn/goveralls](https://github.com/mattn/goveralls) | 796 | 135 | 2026-10-23T08:37:46Z |  Go integration for Coveralls.io continuous code coverage tracking system. |
