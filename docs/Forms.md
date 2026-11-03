@@ -6,7 +6,7 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 130 | 2026-10-22T05:24:30Z |  CSRF protection middleware for Go. |
+| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 130 | 2026-11-02T11:36:55Z |  CSRF protection middleware for Go. |
 | [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 178 | 2026-10-29T17:17:52Z |  CSRF protection for Go web applications & services. |
 | [go-playground/form](https://github.com/go-playground/form) | 933 | 54 | 2026-10-31T21:25:33Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 390 | 28 | 2026-10-09T17:50:43Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
@@ -24,7 +24,7 @@ Libraries for working with forms.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 178 | 2026-10-29T17:17:52Z |  CSRF protection for Go web applications & services. |
-| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 130 | 2026-10-22T05:24:30Z |  CSRF protection middleware for Go. |
+| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 130 | 2026-11-02T11:36:55Z |  CSRF protection middleware for Go. |
 | [go-playground/form](https://github.com/go-playground/form) | 933 | 54 | 2026-10-31T21:25:33Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 323 | 38 | 2026-09-05T17:39:44Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 390 | 28 | 2026-10-09T17:50:43Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
@@ -40,9 +40,9 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 130 | 2026-11-02T11:36:55Z |  CSRF protection middleware for Go. |
 | [go-playground/form](https://github.com/go-playground/form) | 933 | 54 | 2026-10-31T21:25:33Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 178 | 2026-10-29T17:17:52Z |  CSRF protection for Go web applications & services. |
-| [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 130 | 2026-10-22T05:24:30Z |  CSRF protection middleware for Go. |
 | [sonh/qs](https://github.com/sonh/qs) | 82 | 9 | 2026-10-10T17:18:13Z |  Go module for encoding structs into URL query parameters. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 390 | 28 | 2026-10-09T17:50:43Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [albrow/forms](https://github.com/albrow/forms) | 141 | 25 | 2026-09-24T09:45:46Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
