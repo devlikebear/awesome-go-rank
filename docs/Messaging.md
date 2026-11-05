@@ -6,22 +6,22 @@ Libraries that implement messaging systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hibiken/asynq](https://github.com/hibiken/asynq) | 14k | 992 | 2026-11-04T01:34:35Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
-| [Shopify/sarama](https://github.com/Shopify/sarama) | 13k | 2k | 2026-11-04T01:33:56Z |  Go library for Apache Kafka. |
-| [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 11k | 752 | 2026-11-03T13:37:27Z |  Real-time messaging (Websockets or SockJS) server in Go. |
-| [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | 10k | 513 | 2026-11-03T14:46:27Z |  Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog. |
-| [RichardKnop/machinery](https://github.com/RichardKnop/machinery) | 8k | 932 | 2026-11-02T22:23:31Z |  Asynchronous task queue/job queue based on distributed message passing. |
-| [nats-io/nats.go](https://github.com/nats-io/nats.go) | 7k | 851 | 2026-11-03T18:23:15Z |  Go client for the NATS |
-| [dunglas/mercure](https://github.com/dunglas/mercure) | 5k | 348 | 2026-11-03T00:16:16Z |  Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events). |
+| [hibiken/asynq](https://github.com/hibiken/asynq) | 14k | 993 | 2026-11-05T01:18:34Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
+| [Shopify/sarama](https://github.com/Shopify/sarama) | 13k | 2k | 2026-11-05T01:12:58Z |  Go library for Apache Kafka. |
+| [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 11k | 753 | 2026-11-04T18:10:56Z |  Real-time messaging (Websockets or SockJS) server in Go. |
+| [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | 10k | 514 | 2026-11-05T01:17:41Z |  Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog. |
+| [RichardKnop/machinery](https://github.com/RichardKnop/machinery) | 8k | 932 | 2026-11-05T01:14:17Z |  Asynchronous task queue/job queue based on distributed message passing. |
+| [nats-io/nats.go](https://github.com/nats-io/nats.go) | 7k | 852 | 2026-11-04T15:38:21Z |  Go client for the NATS |
+| [dunglas/mercure](https://github.com/dunglas/mercure) | 5k | 348 | 2026-11-04T16:39:20Z |  Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events). |
 | [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | 5k | 703 | 2026-11-03T17:36:31Z |  confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform. |
 | [olahol/melody](https://github.com/olahol/melody) | 4k | 370 | 2026-10-31T13:48:48Z |  Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling. |
 | [sideshow/apns2](https://github.com/sideshow/apns2) | 3k | 357 | 2026-11-02T05:13:40Z |  HTTP/2 Apple Push Notification provider for Go - Send push notifications to iOS, tvOS, Safari and OSX apps. |
 | [nsqio/go-nsq](https://github.com/nsqio/go-nsq) | 3k | 434 | 2026-10-23T10:25:04Z |  the official Go package for NSQ. |
 | [Terry-Mao/gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) | 2k | 544 | 2026-10-25T06:25:14Z |  gopush-cluster is a go push server cluster. |
-| [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) | 2k | 175 | 2026-11-03T14:31:09Z |  Go RabbitMQ Client Library. |
-| [asaskevich/EventBus](https://github.com/asaskevich/EventBus) | 2k | 241 | 2026-10-24T17:54:32Z |  The lightweight event bus with async compatibility. |
+| [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) | 2k | 175 | 2026-11-05T01:19:56Z |  Go RabbitMQ Client Library. |
+| [asaskevich/EventBus](https://github.com/asaskevich/EventBus) | 2k | 241 | 2026-11-04T19:36:28Z |  The lightweight event bus with async compatibility. |
 | [Clivern/Beaver](https://github.com/Clivern/Beaver) | 2k | 84 | 2026-11-01T18:33:50Z |  A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps. |
-| [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) | 2k | 203 | 2026-10-31T14:45:17Z |  Redis backed unified push service for server-side notifications to mobile devices. |
+| [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) | 2k | 204 | 2026-10-31T14:45:17Z |  Redis backed unified push service for server-side notifications to mobile devices. |
 | [chanify/chanify](https://github.com/chanify/chanify) | 1k | 102 | 2026-10-28T19:32:50Z |  A push notification server send message to your iOS devices. |
 | [godbus/dbus](https://github.com/godbus/dbus) | 1k | 256 | 2026-11-01T23:21:57Z |  Native Go bindings for D-Bus. |
 | [trivago/gollum](https://github.com/trivago/gollum) | 939 | 74 | 2026-11-02T00:51:54Z |  A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations. |
@@ -35,7 +35,7 @@ Libraries that implement messaging systems.
 | [jandelgado/rabtap](https://github.com/jandelgado/rabtap) | 290 | 18 | 2026-10-05T17:38:44Z |  RabbitMQ swiss army knife cli app. |
 | [vardius/message-bus](https://github.com/vardius/message-bus) | 284 | 49 | 2026-11-01T19:17:54Z |  messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD. |
 | [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) | 282 | 19 | 2026-10-28T09:01:24Z |  A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library. |
-| [goptics/varmq](https://github.com/goptics/varmq) | 209 | 21 | 2026-11-03T11:04:42Z |  A storage-agnostic message queue and worker pool for concurrent Go programs. |
+| [goptics/varmq](https://github.com/goptics/varmq) | 209 | 21 | 2026-11-04T14:59:38Z |  A storage-agnostic message queue and worker pool for concurrent Go programs. |
 | [smancke/guble](https://github.com/smancke/guble) | 161 | 23 | 2025-12-16T10:18:04Z |  Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as well as websockets, a REST API, featuring distributed operation and message-persistence. |
 | [mikestefanello/backlite](https://github.com/mikestefanello/backlite) | 157 | 10 | 2026-10-29T18:26:19Z |  Type-safe, persistent, embedded task queues and background job runner w/ SQLite. |
 | [leandro-lugaresi/hub](https://github.com/leandro-lugaresi/hub) | 150 | 19 | 2026-10-12T22:17:39Z |  A Message/Event Hub for Go applications, using publish/subscribe pattern with support for alias like rabbitMQ exchanges. |
@@ -62,7 +62,7 @@ Libraries that implement messaging systems.
 | [sbabiv/rmqconn](https://github.com/sbabiv/rmqconn) | 23 | 2 | 2024-09-09T15:45:20Z |  RabbitMQ Reconnection. Wrapper over amqp.Connection and amqp.Dial. Allowing to do a reconnection when the connection is broken before forcing the call to the Close () method to be closed. |
 | [pebbe/zmq2](https://github.com/pebbe/zmq2) | 19 | 4 | 2026-09-30T12:04:41Z | . |
 | [socifi/jazz](https://github.com/socifi/jazz) | 18 | 5 | 2025-09-28T21:42:40Z |  A simple RabbitMQ abstraction layer for queue administration and publishing and consuming of messages. |
-| [qvcloud/broker](https://github.com/qvcloud/broker) | 13 | 1 | 2026-11-03T10:38:53Z |  Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration. |
+| [qvcloud/broker](https://github.com/qvcloud/broker) | 14 | 1 | 2026-11-04T15:26:29Z |  Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration. |
 | [stanipetrosyan/go-eventbus](https://github.com/stanipetrosyan/go-eventbus) | 11 | 1 | 2026-07-06T10:06:41Z |  Simple Event Bus package for Go. |
 | [osamingo/gaurun-client](https://github.com/osamingo/gaurun-client) | 11 | 4 | 2022-09-27T08:41:03Z |  Gaurun Client written in Go. |
 | [rafaelaugustos/kiln](https://github.com/rafaelaugustos/kiln) | 8 | 0 | 2026-10-31T20:07:32Z |  Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard. |
@@ -71,22 +71,22 @@ Libraries that implement messaging systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [Shopify/sarama](https://github.com/Shopify/sarama) | 13k | 2k | 2026-11-04T01:33:56Z |  Go library for Apache Kafka. |
-| [hibiken/asynq](https://github.com/hibiken/asynq) | 14k | 992 | 2026-11-04T01:34:35Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
-| [RichardKnop/machinery](https://github.com/RichardKnop/machinery) | 8k | 932 | 2026-11-02T22:23:31Z |  Asynchronous task queue/job queue based on distributed message passing. |
-| [nats-io/nats.go](https://github.com/nats-io/nats.go) | 7k | 851 | 2026-11-03T18:23:15Z |  Go client for the NATS |
-| [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 11k | 752 | 2026-11-03T13:37:27Z |  Real-time messaging (Websockets or SockJS) server in Go. |
+| [Shopify/sarama](https://github.com/Shopify/sarama) | 13k | 2k | 2026-11-05T01:12:58Z |  Go library for Apache Kafka. |
+| [hibiken/asynq](https://github.com/hibiken/asynq) | 14k | 993 | 2026-11-05T01:18:34Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
+| [RichardKnop/machinery](https://github.com/RichardKnop/machinery) | 8k | 932 | 2026-11-05T01:14:17Z |  Asynchronous task queue/job queue based on distributed message passing. |
+| [nats-io/nats.go](https://github.com/nats-io/nats.go) | 7k | 852 | 2026-11-04T15:38:21Z |  Go client for the NATS |
+| [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 11k | 753 | 2026-11-04T18:10:56Z |  Real-time messaging (Websockets or SockJS) server in Go. |
 | [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | 5k | 703 | 2026-11-03T17:36:31Z |  confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform. |
 | [Terry-Mao/gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) | 2k | 544 | 2026-10-25T06:25:14Z |  gopush-cluster is a go push server cluster. |
-| [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | 10k | 513 | 2026-11-03T14:46:27Z |  Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog. |
+| [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | 10k | 514 | 2026-11-05T01:17:41Z |  Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog. |
 | [nsqio/go-nsq](https://github.com/nsqio/go-nsq) | 3k | 434 | 2026-10-23T10:25:04Z |  the official Go package for NSQ. |
 | [olahol/melody](https://github.com/olahol/melody) | 4k | 370 | 2026-10-31T13:48:48Z |  Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling. |
 | [sideshow/apns2](https://github.com/sideshow/apns2) | 3k | 357 | 2026-11-02T05:13:40Z |  HTTP/2 Apple Push Notification provider for Go - Send push notifications to iOS, tvOS, Safari and OSX apps. |
-| [dunglas/mercure](https://github.com/dunglas/mercure) | 5k | 348 | 2026-11-03T00:16:16Z |  Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events). |
+| [dunglas/mercure](https://github.com/dunglas/mercure) | 5k | 348 | 2026-11-04T16:39:20Z |  Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events). |
 | [godbus/dbus](https://github.com/godbus/dbus) | 1k | 256 | 2026-11-01T23:21:57Z |  Native Go bindings for D-Bus. |
-| [asaskevich/EventBus](https://github.com/asaskevich/EventBus) | 2k | 241 | 2026-10-24T17:54:32Z |  The lightweight event bus with async compatibility. |
-| [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) | 2k | 203 | 2026-10-31T14:45:17Z |  Redis backed unified push service for server-side notifications to mobile devices. |
-| [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) | 2k | 175 | 2026-11-03T14:31:09Z |  Go RabbitMQ Client Library. |
+| [asaskevich/EventBus](https://github.com/asaskevich/EventBus) | 2k | 241 | 2026-11-04T19:36:28Z |  The lightweight event bus with async compatibility. |
+| [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) | 2k | 204 | 2026-10-31T14:45:17Z |  Redis backed unified push service for server-side notifications to mobile devices. |
+| [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) | 2k | 175 | 2026-11-05T01:19:56Z |  Go RabbitMQ Client Library. |
 | [chanify/chanify](https://github.com/chanify/chanify) | 1k | 102 | 2026-10-28T19:32:50Z |  A push notification server send message to your iOS devices. |
 | [Clivern/Beaver](https://github.com/Clivern/Beaver) | 2k | 84 | 2026-11-01T18:33:50Z |  A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps. |
 | [nanomsg/mangos](https://github.com/nanomsg/mangos) | 762 | 83 | 2026-11-04T00:49:08Z |  Pure go implementation of the Nanomsg ("Scalability Protocols") with transport interoperability. |
@@ -102,7 +102,7 @@ Libraries that implement messaging systems.
 | [rafaeljesus/rabbus](https://github.com/rafaeljesus/rabbus) | 98 | 25 | 2025-04-08T17:38:40Z |  A tiny wrapper over amqp exchanges and queues. |
 | [mustafaturan/bus](https://github.com/mustafaturan/bus) | 368 | 25 | 2026-10-02T15:15:07Z |  Minimalist message bus implementation for internal communication. |
 | [smancke/guble](https://github.com/smancke/guble) | 161 | 23 | 2025-12-16T10:18:04Z |  Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as well as websockets, a REST API, featuring distributed operation and message-persistence. |
-| [goptics/varmq](https://github.com/goptics/varmq) | 209 | 21 | 2026-11-03T11:04:42Z |  A storage-agnostic message queue and worker pool for concurrent Go programs. |
+| [goptics/varmq](https://github.com/goptics/varmq) | 209 | 21 | 2026-11-04T14:59:38Z |  A storage-agnostic message queue and worker pool for concurrent Go programs. |
 | [cheshir/go-mq](https://github.com/cheshir/go-mq) | 91 | 19 | 2026-07-13T20:14:09Z |  RabbitMQ client with declarative configuration. |
 | [leandro-lugaresi/hub](https://github.com/leandro-lugaresi/hub) | 150 | 19 | 2026-10-12T22:17:39Z |  A Message/Event Hub for Go applications, using publish/subscribe pattern with support for alias like rabbitMQ exchanges. |
 | [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) | 282 | 19 | 2026-10-28T09:01:24Z |  A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library. |
@@ -128,7 +128,7 @@ Libraries that implement messaging systems.
 | [osamingo/gaurun-client](https://github.com/osamingo/gaurun-client) | 11 | 4 | 2022-09-27T08:41:03Z |  Gaurun Client written in Go. |
 | [SchwarzDigits/hypermatch](https://github.com/SchwarzDigits/hypermatch) | 39 | 3 | 2026-10-30T21:31:36Z |  Matches events against large sets of rules, with rules written in Go or as JSON. |
 | [sbabiv/rmqconn](https://github.com/sbabiv/rmqconn) | 23 | 2 | 2024-09-09T15:45:20Z |  RabbitMQ Reconnection. Wrapper over amqp.Connection and amqp.Dial. Allowing to do a reconnection when the connection is broken before forcing the call to the Close () method to be closed. |
-| [qvcloud/broker](https://github.com/qvcloud/broker) | 13 | 1 | 2026-11-03T10:38:53Z |  Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration. |
+| [qvcloud/broker](https://github.com/qvcloud/broker) | 14 | 1 | 2026-11-04T15:26:29Z |  Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration. |
 | [stanipetrosyan/go-eventbus](https://github.com/stanipetrosyan/go-eventbus) | 11 | 1 | 2026-07-06T10:06:41Z |  Simple Event Bus package for Go. |
 | [rafaelaugustos/kiln](https://github.com/rafaelaugustos/kiln) | 8 | 0 | 2026-10-31T20:07:32Z |  Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard. |
 
@@ -136,19 +136,20 @@ Libraries that implement messaging systems.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [hibiken/asynq](https://github.com/hibiken/asynq) | 14k | 992 | 2026-11-04T01:34:35Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
-| [Shopify/sarama](https://github.com/Shopify/sarama) | 13k | 2k | 2026-11-04T01:33:56Z |  Go library for Apache Kafka. |
+| [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) | 2k | 175 | 2026-11-05T01:19:56Z |  Go RabbitMQ Client Library. |
+| [hibiken/asynq](https://github.com/hibiken/asynq) | 14k | 993 | 2026-11-05T01:18:34Z |  A simple, reliable, and efficient distributed task queue for Go built on top of Redis. |
+| [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | 10k | 514 | 2026-11-05T01:17:41Z |  Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog. |
+| [RichardKnop/machinery](https://github.com/RichardKnop/machinery) | 8k | 932 | 2026-11-05T01:14:17Z |  Asynchronous task queue/job queue based on distributed message passing. |
+| [Shopify/sarama](https://github.com/Shopify/sarama) | 13k | 2k | 2026-11-05T01:12:58Z |  Go library for Apache Kafka. |
+| [asaskevich/EventBus](https://github.com/asaskevich/EventBus) | 2k | 241 | 2026-11-04T19:36:28Z |  The lightweight event bus with async compatibility. |
+| [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 11k | 753 | 2026-11-04T18:10:56Z |  Real-time messaging (Websockets or SockJS) server in Go. |
+| [dunglas/mercure](https://github.com/dunglas/mercure) | 5k | 348 | 2026-11-04T16:39:20Z |  Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events). |
+| [nats-io/nats.go](https://github.com/nats-io/nats.go) | 7k | 852 | 2026-11-04T15:38:21Z |  Go client for the NATS |
+| [qvcloud/broker](https://github.com/qvcloud/broker) | 14 | 1 | 2026-11-04T15:26:29Z |  Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration. |
+| [goptics/varmq](https://github.com/goptics/varmq) | 209 | 21 | 2026-11-04T14:59:38Z |  A storage-agnostic message queue and worker pool for concurrent Go programs. |
 | [nanomsg/mangos](https://github.com/nanomsg/mangos) | 762 | 83 | 2026-11-04T00:49:08Z |  Pure go implementation of the Nanomsg ("Scalability Protocols") with transport interoperability. |
-| [nats-io/nats.go](https://github.com/nats-io/nats.go) | 7k | 851 | 2026-11-03T18:23:15Z |  Go client for the NATS |
 | [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | 5k | 703 | 2026-11-03T17:36:31Z |  confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform. |
-| [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | 10k | 513 | 2026-11-03T14:46:27Z |  Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog. |
-| [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) | 2k | 175 | 2026-11-03T14:31:09Z |  Go RabbitMQ Client Library. |
-| [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) | 11k | 752 | 2026-11-03T13:37:27Z |  Real-time messaging (Websockets or SockJS) server in Go. |
 | [TheCreeper/go-notify](https://github.com/TheCreeper/go-notify) | 72 | 11 | 2026-11-03T12:55:20Z |  Native implementation of the freedesktop notification spec. |
-| [goptics/varmq](https://github.com/goptics/varmq) | 209 | 21 | 2026-11-03T11:04:42Z |  A storage-agnostic message queue and worker pool for concurrent Go programs. |
-| [qvcloud/broker](https://github.com/qvcloud/broker) | 13 | 1 | 2026-11-03T10:38:53Z |  Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration. |
-| [dunglas/mercure](https://github.com/dunglas/mercure) | 5k | 348 | 2026-11-03T00:16:16Z |  Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events). |
-| [RichardKnop/machinery](https://github.com/RichardKnop/machinery) | 8k | 932 | 2026-11-02T22:23:31Z |  Asynchronous task queue/job queue based on distributed message passing. |
 | [sideshow/apns2](https://github.com/sideshow/apns2) | 3k | 357 | 2026-11-02T05:13:40Z |  HTTP/2 Apple Push Notification provider for Go - Send push notifications to iOS, tvOS, Safari and OSX apps. |
 | [trivago/gollum](https://github.com/trivago/gollum) | 939 | 74 | 2026-11-02T00:51:54Z |  A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations. |
 | [olebedev/emitter](https://github.com/olebedev/emitter) | 528 | 37 | 2026-11-02T00:35:53Z |  Emits events using Go way, with wildcard, predicates, cancellation possibilities and many other good wins. |
@@ -157,7 +158,7 @@ Libraries that implement messaging systems.
 | [Clivern/Beaver](https://github.com/Clivern/Beaver) | 2k | 84 | 2026-11-01T18:33:50Z |  A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps. |
 | [appleboy/drone-line](https://github.com/appleboy/drone-line) | 81 | 16 | 2026-11-01T07:16:37Z |  Sending [Line](https://at.line.me/en) notifications using a binary, docker or Drone CI. |
 | [rafaelaugustos/kiln](https://github.com/rafaelaugustos/kiln) | 8 | 0 | 2026-10-31T20:07:32Z |  Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard. |
-| [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) | 2k | 203 | 2026-10-31T14:45:17Z |  Redis backed unified push service for server-side notifications to mobile devices. |
+| [uniqush/uniqush-push](https://github.com/uniqush/uniqush-push) | 2k | 204 | 2026-10-31T14:45:17Z |  Redis backed unified push service for server-side notifications to mobile devices. |
 | [olahol/melody](https://github.com/olahol/melody) | 4k | 370 | 2026-10-31T13:48:48Z |  Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling. |
 | [SchwarzDigits/hypermatch](https://github.com/SchwarzDigits/hypermatch) | 39 | 3 | 2026-10-30T21:31:36Z |  Matches events against large sets of rules, with rules written in Go or as JSON. |
 | [mikestefanello/backlite](https://github.com/mikestefanello/backlite) | 157 | 10 | 2026-10-29T18:26:19Z |  Type-safe, persistent, embedded task queues and background job runner w/ SQLite. |
@@ -165,7 +166,6 @@ Libraries that implement messaging systems.
 | [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) | 282 | 19 | 2026-10-28T09:01:24Z |  A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library. |
 | [Terry-Mao/gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) | 2k | 544 | 2026-10-25T06:25:14Z |  gopush-cluster is a go push server cluster. |
 | [timbray/quamina](https://github.com/timbray/quamina) | 509 | 32 | 2026-10-25T00:07:04Z |  Fast pattern-matching for filtering messages and events. |
-| [asaskevich/EventBus](https://github.com/asaskevich/EventBus) | 2k | 241 | 2026-10-24T17:54:32Z |  The lightweight event bus with async compatibility. |
 | [nsqio/go-nsq](https://github.com/nsqio/go-nsq) | 3k | 434 | 2026-10-23T10:25:04Z |  the official Go package for NSQ. |
 | [hyperonym/ratus](https://github.com/hyperonym/ratus) | 127 | 8 | 2026-10-20T18:32:04Z |  Ratus is a RESTful asynchronous task queue server. |
 | [Raezil/GoEventBus](https://github.com/Raezil/GoEventBus) | 75 | 9 | 2026-10-20T18:27:46Z |  A blazing‑fast, in‑memory, lock‑free event bus library |
