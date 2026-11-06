@@ -24,7 +24,7 @@ Libraries for scientific computing and data analyzing.
 | [go-hep/hep](https://github.com/go-hep/hep) | 254 | 38 | 2026-09-30T13:22:54Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 224 | 25 | 2026-09-27T00:39:50Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 170 | 24 | 2026-10-03T16:02:57Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
-| [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 142 | 30 | 2026-11-01T12:32:37Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
+| [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 142 | 30 | 2026-11-05T10:06:31Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 123 | 10 | 2026-10-18T13:51:03Z |  State estimation and filtering algorithms in Go. |
 | [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 87 | 20 | 2025-09-18T12:34:36Z |  Weighted PageRank algorithm implemented in Go. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 80 | 4 | 2026-11-03T10:53:41Z |  Tool to manipulate JSONL graphs with graphviz support. |
@@ -36,7 +36,7 @@ Libraries for scientific computing and data analyzing.
 | [kzahedi/goent](https://github.com/kzahedi/goent) | 36 | 4 | 2025-11-15T09:50:06Z |  GO Implementation of Entropy Measures. |
 | [scigolib/hdf5](https://github.com/scigolib/hdf5) | 32 | 8 | 2026-10-21T22:28:55Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 28 | 4 | 2026-09-27T23:17:04Z |  Tiny linear interpolation library. |
-| [tphakala/simd](https://github.com/tphakala/simd) | 27 | 6 | 2026-11-03T19:51:56Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
+| [tphakala/simd](https://github.com/tphakala/simd) | 26 | 5 | 2026-11-05T16:25:21Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
 | [soypat/godesim](https://github.com/soypat/godesim) | 23 | 1 | 2024-01-05T15:41:16Z |  Extended/multivariable ODE solver framework for event-based simulations with simple API. |
 | [ChristopherRabotin/ode](https://github.com/ChristopherRabotin/ode) | 22 | 2 | 2023-11-18T05:45:28Z |  Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions. |
 | [OGFris/GoStats](https://github.com/OGFris/GoStats) | 22 | 3 | 2024-10-22T01:08:13Z |  GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions. |
@@ -68,7 +68,7 @@ Libraries for scientific computing and data analyzing.
 | [go-hep/hep](https://github.com/go-hep/hep) | 254 | 38 | 2026-09-30T13:22:54Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 447 | 37 | 2026-09-17T17:45:09Z |  Exponentially-weighted moving averages. |
 | [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 484 | 32 | 2026-11-03T09:01:16Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
-| [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 142 | 30 | 2026-11-01T12:32:37Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
+| [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 142 | 30 | 2026-11-05T10:06:31Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 224 | 25 | 2026-09-27T00:39:50Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 170 | 24 | 2026-10-03T16:02:57Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
 | [alixaxel/pagerank](https://github.com/alixaxel/pagerank) | 87 | 20 | 2025-09-18T12:34:36Z |  Weighted PageRank algorithm implemented in Go. |
@@ -77,7 +77,7 @@ Libraries for scientific computing and data analyzing.
 | [soniah/evaler](https://github.com/soniah/evaler) | 50 | 16 | 2025-10-04T17:33:26Z |  Simple floating point arithmetic expression evaluator. |
 | [milosgajdos/go-estimate](https://github.com/milosgajdos/go-estimate) | 123 | 10 | 2026-10-18T13:51:03Z |  State estimation and filtering algorithms in Go. |
 | [scigolib/hdf5](https://github.com/scigolib/hdf5) | 32 | 8 | 2026-10-21T22:28:55Z |  Pure Go implementation of the HDF5 file format for scientific data storage and exchange. |
-| [tphakala/simd](https://github.com/tphakala/simd) | 27 | 6 | 2026-11-03T19:51:56Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
+| [tphakala/simd](https://github.com/tphakala/simd) | 26 | 5 | 2026-11-05T16:25:21Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
 | [sgreben/piecewiselinear](https://github.com/sgreben/piecewiselinear) | 28 | 4 | 2026-09-27T23:17:04Z |  Tiny linear interpolation library. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 80 | 4 | 2026-11-03T10:53:41Z |  Tool to manipulate JSONL graphs with graphviz support. |
 | [kzahedi/goent](https://github.com/kzahedi/goent) | 36 | 4 | 2025-11-15T09:50:06Z |  GO Implementation of Entropy Measures. |
@@ -100,15 +100,15 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [tphakala/simd](https://github.com/tphakala/simd) | 26 | 5 | 2026-11-05T16:25:21Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
+| [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 142 | 30 | 2026-11-05T10:06:31Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [HazelnutParadise/insyra](https://github.com/HazelnutParadise/insyra) | 58 | 3 | 2026-11-04T13:57:09Z |  Data analysis library with statistics, visualization, Parquet support, and Python integration. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-11-04T06:26:45Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
-| [tphakala/simd](https://github.com/tphakala/simd) | 27 | 6 | 2026-11-03T19:51:56Z |  Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration. |
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 588 | 2026-11-03T18:30:41Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 80 | 4 | 2026-11-03T10:53:41Z |  Tool to manipulate JSONL graphs with graphviz support. |
 | [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 484 | 32 | 2026-11-03T09:01:16Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 202 | 2026-11-01T23:35:46Z |  gonum/plot provides an API for building and drawing plots in Go. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 132 | 2026-11-01T16:12:21Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
-| [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 142 | 30 | 2026-11-01T12:32:37Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 774 | 107 | 2026-11-01T03:23:51Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [montanaflynn/stats](https://github.com/montanaflynn/stats) | 3k | 178 | 2026-10-25T16:38:33Z |  Statistics package with common functions missing from the Golang standard library. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 99 | 2026-10-25T06:25:30Z |  Dataframes for machine-learning and statistics (similar to pandas). |

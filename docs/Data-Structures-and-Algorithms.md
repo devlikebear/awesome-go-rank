@@ -6,27 +6,27 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-11-03T07:50:07Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 722 | 2026-11-04T10:42:15Z |  Modern text indexing library for go. |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 8k | 531 | 2026-11-04T22:48:21Z |  Distributed, Fault-tolerant task queue. |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-11-06T02:52:12Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 722 | 2026-11-05T09:24:54Z |  Modern text indexing library for go. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 8k | 535 | 2026-11-06T02:35:16Z |  Distributed, Fault-tolerant task queue. |
 | [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 850 | 2026-11-03T07:51:12Z |  Collection of useful, performant, and thread-safe data structures. |
 | [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 297 | 2026-11-05T01:12:58Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
 | [kniren/gota](https://github.com/kniren/gota) | 3k | 286 | 2026-10-16T12:50:06Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 263 | 2026-11-04T05:29:56Z |  Go package implementing compressed bitsets. |
 | [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 261 | 2026-11-03T01:10:19Z |  Go package implementing Bloom filters. |
-| [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) | 2k | 74 | 2026-11-05T01:19:56Z |  Concurrent scalable data structures like `xsync.Map`, a concurrent generic hash table. |
+| [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) | 2k | 74 | 2026-11-05T17:51:58Z |  Concurrent scalable data structures like `xsync.Map`, a concurrent generic hash table. |
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 118 | 2026-09-24T09:46:19Z |  Probabilistic data structures for processing continuous, unbounded streams. |
 | [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 2k | 194 | 2026-11-04T05:18:01Z |  Go package implementing bitsets. |
 | [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 1k | 120 | 2026-11-01T03:20:57Z |  Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. |
 | [liyue201/gostl](https://github.com/liyue201/gostl) | 1k | 116 | 2026-11-04T09:55:54Z |  Data structure and algorithm library for go, designed to provide functions similar to C++ STL. |
-| [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 88 | 2026-11-03T07:59:47Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
+| [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 88 | 2026-11-05T06:16:06Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
 | [shady831213/algorithms](https://github.com/shady831213/algorithms) | 842 | 122 | 2026-10-15T02:10:42Z |  Algorithms and data structures.CLRS study. |
 | [derekparker/trie](https://github.com/derekparker/trie) | 795 | 118 | 2026-11-01T17:10:19Z |  Trie implementation in Go. |
 | [gammazero/deque](https://github.com/gammazero/deque) | 790 | 71 | 2026-11-02T08:18:44Z |  Fast ring-buffer deque (double-ended queue). |
 | [hbollon/go-edlib](https://github.com/hbollon/go-edlib) | 607 | 29 | 2026-10-16T12:30:59Z |  Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode. |
 | [agnivade/levenshtein](https://github.com/agnivade/levenshtein) | 481 | 36 | 2026-10-17T13:46:57Z |  Implementation to calculate levenshtein distance in Go. |
 | [enriquebris/goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) | 433 | 35 | 2026-10-02T15:15:05Z |  Concurrent FIFO queue. |
-| [huandu/skiplist](https://github.com/huandu/skiplist) | 428 | 68 | 2026-10-06T17:55:30Z |  Fast and easy-to-use skip list for Go. |
+| [huandu/skiplist](https://github.com/huandu/skiplist) | 427 | 68 | 2026-11-05T08:35:41Z |  Fast and easy-to-use skip list for Go. |
 | [plar/go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) | 413 | 64 | 2026-10-18T07:22:26Z |  Go implementation of Adaptive Radix Tree. |
 | [kelindar/bitmap](https://github.com/kelindar/bitmap) | 385 | 35 | 2026-11-04T03:26:22Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
 | [adrianbrad/queue](https://github.com/adrianbrad/queue) | 371 | 16 | 2026-10-29T05:39:43Z |  Multiple thread-safe, generic queue implementations for Go. |
@@ -99,10 +99,10 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-11-03T07:50:07Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-11-06T02:52:12Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
 | [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 850 | 2026-11-03T07:51:12Z |  Collection of useful, performant, and thread-safe data structures. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 722 | 2026-11-04T10:42:15Z |  Modern text indexing library for go. |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 8k | 531 | 2026-11-04T22:48:21Z |  Distributed, Fault-tolerant task queue. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 722 | 2026-11-05T09:24:54Z |  Modern text indexing library for go. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 8k | 535 | 2026-11-06T02:35:16Z |  Distributed, Fault-tolerant task queue. |
 | [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 297 | 2026-11-05T01:12:58Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
 | [kniren/gota](https://github.com/kniren/gota) | 3k | 286 | 2026-10-16T12:50:06Z |  Implementation of dataframes, series, and data wrangling methods for Go. |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 263 | 2026-11-04T05:29:56Z |  Go package implementing compressed bitsets. |
@@ -113,10 +113,10 @@
 | [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) | 2k | 118 | 2026-09-24T09:46:19Z |  Probabilistic data structures for processing continuous, unbounded streams. |
 | [derekparker/trie](https://github.com/derekparker/trie) | 795 | 118 | 2026-11-01T17:10:19Z |  Trie implementation in Go. |
 | [liyue201/gostl](https://github.com/liyue201/gostl) | 1k | 116 | 2026-11-04T09:55:54Z |  Data structure and algorithm library for go, designed to provide functions similar to C++ STL. |
-| [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 88 | 2026-11-03T07:59:47Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
-| [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) | 2k | 74 | 2026-11-05T01:19:56Z |  Concurrent scalable data structures like `xsync.Map`, a concurrent generic hash table. |
+| [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 88 | 2026-11-05T06:16:06Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
+| [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) | 2k | 74 | 2026-11-05T17:51:58Z |  Concurrent scalable data structures like `xsync.Map`, a concurrent generic hash table. |
 | [gammazero/deque](https://github.com/gammazero/deque) | 790 | 71 | 2026-11-02T08:18:44Z |  Fast ring-buffer deque (double-ended queue). |
-| [huandu/skiplist](https://github.com/huandu/skiplist) | 428 | 68 | 2026-10-06T17:55:30Z |  Fast and easy-to-use skip list for Go. |
+| [huandu/skiplist](https://github.com/huandu/skiplist) | 427 | 68 | 2026-11-05T08:35:41Z |  Fast and easy-to-use skip list for Go. |
 | [plar/go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) | 413 | 64 | 2026-10-18T07:22:26Z |  Go implementation of Adaptive Radix Tree. |
 | [hailocab/go-geoindex](https://github.com/hailocab/go-geoindex) | 359 | 46 | 2026-10-08T15:53:36Z |  In-memory geo index. |
 | [MauriceGit/skiplist](https://github.com/MauriceGit/skiplist) | 296 | 40 | 2026-09-24T09:50:18Z |  Very fast Go Skiplist implementation. |
@@ -192,19 +192,20 @@
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-11-06T02:52:12Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 8k | 535 | 2026-11-06T02:35:16Z |  Distributed, Fault-tolerant task queue. |
+| [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) | 2k | 74 | 2026-11-05T17:51:58Z |  Concurrent scalable data structures like `xsync.Map`, a concurrent generic hash table. |
+| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 722 | 2026-11-05T09:24:54Z |  Modern text indexing library for go. |
+| [huandu/skiplist](https://github.com/huandu/skiplist) | 427 | 68 | 2026-11-05T08:35:41Z |  Fast and easy-to-use skip list for Go. |
+| [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 88 | 2026-11-05T06:16:06Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
 | [nwillc/genfuncs](https://github.com/nwillc/genfuncs) | 51 | 5 | 2026-11-05T01:20:15Z |  Go 1.18+ generics package inspired by Kotlin's Sequence and Map. |
-| [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) | 2k | 74 | 2026-11-05T01:19:56Z |  Concurrent scalable data structures like `xsync.Map`, a concurrent generic hash table. |
 | [deckarep/golang-set](https://github.com/deckarep/golang-set) | 5k | 297 | 2026-11-05T01:12:58Z |  Thread-Safe and Non-Thread-Safe high-performance sets for Go. |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 8k | 531 | 2026-11-04T22:48:21Z |  Distributed, Fault-tolerant task queue. |
 | [TheTannerRyan/ring](https://github.com/TheTannerRyan/ring) | 147 | 16 | 2026-11-04T14:18:56Z |  Go implementation of a high performance, thread safe bloom filter. |
-| [blevesearch/bleve](https://github.com/blevesearch/bleve) | 11k | 722 | 2026-11-04T10:42:15Z |  Modern text indexing library for go. |
 | [liyue201/gostl](https://github.com/liyue201/gostl) | 1k | 116 | 2026-11-04T09:55:54Z |  Data structure and algorithm library for go, designed to provide functions similar to C++ STL. |
 | [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) | 3k | 263 | 2026-11-04T05:29:56Z |  Go package implementing compressed bitsets. |
 | [bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset) | 2k | 194 | 2026-11-04T05:18:01Z |  Go package implementing bitsets. |
 | [kelindar/bitmap](https://github.com/kelindar/bitmap) | 385 | 35 | 2026-11-04T03:26:22Z |  Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. |
-| [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) | 1k | 88 | 2026-11-03T07:59:47Z |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |
 | [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) | 8k | 850 | 2026-11-03T07:51:12Z |  Collection of useful, performant, and thread-safe data structures. |
-| [emirpasic/gods](https://github.com/emirpasic/gods) | 17k | 2k | 2026-11-03T07:50:07Z |  Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. |
 | [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) | 3k | 261 | 2026-11-03T01:10:19Z |  Go package implementing Bloom filters. |
 | [gammazero/deque](https://github.com/gammazero/deque) | 790 | 71 | 2026-11-02T08:18:44Z |  Fast ring-buffer deque (double-ended queue). |
 | [edwingeng/deque](https://github.com/edwingeng/deque) | 204 | 8 | 2026-11-02T07:22:26Z |  A highly optimized double-ended queue. |
@@ -226,7 +227,6 @@
 | [goradd/maps](https://github.com/goradd/maps) | 54 | 3 | 2026-10-09T17:50:57Z |  Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc. |
 | [emvi/hide](https://github.com/emvi/hide) | 72 | 6 | 2026-10-08T15:55:29Z |  ID type with marshalling to/from hash to prevent sending IDs to clients. |
 | [hailocab/go-geoindex](https://github.com/hailocab/go-geoindex) | 359 | 46 | 2026-10-08T15:53:36Z |  In-memory geo index. |
-| [huandu/skiplist](https://github.com/huandu/skiplist) | 428 | 68 | 2026-10-06T17:55:30Z |  Fast and easy-to-use skip list for Go. |
 | [yourbasic/bit](https://github.com/yourbasic/bit) | 169 | 25 | 2026-10-05T22:17:43Z |  Golang set data structure with bonus bit-twiddling functions. |
 | [CreateLab/glinq](https://github.com/CreateLab/glinq) | 18 | 0 | 2026-10-04T17:06:07Z |  LINQ-like lazy evaluation library with type-safe generics, performance optimizations and zero dependencies. |
 | [enriquebris/goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) | 433 | 35 | 2026-10-02T15:15:05Z |  Concurrent FIFO queue. |
