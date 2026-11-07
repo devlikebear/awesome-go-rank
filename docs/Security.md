@@ -6,21 +6,21 @@ Libraries that are used to help make your application more secure.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 24k | 681 | 2026-11-06T02:42:25Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
-| [google/osv-scanner](https://github.com/google/osv-scanner) | 11k | 843 | 2026-11-06T00:48:50Z |  Vulnerability scanner written in Go which uses the data provided by OSV. |
-| [go-acme/lego](https://github.com/go-acme/lego) | 10k | 1k | 2026-11-06T00:09:17Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 6k | 365 | 2026-11-05T15:36:11Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
-| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 642 | 2026-11-06T02:00:53Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 4k | 378 | 2026-11-06T00:32:15Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
-| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 137 | 2026-11-05T11:52:53Z |  A pure Go library for handling sensitive values in memory. |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 24k | 681 | 2026-11-06T23:04:47Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
+| [google/osv-scanner](https://github.com/google/osv-scanner) | 11k | 845 | 2026-11-07T03:18:07Z |  Vulnerability scanner written in Go which uses the data provided by OSV. |
+| [go-acme/lego](https://github.com/go-acme/lego) | 10k | 1k | 2026-11-06T16:24:12Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 6k | 366 | 2026-11-06T09:14:14Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
+| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 641 | 2026-11-06T14:41:13Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 4k | 377 | 2026-11-06T09:09:19Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
+| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 137 | 2026-11-06T06:34:38Z |  A pure Go library for handling sensitive values in memory. |
 | [unrolled/secure](https://github.com/unrolled/secure) | 2k | 145 | 2026-11-05T01:13:34Z |  HTTP middleware for Go that facilitates some quick security wins. |
-| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 221 | 2026-11-05T13:53:36Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
+| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 221 | 2026-11-06T21:45:36Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
 | [hlandau/acme](https://github.com/hlandau/acme) | 2k | 125 | 2026-11-03T12:52:57Z |  ACME (Let's Encrypt) client tool with automatic renewal. |
-| [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 158 | 2026-11-03T03:47:24Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
-| [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 140 | 2026-10-28T15:57:06Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
-| [safedep/vet](https://github.com/safedep/vet) | 1k | 115 | 2026-11-05T07:19:54Z |  Protect against malicious open source packages. |
+| [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 158 | 2026-11-06T12:58:32Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
+| [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 140 | 2026-11-06T22:27:33Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
+| [safedep/vet](https://github.com/safedep/vet) | 1k | 115 | 2026-11-06T09:06:36Z |  Protect against malicious open source packages. |
 | [golang-module/dongle](https://github.com/golang-module/dongle) | 1k | 83 | 2026-10-19T15:16:32Z |  A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption. |
-| [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) | 882 | 37 | 2026-11-05T08:20:30Z |  Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting. |
+| [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) | 883 | 37 | 2026-11-06T07:08:59Z |  Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting. |
 | [anatol/booster](https://github.com/anatol/booster) | 689 | 69 | 2026-11-06T00:24:10Z |  Fast initramfs generator with full-disk encryption support. |
 | [lane-c-wagner/go-password-validator](https://github.com/lane-c-wagner/go-password-validator) | 592 | 46 | 2026-09-25T06:37:45Z |  Password validator based on raw cryptographic entropy values. |
 | [kevinburke/nacl](https://github.com/kevinburke/nacl) | 552 | 23 | 2026-11-06T00:39:12Z |  Go implementation of the NaCL set of API's. |
@@ -31,7 +31,7 @@ Libraries that are used to help make your application more secure.
 | [jaredfolkins/badactor](https://github.com/jaredfolkins/badactor) | 328 | 18 | 2026-08-04T00:20:39Z |  In-memory, application-driven jailer built in the spirit of fail2ban. |
 | [number571/go-peer](https://github.com/number571/go-peer) | 327 | 15 | 2026-10-09T03:16:07Z |  A software library for creating secure and anonymous decentralized systems. |
 | [hlandau/passlib](https://github.com/hlandau/passlib) | 289 | 30 | 2026-04-30T02:49:28Z |  Futureproof password hashing library. |
-| [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) | 232 | 26 | 2026-11-04T04:34:14Z |  Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work. |
+| [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) | 233 | 26 | 2026-11-06T11:37:24Z |  Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work. |
 | [elithrar/simple-scrypt](https://github.com/elithrar/simple-scrypt) | 204 | 28 | 2026-09-24T09:46:33Z |  Scrypt package with a simple, obvious API and automatic cost calibration built-in. |
 | [calpa/urusai](https://github.com/calpa/urusai) | 182 | 12 | 2026-11-05T22:02:18Z |  Urusai ("noisy" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens while browsing. |
 | [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) | 178 | 12 | 2026-11-03T19:51:07Z |  Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs. |
@@ -39,10 +39,10 @@ Libraries that are used to help make your application more secure.
 | [anatol/luks.go](https://github.com/anatol/luks.go) | 99 | 15 | 2026-10-03T14:16:17Z |  Pure Golang library to manage LUKS partitions. |
 | [djadmin/fort](https://github.com/djadmin/fort) | 82 | 1 | 2026-11-02T06:24:40Z |  Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew. |
 | [zitadel/passwap](https://github.com/zitadel/passwap) | 78 | 10 | 2026-09-19T19:32:43Z |  Provides a unified implementation between different password hashing algorithms |
-| [esnet/acme-proxy](https://github.com/esnet/acme-proxy) | 71 | 10 | 2026-11-04T16:38:14Z |  Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority. |
+| [esnet/acme-proxy](https://github.com/esnet/acme-proxy) | 71 | 11 | 2026-11-04T16:38:14Z |  Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority. |
 | [dwin/goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | 61 | 9 | 2026-10-01T22:11:42Z |  A probably paranoid package for securely hashing and encrypting passwords. |
 | [m1/go-generate-password](https://github.com/m1/go-generate-password) | 57 | 6 | 2025-10-03T14:17:22Z |  Password generator that can be used on the cli or as a library. |
-| [Mutasem-mk4/procscope](https://github.com/Mutasem-mk4/procscope) | 51 | 0 | 2026-11-05T14:34:33Z |  Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections. |
+| [Mutasem-mk4/procscope](https://github.com/Mutasem-mk4/procscope) | 52 | 0 | 2026-11-06T05:33:22Z |  Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections. |
 | [tg123/go-htpasswd](https://github.com/tg123/go-htpasswd) | 49 | 13 | 2026-07-06T10:14:23Z |  Apache htpasswd Parser for Go. |
 | [aliengiraffe/deidentify](https://github.com/aliengiraffe/deidentify) | 41 | 3 | 2026-10-14T12:37:33Z |  Deterministic, format-preserving removal of personally identifiable information from text and structured data. |
 | [kanywst/y509](https://github.com/kanywst/y509) | 40 | 2 | 2026-11-03T15:02:16Z |  TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly. |
@@ -59,7 +59,7 @@ Libraries that are used to help make your application more secure.
 | [nilpoona/leakhound](https://github.com/nilpoona/leakhound) | 18 | 0 | 2026-10-21T03:50:13Z |  Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs. |
 | [adrianosela/multikey](https://github.com/adrianosela/multikey) | 13 | 2 | 2026-05-19T10:53:39Z |  An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm. |
 | [getveil/veil](https://github.com/getveil/veil) | 10 | 0 | 2026-10-31T19:38:04Z |  Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log. |
-| [rafaelperoco/secretgenerator](https://github.com/rafaelperoco/secretgenerator) | 9 | 2 | 2026-10-30T21:17:45Z |  CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs. |
+| [rafaelperoco/secretgenerator](https://github.com/rafaelperoco/secretgenerator) | 9 | 2 | 2026-11-06T20:55:14Z |  CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs. |
 | [sixafter/aes-ctr-drbg](https://github.com/sixafter/aes-ctr-drbg) | 9 | 1 | 2026-10-30T00:58:30Z |  A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A. |
 | [avahidi/interpol](https://github.com/avahidi/interpol) | 8 | 0 | 2026-10-28T23:30:18Z |  Rule-based data generator for fuzzing and penetration testing. |
 | [rluders/canery](https://github.com/rluders/canery) | 8 | 0 | 2026-10-23T22:51:58Z |  Minimal, stateless authorization engine with a pluggable evaluation model. |
@@ -67,7 +67,7 @@ Libraries that are used to help make your application more secure.
 | [bobg/encid](https://github.com/bobg/encid) | 7 | 0 | 2026-10-11T15:14:47Z |  Encode and decode encrypted integer IDs. |
 | [mohamedation/PwnedCheck](https://github.com/mohamedation/PwnedCheck) | 4 | 0 | 2026-10-23T14:03:07Z |  Command-line tool to check passwords against Have I Been Pwned breaches, with Bitwarden export support. |
 | [ahmadraza100/dotlock](https://github.com/ahmadraza100/dotlock) | 4 | 0 | 2026-07-06T07:06:51Z |  Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles. |
-| [nicola-strappazzon/password-manager](https://github.com/nicola-strappazzon/password-manager) | 2 | 0 | 2026-09-28T18:37:59Z |  Unix-style password manager written in Go to save your data with OpenPGP encryption. |
+| [nicola-strappazzon/password-manager](https://github.com/nicola-strappazzon/password-manager) | 2 | 0 | 2026-11-06T14:08:48Z |  Unix-style password manager written in Go to save your data with OpenPGP encryption. |
 | [rekurt/gost-crypto](https://github.com/rekurt/gost-crypto) | 2 | 0 | 2026-09-05T05:02:10Z |  Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine. |
 | [alesr/redact](https://github.com/alesr/redact) | 2 | 0 | 2026-09-25T13:55:03Z |  Redact sensitive information from slog-based logs using a configurable pipeline. |
 | [tamish560/mcprobe](https://github.com/tamish560/mcprobe) | 2 | 0 | 2026-07-30T22:05:40Z |  Security scanner for MCP servers with prompt injection detection, tool shadowing, and SARIF output. |
@@ -81,29 +81,29 @@ Libraries that are used to help make your application more secure.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [go-acme/lego](https://github.com/go-acme/lego) | 10k | 1k | 2026-11-06T00:09:17Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
-| [google/osv-scanner](https://github.com/google/osv-scanner) | 11k | 843 | 2026-11-06T00:48:50Z |  Vulnerability scanner written in Go which uses the data provided by OSV. |
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 24k | 681 | 2026-11-06T02:42:25Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
-| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 642 | 2026-11-06T02:00:53Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 4k | 378 | 2026-11-06T00:32:15Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 6k | 365 | 2026-11-05T15:36:11Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
-| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 221 | 2026-11-05T13:53:36Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
-| [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 158 | 2026-11-03T03:47:24Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
+| [go-acme/lego](https://github.com/go-acme/lego) | 10k | 1k | 2026-11-06T16:24:12Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
+| [google/osv-scanner](https://github.com/google/osv-scanner) | 11k | 845 | 2026-11-07T03:18:07Z |  Vulnerability scanner written in Go which uses the data provided by OSV. |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 24k | 681 | 2026-11-06T23:04:47Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
+| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 641 | 2026-11-06T14:41:13Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 4k | 377 | 2026-11-06T09:09:19Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 6k | 366 | 2026-11-06T09:14:14Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
+| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 221 | 2026-11-06T21:45:36Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
+| [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 158 | 2026-11-06T12:58:32Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
 | [unrolled/secure](https://github.com/unrolled/secure) | 2k | 145 | 2026-11-05T01:13:34Z |  HTTP middleware for Go that facilitates some quick security wins. |
-| [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 140 | 2026-10-28T15:57:06Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
-| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 137 | 2026-11-05T11:52:53Z |  A pure Go library for handling sensitive values in memory. |
+| [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 140 | 2026-11-06T22:27:33Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
+| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 137 | 2026-11-06T06:34:38Z |  A pure Go library for handling sensitive values in memory. |
 | [hlandau/acme](https://github.com/hlandau/acme) | 2k | 125 | 2026-11-03T12:52:57Z |  ACME (Let's Encrypt) client tool with automatic renewal. |
-| [safedep/vet](https://github.com/safedep/vet) | 1k | 115 | 2026-11-05T07:19:54Z |  Protect against malicious open source packages. |
+| [safedep/vet](https://github.com/safedep/vet) | 1k | 115 | 2026-11-06T09:06:36Z |  Protect against malicious open source packages. |
 | [golang-module/dongle](https://github.com/golang-module/dongle) | 1k | 83 | 2026-10-19T15:16:32Z |  A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption. |
 | [anatol/booster](https://github.com/anatol/booster) | 689 | 69 | 2026-11-06T00:24:10Z |  Fast initramfs generator with full-disk encryption support. |
 | [lane-c-wagner/go-password-validator](https://github.com/lane-c-wagner/go-password-validator) | 592 | 46 | 2026-09-25T06:37:45Z |  Password validator based on raw cryptographic entropy values. |
-| [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) | 882 | 37 | 2026-11-05T08:20:30Z |  Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting. |
+| [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) | 883 | 37 | 2026-11-06T07:08:59Z |  Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting. |
 | [plusvic/yara](https://github.com/plusvic/yara) | 139 | 34 | 2026-10-28T23:29:29Z | , the "pattern matching swiss knife for malware researchers (and everyone else)". |
 | [kitabisa/teler-waf](https://github.com/kitabisa/teler-waf) | 408 | 33 | 2026-11-05T01:20:53Z |  teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications. |
 | [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) | 511 | 32 | 2026-10-25T08:05:31Z |  encrypt/decrypt using ssh keys. |
 | [hlandau/passlib](https://github.com/hlandau/passlib) | 289 | 30 | 2026-04-30T02:49:28Z |  Futureproof password hashing library. |
 | [elithrar/simple-scrypt](https://github.com/elithrar/simple-scrypt) | 204 | 28 | 2026-09-24T09:46:33Z |  Scrypt package with a simple, obvious API and automatic cost calibration built-in. |
-| [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) | 232 | 26 | 2026-11-04T04:34:14Z |  Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work. |
+| [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) | 233 | 26 | 2026-11-06T11:37:24Z |  Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work. |
 | [pjebs/optimus-go](https://github.com/pjebs/optimus-go) | 368 | 25 | 2026-07-27T11:56:06Z |  ID hashing and Obfuscation using Knuth's Algorithm. |
 | [kevinburke/nacl](https://github.com/kevinburke/nacl) | 552 | 23 | 2026-11-06T00:39:12Z |  Go implementation of the NaCL set of API's. |
 | [prashantgupta24/firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) | 344 | 20 | 2026-10-18T19:28:13Z |  A rest application to dynamically update firewalld rules on a linux server. |
@@ -113,8 +113,8 @@ Libraries that are used to help make your application more secure.
 | [tg123/go-htpasswd](https://github.com/tg123/go-htpasswd) | 49 | 13 | 2026-07-06T10:14:23Z |  Apache htpasswd Parser for Go. |
 | [calpa/urusai](https://github.com/calpa/urusai) | 182 | 12 | 2026-11-05T22:02:18Z |  Urusai ("noisy" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens while browsing. |
 | [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) | 178 | 12 | 2026-11-03T19:51:07Z |  Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs. |
+| [esnet/acme-proxy](https://github.com/esnet/acme-proxy) | 71 | 11 | 2026-11-04T16:38:14Z |  Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority. |
 | [zitadel/passwap](https://github.com/zitadel/passwap) | 78 | 10 | 2026-09-19T19:32:43Z |  Provides a unified implementation between different password hashing algorithms |
-| [esnet/acme-proxy](https://github.com/esnet/acme-proxy) | 71 | 10 | 2026-11-04T16:38:14Z |  Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority. |
 | [dwin/goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | 61 | 9 | 2026-10-01T22:11:42Z |  A probably paranoid package for securely hashing and encrypting passwords. |
 | [mvmaasakkers/certificates](https://github.com/mvmaasakkers/certificates) | 38 | 8 | 2026-06-29T11:57:28Z |  An opinionated tool for generating tls certificates. |
 | [crenoxhq/crenox](https://github.com/crenoxhq/crenox) | 31 | 7 | 2026-10-30T06:19:06Z |  Zero-dependency pre-commit secret scanner using Aho-Corasick for high-performance credentials leak detection. |
@@ -126,7 +126,7 @@ Libraries that are used to help make your application more secure.
 | [xaionaro-go/secureio](https://github.com/xaionaro-go/secureio) | 34 | 4 | 2026-10-27T21:55:09Z |  An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519. |
 | [aliengiraffe/deidentify](https://github.com/aliengiraffe/deidentify) | 41 | 3 | 2026-10-14T12:37:33Z |  Deterministic, format-preserving removal of personally identifiable information from text and structured data. |
 | [adrianosela/multikey](https://github.com/adrianosela/multikey) | 13 | 2 | 2026-05-19T10:53:39Z |  An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm. |
-| [rafaelperoco/secretgenerator](https://github.com/rafaelperoco/secretgenerator) | 9 | 2 | 2026-10-30T21:17:45Z |  CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs. |
+| [rafaelperoco/secretgenerator](https://github.com/rafaelperoco/secretgenerator) | 9 | 2 | 2026-11-06T20:55:14Z |  CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs. |
 | [kanywst/y509](https://github.com/kanywst/y509) | 40 | 2 | 2026-11-03T15:02:16Z |  TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly. |
 | [bitfield/qrand](https://github.com/bitfield/qrand) | 18 | 2 | 2026-05-26T12:36:28Z |  Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data. |
 | [djadmin/fort](https://github.com/djadmin/fort) | 82 | 1 | 2026-11-02T06:24:40Z |  Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew. |
@@ -134,7 +134,7 @@ Libraries that are used to help make your application more secure.
 | [sixafter/aes-ctr-drbg](https://github.com/sixafter/aes-ctr-drbg) | 9 | 1 | 2026-10-30T00:58:30Z |  A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A. |
 | [andreimerlescu/entpassgen](https://github.com/andreimerlescu/entpassgen) | 7 | 0 | 2026-07-06T07:11:42Z |  Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits. |
 | [ahmadraza100/dotlock](https://github.com/ahmadraza100/dotlock) | 4 | 0 | 2026-07-06T07:06:51Z |  Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles. |
-| [Mutasem-mk4/procscope](https://github.com/Mutasem-mk4/procscope) | 51 | 0 | 2026-11-05T14:34:33Z |  Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections. |
+| [Mutasem-mk4/procscope](https://github.com/Mutasem-mk4/procscope) | 52 | 0 | 2026-11-06T05:33:22Z |  Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections. |
 | [nilpoona/leakhound](https://github.com/nilpoona/leakhound) | 18 | 0 | 2026-10-21T03:50:13Z |  Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs. |
 | [avahidi/interpol](https://github.com/avahidi/interpol) | 8 | 0 | 2026-10-28T23:30:18Z |  Rule-based data generator for fuzzing and penetration testing. |
 | [rluders/canery](https://github.com/rluders/canery) | 8 | 0 | 2026-10-23T22:51:58Z |  Minimal, stateless authorization engine with a pluggable evaluation model. |
@@ -142,7 +142,7 @@ Libraries that are used to help make your application more secure.
 | [bobg/encid](https://github.com/bobg/encid) | 7 | 0 | 2026-10-11T15:14:47Z |  Encode and decode encrypted integer IDs. |
 | [mohamedation/PwnedCheck](https://github.com/mohamedation/PwnedCheck) | 4 | 0 | 2026-10-23T14:03:07Z |  Command-line tool to check passwords against Have I Been Pwned breaches, with Bitwarden export support. |
 | [getveil/veil](https://github.com/getveil/veil) | 10 | 0 | 2026-10-31T19:38:04Z |  Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log. |
-| [nicola-strappazzon/password-manager](https://github.com/nicola-strappazzon/password-manager) | 2 | 0 | 2026-09-28T18:37:59Z |  Unix-style password manager written in Go to save your data with OpenPGP encryption. |
+| [nicola-strappazzon/password-manager](https://github.com/nicola-strappazzon/password-manager) | 2 | 0 | 2026-11-06T14:08:48Z |  Unix-style password manager written in Go to save your data with OpenPGP encryption. |
 | [rekurt/gost-crypto](https://github.com/rekurt/gost-crypto) | 2 | 0 | 2026-09-05T05:02:10Z |  Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine. |
 | [alesr/redact](https://github.com/alesr/redact) | 2 | 0 | 2026-09-25T13:55:03Z |  Redact sensitive information from slog-based logs using a configurable pipeline. |
 | [tamish560/mcprobe](https://github.com/tamish560/mcprobe) | 2 | 0 | 2026-07-30T22:05:40Z |  Security scanner for MCP servers with prompt injection detection, tool shadowing, and SARIF output. |
@@ -156,37 +156,38 @@ Libraries that are used to help make your application more secure.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [FiloSottile/age](https://github.com/FiloSottile/age) | 24k | 681 | 2026-11-06T02:42:25Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
-| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 642 | 2026-11-06T02:00:53Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
-| [google/osv-scanner](https://github.com/google/osv-scanner) | 11k | 843 | 2026-11-06T00:48:50Z |  Vulnerability scanner written in Go which uses the data provided by OSV. |
+| [google/osv-scanner](https://github.com/google/osv-scanner) | 11k | 845 | 2026-11-07T03:18:07Z |  Vulnerability scanner written in Go which uses the data provided by OSV. |
+| [FiloSottile/age](https://github.com/FiloSottile/age) | 24k | 681 | 2026-11-06T23:04:47Z |  A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
+| [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 140 | 2026-11-06T22:27:33Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
+| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 221 | 2026-11-06T21:45:36Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
+| [rafaelperoco/secretgenerator](https://github.com/rafaelperoco/secretgenerator) | 9 | 2 | 2026-11-06T20:55:14Z |  CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs. |
+| [go-acme/lego](https://github.com/go-acme/lego) | 10k | 1k | 2026-11-06T16:24:12Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
+| [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) | 5k | 641 | 2026-11-06T14:41:13Z |  Tool and library to remotely hack RTSP streams from surveillance cameras. |
+| [nicola-strappazzon/password-manager](https://github.com/nicola-strappazzon/password-manager) | 2 | 0 | 2026-11-06T14:08:48Z |  Unix-style password manager written in Go to save your data with OpenPGP encryption. |
+| [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 158 | 2026-11-06T12:58:32Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
+| [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) | 233 | 26 | 2026-11-06T11:37:24Z |  Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work. |
+| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 6k | 366 | 2026-11-06T09:14:14Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
+| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 4k | 377 | 2026-11-06T09:09:19Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
+| [safedep/vet](https://github.com/safedep/vet) | 1k | 115 | 2026-11-06T09:06:36Z |  Protect against malicious open source packages. |
+| [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) | 883 | 37 | 2026-11-06T07:08:59Z |  Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting. |
+| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 137 | 2026-11-06T06:34:38Z |  A pure Go library for handling sensitive values in memory. |
+| [Mutasem-mk4/procscope](https://github.com/Mutasem-mk4/procscope) | 52 | 0 | 2026-11-06T05:33:22Z |  Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections. |
 | [kevinburke/nacl](https://github.com/kevinburke/nacl) | 552 | 23 | 2026-11-06T00:39:12Z |  Go implementation of the NaCL set of API's. |
-| [corazawaf/coraza](https://github.com/corazawaf/coraza) | 4k | 378 | 2026-11-06T00:32:15Z |  Enterprise-ready, modsecurity and OWASP CRS compatible WAF library. |
 | [anatol/booster](https://github.com/anatol/booster) | 689 | 69 | 2026-11-06T00:24:10Z |  Fast initramfs generator with full-disk encryption support. |
-| [go-acme/lego](https://github.com/go-acme/lego) | 10k | 1k | 2026-11-06T00:09:17Z |  Pure Go ACME client library and CLI tool (for use with Let's Encrypt). |
 | [calpa/urusai](https://github.com/calpa/urusai) | 182 | 12 | 2026-11-05T22:02:18Z |  Urusai ("noisy" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens while browsing. |
-| [caddyserver/certmagic](https://github.com/caddyserver/certmagic) | 6k | 365 | 2026-11-05T15:36:11Z |  Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal. |
-| [Mutasem-mk4/procscope](https://github.com/Mutasem-mk4/procscope) | 51 | 0 | 2026-11-05T14:34:33Z |  Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections. |
-| [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) | 2k | 221 | 2026-11-05T13:53:36Z |  A secure low code honeypot framework, leveraging AI for System Virtualization. |
-| [awnumar/memguard](https://github.com/awnumar/memguard) | 3k | 137 | 2026-11-05T11:52:53Z |  A pure Go library for handling sensitive values in memory. |
-| [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) | 882 | 37 | 2026-11-05T08:20:30Z |  Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting. |
-| [safedep/vet](https://github.com/safedep/vet) | 1k | 115 | 2026-11-05T07:19:54Z |  Protect against malicious open source packages. |
 | [kitabisa/teler-waf](https://github.com/kitabisa/teler-waf) | 408 | 33 | 2026-11-05T01:20:53Z |  teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications. |
 | [unrolled/secure](https://github.com/unrolled/secure) | 2k | 145 | 2026-11-05T01:13:34Z |  HTTP middleware for Go that facilitates some quick security wins. |
-| [esnet/acme-proxy](https://github.com/esnet/acme-proxy) | 71 | 10 | 2026-11-04T16:38:14Z |  Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority. |
-| [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) | 232 | 26 | 2026-11-04T04:34:14Z |  Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work. |
+| [esnet/acme-proxy](https://github.com/esnet/acme-proxy) | 71 | 11 | 2026-11-04T16:38:14Z |  Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority. |
 | [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) | 178 | 12 | 2026-11-03T19:51:07Z |  Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs. |
 | [kanywst/y509](https://github.com/kanywst/y509) | 40 | 2 | 2026-11-03T15:02:16Z |  TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly. |
 | [hlandau/acme](https://github.com/hlandau/acme) | 2k | 125 | 2026-11-03T12:52:57Z |  ACME (Let's Encrypt) client tool with automatic renewal. |
-| [cossacklabs/themis](https://github.com/cossacklabs/themis) | 2k | 158 | 2026-11-03T03:47:24Z |  high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps. |
 | [tecnickcom/nurago](https://github.com/tecnickcom/nurago/tree/main/pkg/redact) | 26 | 5 | 2026-11-02T18:20:27Z |  Removes secrets from log lines and HTTP dumps in a single pass, covering headers, JSON, XML, URL-encoded data, JWTs, PEM keys, and vendor tokens. |
 | [djadmin/fort](https://github.com/djadmin/fort) | 82 | 1 | 2026-11-02T06:24:40Z |  Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew. |
 | [getveil/veil](https://github.com/getveil/veil) | 10 | 0 | 2026-10-31T19:38:04Z |  Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log. |
-| [rafaelperoco/secretgenerator](https://github.com/rafaelperoco/secretgenerator) | 9 | 2 | 2026-10-30T21:17:45Z |  CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs. |
 | [crenoxhq/crenox](https://github.com/crenoxhq/crenox) | 31 | 7 | 2026-10-30T06:19:06Z |  Zero-dependency pre-commit secret scanner using Aho-Corasick for high-performance credentials leak detection. |
 | [sixafter/aes-ctr-drbg](https://github.com/sixafter/aes-ctr-drbg) | 9 | 1 | 2026-10-30T00:58:30Z |  A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A. |
 | [avahidi/interpol](https://github.com/avahidi/interpol) | 8 | 0 | 2026-10-28T23:30:18Z |  Rule-based data generator for fuzzing and penetration testing. |
 | [plusvic/yara](https://github.com/plusvic/yara) | 139 | 34 | 2026-10-28T23:29:29Z | , the "pattern matching swiss knife for malware researchers (and everyone else)". |
-| [cossacklabs/acra](https://github.com/cossacklabs/acra) | 1k | 140 | 2026-10-28T15:57:06Z |  Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. |
 | [stardothosting/coraza-rule-validator](https://github.com/stardothosting/coraza-rule-validator) | 0 | 0 | 2026-10-28T14:55:24Z |  Standalone CLI tool to validate ModSecurity and Coraza SecLang WAF rules before production deployment. |
 | [xaionaro-go/secureio](https://github.com/xaionaro-go/secureio) | 34 | 4 | 2026-10-27T21:55:09Z |  An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519. |
 | [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) | 511 | 32 | 2026-10-25T08:05:31Z |  encrypt/decrypt using ssh keys. |
@@ -204,7 +205,6 @@ Libraries that are used to help make your application more secure.
 | [number571/go-peer](https://github.com/number571/go-peer) | 327 | 15 | 2026-10-09T03:16:07Z |  A software library for creating secure and anonymous decentralized systems. |
 | [anatol/luks.go](https://github.com/anatol/luks.go) | 99 | 15 | 2026-10-03T14:16:17Z |  Pure Golang library to manage LUKS partitions. |
 | [dwin/goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | 61 | 9 | 2026-10-01T22:11:42Z |  A probably paranoid package for securely hashing and encrypting passwords. |
-| [nicola-strappazzon/password-manager](https://github.com/nicola-strappazzon/password-manager) | 2 | 0 | 2026-09-28T18:37:59Z |  Unix-style password manager written in Go to save your data with OpenPGP encryption. |
 | [Hossiy21/razify](https://github.com/Hossiy21/razify) | 20 | 0 | 2026-09-27T09:05:13Z |  CLI to scan, validate and audit .env files for leaked secrets and environment drift. |
 | [alesr/redact](https://github.com/alesr/redact) | 2 | 0 | 2026-09-25T13:55:03Z |  Redact sensitive information from slog-based logs using a configurable pipeline. |
 | [lane-c-wagner/go-password-validator](https://github.com/lane-c-wagner/go-password-validator) | 592 | 46 | 2026-09-25T06:37:45Z |  Password validator based on raw cryptographic entropy values. |
