@@ -19,9 +19,9 @@ Libraries for manipulating audio and music.
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 39 | 11 | 2026-07-15T14:45:37Z |  libsamplerate bindings for go. |
 | [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 23 | 0 | 2026-10-30T07:19:36Z |  Client for mpris dbus interfaces. |
 | [tphakala/go-audio-resampler](https://github.com/tphakala/go-audio-resampler) | 11 | 5 | 2026-10-26T07:32:12Z |  Pure-Go, high-quality audio resampler with SIMD acceleration. |
-| [tphakala/go-aac](https://github.com/tphakala/go-aac) | 7 | 3 | 2026-11-06T14:09:05Z |  Pure-Go AAC-LC encoder and decoder ported from FFmpeg. |
+| [tphakala/go-aac](https://github.com/tphakala/go-aac) | 7 | 3 | 2026-11-07T10:09:04Z |  Pure-Go AAC-LC encoder and decoder ported from FFmpeg. |
 | [tphakala/go-wav](https://github.com/tphakala/go-wav) | 4 | 1 | 2026-10-20T14:44:26Z |  Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB. |
-| [tphakala/go-opus](https://github.com/tphakala/go-opus) | 4 | 1 | 2026-10-20T19:21:14Z |  Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder. |
+| [tphakala/go-opus](https://github.com/tphakala/go-opus) | 4 | 1 | 2026-11-07T11:38:46Z |  Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder. |
 | [tphakala/go-flac](https://github.com/tphakala/go-flac) | 4 | 1 | 2026-10-30T17:06:24Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
 | [Voxray-AI/Voxray](https://github.com/Voxray-AI/Voxray) | 4 | 2 | 2026-10-08T12:39:50Z |  AI voice agents with a JSON configuration, STT → LLM → TTS pipelines over WebSocket and WebRTC. |
 | [iSerganov/gocue](https://github.com/iSerganov/gocue) | 1 | 0 | 2026-10-14T06:56:52Z |  Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap. |
@@ -43,10 +43,10 @@ Libraries for manipulating audio and music.
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 135 | 19 | 2026-11-06T18:46:44Z |  Lightweight MP3 decoder library. |
 | [dh1tw/gosamplerate](https://github.com/dh1tw/gosamplerate) | 39 | 11 | 2026-07-15T14:45:37Z |  libsamplerate bindings for go. |
 | [tphakala/go-audio-resampler](https://github.com/tphakala/go-audio-resampler) | 11 | 5 | 2026-10-26T07:32:12Z |  Pure-Go, high-quality audio resampler with SIMD acceleration. |
-| [tphakala/go-aac](https://github.com/tphakala/go-aac) | 7 | 3 | 2026-11-06T14:09:05Z |  Pure-Go AAC-LC encoder and decoder ported from FFmpeg. |
+| [tphakala/go-aac](https://github.com/tphakala/go-aac) | 7 | 3 | 2026-11-07T10:09:04Z |  Pure-Go AAC-LC encoder and decoder ported from FFmpeg. |
 | [Voxray-AI/Voxray](https://github.com/Voxray-AI/Voxray) | 4 | 2 | 2026-10-08T12:39:50Z |  AI voice agents with a JSON configuration, STT → LLM → TTS pipelines over WebSocket and WebRTC. |
 | [tphakala/go-wav](https://github.com/tphakala/go-wav) | 4 | 1 | 2026-10-20T14:44:26Z |  Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB. |
-| [tphakala/go-opus](https://github.com/tphakala/go-opus) | 4 | 1 | 2026-10-20T19:21:14Z |  Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder. |
+| [tphakala/go-opus](https://github.com/tphakala/go-opus) | 4 | 1 | 2026-11-07T11:38:46Z |  Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder. |
 | [tphakala/go-flac](https://github.com/tphakala/go-flac) | 4 | 1 | 2026-10-30T17:06:24Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
 | [gojargo/go-resample](https://github.com/gojargo/go-resample) | 0 | 1 | 2026-11-05T08:05:01Z |  Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters. |
 | [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) | 23 | 0 | 2026-10-30T07:19:36Z |  Client for mpris dbus interfaces. |
@@ -56,8 +56,9 @@ Libraries for manipulating audio and music.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [tphakala/go-opus](https://github.com/tphakala/go-opus) | 4 | 1 | 2026-11-07T11:38:46Z |  Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder. |
+| [tphakala/go-aac](https://github.com/tphakala/go-aac) | 7 | 3 | 2026-11-07T10:09:04Z |  Pure-Go AAC-LC encoder and decoder ported from FFmpeg. |
 | [tosone/minimp3](https://github.com/tosone/minimp3) | 135 | 19 | 2026-11-06T18:46:44Z |  Lightweight MP3 decoder library. |
-| [tphakala/go-aac](https://github.com/tphakala/go-aac) | 7 | 3 | 2026-11-06T14:09:05Z |  Pure-Go AAC-LC encoder and decoder ported from FFmpeg. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 846 | 108 | 2026-11-06T12:19:44Z |  Go bindings for the PortAudio audio I/O library. |
 | [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 159 | 2026-11-06T12:18:50Z |  A low-level library to play sound on multiple platforms. |
 | [gen2brain/malgo](https://github.com/gen2brain/malgo) | 437 | 64 | 2026-11-06T12:17:22Z |  Mini audio library. |
@@ -68,7 +69,6 @@ Libraries for manipulating audio and music.
 | [gopxl/beep](https://github.com/gopxl/beep) | 603 | 30 | 2026-10-29T17:31:03Z |  A simple library for playback and audio manipulation. |
 | [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) | 466 | 48 | 2026-10-26T19:12:59Z |  Music theory models in Go. |
 | [tphakala/go-audio-resampler](https://github.com/tphakala/go-audio-resampler) | 11 | 5 | 2026-10-26T07:32:12Z |  Pure-Go, high-quality audio resampler with SIMD acceleration. |
-| [tphakala/go-opus](https://github.com/tphakala/go-opus) | 4 | 1 | 2026-10-20T19:21:14Z |  Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder. |
 | [tphakala/go-wav](https://github.com/tphakala/go-wav) | 4 | 1 | 2026-10-20T14:44:26Z |  Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 365 | 53 | 2026-10-17T20:39:39Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
 | [iSerganov/gocue](https://github.com/iSerganov/gocue) | 1 | 0 | 2026-10-14T06:56:52Z |  Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap. |
