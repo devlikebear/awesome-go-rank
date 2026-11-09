@@ -8,7 +8,7 @@ Libraries for scheduling jobs.
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 337 | 2026-11-06T10:30:03Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 101 | 2026-11-05T06:34:57Z |  Simple, zero-dependency scheduling library for Go. |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-10-26T11:51:51Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-11-08T16:01:34Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-11-02T00:40:44Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 514 | 39 | 2026-11-07T01:08:19Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 484 | 37 | 2026-10-28T10:58:42Z |  A simple but powerful DAG scheduler and dashboard. |
@@ -18,9 +18,9 @@ Libraries for scheduling jobs.
 | [bart6114/cheek](https://github.com/bart6114/cheek) | 201 | 16 | 2026-07-30T12:16:45Z |  A simple crontab like scheduler that aims to offer a KISS approach to job scheduling. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 183 | 15 | 2026-09-20T00:36:00Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 14 | 2026-06-29T20:48:39Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
-| [runwisp/runwisp](https://github.com/runwisp/runwisp) | 89 | 8 | 2026-11-08T02:18:22Z |  Single-binary replacement for cron and supervisord that keeps the exit code and output of every run, with a web UI and a TUI. |
-| [netresearch/ofelia](https://github.com/netresearch/ofelia) | 71 | 8 | 2026-11-08T01:18:26Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
-| [netresearch/go-cron](https://github.com/netresearch/go-cron) | 66 | 9 | 2026-11-07T01:08:13Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
+| [runwisp/runwisp](https://github.com/runwisp/runwisp) | 91 | 8 | 2026-11-08T23:25:08Z |  Single-binary replacement for cron and supervisord that keeps the exit code and output of every run, with a web UI and a TUI. |
+| [netresearch/ofelia](https://github.com/netresearch/ofelia) | 71 | 8 | 2026-11-09T02:29:20Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
+| [netresearch/go-cron](https://github.com/netresearch/go-cron) | 66 | 9 | 2026-11-08T23:44:42Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 37 | 6 | 2026-10-30T21:33:34Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-10-03T17:07:04Z |  A job scheduler with the ability to fast-forward time. |
@@ -37,7 +37,7 @@ Libraries for scheduling jobs.
 |------------|-------|-------|--------------|-------------|
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 337 | 2026-11-06T10:30:03Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 101 | 2026-11-05T06:34:57Z |  Simple, zero-dependency scheduling library for Go. |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-10-26T11:51:51Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-11-08T16:01:34Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-11-02T00:40:44Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 466 | 51 | 2026-10-30T09:24:46Z |  Cronjobs scheduling made easy. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 514 | 39 | 2026-11-07T01:08:19Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
@@ -48,9 +48,9 @@ Libraries for scheduling jobs.
 | [kilgaloon/leprechaun](https://github.com/kilgaloon/leprechaun) | 106 | 14 | 2026-06-29T20:48:39Z |  Job scheduler that supports webhooks, crons and classic scheduling. |
 | [deepaksinghvi/cdule](https://github.com/deepaksinghvi/cdule) | 61 | 12 | 2026-04-05T04:53:43Z |  Job scheduler library with database support |
 | [rk/go-cron](https://github.com/rk/go-cron) | 239 | 11 | 2026-10-31T22:07:51Z |  Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. |
-| [netresearch/go-cron](https://github.com/netresearch/go-cron) | 66 | 9 | 2026-11-07T01:08:13Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
-| [runwisp/runwisp](https://github.com/runwisp/runwisp) | 89 | 8 | 2026-11-08T02:18:22Z |  Single-binary replacement for cron and supervisord that keeps the exit code and output of every run, with a web UI and a TUI. |
-| [netresearch/ofelia](https://github.com/netresearch/ofelia) | 71 | 8 | 2026-11-08T01:18:26Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
+| [netresearch/go-cron](https://github.com/netresearch/go-cron) | 66 | 9 | 2026-11-08T23:44:42Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
+| [runwisp/runwisp](https://github.com/runwisp/runwisp) | 91 | 8 | 2026-11-08T23:25:08Z |  Single-binary replacement for cron and supervisord that keeps the exit code and output of every run, with a web UI and a TUI. |
+| [netresearch/ofelia](https://github.com/netresearch/ofelia) | 71 | 8 | 2026-11-09T02:29:20Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 37 | 6 | 2026-10-30T21:33:34Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [krayzpipes/cronticker](https://github.com/krayzpipes/cronticker) | 20 | 4 | 2026-05-13T23:13:08Z |  A ticker implementation to support cron schedules. |
 | [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-10-03T17:07:04Z |  A job scheduler with the ability to fast-forward time. |
@@ -64,10 +64,11 @@ Libraries for scheduling jobs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [runwisp/runwisp](https://github.com/runwisp/runwisp) | 89 | 8 | 2026-11-08T02:18:22Z |  Single-binary replacement for cron and supervisord that keeps the exit code and output of every run, with a web UI and a TUI. |
-| [netresearch/ofelia](https://github.com/netresearch/ofelia) | 71 | 8 | 2026-11-08T01:18:26Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
+| [netresearch/ofelia](https://github.com/netresearch/ofelia) | 71 | 8 | 2026-11-09T02:29:20Z |  Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence. |
+| [netresearch/go-cron](https://github.com/netresearch/go-cron) | 66 | 9 | 2026-11-08T23:44:42Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
+| [runwisp/runwisp](https://github.com/runwisp/runwisp) | 91 | 8 | 2026-11-08T23:25:08Z |  Single-binary replacement for cron and supervisord that keeps the exit code and output of every run, with a web UI and a TUI. |
+| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-11-08T16:01:34Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [adhocore/gronx](https://github.com/adhocore/gronx) | 514 | 39 | 2026-11-07T01:08:19Z |  Cron expression parser, task runner and daemon consuming crontab like task list. |
-| [netresearch/go-cron](https://github.com/netresearch/go-cron) | 66 | 9 | 2026-11-07T01:08:13Z |  Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron. |
 | [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) | 3k | 337 | 2026-11-06T10:30:03Z | . |
 | [reugn/go-quartz](https://github.com/reugn/go-quartz) | 2k | 101 | 2026-11-05T06:34:57Z |  Simple, zero-dependency scheduling library for Go. |
 | [roylee0704/gron](https://github.com/roylee0704/gron) | 1k | 64 | 2026-11-02T00:40:44Z |  Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly. |
@@ -76,7 +77,6 @@ Libraries for scheduling jobs.
 | [pardnchiu/go-scheduler](https://github.com/pardnchiu/go-scheduler) | 37 | 6 | 2026-10-30T21:33:34Z |  Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies. |
 | [carlescere/scheduler](https://github.com/carlescere/scheduler) | 466 | 51 | 2026-10-30T09:24:46Z |  Cronjobs scheduling made easy. |
 | [fieldryand/goflow](https://github.com/fieldryand/goflow) | 484 | 37 | 2026-10-28T10:58:42Z |  A simple but powerful DAG scheduler and dashboard. |
-| [bamzi/jobrunner](https://github.com/bamzi/jobrunner) | 1k | 97 | 2026-10-26T11:51:51Z |  Smart and featureful cron job scheduler with job queuing and live monitoring built in. |
 | [romshark/sched](https://github.com/romshark/sched) | 30 | 1 | 2026-10-03T17:07:04Z |  A job scheduler with the ability to fast-forward time. |
 | [cybergarage/go-job](https://github.com/cybergarage/go-job) | 3 | 0 | 2026-09-29T05:52:50Z |  A flexible and extensible job scheduling and execution library for Go. |
 | [onatm/clockwerk](https://github.com/onatm/clockwerk) | 183 | 15 | 2026-09-20T00:36:00Z |  Go package to schedule periodic jobs using a simple, fluent syntax. |
