@@ -14,7 +14,7 @@ Libraries for working with forms.
 | [monoculum/formam](https://github.com/monoculum/formam) | 191 | 19 | 2026-09-17T07:16:40Z |  decode form's values into a struct. |
 | [albrow/forms](https://github.com/albrow/forms) | 141 | 25 | 2026-09-24T09:45:46Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
 | [sonh/qs](https://github.com/sonh/qs) | 82 | 9 | 2026-10-10T17:18:13Z |  Go module for encoding structs into URL query parameters. |
-| [robfig/bind](https://github.com/robfig/bind) | 32 | 6 | 2025-02-19T08:08:43Z |  Bind form data to any Go values. |
+| [robfig/bind](https://github.com/robfig/bind) | 32 | 5 | 2025-02-19T08:08:43Z |  Bind form data to any Go values. |
 | [tomwright/queryparam](https://github.com/tomwright/queryparam) | 19 | 5 | 2023-10-29T08:49:21Z |  Decode `url.Values` into usable struct values of standard or custom types. |
 | [bdjimmy/gbind](https://github.com/bdjimmy/gbind) | 10 | 1 | 2024-11-15T02:53:56Z |  Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation |
 | [slipros/roamer](https://github.com/slipros/roamer) | 6 | 0 | 2026-09-17T12:21:20Z |  Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags. |
@@ -31,7 +31,7 @@ Libraries for working with forms.
 | [albrow/forms](https://github.com/albrow/forms) | 141 | 25 | 2026-09-24T09:45:46Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
 | [monoculum/formam](https://github.com/monoculum/formam) | 191 | 19 | 2026-09-17T07:16:40Z |  decode form's values into a struct. |
 | [sonh/qs](https://github.com/sonh/qs) | 82 | 9 | 2026-10-10T17:18:13Z |  Go module for encoding structs into URL query parameters. |
-| [robfig/bind](https://github.com/robfig/bind) | 32 | 6 | 2025-02-19T08:08:43Z |  Bind form data to any Go values. |
+| [robfig/bind](https://github.com/robfig/bind) | 32 | 5 | 2025-02-19T08:08:43Z |  Bind form data to any Go values. |
 | [tomwright/queryparam](https://github.com/tomwright/queryparam) | 19 | 5 | 2023-10-29T08:49:21Z |  Decode `url.Values` into usable struct values of standard or custom types. |
 | [bdjimmy/gbind](https://github.com/bdjimmy/gbind) | 10 | 1 | 2024-11-15T02:53:56Z |  Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation |
 | [slipros/roamer](https://github.com/slipros/roamer) | 6 | 0 | 2026-09-17T12:21:20Z |  Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags. |
@@ -49,7 +49,7 @@ Libraries for working with forms.
 | [albrow/forms](https://github.com/albrow/forms) | 141 | 25 | 2026-09-24T09:45:46Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
 | [slipros/roamer](https://github.com/slipros/roamer) | 6 | 0 | 2026-09-17T12:21:20Z |  Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags. |
 | [monoculum/formam](https://github.com/monoculum/formam) | 191 | 19 | 2026-09-17T07:16:40Z |  decode form's values into a struct. |
-| [robfig/bind](https://github.com/robfig/bind) | 32 | 6 | 2025-02-19T08:08:43Z |  Bind form data to any Go values. |
+| [robfig/bind](https://github.com/robfig/bind) | 32 | 5 | 2025-02-19T08:08:43Z |  Bind form data to any Go values. |
 | [bdjimmy/gbind](https://github.com/bdjimmy/gbind) | 10 | 1 | 2024-11-15T02:53:56Z |  Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation |
 | [tomwright/queryparam](https://github.com/tomwright/queryparam) | 19 | 5 | 2023-10-29T08:49:21Z |  Decode `url.Values` into usable struct values of standard or custom types. |
 

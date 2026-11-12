@@ -6,20 +6,20 @@ Embedding other languages inside your go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dunglas/frankenphp](https://github.com/dunglas/frankenphp) | 12k | 513 | 2026-11-11T02:54:06Z |  PHP embedded in Go, with a `net/http` handler. |
-| [antonmedv/expr](https://github.com/antonmedv/expr) | 8k | 535 | 2026-11-10T19:48:46Z |  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing. |
-| [dop251/goja](https://github.com/dop251/goja) | 7k | 510 | 2026-11-10T22:09:56Z |  ECMAScript 5.1(+) implementation in Go. |
+| [dunglas/frankenphp](https://github.com/dunglas/frankenphp) | 12k | 514 | 2026-11-12T02:50:30Z |  PHP embedded in Go, with a `net/http` handler. |
+| [antonmedv/expr](https://github.com/antonmedv/expr) | 8k | 534 | 2026-11-12T03:52:51Z |  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing. |
+| [dop251/goja](https://github.com/dop251/goja) | 7k | 513 | 2026-11-11T21:13:08Z |  ECMAScript 5.1(+) implementation in Go. |
 | [yuin/gopher-lua](https://github.com/yuin/gopher-lua) | 7k | 718 | 2026-11-10T18:37:59Z | . |
 | [yuin/gopher-lua](https://github.com/yuin/gopher-lua) | 7k | 718 | 2026-11-10T18:37:59Z |  Lua 5.1 VM and compiler written in Go. |
 | [d5/tengo](https://github.com/d5/tengo) | 4k | 344 | 2026-11-08T08:05:08Z |  Bytecode compiled script language for Go. |
 | [Shopify/go-lua](https://github.com/Shopify/go-lua) | 3k | 217 | 2026-11-10T15:48:40Z |  Port of the Lua 5.2 VM to pure Go. |
-| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-09T17:44:25Z | that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions. |
-| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-09T17:44:25Z |  Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution. |
-| [metacall/core](https://github.com/metacall/core) | 2k | 278 | 2026-11-09T20:07:10Z |  Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, WebAssembly, Java, Cobol and more. |
+| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-11T21:13:59Z | that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions. |
+| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-11T21:13:59Z |  Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution. |
+| [metacall/core](https://github.com/metacall/core) | 2k | 279 | 2026-11-11T22:24:28Z |  Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, WebAssembly, Java, Cobol and more. |
 | [wa-lang/wa](https://github.com/wa-lang/wa) | 2k | 65 | 2026-10-29T05:24:57Z |  The Wa Programming Language embedded in Go. |
 | [mattn/anko](https://github.com/mattn/anko) | 2k | 135 | 2026-11-10T11:23:48Z |  Scriptable interpreter written in Go. |
 | [deuill/go-php](https://github.com/deuill/go-php) | 941 | 106 | 2026-11-10T11:30:21Z |  PHP bindings for Go. |
-| [PaesslerAG/gval](https://github.com/PaesslerAG/gval) | 819 | 98 | 2026-11-10T11:33:14Z |  A highly customizable expression language written in Go. |
+| [PaesslerAG/gval](https://github.com/PaesslerAG/gval) | 820 | 98 | 2026-11-12T03:45:59Z |  A highly customizable expression language written in Go. |
 | [ichiban/prolog](https://github.com/ichiban/prolog) | 741 | 38 | 2026-11-10T11:35:28Z |  Embeddable Prolog. |
 | [aarzilli/golua](https://github.com/aarzilli/golua) | 702 | 167 | 2026-10-10T10:44:55Z |  Go bindings for Lua C API. |
 | [jcla1/gisp](https://github.com/jcla1/gisp) | 532 | 33 | 2026-10-29T05:01:28Z |  Simple LISP in Go. |
@@ -36,18 +36,18 @@ Embedding other languages inside your go code.
 |------------|-------|-------|--------------|-------------|
 | [yuin/gopher-lua](https://github.com/yuin/gopher-lua) | 7k | 718 | 2026-11-10T18:37:59Z | . |
 | [yuin/gopher-lua](https://github.com/yuin/gopher-lua) | 7k | 718 | 2026-11-10T18:37:59Z |  Lua 5.1 VM and compiler written in Go. |
-| [antonmedv/expr](https://github.com/antonmedv/expr) | 8k | 535 | 2026-11-10T19:48:46Z |  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing. |
-| [dunglas/frankenphp](https://github.com/dunglas/frankenphp) | 12k | 513 | 2026-11-11T02:54:06Z |  PHP embedded in Go, with a `net/http` handler. |
-| [dop251/goja](https://github.com/dop251/goja) | 7k | 510 | 2026-11-10T22:09:56Z |  ECMAScript 5.1(+) implementation in Go. |
+| [antonmedv/expr](https://github.com/antonmedv/expr) | 8k | 534 | 2026-11-12T03:52:51Z |  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing. |
+| [dunglas/frankenphp](https://github.com/dunglas/frankenphp) | 12k | 514 | 2026-11-12T02:50:30Z |  PHP embedded in Go, with a `net/http` handler. |
+| [dop251/goja](https://github.com/dop251/goja) | 7k | 513 | 2026-11-11T21:13:08Z |  ECMAScript 5.1(+) implementation in Go. |
 | [d5/tengo](https://github.com/d5/tengo) | 4k | 344 | 2026-11-08T08:05:08Z |  Bytecode compiled script language for Go. |
-| [metacall/core](https://github.com/metacall/core) | 2k | 278 | 2026-11-09T20:07:10Z |  Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, WebAssembly, Java, Cobol and more. |
-| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-09T17:44:25Z | that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions. |
-| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-09T17:44:25Z |  Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution. |
+| [metacall/core](https://github.com/metacall/core) | 2k | 279 | 2026-11-11T22:24:28Z |  Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, WebAssembly, Java, Cobol and more. |
+| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-11T21:13:59Z | that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions. |
+| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-11T21:13:59Z |  Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution. |
 | [Shopify/go-lua](https://github.com/Shopify/go-lua) | 3k | 217 | 2026-11-10T15:48:40Z |  Port of the Lua 5.2 VM to pure Go. |
 | [aarzilli/golua](https://github.com/aarzilli/golua) | 702 | 167 | 2026-10-10T10:44:55Z |  Go bindings for Lua C API. |
 | [mattn/anko](https://github.com/mattn/anko) | 2k | 135 | 2026-11-10T11:23:48Z |  Scriptable interpreter written in Go. |
 | [deuill/go-php](https://github.com/deuill/go-php) | 941 | 106 | 2026-11-10T11:30:21Z |  PHP bindings for Go. |
-| [PaesslerAG/gval](https://github.com/PaesslerAG/gval) | 819 | 98 | 2026-11-10T11:33:14Z |  A highly customizable expression language written in Go. |
+| [PaesslerAG/gval](https://github.com/PaesslerAG/gval) | 820 | 98 | 2026-11-12T03:45:59Z |  A highly customizable expression language written in Go. |
 | [wa-lang/wa](https://github.com/wa-lang/wa) | 2k | 65 | 2026-10-29T05:24:57Z |  The Wa Programming Language embedded in Go. |
 | [ichiban/prolog](https://github.com/ichiban/prolog) | 741 | 38 | 2026-11-10T11:35:28Z |  Embeddable Prolog. |
 | [jcla1/gisp](https://github.com/jcla1/gisp) | 532 | 33 | 2026-10-29T05:01:28Z |  Simple LISP in Go. |
@@ -62,19 +62,19 @@ Embedding other languages inside your go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [dunglas/frankenphp](https://github.com/dunglas/frankenphp) | 12k | 513 | 2026-11-11T02:54:06Z |  PHP embedded in Go, with a `net/http` handler. |
-| [dop251/goja](https://github.com/dop251/goja) | 7k | 510 | 2026-11-10T22:09:56Z |  ECMAScript 5.1(+) implementation in Go. |
-| [antonmedv/expr](https://github.com/antonmedv/expr) | 8k | 535 | 2026-11-10T19:48:46Z |  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing. |
+| [antonmedv/expr](https://github.com/antonmedv/expr) | 8k | 534 | 2026-11-12T03:52:51Z |  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing. |
+| [PaesslerAG/gval](https://github.com/PaesslerAG/gval) | 820 | 98 | 2026-11-12T03:45:59Z |  A highly customizable expression language written in Go. |
+| [dunglas/frankenphp](https://github.com/dunglas/frankenphp) | 12k | 514 | 2026-11-12T02:50:30Z |  PHP embedded in Go, with a `net/http` handler. |
+| [metacall/core](https://github.com/metacall/core) | 2k | 279 | 2026-11-11T22:24:28Z |  Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, WebAssembly, Java, Cobol and more. |
+| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-11T21:13:59Z | that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions. |
+| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-11T21:13:59Z |  Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution. |
+| [dop251/goja](https://github.com/dop251/goja) | 7k | 513 | 2026-11-11T21:13:08Z |  ECMAScript 5.1(+) implementation in Go. |
 | [yuin/gopher-lua](https://github.com/yuin/gopher-lua) | 7k | 718 | 2026-11-10T18:37:59Z | . |
 | [yuin/gopher-lua](https://github.com/yuin/gopher-lua) | 7k | 718 | 2026-11-10T18:37:59Z |  Lua 5.1 VM and compiler written in Go. |
 | [Shopify/go-lua](https://github.com/Shopify/go-lua) | 3k | 217 | 2026-11-10T15:48:40Z |  Port of the Lua 5.2 VM to pure Go. |
 | [ichiban/prolog](https://github.com/ichiban/prolog) | 741 | 38 | 2026-11-10T11:35:28Z |  Embeddable Prolog. |
-| [PaesslerAG/gval](https://github.com/PaesslerAG/gval) | 819 | 98 | 2026-11-10T11:33:14Z |  A highly customizable expression language written in Go. |
 | [deuill/go-php](https://github.com/deuill/go-php) | 941 | 106 | 2026-11-10T11:30:21Z |  PHP bindings for Go. |
 | [mattn/anko](https://github.com/mattn/anko) | 2k | 135 | 2026-11-10T11:23:48Z |  Scriptable interpreter written in Go. |
-| [metacall/core](https://github.com/metacall/core) | 2k | 278 | 2026-11-09T20:07:10Z |  Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, WebAssembly, Java, Cobol and more. |
-| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-09T17:44:25Z | that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions. |
-| [google/starlark-go](https://github.com/google/starlark-go) | 3k | 262 | 2026-11-09T17:44:25Z |  Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution. |
 | [d5/tengo](https://github.com/d5/tengo) | 4k | 344 | 2026-11-08T08:05:08Z |  Bytecode compiled script language for Go. |
 | [wa-lang/wa](https://github.com/wa-lang/wa) | 2k | 65 | 2026-10-29T05:24:57Z |  The Wa Programming Language embedded in Go. |
 | [jcla1/gisp](https://github.com/jcla1/gisp) | 532 | 33 | 2026-10-29T05:01:28Z |  Simple LISP in Go. |
