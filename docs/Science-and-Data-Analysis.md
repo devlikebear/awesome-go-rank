@@ -18,7 +18,7 @@ Libraries for scientific computing and data analyzing.
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 753 | 59 | 2026-11-10T11:35:07Z |  Library of basic graph algorithms. |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 746 | 76 | 2026-10-21T05:23:58Z |  Pure Go graph theory library(data structure, algorithm visualization). |
 | [bebop/poly](https://github.com/bebop/poly) | 738 | 73 | 2026-11-10T18:45:55Z |  A Go package for engineering organisms. |
-| [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 484 | 32 | 2026-11-03T09:01:16Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
+| [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 485 | 32 | 2026-11-12T07:00:21Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 447 | 37 | 2026-09-17T17:45:09Z |  Exponentially-weighted moving averages. |
 | [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 410 | 19 | 2026-09-30T13:20:57Z |  Calendar heatmap in plain Go inspired by Github contribution activity. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 254 | 38 | 2026-09-30T13:22:54Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
@@ -67,7 +67,7 @@ Libraries for scientific computing and data analyzing.
 | [yourbasic/graph](https://github.com/yourbasic/graph) | 753 | 59 | 2026-11-10T11:35:07Z |  Library of basic graph algorithms. |
 | [go-hep/hep](https://github.com/go-hep/hep) | 254 | 38 | 2026-09-30T13:22:54Z |  A set of libraries and tools for performing High Energy Physics analyses with ease. |
 | [VividCortex/ewma](https://github.com/VividCortex/ewma) | 447 | 37 | 2026-09-17T17:45:09Z |  Exponentially-weighted moving averages. |
-| [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 484 | 32 | 2026-11-03T09:01:16Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
+| [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 485 | 32 | 2026-11-12T07:00:21Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
 | [hmdsefi/gograph](https://github.com/hmdsefi/gograph) | 144 | 30 | 2026-11-10T14:20:51Z |  A golang generic graph library that provides mathematical graph-theory and algorithms. |
 | [DavidBelicza/TextRank](https://github.com/DavidBelicza/TextRank) | 224 | 25 | 2026-09-27T00:39:50Z |  TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support. |
 | [james-bowman/sparse](https://github.com/james-bowman/sparse) | 170 | 24 | 2026-10-03T16:02:57Z |  Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries. |
@@ -100,6 +100,7 @@ Libraries for scientific computing and data analyzing.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 485 | 32 | 2026-11-12T07:00:21Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
 | [paulmach/orb](https://github.com/paulmach/orb) | 1k | 132 | 2026-11-11T10:18:51Z |  2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support. |
 | [gonum/gonum](https://github.com/gonum/gonum) | 8k | 589 | 2026-11-11T07:22:36Z |  Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more. |
 | [gonum/plot](https://github.com/gonum/plot) | 3k | 202 | 2026-11-11T03:29:09Z |  gonum/plot provides an API for building and drawing plots in Go. |
@@ -114,7 +115,6 @@ Libraries for scientific computing and data analyzing.
 | [HazelnutParadise/insyra](https://github.com/HazelnutParadise/insyra) | 58 | 3 | 2026-11-04T13:57:09Z |  Data analysis library with statistics, visualization, Parquet support, and Python integration. |
 | [cpmech/gosl](https://github.com/cpmech/gosl) | 2k | 148 | 2026-11-04T06:26:45Z |  Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more. |
 | [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) | 80 | 4 | 2026-11-03T10:53:41Z |  Tool to manipulate JSONL graphs with graphviz support. |
-| [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) | 484 | 32 | 2026-11-03T09:01:16Z |  A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files. |
 | [vdobler/chart](https://github.com/vdobler/chart) | 774 | 107 | 2026-11-01T03:23:51Z |  Simple Chart Plotting library for Go. Supports many graphs types. |
 | [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1k | 99 | 2026-10-25T06:25:30Z |  Dataframes for machine-learning and statistics (similar to pandas). |
 | [gyuho/goraph](https://github.com/gyuho/goraph) | 746 | 76 | 2026-10-21T05:23:58Z |  Pure Go graph theory library(data structure, algorithm visualization). |

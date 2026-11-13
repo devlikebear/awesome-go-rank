@@ -6,7 +6,7 @@ Tools that generate Go code.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 9k | 1k | 2026-11-12T02:33:06Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 9k | 1k | 2026-11-12T22:41:15Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 227 | 2026-11-11T07:29:24Z |  .NET LINQ-like query methods for Go. |
 | [dave/jennifer](https://github.com/dave/jennifer) | 4k | 162 | 2026-11-10T11:18:57Z |  Generate arbitrary Go code without templates. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 1k | 95 | 2026-11-10T11:25:12Z |  Generate decorators for Go interfaces using simple templates. |
@@ -22,13 +22,13 @@ Tools that generate Go code.
 | [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 27 | 2 | 2026-10-20T18:11:15Z |  Generate HTTP server and client from protobuf. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
 | [nikolaydubina/go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) | 16 | 1 | 2026-11-03T11:06:45Z |  Code generation for enum encoding from code comments. |
-| [easyp-tech/protoc-gen-mcp](https://github.com/easyp-tech/protoc-gen-mcp) | 6 | 1 | 2026-10-16T07:16:45Z |  Generate typed MCP tools, prompts, and resources from Protocol Buffers. |
+| [easyp-tech/protoc-gen-mcp](https://github.com/easyp-tech/protoc-gen-mcp) | 6 | 1 | 2026-11-12T16:45:44Z |  Generate typed MCP tools, prompts, and resources from Protocol Buffers. |
 
 ### Ranked by Forks
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 9k | 1k | 2026-11-12T02:33:06Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 9k | 1k | 2026-11-12T22:41:15Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 227 | 2026-11-11T07:29:24Z |  .NET LINQ-like query methods for Go. |
 | [dave/jennifer](https://github.com/dave/jennifer) | 4k | 162 | 2026-11-10T11:18:57Z |  Generate arbitrary Go code without templates. |
 | [hexdigest/gowrap](https://github.com/hexdigest/gowrap) | 1k | 95 | 2026-11-10T11:25:12Z |  Generate decorators for Go interfaces using simple templates. |
@@ -44,13 +44,14 @@ Tools that generate Go code.
 | [senselogic/GENERIS](https://github.com/senselogic/GENERIS) | 47 | 1 | 2025-05-23T22:04:57Z |  Code generation tool providing generics, free-form macros, conditional compilation and HTML templating. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
 | [nikolaydubina/go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) | 16 | 1 | 2026-11-03T11:06:45Z |  Code generation for enum encoding from code comments. |
-| [easyp-tech/protoc-gen-mcp](https://github.com/easyp-tech/protoc-gen-mcp) | 6 | 1 | 2026-10-16T07:16:45Z |  Generate typed MCP tools, prompts, and resources from Protocol Buffers. |
+| [easyp-tech/protoc-gen-mcp](https://github.com/easyp-tech/protoc-gen-mcp) | 6 | 1 | 2026-11-12T16:45:44Z |  Generate typed MCP tools, prompts, and resources from Protocol Buffers. |
 
 ### Ranked by Last Updated
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 9k | 1k | 2026-11-12T02:33:06Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) | 9k | 1k | 2026-11-12T22:41:15Z |  This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions. |
+| [easyp-tech/protoc-gen-mcp](https://github.com/easyp-tech/protoc-gen-mcp) | 6 | 1 | 2026-11-12T16:45:44Z |  Generate typed MCP tools, prompts, and resources from Protocol Buffers. |
 | [ahmetalpbalkan/go-linq](https://github.com/ahmetalpbalkan/go-linq) | 4k | 227 | 2026-11-11T07:29:24Z |  .NET LINQ-like query methods for Go. |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | 407 | 22 | 2026-11-10T11:51:44Z |  Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default. |
 | [rjeczalik/interfaces](https://github.com/rjeczalik/interfaces) | 432 | 36 | 2026-11-10T11:49:38Z |  Command line tool for generating interface definitions. |
@@ -62,7 +63,6 @@ Tools that generate Go code.
 | [nikolaydubina/go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) | 16 | 1 | 2026-11-03T11:06:45Z |  Code generation for enum encoding from code comments. |
 | [ehabterra/apispec](https://github.com/ehabterra/apispec) | 98 | 7 | 2026-10-31T06:21:29Z |  Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph. |
 | [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) | 27 | 2 | 2026-10-20T18:11:15Z |  Generate HTTP server and client from protobuf. |
-| [easyp-tech/protoc-gen-mcp](https://github.com/easyp-tech/protoc-gen-mcp) | 6 | 1 | 2026-10-16T07:16:45Z |  Generate typed MCP tools, prompts, and resources from Protocol Buffers. |
 | [antst/go-apispec](https://github.com/antst/go-apispec) | 39 | 2 | 2026-09-16T08:57:57Z |  Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection. |
 | [reedom/convergen](https://github.com/reedom/convergen) | 51 | 9 | 2026-07-17T02:37:26Z |  Feature rich type-to-type copy code generator. |
 | [xiaoxin01/typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 2025-10-05T09:42:26Z |  A library to create type dynamically. |
