@@ -6,13 +6,13 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-13T08:45:05Z | and int64, including Weight and Length. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-13T08:45:05Z |  Arbitrary-precision fixed-point decimal numbers. |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 345 | 2026-11-13T09:22:25Z |  Terminal stock watcher and stock position tracker. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-14T16:00:35Z | and int64, including Weight and Length. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-14T16:00:35Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 345 | 2026-11-14T10:50:20Z |  Terminal stock watcher and stock position tracker. |
 | [cinar/indicator](https://github.com/cinar/indicator) | 2k | 285 | 2026-11-13T14:15:49Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 166 | 2026-11-12T13:28:48Z |  Implementation of Fowler's Money pattern. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 384 | 2026-11-12T10:09:02Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 226 | 2026-11-13T20:43:57Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 228 | 2026-11-14T16:25:36Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 910 | 75 | 2026-11-12T13:29:03Z |  money and currency formatting for golang. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 907 | 155 | 2026-11-12T14:38:46Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 644 | 58 | 2026-11-13T07:40:39Z |  Handles currency amounts, provides currency information and formatting. |
@@ -50,12 +50,12 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-13T08:45:05Z |  Arbitrary-precision fixed-point decimal numbers. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-13T08:45:05Z | and int64, including Weight and Length. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-14T16:00:35Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-14T16:00:35Z | and int64, including Weight and Length. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 384 | 2026-11-12T10:09:02Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 345 | 2026-11-13T09:22:25Z |  Terminal stock watcher and stock position tracker. |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 345 | 2026-11-14T10:50:20Z |  Terminal stock watcher and stock position tracker. |
 | [cinar/indicator](https://github.com/cinar/indicator) | 2k | 285 | 2026-11-13T14:15:49Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 226 | 2026-11-13T20:43:57Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 228 | 2026-11-14T16:25:36Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 574 | 219 | 2026-11-11T01:53:17Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 166 | 2026-11-12T13:28:48Z |  Implementation of Fowler's Money pattern. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 558 | 166 | 2026-11-10T11:42:02Z |  Matching Engine for Limit Order Book in Golang. |
@@ -94,11 +94,11 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 226 | 2026-11-13T20:43:57Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 228 | 2026-11-14T16:25:36Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-14T16:00:35Z | and int64, including Weight and Length. |
+| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-14T16:00:35Z |  Arbitrary-precision fixed-point decimal numbers. |
+| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 345 | 2026-11-14T10:50:20Z |  Terminal stock watcher and stock position tracker. |
 | [cinar/indicator](https://github.com/cinar/indicator) | 2k | 285 | 2026-11-13T14:15:49Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
-| [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 345 | 2026-11-13T09:22:25Z |  Terminal stock watcher and stock position tracker. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-13T08:45:05Z | and int64, including Weight and Length. |
-| [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 695 | 2026-11-13T08:45:05Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [bojanz/currency](https://github.com/bojanz/currency) | 644 | 58 | 2026-11-13T07:40:39Z |  Handles currency amounts, provides currency information and formatting. |
 | [sdcoffey/techan](https://github.com/sdcoffey/techan) | 907 | 155 | 2026-11-12T14:38:46Z |  Technical analysis library with advanced market analysis and trading strategies. |
 | [leekchan/accounting](https://github.com/leekchan/accounting) | 910 | 75 | 2026-11-12T13:29:03Z |  money and currency formatting for golang. |
