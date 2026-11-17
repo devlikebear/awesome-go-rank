@@ -7,13 +7,14 @@ Libraries for working with forms.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 131 | 2026-11-10T21:35:08Z |  CSRF protection middleware for Go. |
-| [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 179 | 2026-11-11T01:21:33Z |  CSRF protection for Go web applications & services. |
+| [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 179 | 2026-11-16T18:48:36Z |  CSRF protection for Go web applications & services. |
 | [go-playground/form](https://github.com/go-playground/form) | 934 | 54 | 2026-11-08T12:34:44Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 391 | 28 | 2026-11-05T01:19:51Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 324 | 38 | 2026-11-10T11:59:04Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
 | [monoculum/formam](https://github.com/monoculum/formam) | 191 | 19 | 2026-09-17T07:16:40Z |  decode form's values into a struct. |
 | [albrow/forms](https://github.com/albrow/forms) | 141 | 25 | 2026-09-24T09:45:46Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
 | [sonh/qs](https://github.com/sonh/qs) | 82 | 9 | 2026-10-10T17:18:13Z |  Go module for encoding structs into URL query parameters. |
+| [donseba/go-form](https://github.com/donseba/go-form) | 46 | 3 | 2026-11-01T20:21:56Z |  Render HTML forms from Go structs with struct tags, bind and validate submissions. |
 | [robfig/bind](https://github.com/robfig/bind) | 32 | 5 | 2025-02-19T08:08:43Z |  Bind form data to any Go values. |
 | [tomwright/queryparam](https://github.com/tomwright/queryparam) | 19 | 5 | 2023-10-29T08:49:21Z |  Decode `url.Values` into usable struct values of standard or custom types. |
 | [bdjimmy/gbind](https://github.com/bdjimmy/gbind) | 10 | 1 | 2024-11-15T02:53:56Z |  Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation |
@@ -23,7 +24,7 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 179 | 2026-11-11T01:21:33Z |  CSRF protection for Go web applications & services. |
+| [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 179 | 2026-11-16T18:48:36Z |  CSRF protection for Go web applications & services. |
 | [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 131 | 2026-11-10T21:35:08Z |  CSRF protection middleware for Go. |
 | [go-playground/form](https://github.com/go-playground/form) | 934 | 54 | 2026-11-08T12:34:44Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 324 | 38 | 2026-11-10T11:59:04Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
@@ -33,6 +34,7 @@ Libraries for working with forms.
 | [sonh/qs](https://github.com/sonh/qs) | 82 | 9 | 2026-10-10T17:18:13Z |  Go module for encoding structs into URL query parameters. |
 | [robfig/bind](https://github.com/robfig/bind) | 32 | 5 | 2025-02-19T08:08:43Z |  Bind form data to any Go values. |
 | [tomwright/queryparam](https://github.com/tomwright/queryparam) | 19 | 5 | 2023-10-29T08:49:21Z |  Decode `url.Values` into usable struct values of standard or custom types. |
+| [donseba/go-form](https://github.com/donseba/go-form) | 46 | 3 | 2026-11-01T20:21:56Z |  Render HTML forms from Go structs with struct tags, bind and validate submissions. |
 | [bdjimmy/gbind](https://github.com/bdjimmy/gbind) | 10 | 1 | 2024-11-15T02:53:56Z |  Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation |
 | [slipros/roamer](https://github.com/slipros/roamer) | 6 | 0 | 2026-09-17T12:21:20Z |  Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags. |
 
@@ -40,11 +42,12 @@ Libraries for working with forms.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 179 | 2026-11-11T01:21:33Z |  CSRF protection for Go web applications & services. |
+| [gorilla/csrf](https://github.com/gorilla/csrf) | 1k | 179 | 2026-11-16T18:48:36Z |  CSRF protection for Go web applications & services. |
 | [justinas/nosurf](https://github.com/justinas/nosurf) | 2k | 131 | 2026-11-10T21:35:08Z |  CSRF protection middleware for Go. |
 | [leebenson/conform](https://github.com/leebenson/conform) | 324 | 38 | 2026-11-10T11:59:04Z |  Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags. |
 | [go-playground/form](https://github.com/go-playground/form) | 934 | 54 | 2026-11-08T12:34:44Z |  Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. |
 | [ggicci/httpin](https://github.com/ggicci/httpin) | 391 | 28 | 2026-11-05T01:19:51Z |  Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc. |
+| [donseba/go-form](https://github.com/donseba/go-form) | 46 | 3 | 2026-11-01T20:21:56Z |  Render HTML forms from Go structs with struct tags, bind and validate submissions. |
 | [sonh/qs](https://github.com/sonh/qs) | 82 | 9 | 2026-10-10T17:18:13Z |  Go module for encoding structs into URL query parameters. |
 | [albrow/forms](https://github.com/albrow/forms) | 141 | 25 | 2026-09-24T09:45:46Z |  Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files. |
 | [slipros/roamer](https://github.com/slipros/roamer) | 6 | 0 | 2026-09-17T12:21:20Z |  Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags. |
