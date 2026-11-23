@@ -6,10 +6,10 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-11-21T15:33:48Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 20k | 2k | 2026-11-22T03:05:30Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
-| [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 434 | 2026-11-21T10:49:22Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
-| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 338 | 2026-11-21T06:59:03Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-11-22T06:01:48Z | . |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 20k | 2k | 2026-11-23T00:40:30Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 435 | 2026-11-21T10:49:22Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 338 | 2026-11-22T19:51:18Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 3k | 155 | 2026-11-20T12:56:14Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 146 | 2026-11-21T07:37:57Z |  source code linter that brings checks that are currently not implemented in other linters. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 176 | 2026-11-19T21:24:35Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
@@ -47,10 +47,10 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-11-21T15:33:48Z | . |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 20k | 2k | 2026-11-22T03:05:30Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
-| [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 434 | 2026-11-21T10:49:22Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
-| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 338 | 2026-11-21T06:59:03Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-11-22T06:01:48Z | . |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 20k | 2k | 2026-11-23T00:40:30Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 435 | 2026-11-21T10:49:22Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 338 | 2026-11-22T19:51:18Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) | 2k | 176 | 2026-11-19T21:24:35Z |  Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 3k | 155 | 2026-11-20T12:56:14Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 146 | 2026-11-21T07:37:57Z |  source code linter that brings checks that are currently not implemented in other linters. |
@@ -88,11 +88,11 @@ Source code analysis tools, also known as Static Application Security Testing (S
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 20k | 2k | 2026-11-22T03:05:30Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
-| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-11-21T15:33:48Z | . |
-| [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 434 | 2026-11-21T10:49:22Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | 20k | 2k | 2026-11-23T00:40:30Z | – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included. |
+| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 338 | 2026-11-22T19:51:18Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
+| [stretchr/testify](https://github.com/stretchr/testify) | 26k | 2k | 2026-11-22T06:01:48Z | . |
+| [dominikh/go-tools](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) | 7k | 435 | 2026-11-21T10:49:22Z |  staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#. |
 | [go-critic/go-critic](https://github.com/go-critic/go-critic) | 2k | 146 | 2026-11-21T07:37:57Z |  source code linter that brings checks that are currently not implemented in other linters. |
-| [mgechev/revive](https://github.com/mgechev/revive) | 6k | 338 | 2026-11-21T06:59:03Z | – ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`. |
 | [daveshanley/vacuum](https://github.com/daveshanley/vacuum) | 1k | 94 | 2026-11-21T04:56:26Z |  An ultra-super-fast, lightweight OpenAPI linter and quality checking tool. |
 | [Checkmarx/chainjacking](https://github.com/Checkmarx/chainjacking) | 65 | 15 | 2026-11-21T00:20:21Z |  Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack. |
 | [kisielk/errcheck](https://github.com/kisielk/errcheck) | 3k | 155 | 2026-11-20T12:56:14Z |  Errcheck is a program for checking for unchecked errors in Go programs. |
