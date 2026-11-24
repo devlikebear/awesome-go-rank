@@ -8,7 +8,7 @@ Libraries for working with UUIDs.
 |------------|-------|-------|--------------|-------------|
 | [google/uuid](https://github.com/google/uuid) | 6k | 445 | 2026-11-21T00:25:04Z |  Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. |
 | [oklog/ulid](https://github.com/oklog/ulid) | 5k | 195 | 2026-11-19T06:02:34Z |  Go implementation of ULID (Universally Unique Lexicographically Sortable Identifier). |
-| [rs/xid](https://github.com/rs/xid) | 4k | 219 | 2026-11-21T04:53:49Z |  Xid is a globally unique id generator library, ready to be safely used directly in your server code. |
+| [rs/xid](https://github.com/rs/xid) | 4k | 219 | 2026-11-24T02:45:20Z |  Xid is a globally unique id generator library, ready to be safely used directly in your server code. |
 | [gofrs/uuid](https://github.com/gofrs/uuid) | 2k | 133 | 2026-11-22T08:13:55Z |  Implementation of Universally Unique Identifier (UUID). Supports both creation and parsing of UUIDs. Actively maintained fork of satori uuid. |
 | [edwingeng/wuid](https://github.com/edwingeng/wuid) | 542 | 47 | 2026-11-05T01:16:57Z |  An extremely fast globally unique number generator. |
 | [muyo/sno](https://github.com/muyo/sno) | 93 | 5 | 2026-10-08T15:55:41Z |  Compact, sortable and fast unique IDs with embedded metadata. |
@@ -26,7 +26,7 @@ Libraries for working with UUIDs.
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
 | [google/uuid](https://github.com/google/uuid) | 6k | 445 | 2026-11-21T00:25:04Z |  Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. |
-| [rs/xid](https://github.com/rs/xid) | 4k | 219 | 2026-11-21T04:53:49Z |  Xid is a globally unique id generator library, ready to be safely used directly in your server code. |
+| [rs/xid](https://github.com/rs/xid) | 4k | 219 | 2026-11-24T02:45:20Z |  Xid is a globally unique id generator library, ready to be safely used directly in your server code. |
 | [oklog/ulid](https://github.com/oklog/ulid) | 5k | 195 | 2026-11-19T06:02:34Z |  Go implementation of ULID (Universally Unique Lexicographically Sortable Identifier). |
 | [gofrs/uuid](https://github.com/gofrs/uuid) | 2k | 133 | 2026-11-22T08:13:55Z |  Implementation of Universally Unique Identifier (UUID). Supports both creation and parsing of UUIDs. Actively maintained fork of satori uuid. |
 | [edwingeng/wuid](https://github.com/edwingeng/wuid) | 542 | 47 | 2026-11-05T01:16:57Z |  An extremely fast globally unique number generator. |
@@ -44,8 +44,8 @@ Libraries for working with UUIDs.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [rs/xid](https://github.com/rs/xid) | 4k | 219 | 2026-11-24T02:45:20Z |  Xid is a globally unique id generator library, ready to be safely used directly in your server code. |
 | [gofrs/uuid](https://github.com/gofrs/uuid) | 2k | 133 | 2026-11-22T08:13:55Z |  Implementation of Universally Unique Identifier (UUID). Supports both creation and parsing of UUIDs. Actively maintained fork of satori uuid. |
-| [rs/xid](https://github.com/rs/xid) | 4k | 219 | 2026-11-21T04:53:49Z |  Xid is a globally unique id generator library, ready to be safely used directly in your server code. |
 | [google/uuid](https://github.com/google/uuid) | 6k | 445 | 2026-11-21T00:25:04Z |  Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. |
 | [sixafter/nanoid](https://github.com/sixafter/nanoid) | 37 | 5 | 2026-11-20T07:02:08Z |  Efficient, cryptographically secure generator for fast, concurrent NanoID and UUID creation. |
 | [oklog/ulid](https://github.com/oklog/ulid) | 5k | 195 | 2026-11-19T06:02:34Z |  Go implementation of ULID (Universally Unique Lexicographically Sortable Identifier). |
