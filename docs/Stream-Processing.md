@@ -9,7 +9,7 @@ Libraries and tools for stream processing and reactive programming.
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 173 | 2026-11-19T21:22:44Z |  Go stream processing library. |
 | [samber/ro](https://github.com/samber/ro) | 697 | 30 | 2026-11-16T14:43:44Z |  Reactive Programming: declarative and composable API for event-driven applications. |
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 193 | 57 | 2026-11-09T13:12:34Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
-| [mariomac/gostream](https://github.com/mariomac/gostream) | 174 | 11 | 2026-10-26T11:08:00Z |  Type-safe stream processing library inspired by the Java Streams API. |
+| [mariomac/gostream](https://github.com/mariomac/gostream) | 174 | 11 | 2026-11-24T21:18:38Z |  Type-safe stream processing library inspired by the Java Streams API. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 168 | 12 | 2026-11-17T02:35:50Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
 | [youthlin/stream](https://github.com/youthlin/stream) | 92 | 11 | 2026-07-16T01:06:51Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
 | [primetalk/goio](https://github.com/primetalk/goio) | 90 | 1 | 2026-11-05T01:20:28Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
@@ -25,7 +25,7 @@ Libraries and tools for stream processing and reactive programming.
 | [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) | 193 | 57 | 2026-11-09T13:12:34Z |  A lightweight toolkit for data source extraction, transformation, and loading (ETL). |
 | [samber/ro](https://github.com/samber/ro) | 697 | 30 | 2026-11-16T14:43:44Z |  Reactive Programming: declarative and composable API for event-driven applications. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 168 | 12 | 2026-11-17T02:35:50Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
-| [mariomac/gostream](https://github.com/mariomac/gostream) | 174 | 11 | 2026-10-26T11:08:00Z |  Type-safe stream processing library inspired by the Java Streams API. |
+| [mariomac/gostream](https://github.com/mariomac/gostream) | 174 | 11 | 2026-11-24T21:18:38Z |  Type-safe stream processing library inspired by the Java Streams API. |
 | [youthlin/stream](https://github.com/youthlin/stream) | 92 | 11 | 2026-07-16T01:06:51Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
 | [rulego/streamsql](https://github.com/rulego/streamsql) | 65 | 7 | 2026-11-09T08:01:16Z |  A lightweight streaming SQL engine for real-time data processing. |
 | [primetalk/goio](https://github.com/primetalk/goio) | 90 | 1 | 2026-11-05T01:20:28Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
@@ -36,6 +36,7 @@ Libraries and tools for stream processing and reactive programming.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [mariomac/gostream](https://github.com/mariomac/gostream) | 174 | 11 | 2026-11-24T21:18:38Z |  Type-safe stream processing library inspired by the Java Streams API. |
 | [reugn/go-streams](https://github.com/reugn/go-streams) | 2k | 173 | 2026-11-19T21:22:44Z |  Go stream processing library. |
 | [whitaker-io/machine](https://github.com/whitaker-io/machine) | 168 | 12 | 2026-11-17T02:35:50Z |  Go library for writing and generating stream workers with built in metrics and traceability. |
 | [samber/ro](https://github.com/samber/ro) | 697 | 30 | 2026-11-16T14:43:44Z |  Reactive Programming: declarative and composable API for event-driven applications. |
@@ -44,6 +45,5 @@ Libraries and tools for stream processing and reactive programming.
 | [rulego/streamsql](https://github.com/rulego/streamsql) | 65 | 7 | 2026-11-09T08:01:16Z |  A lightweight streaming SQL engine for real-time data processing. |
 | [naughtygopher/nibbler](https://github.com/naughtygopher/nibbler) | 17 | 1 | 2026-11-07T17:16:52Z |  A lightweight package for micro batch processing. |
 | [primetalk/goio](https://github.com/primetalk/goio) | 90 | 1 | 2026-11-05T01:20:28Z |  An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2. |
-| [mariomac/gostream](https://github.com/mariomac/gostream) | 174 | 11 | 2026-10-26T11:08:00Z |  Type-safe stream processing library inspired by the Java Streams API. |
 | [youthlin/stream](https://github.com/youthlin/stream) | 92 | 11 | 2026-07-16T01:06:51Z |  Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce... |
 
