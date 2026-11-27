@@ -11,7 +11,7 @@ Libraries for manipulating audio and music.
 | [gopxl/beep](https://github.com/gopxl/beep) | 604 | 32 | 2026-11-21T18:42:12Z |  A simple library for playback and audio manipulation. |
 | [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) | 465 | 49 | 2026-11-13T02:26:10Z |  Music theory models in Go. |
 | [DylanMeeus/GoAudio](https://github.com/DylanMeeus/GoAudio) | 440 | 39 | 2026-11-19T21:53:41Z |  Native Go Audio Processing Library. |
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 439 | 64 | 2026-11-24T23:48:38Z |  Mini audio library. |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 440 | 64 | 2026-11-26T13:15:18Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 369 | 62 | 2026-11-22T20:14:27Z |  ID3 decoding and encoding library for Go. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 366 | 56 | 2026-11-19T18:51:59Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
 | [Comcast/gaad](https://github.com/Comcast/gaad) | 136 | 21 | 2026-11-14T15:52:40Z |  Native Go AAC bitstream parser. |
@@ -33,7 +33,7 @@ Libraries for manipulating audio and music.
 |------------|-------|-------|--------------|-------------|
 | [hajimehoshi/oto](https://github.com/hajimehoshi/oto) | 2k | 173 | 2026-11-19T20:27:09Z |  A low-level library to play sound on multiple platforms. |
 | [gordonklaus/portaudio](https://github.com/gordonklaus/portaudio) | 845 | 109 | 2026-11-14T15:50:52Z |  Go bindings for the PortAudio audio I/O library. |
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 439 | 64 | 2026-11-24T23:48:38Z |  Mini audio library. |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 440 | 64 | 2026-11-26T13:15:18Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 369 | 62 | 2026-11-22T20:14:27Z |  ID3 decoding and encoding library for Go. |
 | [mewkiz/flac](https://github.com/mewkiz/flac) | 366 | 56 | 2026-11-19T18:51:59Z |  Native Go FLAC encoder/decoder with support for FLAC streams. |
 | [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) | 465 | 49 | 2026-11-13T02:26:10Z |  Music theory models in Go. |
@@ -56,7 +56,7 @@ Libraries for manipulating audio and music.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 439 | 64 | 2026-11-24T23:48:38Z |  Mini audio library. |
+| [gen2brain/malgo](https://github.com/gen2brain/malgo) | 440 | 64 | 2026-11-26T13:15:18Z |  Mini audio library. |
 | [bogem/id3v2](https://github.com/bogem/id3v2) | 369 | 62 | 2026-11-22T20:14:27Z |  ID3 decoding and encoding library for Go. |
 | [tphakala/go-wav](https://github.com/tphakala/go-wav) | 5 | 2 | 2026-11-21T22:09:12Z |  Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB. |
 | [tphakala/go-flac](https://github.com/tphakala/go-flac) | 5 | 3 | 2026-11-21T22:08:27Z |  Native Go FLAC encoder and decoder with SIMD acceleration. |
