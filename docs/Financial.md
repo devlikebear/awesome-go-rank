@@ -9,7 +9,7 @@ Packages for accounting and finance.
 | [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 698 | 2026-11-27T03:02:51Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 698 | 2026-11-27T03:02:51Z | and int64, including Weight and Length. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 346 | 2026-11-27T03:57:41Z |  Terminal stock watcher and stock position tracker. |
-| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 289 | 2026-11-26T23:55:54Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
+| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 289 | 2026-11-27T20:47:21Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 165 | 2026-11-24T13:12:31Z |  Implementation of Fowler's Money pattern. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 385 | 2026-11-24T10:15:26Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 230 | 2026-11-26T21:15:52Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
@@ -56,7 +56,7 @@ Packages for accounting and finance.
 | [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 698 | 2026-11-27T03:02:51Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [c9s/bbgo](https://github.com/c9s/bbgo) | 2k | 385 | 2026-11-24T10:15:26Z |  A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 346 | 2026-11-27T03:57:41Z |  Terminal stock watcher and stock position tracker. |
-| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 289 | 2026-11-26T23:55:54Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
+| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 289 | 2026-11-27T20:47:21Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
 | [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 230 | 2026-11-26T21:15:52Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [moov-io/ach](https://github.com/moov-io/ach) | 573 | 222 | 2026-11-22T15:36:55Z |  A reader, writer, and validator for Automated Clearing House (ACH) files. |
 | [i25959341/orderbook](https://github.com/i25959341/orderbook) | 557 | 166 | 2026-11-19T20:55:23Z |  Matching Engine for Limit Order Book in Golang. |
@@ -98,10 +98,10 @@ Packages for accounting and finance.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
+| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 289 | 2026-11-27T20:47:21Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
 | [achannarasappa/ticker](https://github.com/achannarasappa/ticker) | 6k | 346 | 2026-11-27T03:57:41Z |  Terminal stock watcher and stock position tracker. |
 | [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 698 | 2026-11-27T03:02:51Z |  Arbitrary-precision fixed-point decimal numbers. |
 | [shopspring/decimal](https://github.com/shopspring/decimal) | 8k | 698 | 2026-11-27T03:02:51Z | and int64, including Weight and Length. |
-| [cinar/indicator](https://github.com/cinar/indicator) | 2k | 289 | 2026-11-26T23:55:54Z |  Technical analysis library providing financial indicators, strategies, and backtesting framework. |
 | [formancehq/ledger](https://github.com/formancehq/ledger) | 1k | 230 | 2026-11-26T21:15:52Z |  A programmable financial ledger that provides a foundation for money-moving applications. |
 | [tigusigalpa/bingx-go](https://github.com/tigusigalpa/bingx-go) | 42 | 2 | 2026-11-25T19:12:39Z |  Go client for BingX API v3 with 260+ methods, USDT-M/Coin-M futures, spot, TradFi, WebSocket streams, and copy trading. |
 | [rhymond/go-money](https://github.com/rhymond/go-money) | 2k | 165 | 2026-11-24T13:12:31Z |  Implementation of Fowler's Money pattern. |

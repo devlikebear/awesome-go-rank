@@ -6,22 +6,22 @@ Libraries for building programs that leverage AI.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 188k | 19k | 2026-11-27T05:31:27Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 51k | 5k | 2026-11-27T05:28:04Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 10k | 1k | 2026-11-27T01:47:29Z |  LangChainGo is a framework for developing applications powered by language models. |
-| [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | 9k | 962 | 2026-11-27T00:56:21Z |  Go implementation of the Model Context Protocol for building MCP servers and clients in Go. |
-| [firebase/genkit](https://github.com/firebase/genkit) | 7k | 894 | 2026-11-26T18:28:30Z |  Framework created by Google for building AI-powered and agentic applications in idiomatic Go. |
-| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 2k | 339 | 2026-11-26T02:35:28Z |  Framework for building LLM-based multi-agent systems. |
-| [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) | 1k | 137 | 2026-11-27T01:14:00Z |  AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 188k | 19k | 2026-11-28T05:10:30Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 51k | 5k | 2026-11-28T04:46:29Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 10k | 1k | 2026-11-28T02:28:20Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | 9k | 962 | 2026-11-28T00:01:18Z |  Go implementation of the Model Context Protocol for building MCP servers and clients in Go. |
+| [firebase/genkit](https://github.com/firebase/genkit) | 7k | 896 | 2026-11-28T05:08:53Z |  Framework created by Google for building AI-powered and agentic applications in idiomatic Go. |
+| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 2k | 339 | 2026-11-27T15:13:40Z |  Framework for building LLM-based multi-agent systems. |
+| [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) | 1k | 138 | 2026-11-27T13:10:05Z |  AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails. |
 | [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 1k | 80 | 2026-11-21T21:32:34Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
 | [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) | 489 | 41 | 2026-11-25T18:55:57Z |  Local persistent memory layer and MCP server for AI agents with hybrid search, knowledge graph, and TUI. |
-| [edouard-claude/snip](https://github.com/edouard-claude/snip) | 486 | 50 | 2026-11-26T06:53:02Z |  CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go. |
+| [edouard-claude/snip](https://github.com/edouard-claude/snip) | 487 | 50 | 2026-11-27T15:29:44Z |  CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go. |
 | [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) | 312 | 50 | 2026-11-22T09:34:08Z |  A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures. |
-| [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) | 302 | 40 | 2026-11-27T01:17:54Z |  OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability. |
-| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 241 | 46 | 2026-11-19T09:04:09Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
+| [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) | 301 | 39 | 2026-11-27T11:45:48Z |  OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability. |
+| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 241 | 47 | 2026-11-19T09:04:09Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
 | [cynative/cynative](https://github.com/cynative/cynative) | 236 | 31 | 2026-11-26T22:48:04Z |  Framework for building security engineering AI agents in Go. Read-only by construction, built-in sandbox, 45 agent blueprints for AWS, GCP, Azure, K8s, GitHub & GitLab deep research. |
 | [baalimago/clai](https://github.com/baalimago/clai) | 153 | 13 | 2026-11-12T07:53:02Z |  Agentic harness focused on terminal workflows, following UNIX principles. No external dependencies, ideal for scripting/prototyping agentic apps, engine is also exposed as a package. |
-| [gojargo/jargo](https://github.com/gojargo/jargo) | 115 | 11 | 2026-11-26T03:16:15Z |  Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline. |
+| [gojargo/jargo](https://github.com/gojargo/jargo) | 116 | 11 | 2026-11-27T22:03:57Z |  Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 103 | 3 | 2026-08-19T05:52:32Z |  Manage, load-balance, and failover packs of Ollamas. |
 | [mochow13/keen-code](https://github.com/mochow13/keen-code) | 94 | 13 | 2026-11-24T12:42:46Z |  A context-efficient terminal-based AI coding agent. Provider agnostic, supports MCPs, Agent Skills, Subagents, and more. Comes with a simple and straightforward TUI. |
 | [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) | 79 | 17 | 2026-11-16T09:14:48Z |  MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline. |
@@ -32,7 +32,7 @@ Libraries for building programs that leverage AI.
 | [oluwajubelo1/otellix](https://github.com/oluwajubelo1/otellix) | 56 | 28 | 2026-11-13T14:42:40Z |  OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments. |
 | [hrygo/hotplex](https://github.com/hrygo/hotplex) | 53 | 18 | 2026-11-04T21:43:13Z |  AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. |
 | [joakimcarlsson/ai](https://github.com/joakimcarlsson/ai) | 51 | 10 | 2026-11-22T20:30:12Z |  A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration. |
-| [tevfik/gleann](https://github.com/tevfik/gleann) | 47 | 4 | 2026-11-21T06:34:43Z |  Local vector search engine, codebase intelligence graph, and persistent memory with MCP support. |
+| [tevfik/gleann](https://github.com/tevfik/gleann) | 48 | 4 | 2026-11-27T09:13:49Z |  Local vector search engine, codebase intelligence graph, and persistent memory with MCP support. |
 | [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 42 | 13 | 2026-11-22T12:12:49Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
 | [olgasafonova/miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server) | 33 | 12 | 2026-11-17T01:28:33Z |  MCP server that lets AI assistants read and edit Miro boards, including sticky notes, shapes, connectors, frames, and mind maps. |
 | [tphakala/agy-mcp](https://github.com/tphakala/agy-mcp) | 29 | 6 | 2026-11-25T00:18:38Z |  Model Context Protocol (MCP) server wrapping the Antigravity CLI to run prompts and peer reviews. |
@@ -53,19 +53,19 @@ Libraries for building programs that leverage AI.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 188k | 19k | 2026-11-27T05:31:27Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 51k | 5k | 2026-11-27T05:28:04Z |  Open Source OpenAI alternative, self-host AI models. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 10k | 1k | 2026-11-27T01:47:29Z |  LangChainGo is a framework for developing applications powered by language models. |
-| [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | 9k | 962 | 2026-11-27T00:56:21Z |  Go implementation of the Model Context Protocol for building MCP servers and clients in Go. |
-| [firebase/genkit](https://github.com/firebase/genkit) | 7k | 894 | 2026-11-26T18:28:30Z |  Framework created by Google for building AI-powered and agentic applications in idiomatic Go. |
-| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 2k | 339 | 2026-11-26T02:35:28Z |  Framework for building LLM-based multi-agent systems. |
-| [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) | 1k | 137 | 2026-11-27T01:14:00Z |  AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 188k | 19k | 2026-11-28T05:10:30Z |  Run large language models locally. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 51k | 5k | 2026-11-28T04:46:29Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 10k | 1k | 2026-11-28T02:28:20Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | 9k | 962 | 2026-11-28T00:01:18Z |  Go implementation of the Model Context Protocol for building MCP servers and clients in Go. |
+| [firebase/genkit](https://github.com/firebase/genkit) | 7k | 896 | 2026-11-28T05:08:53Z |  Framework created by Google for building AI-powered and agentic applications in idiomatic Go. |
+| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 2k | 339 | 2026-11-27T15:13:40Z |  Framework for building LLM-based multi-agent systems. |
+| [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) | 1k | 138 | 2026-11-27T13:10:05Z |  AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails. |
 | [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 1k | 80 | 2026-11-21T21:32:34Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
 | [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) | 312 | 50 | 2026-11-22T09:34:08Z |  A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures. |
-| [edouard-claude/snip](https://github.com/edouard-claude/snip) | 486 | 50 | 2026-11-26T06:53:02Z |  CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go. |
-| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 241 | 46 | 2026-11-19T09:04:09Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
+| [edouard-claude/snip](https://github.com/edouard-claude/snip) | 487 | 50 | 2026-11-27T15:29:44Z |  CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go. |
+| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 241 | 47 | 2026-11-19T09:04:09Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
 | [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) | 489 | 41 | 2026-11-25T18:55:57Z |  Local persistent memory layer and MCP server for AI agents with hybrid search, knowledge graph, and TUI. |
-| [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) | 302 | 40 | 2026-11-27T01:17:54Z |  OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability. |
+| [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) | 301 | 39 | 2026-11-27T11:45:48Z |  OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability. |
 | [cynative/cynative](https://github.com/cynative/cynative) | 236 | 31 | 2026-11-26T22:48:04Z |  Framework for building security engineering AI agents in Go. Read-only by construction, built-in sandbox, 45 agent blueprints for AWS, GCP, Azure, K8s, GitHub & GitLab deep research. |
 | [oluwajubelo1/otellix](https://github.com/oluwajubelo1/otellix) | 56 | 28 | 2026-11-13T14:42:40Z |  OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments. |
 | [hrygo/hotplex](https://github.com/hrygo/hotplex) | 53 | 18 | 2026-11-04T21:43:13Z |  AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox. |
@@ -74,7 +74,7 @@ Libraries for building programs that leverage AI.
 | [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 42 | 13 | 2026-11-22T12:12:49Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
 | [baalimago/clai](https://github.com/baalimago/clai) | 153 | 13 | 2026-11-12T07:53:02Z |  Agentic harness focused on terminal workflows, following UNIX principles. No external dependencies, ideal for scripting/prototyping agentic apps, engine is also exposed as a package. |
 | [olgasafonova/miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server) | 33 | 12 | 2026-11-17T01:28:33Z |  MCP server that lets AI assistants read and edit Miro boards, including sticky notes, shapes, connectors, frames, and mind maps. |
-| [gojargo/jargo](https://github.com/gojargo/jargo) | 115 | 11 | 2026-11-26T03:16:15Z |  Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline. |
+| [gojargo/jargo](https://github.com/gojargo/jargo) | 116 | 11 | 2026-11-27T22:03:57Z |  Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline. |
 | [joakimcarlsson/ai](https://github.com/joakimcarlsson/ai) | 51 | 10 | 2026-11-22T20:30:12Z |  A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration. |
 | [agenticenv/agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) | 68 | 9 | 2026-11-20T14:12:49Z |  Framework for building stateful AI agents in Go. |
 | [lancekrogers/claude-code-go](https://github.com/lancekrogers/claude-code-go) | 59 | 8 | 2026-11-27T04:12:49Z |  Go library for driving the Claude Code CLI non-interactive prompt surface from Go programs. |
@@ -83,7 +83,7 @@ Libraries for building programs that leverage AI.
 | [KafClaw/KafClaw](https://github.com/KafClaw/KafClaw) | 21 | 7 | 2026-11-10T14:30:23Z |  Agent runtime that connects AI agents through Kafka topics, with groups, an orchestrator, shared memory and skill routing. |
 | [tphakala/agy-mcp](https://github.com/tphakala/agy-mcp) | 29 | 6 | 2026-11-25T00:18:38Z |  Model Context Protocol (MCP) server wrapping the Antigravity CLI to run prompts and peer reviews. |
 | [Ad3bay0c/routex](https://github.com/Ad3bay0c/routex) | 25 | 5 | 2026-10-11T11:46:33Z |  YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI. |
-| [tevfik/gleann](https://github.com/tevfik/gleann) | 47 | 4 | 2026-11-21T06:34:43Z |  Local vector search engine, codebase intelligence graph, and persistent memory with MCP support. |
+| [tevfik/gleann](https://github.com/tevfik/gleann) | 48 | 4 | 2026-11-27T09:13:49Z |  Local vector search engine, codebase intelligence graph, and persistent memory with MCP support. |
 | [presbrey/ollamafarm](https://github.com/presbrey/ollamafarm) | 103 | 3 | 2026-08-19T05:52:32Z |  Manage, load-balance, and failover packs of Ollamas. |
 | [pmenglund/codex-sdk-go](https://github.com/pmenglund/codex-sdk-go) | 25 | 3 | 2026-11-13T22:00:23Z |  Go SDK for the OpenAI Codex app-server with streaming, approval callbacks, and structured output. |
 | [Colin4k1024/Aetheris](https://github.com/Colin4k1024/Aetheris) | 23 | 2 | 2026-10-23T07:03:12Z |  AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go. |
@@ -100,19 +100,20 @@ Libraries for building programs that leverage AI.
 
 | Repository | Stars | Forks | Last Updated | Description | 
 |------------|-------|-------|--------------|-------------|
-| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 188k | 19k | 2026-11-27T05:31:27Z |  Run large language models locally. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 51k | 5k | 2026-11-27T05:28:04Z |  Open Source OpenAI alternative, self-host AI models. |
+| [jmorganca/ollama](https://github.com/jmorganca/ollama) | 188k | 19k | 2026-11-28T05:10:30Z |  Run large language models locally. |
+| [firebase/genkit](https://github.com/firebase/genkit) | 7k | 896 | 2026-11-28T05:08:53Z |  Framework created by Google for building AI-powered and agentic applications in idiomatic Go. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 51k | 5k | 2026-11-28T04:46:29Z |  Open Source OpenAI alternative, self-host AI models. |
+| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 10k | 1k | 2026-11-28T02:28:20Z |  LangChainGo is a framework for developing applications powered by language models. |
+| [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | 9k | 962 | 2026-11-28T00:01:18Z |  Go implementation of the Model Context Protocol for building MCP servers and clients in Go. |
+| [gojargo/jargo](https://github.com/gojargo/jargo) | 116 | 11 | 2026-11-27T22:03:57Z |  Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline. |
+| [edouard-claude/snip](https://github.com/edouard-claude/snip) | 487 | 50 | 2026-11-27T15:29:44Z |  CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go. |
+| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 2k | 339 | 2026-11-27T15:13:40Z |  Framework for building LLM-based multi-agent systems. |
+| [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) | 1k | 138 | 2026-11-27T13:10:05Z |  AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails. |
+| [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) | 301 | 39 | 2026-11-27T11:45:48Z |  OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability. |
+| [tevfik/gleann](https://github.com/tevfik/gleann) | 48 | 4 | 2026-11-27T09:13:49Z |  Local vector search engine, codebase intelligence graph, and persistent memory with MCP support. |
 | [lancekrogers/claude-code-go](https://github.com/lancekrogers/claude-code-go) | 59 | 8 | 2026-11-27T04:12:49Z |  Go library for driving the Claude Code CLI non-interactive prompt surface from Go programs. |
-| [tmc/langchaingo](https://github.com/tmc/langchaingo) | 10k | 1k | 2026-11-27T01:47:29Z |  LangChainGo is a framework for developing applications powered by language models. |
-| [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) | 302 | 40 | 2026-11-27T01:17:54Z |  OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability. |
-| [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) | 1k | 137 | 2026-11-27T01:14:00Z |  AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails. |
-| [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | 9k | 962 | 2026-11-27T00:56:21Z |  Go implementation of the Model Context Protocol for building MCP servers and clients in Go. |
 | [thousandflowers/skillreaper](https://github.com/thousandflowers/skillreaper) | 69 | 8 | 2026-11-26T22:49:48Z |  CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw. |
 | [cynative/cynative](https://github.com/cynative/cynative) | 236 | 31 | 2026-11-26T22:48:04Z |  Framework for building security engineering AI agents in Go. Read-only by construction, built-in sandbox, 45 agent blueprints for AWS, GCP, Azure, K8s, GitHub & GitLab deep research. |
-| [firebase/genkit](https://github.com/firebase/genkit) | 7k | 894 | 2026-11-26T18:28:30Z |  Framework created by Google for building AI-powered and agentic applications in idiomatic Go. |
-| [edouard-claude/snip](https://github.com/edouard-claude/snip) | 486 | 50 | 2026-11-26T06:53:02Z |  CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go. |
-| [gojargo/jargo](https://github.com/gojargo/jargo) | 115 | 11 | 2026-11-26T03:16:15Z |  Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline. |
-| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | 2k | 339 | 2026-11-26T02:35:28Z |  Framework for building LLM-based multi-agent systems. |
 | [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) | 489 | 41 | 2026-11-25T18:55:57Z |  Local persistent memory layer and MCP server for AI agents with hybrid search, knowledge graph, and TUI. |
 | [tphakala/agy-mcp](https://github.com/tphakala/agy-mcp) | 29 | 6 | 2026-11-25T00:18:38Z |  Model Context Protocol (MCP) server wrapping the Antigravity CLI to run prompts and peer reviews. |
 | [mochow13/keen-code](https://github.com/mochow13/keen-code) | 94 | 13 | 2026-11-24T12:42:46Z |  A context-efficient terminal-based AI coding agent. Provider agnostic, supports MCPs, Agent Skills, Subagents, and more. Comes with a simple and straightforward TUI. |
@@ -120,9 +121,8 @@ Libraries for building programs that leverage AI.
 | [saivedant169/AegisFlow](https://github.com/saivedant169/AegisFlow) | 42 | 13 | 2026-11-22T12:12:49Z |  AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard. |
 | [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) | 312 | 50 | 2026-11-22T09:34:08Z |  A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures. |
 | [philippgille/chromem-go](https://github.com/philippgille/chromem-go) | 1k | 80 | 2026-11-21T21:32:34Z |  Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. |
-| [tevfik/gleann](https://github.com/tevfik/gleann) | 47 | 4 | 2026-11-21T06:34:43Z |  Local vector search engine, codebase intelligence graph, and persistent memory with MCP support. |
 | [agenticenv/agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) | 68 | 9 | 2026-11-20T14:12:49Z |  Framework for building stateful AI agents in Go. |
-| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 241 | 46 | 2026-11-19T09:04:09Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
+| [zendev-sh/goai](https://github.com/zendev-sh/goai) | 241 | 47 | 2026-11-19T09:04:09Z |  Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK. |
 | [olgasafonova/miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server) | 33 | 12 | 2026-11-17T01:28:33Z |  MCP server that lets AI assistants read and edit Miro boards, including sticky notes, shapes, connectors, frames, and mind maps. |
 | [abubakarsiddik31/golem](https://github.com/abubakarsiddik31/golem) | 9 | 0 | 2026-11-16T16:50:02Z |  Framework for building dependable AI agents with typed dependencies, zero external dependencies, and native MCP support. |
 | [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) | 79 | 17 | 2026-11-16T09:14:48Z |  MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline. |
